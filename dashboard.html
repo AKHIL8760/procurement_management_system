@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5f7fb" />
+    <title>Procurement workspace</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="./dashboard.js" defer></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <a class="brand" href="#overview" aria-label="Procurement home">
+          <span class="brand-mark">P</span>
+          <span>Procure<span class="brand-light">Flow</span></span>
+        </a>
+        <div class="workspace-label">WORKSPACE</div>
+        <nav class="main-nav" aria-label="Main navigation">
+          <button class="nav-link active" data-view="overview"><span>◫</span> Overview</button>
+          <button class="nav-link" data-view="requests"><span>▤</span> Requests <b id="pending-nav-count"></b></button>
+          <button class="nav-link" data-view="sourcing"><span>⇄</span> Sourcing</button>
+          <button class="nav-link" data-view="orders"><span>▣</span> Orders & delivery</button>
+          <button class="nav-link" data-view="activity"><span>◷</span> Audit trail</button>
+        </nav>
+        <div class="sidebar-bottom">
+          <div class="local-badge" id="workspace-badge"><span></span> Local workspace</div>
+          <p id="workspace-note">Changes are saved to your local SQLite database.</p>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">PROCUREMENT OPERATIONS</p>
+            <h1 id="page-title">Overview</h1>
+          </div>
+          <div class="topbar-actions">
+            <span class="seed-tag" id="seed-tag">Loading workspace…</span>
+            <button class="button button-secondary" id="refresh-button" type="button">Refresh</button>
+          </div>
+        </header>
+
+        <div id="app-message" class="app-message" role="status" hidden></div>
+        <div id="app-error" class="app-error" role="alert" hidden></div>
+
+        <section class="view active" id="view-overview">
+          <div class="welcome-row">
+            <div>
+              <h2>Good work starts with a clear process.</h2>
+              <p>Track spend, make decisions, and keep every purchase moving.</p>
+            </div>
+            <button class="button button-primary write-only" type="button" data-open-view="requests">＋ New request</button>
+          </div>
+          <div class="stat-grid" id="summary-cards"></div>
+          <div class="content-grid">
+            <article class="panel">
+              <div class="panel-heading">
+                <div><p class="eyebrow">AT A GLANCE</p><h2>Workflow snapshot</h2></div>
+                <span class="live-indicator">Live data</span>
+              </div>
+              <div id="workflow-snapshot" class="workflow-snapshot"></div>
+              <div class="budget-overview">
+                <div class="budget-copy"><span>Budget committed</span><strong id="budget-value">—</strong></div>
+                <div class="progress-track"><div id="budget-progress" class="progress-value"></div></div>
+                <p id="budget-caption" class="muted small"></p>
+              </div>
+            </article>
+            <article class="panel">
+              <div class="panel-heading">
+                <div><p class="eyebrow">NEEDS ATTENTION</p><h2>Pending approvals</h2></div>
+                <button class="text-button" type="button" data-open-view="requests">View requests →</button>
+              </div>
+              <div id="pending-list" class="compact-list"></div>
+            </article>
+          </div>
+          <article class="panel panel-spaced">
+            <div class="panel-heading">
+              <div><p class="eyebrow">RECENT ACTIVITY</p><h2>Latest updates</h2></div>
+              <button class="text-button" type="button" data-open-view="activity">Full audit trail →</button>
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Activity</th><th>Record</th><th>When</th><th>Details</th></tr></thead>
+                <tbody id="recent-events"></tbody>
+              </table>
+            </div>
+          </article>
+        </section>
+
+        <section class="view" id="view-requests">
+          <div class="view-intro">
+            <p class="eyebrow">REQUEST INTAKE & APPROVALS</p>
+            <h2>Purchase requests</h2>
+            <p>Create requests, review threshold-based approvals, and send approved requests to sourcing.</p>
+          </div>
+          <div class="content-grid request-layout">
+            <article class="panel write-only">
+              <div class="panel-heading"><div><p class="eyebrow">START A PURCHASE</p><h2>New request</h2></div></div>
+              <form id="request-form" class="form-grid">
+                <label>Requester<select name="requester_id" id="requester-select" required></select></label>
+                <label>Department<select name="department_id" id="department-select" required></select></label>
+                <label class="span-2">Item or service<input name="description" maxlength="160" placeholder="e.g. Laptop for a new team member" required /></label>
+                <label>Category<select name="category" id="category-select" required></select></label>
+                <label>Quantity<input name="quantity" type="number" min="1" step="1" value="1" required /></label>
+                <label>Estimated unit cost<input name="estimated_unit_cost" type="number" min="0.01" step="0.01" placeholder="0.00" required /></label>
+                <label>Required by<input name="required_by" id="required-by" type="date" required /></label>
+                <label>Budget<select name="budget_id" id="budget-select" required></select></label>
+                <label class="span-2">Business justification<textarea name="business_justification" rows="3" maxlength="500" placeholder="What is this purchase for?" required></textarea></label>
+                <div class="span-2 form-footer"><span class="muted small">Under $5,000 is automatic; higher requests go to an approver.</span><button class="button button-primary" type="submit">Submit request</button></div>
+              </form>
+            </article>
+            <article class="panel">
+              <div class="panel-heading"><div><p class="eyebrow">HOW APPROVALS WORK</p><h2>Decision guide</h2></div></div>
+              <div class="rule-list">
+                <div><span class="rule-icon rule-green">✓</span><p><strong>Under $5,000</strong><br /><span>Automatically approved</span></p></div>
+                <div><span class="rule-icon rule-blue">M</span><p><strong>$5,000–$25,000</strong><br /><span>Department manager approval</span></p></div>
+                <div><span class="rule-icon rule-violet">D</span><p><strong>Over $25,000</strong><br /><span>Director approval</span></p></div>
+              </div>
+              <div class="note-box">The app prevents RFQs from being created until a request has the required approval.</div>
+            </article>
+          </div>
+          <article class="panel panel-spaced">
+            <div class="panel-heading">
+              <div><p class="eyebrow">REQUEST REGISTER</p><h2>All requests</h2></div>
+              <input id="request-search" class="search-input" type="search" placeholder="Search request or item…" />
+            </div>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Request</th><th>Item</th><th>Requester</th><th>Department</th><th>Amount</th><th>Status</th><th>Next step</th></tr></thead>
+                <tbody id="requests-table"></tbody>
+              </table>
+            </div>
+            <div class="request-pagination">
+              <span id="request-page-info" class="muted small"></span>
+              <div>
+                <button class="button button-small button-secondary" id="request-previous" type="button">Previous</button>
+                <button class="button button-small button-secondary" id="request-next" type="button">Next</button>
+              </div>
+            </div>
+          </article>
+        </section>
+
+        <section class="view" id="view-sourcing">
+          <div class="view-intro">
+            <p class="eyebrow">COMPETITIVE PURCHASING</p>
+            <h2>Supplier sourcing</h2>
+            <p>Issue an RFQ, capture supplier offers, compare landed cost and lead time, then award with a clear reason.</p>
+          </div>
+          <article class="panel write-only">
+            <div class="panel-heading"><div><p class="eyebrow">CREATE AN RFQ</p><h2>Invite suppliers to quote</h2></div></div>
+            <form id="rfq-form" class="form-grid sourcing-form">
+              <label class="span-2">Approved request<select name="request_id" id="rfq-request-select" required></select></label>
+              <label>Buying method<select name="competition_type" id="competition-type"><option value="competitive">Competitive</option><option value="single_source">Single source</option></select></label>
+              <label>Quote deadline<input type="date" name="close_date" id="rfq-close-date" required /></label>
+              <label class="span-2" id="single-source-field" hidden>Single-source justification<input name="single_source_reason" maxlength="300" placeholder="Explain why competition is not possible" /></label>
+              <div class="span-2 form-footer"><span class="muted small">Competitive awards require at least three supplier quotes.</span><button class="button button-primary" type="submit">Create RFQ</button></div>
+            </form>
+          </article>
+          <div class="rfq-columns">
+            <article class="panel write-only">
+              <div class="panel-heading"><div><p class="eyebrow">SUPPLIER RESPONSE</p><h2>Record a quote</h2></div></div>
+              <form id="quote-form" class="form-grid">
+                <label class="span-2">Open RFQ<select name="rfq_id" id="quote-rfq-select" required></select></label>
+                <label>Supplier<select name="supplier_id" id="supplier-select" required></select></label>
+                <label>Currency<select name="currency" id="quote-currency" required></select></label>
+                <label>Unit price<input name="unit_price" type="number" min="0.01" step="0.01" required /></label>
+                <label>Shipping<input name="shipping_cost" type="number" min="0" step="0.01" value="0" required /></label>
+                <label>Tax<input name="tax_amount" type="number" min="0" step="0.01" value="0" required /></label>
+                <label>Lead time (days)<input name="lead_time_days" type="number" min="1" step="1" value="14" required /></label>
+                <label>Valid through<input name="valid_until" id="quote-valid-until" type="date" required /></label>
+                <div class="span-2 form-footer"><span class="muted small">Quotes in a different currency are recorded but excluded from award selection.</span><button class="button button-primary" type="submit">Save supplier quote</button></div>
+              </form>
+            </article>
+            <article class="panel">
+              <div class="panel-heading"><div><p class="eyebrow">AWARD CONTROL</p><h2>Compare before award</h2></div></div>
+              <div class="rule-list">
+                <div><span class="rule-icon rule-green">1</span><p><strong>Lowest eligible landed cost</strong><br /><span>Unit price + shipping + tax</span></p></div>
+                <div><span class="rule-icon rule-blue">2</span><p><strong>Check delivery time</strong><br /><span>Compare lead time to the request need date</span></p></div>
+                <div><span class="rule-icon rule-violet">3</span><p><strong>Explain exceptions</strong><br /><span>Non-lowest awards need a written rationale</span></p></div>
+              </div>
+              <div class="note-box">Inactive suppliers, expired offers, and currency mismatches cannot be selected.</div>
+            </article>
+          </div>
+          <div id="rfq-list" class="stack-list"></div>
+        </section>
+
+        <section class="view" id="view-orders">
+          <div class="view-intro">
+            <p class="eyebrow">ORDER FULFILMENT</p>
+            <h2>Orders & delivery</h2>
+            <p>Purchase orders are created from awarded quotes. Record receipts as shipments arrive.</p>
+          </div>
+          <article class="panel">
+            <div class="panel-heading"><div><p class="eyebrow">PURCHASE ORDER REGISTER</p><h2>Orders in progress</h2></div><span class="muted small">Budget reservations are recorded automatically when awarded.</span></div>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Purchase order</th><th>Supplier</th><th>Item</th><th>Ordered</th><th>Amount</th><th>Delivery</th><th>Receipt update</th></tr></thead>
+                <tbody id="orders-table"></tbody>
+              </table>
+            </div>
+          </article>
+        </section>
+
+        <section class="view" id="view-activity">
+          <div class="view-intro">
+            <p class="eyebrow">TRACEABILITY</p>
+            <h2>Audit trail</h2>
+            <p>Workflow changes are stored as dated events alongside current record status.</p>
+          </div>
+          <article class="panel">
+            <div class="panel-heading"><div><p class="eyebrow">LATEST EVENTS</p><h2>Recent activity</h2></div></div>
+            <div class="table-wrap">
+              <table>
+                <thead><tr><th>Date</th><th>Type</th><th>Record</th><th>Event</th><th>State change</th><th>Reason</th></tr></thead>
+                <tbody id="events-table"></tbody>
+              </table>
+            </div>
+          </article>
+        </section>
+
+        <dialog class="decision-dialog" id="decision-dialog">
+          <form id="decision-form">
+            <p class="eyebrow">APPROVAL DECISION</p>
+            <h2 id="decision-title">Approve request</h2>
+            <p id="decision-description" class="muted">Add a reason to preserve the decision in the audit history.</p>
+            <label for="decision-reason">Decision reason</label>
+            <textarea id="decision-reason" name="reason" rows="3" maxlength="400" required></textarea>
+            <div class="dialog-actions">
+              <button class="button button-secondary" id="decision-cancel" type="button">Cancel</button>
+              <button class="button button-primary" id="decision-confirm" type="submit">Confirm decision</button>
+            </div>
+          </form>
+        </dialog>
+
+        <footer class="app-footer">Synthetic procurement workspace · Local demo data · No external services</footer>
+      </main>
+    </div>
+  </body>
+</html>

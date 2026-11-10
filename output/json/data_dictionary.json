@@ -1,0 +1,1712 @@
+[
+  {
+    "table": "departments",
+    "field": "department_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "departments",
+    "field": "name",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "departments",
+    "field": "cost_center",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "departments",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "active",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: active"
+  },
+  {
+    "table": "departments",
+    "field": "effective_from",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "departments",
+    "field": "effective_to",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "requesters",
+    "field": "requester_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "requesters",
+    "field": "display_name",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "requesters",
+    "field": "email",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "requesters",
+    "field": "department_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference departments.department_id"
+  },
+  {
+    "table": "requesters",
+    "field": "role",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "requester|manager|director",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: requester|manager|director"
+  },
+  {
+    "table": "requesters",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "active",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: active"
+  },
+  {
+    "table": "requesters",
+    "field": "effective_from",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "requesters",
+    "field": "effective_to",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "budgets",
+    "field": "budget_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "budgets",
+    "field": "department_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: department_id, fiscal_year)",
+    "validation": "Must reference departments.department_id"
+  },
+  {
+    "table": "budgets",
+    "field": "fiscal_year",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Four-digit year",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: department_id, fiscal_year)",
+    "validation": "Must match the budget effective dates"
+  },
+  {
+    "table": "budgets",
+    "field": "currency",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "USD|EUR|GBP|CAD",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: USD|EUR|GBP|CAD"
+  },
+  {
+    "table": "budgets",
+    "field": "allocation_amount",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "budgets",
+    "field": "effective_from",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "budgets",
+    "field": "effective_to",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "budgets",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "active",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: active"
+  },
+  {
+    "table": "suppliers",
+    "field": "supplier_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "suppliers",
+    "field": "supplier_code",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "suppliers",
+    "field": "legal_name",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "suppliers",
+    "field": "country",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "US|CA|GB|DE|AU|JP",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: US|CA|GB|DE|AU|JP"
+  },
+  {
+    "table": "suppliers",
+    "field": "currency",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "USD|EUR|GBP|CAD",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: USD|EUR|GBP|CAD"
+  },
+  {
+    "table": "suppliers",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "active|inactive",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: active|inactive"
+  },
+  {
+    "table": "suppliers",
+    "field": "risk_flag",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "0|1",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: 0|1"
+  },
+  {
+    "table": "suppliers",
+    "field": "risk_reason",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "suppliers",
+    "field": "effective_from",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "suppliers",
+    "field": "effective_to",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "request_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "requester_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference requesters.requester_id"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "department_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference departments.department_id"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "budget_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference budgets.budget_id"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "request_date",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "required_by",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "estimated_total",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "currency",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "USD|EUR|GBP|CAD",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: USD|EUR|GBP|CAD"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "pending_approval|approved|rejected|ordered|rfq_closed|rfq_expired|rejected_duplicate",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: pending_approval|approved|rejected|ordered|rfq_closed|rfq_expired|rejected_duplicate"
+  },
+  {
+    "table": "purchase_requests",
+    "field": "business_justification",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "request_lines",
+    "field": "request_line_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "request_lines",
+    "field": "request_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: request_id, line_number)",
+    "validation": "Must reference purchase_requests.request_id"
+  },
+  {
+    "table": "request_lines",
+    "field": "line_number",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Positive integer",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: request_id, line_number)",
+    "validation": "Must be a positive whole number"
+  },
+  {
+    "table": "request_lines",
+    "field": "description",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "request_lines",
+    "field": "category",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "IT Hardware|Office Supplies|Facilities|Professional Services|Software|Safety Equipment",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: IT Hardware|Office Supplies|Facilities|Professional Services|Software|Safety Equipment"
+  },
+  {
+    "table": "request_lines",
+    "field": "quantity",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Positive integer",
+    "units": "units",
+    "uniqueness": "No",
+    "validation": "Must be a positive whole number"
+  },
+  {
+    "table": "request_lines",
+    "field": "unit_of_measure",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "request_lines",
+    "field": "estimated_unit_cost",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units per unit",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "request_lines",
+    "field": "estimated_total",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "request_lines",
+    "field": "currency",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "USD|EUR|GBP|CAD",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: USD|EUR|GBP|CAD"
+  },
+  {
+    "table": "approvals",
+    "field": "approval_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "approvals",
+    "field": "request_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes",
+    "validation": "Must reference purchase_requests.request_id"
+  },
+  {
+    "table": "approvals",
+    "field": "approval_level",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "automatic|manager|director",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: automatic|manager|director"
+  },
+  {
+    "table": "approvals",
+    "field": "threshold_amount",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "approvals",
+    "field": "decision",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "approved|pending|not_required|rejected",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: approved|pending|not_required|rejected"
+  },
+  {
+    "table": "approvals",
+    "field": "approver_id",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference requesters.requester_id"
+  },
+  {
+    "table": "approvals",
+    "field": "requested_at",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "approvals",
+    "field": "decided_at",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "approvals",
+    "field": "decision_reason",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "rfqs",
+    "field": "rfq_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "rfqs",
+    "field": "request_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes",
+    "validation": "Must reference purchase_requests.request_id"
+  },
+  {
+    "table": "rfqs",
+    "field": "issue_date",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "rfqs",
+    "field": "close_date",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "rfqs",
+    "field": "required_by",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "rfqs",
+    "field": "competition_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "competitive|single_source",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: competitive|single_source"
+  },
+  {
+    "table": "rfqs",
+    "field": "single_source_reason",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "rfqs",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "open|awarded|single_source_awarded|closed_no_award|expired",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: open|awarded|single_source_awarded|closed_no_award|expired"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "quote_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "rfq_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: rfq_id, supplier_id)",
+    "validation": "Must reference rfqs.rfq_id"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "supplier_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: rfq_id, supplier_id)",
+    "validation": "Must reference suppliers.supplier_id"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "quote_date",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "valid_until",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "currency",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "USD|EUR|GBP|CAD",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: USD|EUR|GBP|CAD"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "unit_price",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units per unit",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "shipping_cost",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "tax_amount",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "landed_total",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "lead_time_days",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Positive integer",
+    "units": "days",
+    "uniqueness": "No",
+    "validation": "Must be a positive whole number"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "submitted|awarded|expired|excluded_currency|not_selected",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: submitted|awarded|expired|excluded_currency|not_selected"
+  },
+  {
+    "table": "supplier_quotes",
+    "field": "exclusion_reason",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "award_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "rfq_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: rfq_id, quote_id)",
+    "validation": "Must reference rfqs.rfq_id"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "quote_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: rfq_id, quote_id)",
+    "validation": "Must reference supplier_quotes.quote_id"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "awarded_at",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "quantity_awarded",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Positive integer",
+    "units": "units",
+    "uniqueness": "No",
+    "validation": "Must be a positive whole number"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "award_total",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "rationale",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "rfq_awards",
+    "field": "decision_status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "awarded",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: awarded"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "po_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "request_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference purchase_requests.request_id"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "rfq_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference rfqs.rfq_id"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "award_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes",
+    "validation": "Must reference rfq_awards.award_id"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "supplier_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference suppliers.supplier_id"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "approval_id",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference approvals.approval_id"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "issued_date",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "currency",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "USD|EUR|GBP|CAD",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: USD|EUR|GBP|CAD"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "total_amount",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "purchase_orders",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "issued|in_transit|partially_received|delivered",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: issued|in_transit|partially_received|delivered"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "po_line_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "po_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: po_id, request_line_id)",
+    "validation": "Must reference purchase_orders.po_id"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "request_line_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: po_id, request_line_id)",
+    "validation": "Must reference request_lines.request_line_id"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "quote_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference supplier_quotes.quote_id"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "quantity",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Positive integer",
+    "units": "units",
+    "uniqueness": "No",
+    "validation": "Must be a positive whole number"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "unit_price",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units per unit",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "shipping_allocated",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "tax_allocated",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "purchase_order_lines",
+    "field": "line_total",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "deliveries",
+    "field": "delivery_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "deliveries",
+    "field": "po_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: po_id, shipment_number)",
+    "validation": "Must reference purchase_orders.po_id"
+  },
+  {
+    "table": "deliveries",
+    "field": "shipment_number",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Positive integer",
+    "units": "not applicable",
+    "uniqueness": "Yes (composite: po_id, shipment_number)",
+    "validation": "Must be a positive whole number"
+  },
+  {
+    "table": "deliveries",
+    "field": "expected_date",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "deliveries",
+    "field": "shipped_date",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "deliveries",
+    "field": "received_date",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "deliveries",
+    "field": "quantity_shipped",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Positive integer",
+    "units": "units",
+    "uniqueness": "No",
+    "validation": "Must be a positive whole number"
+  },
+  {
+    "table": "deliveries",
+    "field": "quantity_received",
+    "type": "INTEGER",
+    "required": "Yes",
+    "allowed_values": "Non-negative integer",
+    "units": "units",
+    "uniqueness": "No",
+    "validation": "Must be a whole number between zero and quantity shipped"
+  },
+  {
+    "table": "deliveries",
+    "field": "status",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "in_transit|partially_received|delivered|delayed",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: in_transit|partially_received|delivered|delayed"
+  },
+  {
+    "table": "deliveries",
+    "field": "exception_reason",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "ledger_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "budget_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference budgets.budget_id"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "po_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes",
+    "validation": "Must reference purchase_orders.po_id"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "event_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "reserve",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be one of: reserve"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "event_date",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "amount",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Non-negative; finite decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must be finite and non-negative; derived totals must reconcile"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "balance_after",
+    "type": "REAL",
+    "required": "Yes",
+    "allowed_values": "Signed currency decimal",
+    "units": "currency units",
+    "uniqueness": "No",
+    "validation": "Must reconcile to allocation less cumulative reservations; negative only for a labeled overrun"
+  },
+  {
+    "table": "budget_ledger",
+    "field": "reason",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "request_events",
+    "field": "event_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "request_events",
+    "field": "request_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference purchase_requests.request_id"
+  },
+  {
+    "table": "request_events",
+    "field": "event_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "request_events",
+    "field": "from_state",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "request_events",
+    "field": "to_state",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "request_events",
+    "field": "event_at",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "request_events",
+    "field": "actor_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "request_events",
+    "field": "actor_id",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "request_events",
+    "field": "reason",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "rfq_events",
+    "field": "event_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "rfq_events",
+    "field": "rfq_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference rfqs.rfq_id"
+  },
+  {
+    "table": "rfq_events",
+    "field": "event_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "rfq_events",
+    "field": "from_state",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "rfq_events",
+    "field": "to_state",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "rfq_events",
+    "field": "event_at",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "rfq_events",
+    "field": "actor_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "rfq_events",
+    "field": "actor_id",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "rfq_events",
+    "field": "reason",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "event_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "po_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference purchase_orders.po_id"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "event_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "from_state",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "to_state",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "event_at",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "actor_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "actor_id",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "purchase_order_events",
+    "field": "reason",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "delivery_events",
+    "field": "event_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "Yes (primary key)",
+    "validation": "Required; immutable and unique"
+  },
+  {
+    "table": "delivery_events",
+    "field": "delivery_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must reference deliveries.delivery_id"
+  },
+  {
+    "table": "delivery_events",
+    "field": "event_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "delivery_events",
+    "field": "from_state",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "delivery_events",
+    "field": "to_state",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "delivery_events",
+    "field": "event_at",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "ISO 8601 date",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Must be a valid ISO date; related lifecycle dates are ordered"
+  },
+  {
+    "table": "delivery_events",
+    "field": "actor_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "delivery_events",
+    "field": "actor_id",
+    "type": "TEXT",
+    "required": "No",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Optional; when supplied, must pass the field domain rule"
+  },
+  {
+    "table": "delivery_events",
+    "field": "reason",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Non-empty text",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; values are validated against the field domain"
+  },
+  {
+    "table": "ground_truth",
+    "field": "issue_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  },
+  {
+    "table": "ground_truth",
+    "field": "entity_type",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  },
+  {
+    "table": "ground_truth",
+    "field": "entity_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  },
+  {
+    "table": "ground_truth",
+    "field": "related_entity_id",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  },
+  {
+    "table": "ground_truth",
+    "field": "severity",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  },
+  {
+    "table": "ground_truth",
+    "field": "expected_outcome",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  },
+  {
+    "table": "ground_truth",
+    "field": "observed_outcome",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  },
+  {
+    "table": "ground_truth",
+    "field": "audit_reason",
+    "type": "TEXT",
+    "required": "Yes",
+    "allowed_values": "Documented label/value",
+    "units": "not applicable",
+    "uniqueness": "No",
+    "validation": "Required; evaluation-only label kept separate from operational inputs"
+  }
+]

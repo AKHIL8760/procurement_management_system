@@ -1,0 +1,78 @@
+{
+  "validation_status": "passed",
+  "checks": {
+    "primary_key_tables": 18,
+    "unique_constraints": 13,
+    "foreign_key_references": 31322,
+    "duplicate_request_checks": 1199,
+    "request_line_arithmetic": 1200,
+    "quote_arithmetic": 1500,
+    "po_line_arithmetic": 900,
+    "po_reconciliations": 900,
+    "award_reconciliations": 900,
+    "delivery_date_and_quantity": 1125,
+    "budget_ledger_reconciliations": 900,
+    "event_history_tables": 4,
+    "ground_truth_label_types": 8
+  },
+  "row_counts": {
+    "departments": 12,
+    "requesters": 300,
+    "budgets": 12,
+    "suppliers": 120,
+    "purchase_requests": 1200,
+    "request_lines": 1200,
+    "approvals": 1200,
+    "rfqs": 500,
+    "supplier_quotes": 1500,
+    "rfq_awards": 900,
+    "purchase_orders": 900,
+    "purchase_order_lines": 900,
+    "deliveries": 1125,
+    "budget_ledger": 900,
+    "request_events": 2900,
+    "rfq_events": 1900,
+    "purchase_order_events": 1800,
+    "delivery_events": 2250
+  },
+  "ground_truth_count": 57,
+  "ground_truth_labels": {
+    "po_issued_without_approval": 1,
+    "quote_expired_before_award": 1,
+    "single_source_exception": 50,
+    "budget_overrun": 1,
+    "selected_quote_not_cheapest_without_rationale": 1,
+    "inactive_supplier_awarded": 1,
+    "quote_currency_mismatch": 1,
+    "duplicate_request": 1
+  },
+  "metrics": {
+    "requests_with_rfqs": 500,
+    "competitive_rfqs": 450,
+    "single_source_rfqs": 50,
+    "awarded_rfqs": 450,
+    "split_awards": 399,
+    "partial_or_in_transit_deliveries": 450,
+    "budget_reserved_by_budget": {
+      "BUD-DEP-001-2026": 260292.88,
+      "BUD-DEP-002-2026": 360576.97,
+      "BUD-DEP-003-2026": 315230.02,
+      "BUD-DEP-004-2026": 303174.05,
+      "BUD-DEP-005-2026": 400897.59,
+      "BUD-DEP-006-2026": 311840.23,
+      "BUD-DEP-007-2026": 381588.77,
+      "BUD-DEP-008-2026": 310663.17,
+      "BUD-DEP-009-2026": 334899.11,
+      "BUD-DEP-010-2026": 311526.9,
+      "BUD-DEP-011-2026": 354007.76,
+      "BUD-DEP-012-2026": 11200.0
+    },
+    "approval_thresholds_usd": {
+      "automatic_below": 5000,
+      "manager_up_to_inclusive": 25000,
+      "director_above": 25000
+    }
+  },
+  "seed": 20261022,
+  "scale": 1.0
+}

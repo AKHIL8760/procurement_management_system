@@ -1,0 +1,1201 @@
+request_id,requester_id,department_id,budget_id,request_date,required_by,estimated_total,currency,status,business_justification
+PR-2026-000001,USR-0253,DEP-001,BUD-DEP-001-2026,2026-11-19,2026-12-22,10000.0,USD,ordered,Operational need for synthetic workstation
+PR-2026-000002,USR-0038,DEP-002,BUD-DEP-002-2026,2026-04-25,2026-07-11,2898.19,USD,ordered,Operational need for synthetic workstation
+PR-2026-000003,USR-0135,DEP-003,BUD-DEP-003-2026,2026-09-05,2026-10-02,3822.11,USD,ordered,Operational need for synthetic network switch
+PR-2026-000004,USR-0040,DEP-004,BUD-DEP-004-2026,2026-10-20,2026-12-07,2157.89,USD,approved,Operational need for synthetic design license
+PR-2026-000005,USR-0065,DEP-005,BUD-DEP-005-2026,2026-08-16,2026-10-28,12210.74,USD,approved,Operational need for synthetic laptop
+PR-2026-000006,USR-0294,DEP-006,BUD-DEP-006-2026,2026-01-28,2026-03-05,3304.56,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000007,USR-0031,DEP-007,BUD-DEP-007-2026,2026-07-13,2026-08-14,747.8,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000008,USR-0032,DEP-008,BUD-DEP-008-2026,2026-07-23,2026-09-09,11198.98,USD,ordered,Operational need for synthetic security license
+PR-2026-000009,USR-0285,DEP-009,BUD-DEP-009-2026,2026-10-04,2026-10-31,23062.2,USD,approved,Operational need for synthetic led fixture
+PR-2026-000010,USR-0154,DEP-010,BUD-DEP-010-2026,2026-01-07,2026-03-29,3132.99,USD,approved,Operational need for synthetic network switch
+PR-2026-000011,USR-0071,DEP-011,BUD-DEP-011-2026,2026-06-09,2026-09-03,12756.74,USD,approved,Operational need for synthetic design license
+PR-2026-000012,USR-0277,DEP-001,BUD-DEP-001-2026,2026-01-26,2026-03-26,719.55,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000013,USR-0110,DEP-002,BUD-DEP-002-2026,2026-10-29,2026-11-24,7944.96,USD,ordered,Operational need for synthetic workstation
+PR-2026-000014,USR-0159,DEP-003,BUD-DEP-003-2026,2026-01-15,2026-04-03,5922.5,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000015,USR-0124,DEP-004,BUD-DEP-004-2026,2026-11-09,2027-02-02,5897.19,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000016,USR-0257,DEP-005,BUD-DEP-005-2026,2026-05-16,2026-07-15,15390.88,USD,rfq_expired,Operational need for synthetic security license
+PR-2026-000017,USR-0222,DEP-006,BUD-DEP-006-2026,2026-07-05,2026-09-08,3918.4,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000018,USR-0199,DEP-007,BUD-DEP-007-2026,2026-06-03,2026-08-19,406.96,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000019,USR-0248,DEP-008,BUD-DEP-008-2026,2026-08-28,2026-10-21,21791.28,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000020,USR-0093,DEP-009,BUD-DEP-009-2026,2026-03-09,2026-05-30,3990.24,USD,approved,Operational need for synthetic implementation services
+PR-2026-000021,USR-0226,DEP-010,BUD-DEP-010-2026,2026-01-14,2026-03-30,2233.86,USD,ordered,Operational need for synthetic design license
+PR-2026-000022,USR-0155,DEP-011,BUD-DEP-011-2026,2026-06-26,2026-07-23,14714.94,USD,approved,Operational need for synthetic led fixture
+PR-2026-000023,USR-0001,DEP-001,BUD-DEP-001-2026,2026-05-23,2026-07-27,3531.6,USD,ordered,Operational need for synthetic audit support
+PR-2026-000024,USR-0002,DEP-002,BUD-DEP-002-2026,2026-03-24,2026-05-11,14639.46,USD,approved,Operational need for synthetic implementation services
+PR-2026-000025,USR-0039,DEP-003,BUD-DEP-003-2026,2026-04-19,2026-07-08,13586.1,USD,approved,Operational need for synthetic printer paper
+PR-2026-000026,USR-0136,DEP-004,BUD-DEP-004-2026,2026-04-10,2026-06-18,10038.06,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000027,USR-0017,DEP-005,BUD-DEP-005-2026,2026-02-23,2026-05-12,3318.16,USD,approved,Operational need for synthetic analytics license
+PR-2026-000028,USR-0114,DEP-006,BUD-DEP-006-2026,2026-04-06,2026-06-26,6164.66,USD,approved,Operational need for synthetic audit support
+PR-2026-000029,USR-0019,DEP-007,BUD-DEP-007-2026,2026-11-06,2026-12-24,18986.22,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000030,USR-0092,DEP-008,BUD-DEP-008-2026,2026-07-23,2026-10-16,3648.57,USD,rfq_closed,Operational need for synthetic security license
+PR-2026-000031,USR-0201,DEP-009,BUD-DEP-009-2026,2026-10-24,2027-01-18,865.41,USD,ordered,Operational need for synthetic network switch
+PR-2026-000032,USR-0262,DEP-010,BUD-DEP-010-2026,2026-10-26,2027-01-13,18608.68,USD,approved,Operational need for synthetic network switch
+PR-2026-000033,USR-0215,DEP-011,BUD-DEP-011-2026,2026-06-13,2026-07-23,9020.4,USD,rfq_closed,Operational need for synthetic security license
+PR-2026-000034,USR-0193,DEP-001,BUD-DEP-001-2026,2026-05-25,2026-07-28,11189.03,USD,ordered,Operational need for synthetic workstation
+PR-2026-000035,USR-0086,DEP-002,BUD-DEP-002-2026,2026-06-10,2026-07-16,9229.5,USD,approved,Operational need for synthetic air filter
+PR-2026-000036,USR-0051,DEP-003,BUD-DEP-003-2026,2026-11-16,2026-12-25,6000.21,USD,approved,Operational need for synthetic implementation services
+PR-2026-000037,USR-0268,DEP-004,BUD-DEP-004-2026,2026-06-16,2026-08-24,961.2,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000038,USR-0257,DEP-005,BUD-DEP-005-2026,2026-03-08,2026-05-11,6828.6,USD,ordered,Operational need for synthetic audit support
+PR-2026-000039,USR-0054,DEP-006,BUD-DEP-006-2026,2026-06-27,2026-08-11,3531.71,USD,approved,Operational need for synthetic air filter
+PR-2026-000040,USR-0235,DEP-007,BUD-DEP-007-2026,2026-07-11,2026-08-15,17241.08,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000041,USR-0296,DEP-008,BUD-DEP-008-2026,2026-09-14,2026-10-06,6227.85,USD,ordered,Operational need for synthetic air filter
+PR-2026-000042,USR-0213,DEP-009,BUD-DEP-009-2026,2026-05-28,2026-06-17,1243.0,USD,ordered,Operational need for synthetic audit support
+PR-2026-000043,USR-0046,DEP-010,BUD-DEP-010-2026,2026-03-20,2026-06-15,4159.78,USD,ordered,Operational need for synthetic design license
+PR-2026-000044,USR-0047,DEP-011,BUD-DEP-011-2026,2026-02-05,2026-04-10,3779.76,USD,approved,Operational need for synthetic led fixture
+PR-2026-000045,USR-0217,DEP-001,BUD-DEP-001-2026,2026-10-18,2026-11-29,11560.96,USD,approved,Operational need for synthetic analytics license
+PR-2026-000046,USR-0002,DEP-002,BUD-DEP-002-2026,2026-07-11,2026-08-13,2678.0,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000047,USR-0171,DEP-003,BUD-DEP-003-2026,2026-06-07,2026-07-18,8082.32,USD,approved,Operational need for synthetic air filter
+PR-2026-000048,USR-0124,DEP-004,BUD-DEP-004-2026,2026-07-09,2026-09-28,2886.0,USD,approved,Operational need for synthetic workstation
+PR-2026-000049,USR-0101,DEP-005,BUD-DEP-005-2026,2026-07-09,2026-09-13,9612.05,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000050,USR-0018,DEP-006,BUD-DEP-006-2026,2026-05-02,2026-06-26,21045.54,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000051,USR-0199,DEP-007,BUD-DEP-007-2026,2026-02-03,2026-03-23,1916.97,USD,approved,Operational need for synthetic implementation services
+PR-2026-000052,USR-0272,DEP-008,BUD-DEP-008-2026,2026-03-29,2026-05-03,4995.54,USD,approved,Operational need for synthetic protective kit
+PR-2026-000053,USR-0165,DEP-009,BUD-DEP-009-2026,2026-01-07,2026-04-01,14329.92,USD,approved,Operational need for synthetic protective kit
+PR-2026-000054,USR-0130,DEP-010,BUD-DEP-010-2026,2026-06-24,2026-09-04,2702.52,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000055,USR-0227,DEP-011,BUD-DEP-011-2026,2026-05-01,2026-06-26,6868.68,USD,rfq_closed,Operational need for synthetic audit support
+PR-2026-000056,USR-0145,DEP-001,BUD-DEP-001-2026,2026-05-16,2026-08-05,2860.88,USD,ordered,Operational need for synthetic workstation
+PR-2026-000057,USR-0062,DEP-002,BUD-DEP-002-2026,2026-02-09,2026-04-11,4464.68,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000058,USR-0183,DEP-003,BUD-DEP-003-2026,2026-01-17,2026-03-17,2444.85,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000059,USR-0076,DEP-004,BUD-DEP-004-2026,2026-07-14,2026-09-05,16136.1,USD,ordered,Operational need for synthetic network switch
+PR-2026-000060,USR-0173,DEP-005,BUD-DEP-005-2026,2026-03-19,2026-06-04,9364.04,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000061,USR-0282,DEP-006,BUD-DEP-006-2026,2026-03-15,2026-04-18,1185.72,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000062,USR-0079,DEP-007,BUD-DEP-007-2026,2026-02-03,2026-04-14,5670.18,USD,ordered,Operational need for synthetic monitor
+PR-2026-000063,USR-0068,DEP-008,BUD-DEP-008-2026,2026-01-29,2026-03-01,2780.46,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000064,USR-0069,DEP-009,BUD-DEP-009-2026,2026-04-24,2026-07-04,9309.29,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000065,USR-0094,DEP-010,BUD-DEP-010-2026,2026-10-16,2026-12-02,1797.28,USD,approved,Operational need for synthetic design license
+PR-2026-000066,USR-0263,DEP-011,BUD-DEP-011-2026,2026-01-10,2026-02-05,19638.85,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000067,USR-0049,DEP-001,BUD-DEP-001-2026,2026-08-25,2026-10-09,11282.44,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000068,USR-0062,DEP-002,BUD-DEP-002-2026,2026-09-24,2026-10-21,7990.08,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000069,USR-0075,DEP-003,BUD-DEP-003-2026,2026-10-02,2026-12-24,14231.52,USD,approved,Operational need for synthetic implementation services
+PR-2026-000070,USR-0052,DEP-004,BUD-DEP-004-2026,2026-06-08,2026-07-16,19330.17,USD,approved,Operational need for synthetic implementation services
+PR-2026-000071,USR-0125,DEP-005,BUD-DEP-005-2026,2026-09-07,2026-11-12,4987.08,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000072,USR-0246,DEP-006,BUD-DEP-006-2026,2026-05-03,2026-07-05,11586.96,USD,ordered,Operational need for synthetic network switch
+PR-2026-000073,USR-0235,DEP-007,BUD-DEP-007-2026,2026-04-12,2026-06-25,713.2,USD,approved,Operational need for synthetic implementation services
+PR-2026-000074,USR-0272,DEP-008,BUD-DEP-008-2026,2026-07-28,2026-09-27,5533.77,USD,approved,Operational need for synthetic design license
+PR-2026-000075,USR-0033,DEP-009,BUD-DEP-009-2026,2026-10-28,2026-12-17,7701.21,USD,approved,Operational need for synthetic network switch
+PR-2026-000076,USR-0226,DEP-010,BUD-DEP-010-2026,2026-11-01,2026-12-28,4653.59,USD,approved,Operational need for synthetic led fixture
+PR-2026-000077,USR-0155,DEP-011,BUD-DEP-011-2026,2026-09-30,2026-12-21,15153.48,USD,approved,Operational need for synthetic printer paper
+PR-2026-000078,USR-0049,DEP-001,BUD-DEP-001-2026,2026-05-21,2026-07-09,8382.12,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000079,USR-0086,DEP-002,BUD-DEP-002-2026,2026-02-01,2026-03-23,902.75,USD,approved,Operational need for synthetic audit support
+PR-2026-000080,USR-0195,DEP-003,BUD-DEP-003-2026,2026-10-30,2026-12-23,3532.95,USD,ordered,Operational need for synthetic audit support
+PR-2026-000081,USR-0148,DEP-004,BUD-DEP-004-2026,2026-04-29,2026-07-22,9410.73,USD,approved,Operational need for synthetic audit support
+PR-2026-000082,USR-0293,DEP-005,BUD-DEP-005-2026,2026-04-28,2026-06-01,7792.2,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000083,USR-0246,DEP-006,BUD-DEP-006-2026,2026-02-13,2026-04-21,5189.6,USD,approved,Operational need for synthetic laptop
+PR-2026-000084,USR-0103,DEP-007,BUD-DEP-007-2026,2026-08-24,2026-09-17,4526.7,USD,approved,Operational need for synthetic security license
+PR-2026-000085,USR-0140,DEP-008,BUD-DEP-008-2026,2026-10-08,2027-01-03,5458.08,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000086,USR-0225,DEP-009,BUD-DEP-009-2026,2026-09-13,2026-10-20,11861.58,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000087,USR-0118,DEP-010,BUD-DEP-010-2026,2026-04-26,2026-06-06,6062.14,USD,ordered,Operational need for synthetic design license
+PR-2026-000088,USR-0239,DEP-011,BUD-DEP-011-2026,2026-06-13,2026-07-21,10137.16,USD,ordered,Operational need for synthetic monitor
+PR-2026-000089,USR-0133,DEP-001,BUD-DEP-001-2026,2026-03-08,2026-04-11,2141.37,USD,approved,Operational need for synthetic design license
+PR-2026-000090,USR-0038,DEP-002,BUD-DEP-002-2026,2026-02-23,2026-05-17,12967.24,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000091,USR-0243,DEP-003,BUD-DEP-003-2026,2026-10-05,2026-11-04,3669.3,USD,ordered,Operational need for synthetic workstation
+PR-2026-000092,USR-0112,DEP-004,BUD-DEP-004-2026,2026-05-08,2026-06-24,3310.94,USD,approved,Operational need for synthetic network switch
+PR-2026-000093,USR-0089,DEP-005,BUD-DEP-005-2026,2026-02-14,2026-03-19,4092.66,USD,approved,Operational need for synthetic protective kit
+PR-2026-000094,USR-0030,DEP-006,BUD-DEP-006-2026,2026-10-25,2026-12-09,13374.72,USD,approved,Operational need for synthetic workstation
+PR-2026-000095,USR-0103,DEP-007,BUD-DEP-007-2026,2026-02-21,2026-04-21,1014.2,USD,approved,Operational need for synthetic analytics license
+PR-2026-000096,USR-0284,DEP-008,BUD-DEP-008-2026,2026-05-15,2026-08-01,3347.42,USD,approved,Operational need for synthetic workstation
+PR-2026-000097,USR-0297,DEP-009,BUD-DEP-009-2026,2026-05-23,2026-07-17,1548.72,USD,ordered,Operational need for synthetic security license
+PR-2026-000098,USR-0010,DEP-010,BUD-DEP-010-2026,2026-08-23,2026-11-10,2726.4,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000099,USR-0107,DEP-011,BUD-DEP-011-2026,2026-07-30,2026-08-21,9630.48,USD,approved,Operational need for synthetic printer paper
+PR-2026-000100,USR-0169,DEP-001,BUD-DEP-001-2026,2026-06-07,2026-07-07,4150.5,USD,approved,Operational need for synthetic printer paper
+PR-2026-000101,USR-0026,DEP-002,BUD-DEP-002-2026,2026-10-29,2026-11-22,12138.88,USD,ordered,Operational need for synthetic air filter
+PR-2026-000102,USR-0267,DEP-003,BUD-DEP-003-2026,2026-04-29,2026-06-18,3631.68,USD,ordered,Operational need for synthetic design license
+PR-2026-000103,USR-0016,DEP-004,BUD-DEP-004-2026,2026-09-14,2026-12-03,16801.2,USD,approved,Operational need for synthetic printer paper
+PR-2026-000104,USR-0293,DEP-005,BUD-DEP-005-2026,2026-11-20,2027-01-09,7090.4,USD,approved,Operational need for synthetic printer paper
+PR-2026-000105,USR-0234,DEP-006,BUD-DEP-006-2026,2026-03-15,2026-04-21,14993.55,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000106,USR-0283,DEP-007,BUD-DEP-007-2026,2026-09-11,2026-10-22,1209.28,USD,approved,Operational need for synthetic laptop
+PR-2026-000107,USR-0152,DEP-008,BUD-DEP-008-2026,2026-01-05,2026-03-09,5454.93,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000108,USR-0213,DEP-009,BUD-DEP-009-2026,2026-08-28,2026-10-03,10164.84,USD,approved,Operational need for synthetic workstation
+PR-2026-000109,USR-0022,DEP-010,BUD-DEP-010-2026,2026-05-31,2026-06-24,3586.18,USD,ordered,Operational need for synthetic network switch
+PR-2026-000110,USR-0107,DEP-011,BUD-DEP-011-2026,2026-03-22,2026-06-01,13184.1,USD,approved,Operational need for synthetic analytics license
+PR-2026-000111,USR-0217,DEP-001,BUD-DEP-001-2026,2026-02-18,2026-03-19,7514.12,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000112,USR-0002,DEP-002,BUD-DEP-002-2026,2026-08-31,2026-09-28,4038.84,USD,ordered,Operational need for synthetic audit support
+PR-2026-000113,USR-0015,DEP-003,BUD-DEP-003-2026,2026-08-01,2026-09-30,12562.65,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000114,USR-0268,DEP-004,BUD-DEP-004-2026,2026-05-02,2026-07-18,3760.5,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000115,USR-0053,DEP-005,BUD-DEP-005-2026,2026-11-07,2026-11-30,836.64,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000116,USR-0282,DEP-006,BUD-DEP-006-2026,2026-04-03,2026-05-06,903.1,USD,approved,Operational need for synthetic analytics license
+PR-2026-000117,USR-0091,DEP-007,BUD-DEP-007-2026,2026-07-16,2026-08-23,439.28,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000118,USR-0236,DEP-008,BUD-DEP-008-2026,2026-11-18,2027-01-22,1643.46,USD,approved,Operational need for synthetic audit support
+PR-2026-000119,USR-0105,DEP-009,BUD-DEP-009-2026,2026-04-10,2026-05-17,15844.1,USD,ordered,Operational need for synthetic design license
+PR-2026-000120,USR-0190,DEP-010,BUD-DEP-010-2026,2026-06-02,2026-06-24,5191.2,USD,approved,Operational need for synthetic printer paper
+PR-2026-000121,USR-0035,DEP-011,BUD-DEP-011-2026,2026-05-17,2026-06-07,5946.0,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000122,USR-0265,DEP-001,BUD-DEP-001-2026,2026-04-04,2026-05-03,18670.08,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000123,USR-0182,DEP-002,BUD-DEP-002-2026,2026-02-12,2026-04-28,2163.68,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000124,USR-0159,DEP-003,BUD-DEP-003-2026,2026-04-23,2026-06-01,7274.13,USD,approved,Operational need for synthetic protective kit
+PR-2026-000125,USR-0184,DEP-004,BUD-DEP-004-2026,2026-03-20,2026-05-29,1779.22,USD,approved,Operational need for synthetic protective kit
+PR-2026-000126,USR-0293,DEP-005,BUD-DEP-005-2026,2026-07-28,2026-08-19,3558.95,USD,approved,Operational need for synthetic audit support
+PR-2026-000127,USR-0198,DEP-006,BUD-DEP-006-2026,2026-08-13,2026-10-04,11886.0,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000128,USR-0055,DEP-007,BUD-DEP-007-2026,2026-04-03,2026-04-26,11522.56,USD,approved,Operational need for synthetic workstation
+PR-2026-000129,USR-0296,DEP-008,BUD-DEP-008-2026,2026-09-27,2026-12-04,4705.32,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000130,USR-0201,DEP-009,BUD-DEP-009-2026,2026-06-28,2026-07-31,2098.96,USD,approved,Operational need for synthetic implementation services
+PR-2026-000131,USR-0058,DEP-010,BUD-DEP-010-2026,2026-02-23,2026-05-15,17960.95,USD,ordered,Operational need for synthetic workstation
+PR-2026-000132,USR-0203,DEP-011,BUD-DEP-011-2026,2026-11-15,2026-12-11,8872.94,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000133,USR-0217,DEP-001,BUD-DEP-001-2026,2026-08-15,2026-09-21,11458.72,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000134,USR-0158,DEP-002,BUD-DEP-002-2026,2026-02-17,2026-03-21,9933.95,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000135,USR-0219,DEP-003,BUD-DEP-003-2026,2026-09-08,2026-11-24,5832.64,USD,ordered,Operational need for synthetic network switch
+PR-2026-000136,USR-0280,DEP-004,BUD-DEP-004-2026,2026-05-15,2026-07-27,9799.65,USD,approved,Operational need for synthetic protective kit
+PR-2026-000137,USR-0281,DEP-005,BUD-DEP-005-2026,2026-09-06,2026-10-09,6488.3,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000138,USR-0186,DEP-006,BUD-DEP-006-2026,2026-08-24,2026-09-22,5674.08,USD,approved,Operational need for synthetic design license
+PR-2026-000139,USR-0271,DEP-007,BUD-DEP-007-2026,2026-08-15,2026-10-30,17105.76,USD,ordered,Operational need for synthetic design license
+PR-2026-000140,USR-0152,DEP-008,BUD-DEP-008-2026,2026-08-23,2026-10-13,4962.23,USD,approved,Operational need for synthetic led fixture
+PR-2026-000141,USR-0297,DEP-009,BUD-DEP-009-2026,2026-03-07,2026-04-03,16184.52,USD,approved,Operational need for synthetic implementation services
+PR-2026-000142,USR-0094,DEP-010,BUD-DEP-010-2026,2026-09-03,2026-11-10,8964.48,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000143,USR-0203,DEP-011,BUD-DEP-011-2026,2026-03-17,2026-05-11,6370.1,USD,ordered,Operational need for synthetic workstation
+PR-2026-000144,USR-0241,DEP-001,BUD-DEP-001-2026,2026-06-13,2026-07-06,12145.5,USD,approved,Operational need for synthetic monitor
+PR-2026-000145,USR-0254,DEP-002,BUD-DEP-002-2026,2026-11-10,2027-01-18,4538.49,USD,approved,Operational need for synthetic implementation services
+PR-2026-000146,USR-0147,DEP-003,BUD-DEP-003-2026,2026-10-13,2027-01-05,1280.76,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000147,USR-0028,DEP-004,BUD-DEP-004-2026,2026-03-16,2026-05-30,9260.0,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000148,USR-0257,DEP-005,BUD-DEP-005-2026,2026-02-15,2026-04-08,7089.0,USD,approved,Operational need for synthetic led fixture
+PR-2026-000149,USR-0078,DEP-006,BUD-DEP-006-2026,2026-01-13,2026-03-14,4011.6,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000150,USR-0055,DEP-007,BUD-DEP-007-2026,2026-09-15,2026-11-16,6139.8,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000151,USR-0212,DEP-008,BUD-DEP-008-2026,2026-03-10,2026-05-29,16516.03,USD,approved,Operational need for synthetic printer paper
+PR-2026-000152,USR-0033,DEP-009,BUD-DEP-009-2026,2026-11-07,2027-01-26,9660.2,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000153,USR-0178,DEP-010,BUD-DEP-010-2026,2026-10-17,2026-11-12,4483.05,USD,approved,Operational need for synthetic analytics license
+PR-2026-000154,USR-0263,DEP-011,BUD-DEP-011-2026,2026-08-01,2026-08-21,15485.04,USD,approved,Operational need for synthetic led fixture
+PR-2026-000155,USR-0025,DEP-001,BUD-DEP-001-2026,2026-02-23,2026-04-01,17069.36,USD,ordered,Operational need for synthetic network switch
+PR-2026-000156,USR-0050,DEP-002,BUD-DEP-002-2026,2026-08-08,2026-10-29,2341.56,USD,ordered,Operational need for synthetic design license
+PR-2026-000157,USR-0207,DEP-003,BUD-DEP-003-2026,2026-10-04,2026-12-30,4945.05,USD,approved,Operational need for synthetic network switch
+PR-2026-000158,USR-0196,DEP-004,BUD-DEP-004-2026,2026-11-19,2026-12-11,3516.15,USD,ordered,Operational need for synthetic network switch
+PR-2026-000159,USR-0077,DEP-005,BUD-DEP-005-2026,2026-06-26,2026-08-15,3527.92,USD,approved,Operational need for synthetic protective kit
+PR-2026-000160,USR-0186,DEP-006,BUD-DEP-006-2026,2026-01-26,2026-04-11,18439.68,USD,approved,Operational need for synthetic implementation services
+PR-2026-000161,USR-0067,DEP-007,BUD-DEP-007-2026,2026-02-02,2026-04-23,6538.95,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000162,USR-0080,DEP-008,BUD-DEP-008-2026,2026-05-03,2026-06-25,13095.18,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000163,USR-0285,DEP-009,BUD-DEP-009-2026,2026-10-10,2026-12-11,1091.74,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000164,USR-0202,DEP-010,BUD-DEP-010-2026,2026-01-25,2026-03-25,729.3,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000165,USR-0095,DEP-011,BUD-DEP-011-2026,2026-08-22,2026-10-05,3160.64,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000166,USR-0121,DEP-001,BUD-DEP-001-2026,2026-04-26,2026-06-06,6818.87,USD,approved,Operational need for synthetic laptop
+PR-2026-000167,USR-0230,DEP-002,BUD-DEP-002-2026,2026-06-16,2026-08-22,5896.02,USD,approved,Operational need for synthetic printer paper
+PR-2026-000168,USR-0267,DEP-003,BUD-DEP-003-2026,2026-09-28,2026-12-10,7309.98,USD,approved,Operational need for synthetic network switch
+PR-2026-000169,USR-0064,DEP-004,BUD-DEP-004-2026,2026-06-26,2026-08-27,7403.5,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000170,USR-0017,DEP-005,BUD-DEP-005-2026,2026-06-23,2026-07-19,11348.8,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000171,USR-0246,DEP-006,BUD-DEP-006-2026,2026-09-12,2026-12-06,7976.22,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000172,USR-0163,DEP-007,BUD-DEP-007-2026,2026-08-17,2026-10-08,4586.6,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000173,USR-0284,DEP-008,BUD-DEP-008-2026,2026-03-28,2026-06-11,1786.3,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000174,USR-0117,DEP-009,BUD-DEP-009-2026,2026-06-19,2026-07-21,10826.06,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000175,USR-0046,DEP-010,BUD-DEP-010-2026,2026-09-13,2026-10-13,14444.56,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000176,USR-0083,DEP-011,BUD-DEP-011-2026,2026-10-14,2026-11-19,1511.38,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000177,USR-0097,DEP-001,BUD-DEP-001-2026,2026-07-13,2026-09-11,3321.12,USD,approved,Operational need for synthetic audit support
+PR-2026-000178,USR-0266,DEP-002,BUD-DEP-002-2026,2026-07-14,2026-08-20,2972.0,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000179,USR-0063,DEP-003,BUD-DEP-003-2026,2026-03-25,2026-05-10,13182.69,USD,ordered,Operational need for synthetic security license
+PR-2026-000180,USR-0172,DEP-004,BUD-DEP-004-2026,2026-09-07,2026-10-04,15193.31,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000181,USR-0149,DEP-005,BUD-DEP-005-2026,2026-04-12,2026-06-25,3175.59,USD,ordered,Operational need for synthetic audit support
+PR-2026-000182,USR-0102,DEP-006,BUD-DEP-006-2026,2026-10-02,2026-10-27,3818.43,USD,approved,Operational need for synthetic laptop
+PR-2026-000183,USR-0091,DEP-007,BUD-DEP-007-2026,2026-08-12,2026-10-12,11162.88,USD,approved,Operational need for synthetic design license
+PR-2026-000184,USR-0116,DEP-008,BUD-DEP-008-2026,2026-04-25,2026-05-31,1702.02,USD,approved,Operational need for synthetic network switch
+PR-2026-000185,USR-0165,DEP-009,BUD-DEP-009-2026,2026-02-01,2026-04-05,783.87,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000186,USR-0070,DEP-010,BUD-DEP-010-2026,2026-04-11,2026-06-23,12117.21,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000187,USR-0071,DEP-011,BUD-DEP-011-2026,2026-03-23,2026-05-27,3694.35,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000188,USR-0073,DEP-001,BUD-DEP-001-2026,2026-11-01,2027-01-10,1906.74,USD,approved,Operational need for synthetic protective kit
+PR-2026-000189,USR-0182,DEP-002,BUD-DEP-002-2026,2026-04-30,2026-07-09,5963.85,USD,ordered,Operational need for synthetic air filter
+PR-2026-000190,USR-0279,DEP-003,BUD-DEP-003-2026,2026-01-23,2026-03-14,11324.88,USD,approved,Operational need for synthetic design license
+PR-2026-000191,USR-0016,DEP-004,BUD-DEP-004-2026,2026-02-20,2026-04-17,4019.52,USD,rfq_closed,Operational need for synthetic implementation services
+PR-2026-000192,USR-0029,DEP-005,BUD-DEP-005-2026,2026-10-01,2026-12-13,4192.4,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000193,USR-0030,DEP-006,BUD-DEP-006-2026,2026-06-05,2026-08-09,9113.47,USD,approved,Operational need for synthetic network switch
+PR-2026-000194,USR-0115,DEP-007,BUD-DEP-007-2026,2026-09-18,2026-11-22,4438.36,USD,approved,Operational need for synthetic workstation
+PR-2026-000195,USR-0032,DEP-008,BUD-DEP-008-2026,2026-05-07,2026-07-24,18443.88,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000196,USR-0141,DEP-009,BUD-DEP-009-2026,2026-10-17,2026-12-01,5416.2,USD,approved,Operational need for synthetic laptop
+PR-2026-000197,USR-0202,DEP-010,BUD-DEP-010-2026,2026-03-08,2026-05-09,3052.4,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000198,USR-0263,DEP-011,BUD-DEP-011-2026,2026-02-28,2026-03-27,2891.32,USD,approved,Operational need for synthetic design license
+PR-2026-000199,USR-0181,DEP-001,BUD-DEP-001-2026,2026-11-14,2027-01-11,13882.8,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000200,USR-0134,DEP-002,BUD-DEP-002-2026,2026-08-08,2026-10-05,5136.65,USD,ordered,Operational need for synthetic audit support
+PR-2026-000201,USR-0027,DEP-003,BUD-DEP-003-2026,2026-09-17,2026-10-30,6055.94,USD,approved,Operational need for synthetic implementation services
+PR-2026-000202,USR-0208,DEP-004,BUD-DEP-004-2026,2026-06-21,2026-08-22,22232.43,USD,approved,Operational need for synthetic led fixture
+PR-2026-000203,USR-0245,DEP-005,BUD-DEP-005-2026,2026-06-03,2026-06-24,14888.6,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000204,USR-0174,DEP-006,BUD-DEP-006-2026,2026-05-06,2026-08-02,593.06,USD,approved,Operational need for synthetic laptop
+PR-2026-000205,USR-0115,DEP-007,BUD-DEP-007-2026,2026-04-26,2026-05-27,8189.37,USD,approved,Operational need for synthetic air filter
+PR-2026-000206,USR-0056,DEP-008,BUD-DEP-008-2026,2026-05-02,2026-06-29,15882.21,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000207,USR-0249,DEP-009,BUD-DEP-009-2026,2026-03-28,2026-05-03,17141.79,USD,approved,Operational need for synthetic security license
+PR-2026-000208,USR-0058,DEP-010,BUD-DEP-010-2026,2026-05-06,2026-07-20,396.9,USD,approved,Operational need for synthetic analytics license
+PR-2026-000209,USR-0131,DEP-011,BUD-DEP-011-2026,2026-11-20,2026-12-28,7467.3,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000210,USR-0097,DEP-001,BUD-DEP-001-2026,2026-11-04,2026-12-13,4246.24,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000211,USR-0242,DEP-002,BUD-DEP-002-2026,2026-11-05,2027-01-04,11067.81,USD,approved,Operational need for synthetic protective kit
+PR-2026-000212,USR-0099,DEP-003,BUD-DEP-003-2026,2026-07-11,2026-09-12,2562.56,USD,approved,Operational need for synthetic workstation
+PR-2026-000213,USR-0088,DEP-004,BUD-DEP-004-2026,2026-05-14,2026-07-30,4652.9,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000214,USR-0197,DEP-005,BUD-DEP-005-2026,2026-11-13,2027-01-15,7344.9,USD,approved,Operational need for synthetic laptop
+PR-2026-000215,USR-0150,DEP-006,BUD-DEP-006-2026,2026-06-05,2026-09-02,2518.56,USD,approved,Operational need for synthetic workstation
+PR-2026-000216,USR-0043,DEP-007,BUD-DEP-007-2026,2026-09-07,2026-10-29,4754.97,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000217,USR-0128,DEP-008,BUD-DEP-008-2026,2026-08-02,2026-10-08,17442.0,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000218,USR-0177,DEP-009,BUD-DEP-009-2026,2026-07-06,2026-09-26,1603.44,USD,approved,Operational need for synthetic printer paper
+PR-2026-000219,USR-0010,DEP-010,BUD-DEP-010-2026,2026-07-06,2026-08-01,1029.5,USD,approved,Operational need for synthetic design license
+PR-2026-000220,USR-0143,DEP-011,BUD-DEP-011-2026,2026-09-23,2026-11-18,24068.46,USD,approved,Operational need for synthetic implementation services
+PR-2026-000221,USR-0037,DEP-001,BUD-DEP-001-2026,2026-10-19,2026-12-14,10405.02,USD,approved,Operational need for synthetic implementation services
+PR-2026-000222,USR-0254,DEP-002,BUD-DEP-002-2026,2026-05-17,2026-08-14,5256.72,USD,approved,Operational need for synthetic workstation
+PR-2026-000223,USR-0123,DEP-003,BUD-DEP-003-2026,2026-01-24,2026-03-12,17789.2,USD,rfq_closed,Operational need for synthetic design license
+PR-2026-000224,USR-0100,DEP-004,BUD-DEP-004-2026,2026-10-01,2026-12-22,7549.46,USD,ordered,Operational need for synthetic security license
+PR-2026-000225,USR-0161,DEP-005,BUD-DEP-005-2026,2026-10-18,2026-11-27,11150.16,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000226,USR-0102,DEP-006,BUD-DEP-006-2026,2026-04-03,2026-06-21,9593.25,USD,rfq_closed,Operational need for synthetic implementation services
+PR-2026-000227,USR-0271,DEP-007,BUD-DEP-007-2026,2026-02-18,2026-04-08,1724.4,USD,ordered,Operational need for synthetic air filter
+PR-2026-000228,USR-0188,DEP-008,BUD-DEP-008-2026,2026-05-09,2026-08-04,11890.48,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000229,USR-0081,DEP-009,BUD-DEP-009-2026,2026-11-12,2026-12-08,3057.78,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000230,USR-0130,DEP-010,BUD-DEP-010-2026,2026-02-02,2026-04-12,12227.6,USD,approved,Operational need for synthetic led fixture
+PR-2026-000231,USR-0263,DEP-011,BUD-DEP-011-2026,2026-01-24,2026-04-07,15156.18,USD,approved,Operational need for synthetic led fixture
+PR-2026-000232,USR-0157,DEP-001,BUD-DEP-001-2026,2026-05-05,2026-07-16,3333.0,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000233,USR-0050,DEP-002,BUD-DEP-002-2026,2026-10-03,2026-12-28,4000.0,USD,approved,Operational need for synthetic audit support
+PR-2026-000234,USR-0027,DEP-003,BUD-DEP-003-2026,2026-10-24,2027-01-02,4823.85,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000235,USR-0208,DEP-004,BUD-DEP-004-2026,2026-07-16,2026-08-21,9132.74,USD,approved,Operational need for synthetic air filter
+PR-2026-000236,USR-0005,DEP-005,BUD-DEP-005-2026,2026-08-23,2026-11-03,2295.0,USD,approved,Operational need for synthetic design license
+PR-2026-000237,USR-0066,DEP-006,BUD-DEP-006-2026,2026-01-27,2026-04-18,3458.7,USD,approved,Operational need for synthetic network switch
+PR-2026-000238,USR-0223,DEP-007,BUD-DEP-007-2026,2026-08-13,2026-10-26,2948.13,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000239,USR-0152,DEP-008,BUD-DEP-008-2026,2026-09-16,2026-12-08,10178.64,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000240,USR-0057,DEP-009,BUD-DEP-009-2026,2026-04-23,2026-07-06,18715.32,USD,approved,Operational need for synthetic security license
+PR-2026-000241,USR-0298,DEP-010,BUD-DEP-010-2026,2026-10-18,2026-12-17,3081.24,USD,approved,Operational need for synthetic security license
+PR-2026-000242,USR-0179,DEP-011,BUD-DEP-011-2026,2026-10-01,2026-11-12,2789.12,USD,approved,Operational need for synthetic audit support
+PR-2026-000243,USR-0133,DEP-001,BUD-DEP-001-2026,2026-09-26,2026-10-28,3832.35,USD,approved,Operational need for synthetic analytics license
+PR-2026-000244,USR-0230,DEP-002,BUD-DEP-002-2026,2026-07-11,2026-08-07,5200.3,USD,ordered,Operational need for synthetic audit support
+PR-2026-000245,USR-0279,DEP-003,BUD-DEP-003-2026,2026-03-31,2026-05-16,2998.52,USD,ordered,Operational need for synthetic laptop
+PR-2026-000246,USR-0160,DEP-004,BUD-DEP-004-2026,2026-03-21,2026-05-24,6248.06,USD,approved,Operational need for synthetic design license
+PR-2026-000247,USR-0017,DEP-005,BUD-DEP-005-2026,2026-06-21,2026-09-07,15639.1,USD,ordered,Operational need for synthetic monitor
+PR-2026-000248,USR-0186,DEP-006,BUD-DEP-006-2026,2026-03-09,2026-04-17,6485.08,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000249,USR-0211,DEP-007,BUD-DEP-007-2026,2026-03-20,2026-05-29,7266.87,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000250,USR-0104,DEP-008,BUD-DEP-008-2026,2026-01-20,2026-04-15,4650.69,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000251,USR-0069,DEP-009,BUD-DEP-009-2026,2026-01-29,2026-04-27,20881.44,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000252,USR-0058,DEP-010,BUD-DEP-010-2026,2026-02-21,2026-04-12,4671.0,USD,ordered,Operational need for synthetic audit support
+PR-2026-000253,USR-0167,DEP-011,BUD-DEP-011-2026,2026-09-26,2026-11-20,6049.8,USD,approved,Operational need for synthetic audit support
+PR-2026-000254,USR-0109,DEP-001,BUD-DEP-001-2026,2026-04-05,2026-04-27,3201.17,USD,rfq_closed,Operational need for synthetic design license
+PR-2026-000255,USR-0170,DEP-002,BUD-DEP-002-2026,2026-05-19,2026-07-13,3488.24,USD,approved,Operational need for synthetic audit support
+PR-2026-000256,USR-0063,DEP-003,BUD-DEP-003-2026,2026-02-13,2026-03-18,21240.96,USD,approved,Operational need for synthetic workstation
+PR-2026-000257,USR-0100,DEP-004,BUD-DEP-004-2026,2026-03-09,2026-06-01,8441.4,USD,ordered,Operational need for synthetic design license
+PR-2026-000258,USR-0185,DEP-005,BUD-DEP-005-2026,2026-11-18,2027-02-15,13362.69,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000259,USR-0138,DEP-006,BUD-DEP-006-2026,2026-09-01,2026-10-16,5519.36,USD,ordered,Operational need for synthetic air filter
+PR-2026-000260,USR-0043,DEP-007,BUD-DEP-007-2026,2026-01-26,2026-04-18,12016.8,USD,rfq_closed,Operational need for synthetic implementation services
+PR-2026-000261,USR-0128,DEP-008,BUD-DEP-008-2026,2026-10-17,2027-01-03,14828.88,USD,approved,Operational need for synthetic implementation services
+PR-2026-000262,USR-0261,DEP-009,BUD-DEP-009-2026,2026-02-13,2026-04-04,14183.64,USD,approved,Operational need for synthetic protective kit
+PR-2026-000263,USR-0010,DEP-010,BUD-DEP-010-2026,2026-01-06,2026-03-10,9799.86,USD,ordered,Operational need for synthetic design license
+PR-2026-000264,USR-0191,DEP-011,BUD-DEP-011-2026,2026-04-25,2026-06-17,6564.0,USD,approved,Operational need for synthetic protective kit
+PR-2026-000265,USR-0241,DEP-001,BUD-DEP-001-2026,2026-09-06,2026-10-18,23788.38,USD,approved,Operational need for synthetic audit support
+PR-2026-000266,USR-0122,DEP-002,BUD-DEP-002-2026,2026-03-06,2026-04-29,745.28,USD,approved,Operational need for synthetic workstation
+PR-2026-000267,USR-0267,DEP-003,BUD-DEP-003-2026,2026-06-21,2026-08-05,1457.04,USD,approved,Operational need for synthetic design license
+PR-2026-000268,USR-0076,DEP-004,BUD-DEP-004-2026,2026-07-17,2026-09-12,10836.48,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000269,USR-0281,DEP-005,BUD-DEP-005-2026,2026-02-26,2026-04-21,4665.7,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000270,USR-0114,DEP-006,BUD-DEP-006-2026,2026-03-04,2026-04-16,11995.29,USD,approved,Operational need for synthetic laptop
+PR-2026-000271,USR-0043,DEP-007,BUD-DEP-007-2026,2026-01-06,2026-02-26,4272.0,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000272,USR-0188,DEP-008,BUD-DEP-008-2026,2026-10-12,2026-12-13,4428.52,USD,ordered,Operational need for synthetic security license
+PR-2026-000273,USR-0225,DEP-009,BUD-DEP-009-2026,2026-03-10,2026-05-12,2924.48,USD,approved,Operational need for synthetic implementation services
+PR-2026-000274,USR-0166,DEP-010,BUD-DEP-010-2026,2026-07-15,2026-09-09,17805.84,USD,approved,Operational need for synthetic implementation services
+PR-2026-000275,USR-0143,DEP-011,BUD-DEP-011-2026,2026-01-26,2026-03-03,4116.84,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000276,USR-0169,DEP-001,BUD-DEP-001-2026,2026-03-13,2026-05-04,10343.5,USD,approved,Operational need for synthetic protective kit
+PR-2026-000277,USR-0098,DEP-002,BUD-DEP-002-2026,2026-09-24,2026-10-27,16951.0,USD,approved,Operational need for synthetic laptop
+PR-2026-000278,USR-0087,DEP-003,BUD-DEP-003-2026,2026-06-18,2026-08-09,2347.6,USD,rfq_closed,Operational need for synthetic analytics license
+PR-2026-000279,USR-0184,DEP-004,BUD-DEP-004-2026,2026-08-30,2026-09-25,16819.8,USD,approved,Operational need for synthetic implementation services
+PR-2026-000280,USR-0197,DEP-005,BUD-DEP-005-2026,2026-08-15,2026-10-26,19649.61,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000281,USR-0150,DEP-006,BUD-DEP-006-2026,2026-08-06,2026-09-03,4572.66,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000282,USR-0091,DEP-007,BUD-DEP-007-2026,2026-10-17,2026-12-11,5985.0,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000283,USR-0128,DEP-008,BUD-DEP-008-2026,2026-06-11,2026-07-14,4507.72,USD,ordered,Operational need for synthetic design license
+PR-2026-000284,USR-0021,DEP-009,BUD-DEP-009-2026,2026-10-02,2026-11-06,7987.35,USD,approved,Operational need for synthetic network switch
+PR-2026-000285,USR-0166,DEP-010,BUD-DEP-010-2026,2026-08-18,2026-10-22,2640.45,USD,ordered,Operational need for synthetic air filter
+PR-2026-000286,USR-0203,DEP-011,BUD-DEP-011-2026,2026-08-07,2026-08-27,7137.9,USD,ordered,Operational need for synthetic audit support
+PR-2026-000287,USR-0061,DEP-001,BUD-DEP-001-2026,2026-01-14,2026-03-24,2037.62,USD,approved,Operational need for synthetic printer paper
+PR-2026-000288,USR-0026,DEP-002,BUD-DEP-002-2026,2026-04-10,2026-06-09,1103.85,USD,approved,Operational need for synthetic audit support
+PR-2026-000289,USR-0147,DEP-003,BUD-DEP-003-2026,2026-08-23,2026-10-20,2128.32,USD,approved,Operational need for synthetic monitor
+PR-2026-000290,USR-0172,DEP-004,BUD-DEP-004-2026,2026-05-14,2026-08-01,10022.44,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000291,USR-0269,DEP-005,BUD-DEP-005-2026,2026-09-30,2026-12-22,4090.5,USD,approved,Operational need for synthetic security license
+PR-2026-000292,USR-0282,DEP-006,BUD-DEP-006-2026,2026-07-21,2026-08-11,7558.58,USD,approved,Operational need for synthetic monitor
+PR-2026-000293,USR-0079,DEP-007,BUD-DEP-007-2026,2026-10-16,2026-11-24,2097.28,USD,approved,Operational need for synthetic protective kit
+PR-2026-000294,USR-0020,DEP-008,BUD-DEP-008-2026,2026-05-22,2026-07-19,15359.07,USD,ordered,Operational need for synthetic audit support
+PR-2026-000295,USR-0273,DEP-009,BUD-DEP-009-2026,2026-04-16,2026-05-23,3024.54,USD,approved,Operational need for synthetic protective kit
+PR-2026-000296,USR-0010,DEP-010,BUD-DEP-010-2026,2026-08-19,2026-10-17,6944.5,USD,approved,Operational need for synthetic implementation services
+PR-2026-000297,USR-0035,DEP-011,BUD-DEP-011-2026,2026-05-17,2026-08-03,7722.0,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000298,USR-0265,DEP-001,BUD-DEP-001-2026,2026-05-21,2026-06-20,2640.68,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000299,USR-0278,DEP-002,BUD-DEP-002-2026,2026-07-11,2026-10-07,12871.32,USD,approved,Operational need for synthetic air filter
+PR-2026-000300,USR-0051,DEP-003,BUD-DEP-003-2026,2026-04-30,2026-06-24,1480.08,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000301,USR-0292,DEP-004,BUD-DEP-004-2026,2026-09-01,2026-11-14,699.52,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000302,USR-0257,DEP-005,BUD-DEP-005-2026,2026-05-21,2026-07-14,6189.26,USD,rfq_closed,Operational need for synthetic design license
+PR-2026-000303,USR-0294,DEP-006,BUD-DEP-006-2026,2026-09-06,2026-11-24,7517.25,USD,approved,Operational need for synthetic monitor
+PR-2026-000304,USR-0007,DEP-007,BUD-DEP-007-2026,2026-05-15,2026-06-11,4486.5,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000305,USR-0008,DEP-008,BUD-DEP-008-2026,2026-10-27,2026-12-20,13388.4,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000306,USR-0273,DEP-009,BUD-DEP-009-2026,2026-10-08,2026-11-01,8519.43,USD,approved,Operational need for synthetic implementation services
+PR-2026-000307,USR-0034,DEP-010,BUD-DEP-010-2026,2026-03-02,2026-04-24,3071.52,USD,approved,Operational need for synthetic analytics license
+PR-2026-000308,USR-0023,DEP-011,BUD-DEP-011-2026,2026-04-09,2026-05-31,14566.0,USD,ordered,Operational need for synthetic security license
+PR-2026-000309,USR-0013,DEP-001,BUD-DEP-001-2026,2026-09-04,2026-10-08,6702.3,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000310,USR-0074,DEP-002,BUD-DEP-002-2026,2026-02-15,2026-04-03,7816.44,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000311,USR-0051,DEP-003,BUD-DEP-003-2026,2026-03-12,2026-04-30,20036.64,USD,approved,Operational need for synthetic design license
+PR-2026-000312,USR-0244,DEP-004,BUD-DEP-004-2026,2026-04-18,2026-05-28,5041.99,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000313,USR-0053,DEP-005,BUD-DEP-005-2026,2026-07-03,2026-08-05,6864.4,USD,approved,Operational need for synthetic workstation
+PR-2026-000314,USR-0198,DEP-006,BUD-DEP-006-2026,2026-09-27,2026-11-28,2264.13,USD,rfq_closed,Operational need for synthetic audit support
+PR-2026-000315,USR-0007,DEP-007,BUD-DEP-007-2026,2026-08-08,2026-09-15,14056.63,USD,approved,Operational need for synthetic monitor
+PR-2026-000316,USR-0284,DEP-008,BUD-DEP-008-2026,2026-03-26,2026-06-09,5694.3,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000317,USR-0165,DEP-009,BUD-DEP-009-2026,2026-09-24,2026-11-28,8536.5,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000318,USR-0298,DEP-010,BUD-DEP-010-2026,2026-07-30,2026-09-18,13414.2,USD,approved,Operational need for synthetic protective kit
+PR-2026-000319,USR-0239,DEP-011,BUD-DEP-011-2026,2026-10-24,2026-12-22,17735.6,USD,rfq_closed,Operational need for synthetic audit support
+PR-2026-000320,USR-0169,DEP-001,BUD-DEP-001-2026,2026-07-27,2026-09-25,7045.44,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000321,USR-0170,DEP-002,BUD-DEP-002-2026,2026-11-01,2026-12-16,20431.5,USD,approved,Operational need for synthetic monitor
+PR-2026-000322,USR-0075,DEP-003,BUD-DEP-003-2026,2026-08-22,2026-09-15,12575.15,USD,approved,Operational need for synthetic led fixture
+PR-2026-000323,USR-0292,DEP-004,BUD-DEP-004-2026,2026-07-29,2026-09-03,2798.64,USD,approved,Operational need for synthetic implementation services
+PR-2026-000324,USR-0281,DEP-005,BUD-DEP-005-2026,2026-02-20,2026-05-18,13484.37,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000325,USR-0018,DEP-006,BUD-DEP-006-2026,2026-02-05,2026-04-27,8724.66,USD,ordered,Operational need for synthetic air filter
+PR-2026-000326,USR-0079,DEP-007,BUD-DEP-007-2026,2026-03-06,2026-05-16,5891.52,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000327,USR-0188,DEP-008,BUD-DEP-008-2026,2026-04-21,2026-05-20,11491.74,USD,approved,Operational need for synthetic audit support
+PR-2026-000328,USR-0213,DEP-009,BUD-DEP-009-2026,2026-10-23,2026-12-28,6134.0,USD,approved,Operational need for synthetic implementation services
+PR-2026-000329,USR-0154,DEP-010,BUD-DEP-010-2026,2026-07-10,2026-08-29,12440.68,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000330,USR-0011,DEP-011,BUD-DEP-011-2026,2026-07-31,2026-09-04,4569.3,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000331,USR-0229,DEP-001,BUD-DEP-001-2026,2026-04-30,2026-05-31,402.5,USD,approved,Operational need for synthetic laptop
+PR-2026-000332,USR-0194,DEP-002,BUD-DEP-002-2026,2026-09-27,2026-11-17,21135.34,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000333,USR-0171,DEP-003,BUD-DEP-003-2026,2026-03-27,2026-04-18,6285.0,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000334,USR-0148,DEP-004,BUD-DEP-004-2026,2026-09-23,2026-11-08,2149.85,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000335,USR-0221,DEP-005,BUD-DEP-005-2026,2026-08-15,2026-09-24,4034.0,USD,approved,Operational need for synthetic audit support
+PR-2026-000336,USR-0126,DEP-006,BUD-DEP-006-2026,2026-05-20,2026-07-02,12581.24,USD,approved,Operational need for synthetic network switch
+PR-2026-000337,USR-0211,DEP-007,BUD-DEP-007-2026,2026-07-14,2026-08-12,6175.54,USD,rfq_closed,Operational need for synthetic protective kit
+PR-2026-000338,USR-0140,DEP-008,BUD-DEP-008-2026,2026-01-05,2026-03-18,3507.84,USD,ordered,Operational need for synthetic workstation
+PR-2026-000339,USR-0009,DEP-009,BUD-DEP-009-2026,2026-03-02,2026-04-04,5944.5,USD,ordered,Operational need for synthetic workstation
+PR-2026-000340,USR-0022,DEP-010,BUD-DEP-010-2026,2026-03-03,2026-03-26,10666.14,USD,approved,Operational need for synthetic audit support
+PR-2026-000341,USR-0263,DEP-011,BUD-DEP-011-2026,2026-03-27,2026-06-23,11438.36,USD,ordered,Operational need for synthetic security license
+PR-2026-000342,USR-0229,DEP-001,BUD-DEP-001-2026,2026-08-25,2026-11-03,3876.8,USD,approved,Operational need for synthetic laptop
+PR-2026-000343,USR-0182,DEP-002,BUD-DEP-002-2026,2026-11-04,2026-12-06,15563.52,USD,ordered,Operational need for synthetic air filter
+PR-2026-000344,USR-0183,DEP-003,BUD-DEP-003-2026,2026-08-01,2026-08-25,17085.75,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000345,USR-0196,DEP-004,BUD-DEP-004-2026,2026-09-10,2026-10-17,10419.5,USD,approved,Operational need for synthetic led fixture
+PR-2026-000346,USR-0185,DEP-005,BUD-DEP-005-2026,2026-01-18,2026-03-14,9672.9,USD,approved,Operational need for synthetic implementation services
+PR-2026-000347,USR-0198,DEP-006,BUD-DEP-006-2026,2026-06-09,2026-07-15,15765.2,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000348,USR-0115,DEP-007,BUD-DEP-007-2026,2026-02-23,2026-04-05,16197.08,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000349,USR-0248,DEP-008,BUD-DEP-008-2026,2026-01-10,2026-02-18,2875.0,USD,approved,Operational need for synthetic printer paper
+PR-2026-000350,USR-0093,DEP-009,BUD-DEP-009-2026,2026-06-06,2026-09-03,5066.02,USD,ordered,Operational need for synthetic laptop
+PR-2026-000351,USR-0142,DEP-010,BUD-DEP-010-2026,2026-08-08,2026-11-06,6202.35,USD,approved,Operational need for synthetic printer paper
+PR-2026-000352,USR-0035,DEP-011,BUD-DEP-011-2026,2026-03-30,2026-06-21,19188.4,USD,ordered,Operational need for synthetic design license
+PR-2026-000353,USR-0217,DEP-001,BUD-DEP-001-2026,2026-07-12,2026-10-05,4623.12,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000354,USR-0266,DEP-002,BUD-DEP-002-2026,2026-03-06,2026-04-25,910.98,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000355,USR-0291,DEP-003,BUD-DEP-003-2026,2026-11-01,2027-01-22,1270.07,USD,approved,Operational need for synthetic design license
+PR-2026-000356,USR-0280,DEP-004,BUD-DEP-004-2026,2026-08-28,2026-10-18,11116.75,USD,approved,Operational need for synthetic design license
+PR-2026-000357,USR-0233,DEP-005,BUD-DEP-005-2026,2026-01-16,2026-03-31,13788.72,USD,ordered,Operational need for synthetic design license
+PR-2026-000358,USR-0198,DEP-006,BUD-DEP-006-2026,2026-03-08,2026-04-16,3627.6,USD,approved,Operational need for synthetic laptop
+PR-2026-000359,USR-0187,DEP-007,BUD-DEP-007-2026,2026-08-17,2026-11-06,21192.54,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000360,USR-0020,DEP-008,BUD-DEP-008-2026,2026-07-20,2026-09-17,10361.75,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000361,USR-0117,DEP-009,BUD-DEP-009-2026,2026-09-23,2026-12-19,3864.44,USD,approved,Operational need for synthetic printer paper
+PR-2026-000362,USR-0262,DEP-010,BUD-DEP-010-2026,2026-07-02,2026-08-18,3906.72,USD,ordered,Operational need for synthetic monitor
+PR-2026-000363,USR-0071,DEP-011,BUD-DEP-011-2026,2026-05-07,2026-05-27,2531.81,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000364,USR-0181,DEP-001,BUD-DEP-001-2026,2026-08-24,2026-11-09,1773.72,USD,ordered,Operational need for synthetic workstation
+PR-2026-000365,USR-0266,DEP-002,BUD-DEP-002-2026,2026-05-27,2026-06-18,14536.2,USD,approved,Operational need for synthetic printer paper
+PR-2026-000366,USR-0171,DEP-003,BUD-DEP-003-2026,2026-01-13,2026-04-09,9373.7,USD,rfq_closed,Operational need for synthetic air filter
+PR-2026-000367,USR-0088,DEP-004,BUD-DEP-004-2026,2026-04-17,2026-06-22,8250.85,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000368,USR-0197,DEP-005,BUD-DEP-005-2026,2026-01-08,2026-02-08,18788.88,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000369,USR-0198,DEP-006,BUD-DEP-006-2026,2026-07-18,2026-10-15,7159.04,USD,rfq_closed,Operational need for synthetic workstation
+PR-2026-000370,USR-0163,DEP-007,BUD-DEP-007-2026,2026-08-19,2026-09-16,3022.5,USD,approved,Operational need for synthetic design license
+PR-2026-000371,USR-0236,DEP-008,BUD-DEP-008-2026,2026-10-26,2027-01-05,1854.62,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000372,USR-0225,DEP-009,BUD-DEP-009-2026,2026-11-08,2027-01-25,17703.92,USD,approved,Operational need for synthetic analytics license
+PR-2026-000373,USR-0058,DEP-010,BUD-DEP-010-2026,2026-07-27,2026-08-27,7199.44,USD,approved,Operational need for synthetic implementation services
+PR-2026-000374,USR-0299,DEP-011,BUD-DEP-011-2026,2026-02-17,2026-03-28,15297.12,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000375,USR-0025,DEP-001,BUD-DEP-001-2026,2026-06-29,2026-09-18,7302.96,USD,ordered,Operational need for synthetic security license
+PR-2026-000376,USR-0242,DEP-002,BUD-DEP-002-2026,2026-09-09,2026-11-17,6036.81,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000377,USR-0291,DEP-003,BUD-DEP-003-2026,2026-03-17,2026-06-04,6772.0,USD,approved,Operational need for synthetic workstation
+PR-2026-000378,USR-0076,DEP-004,BUD-DEP-004-2026,2026-11-07,2026-12-14,4472.52,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000379,USR-0161,DEP-005,BUD-DEP-005-2026,2026-09-26,2026-10-25,11801.4,USD,approved,Operational need for synthetic design license
+PR-2026-000380,USR-0006,DEP-006,BUD-DEP-006-2026,2026-09-18,2026-12-09,4510.35,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000381,USR-0295,DEP-007,BUD-DEP-007-2026,2026-01-11,2026-03-22,15382.76,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000382,USR-0128,DEP-008,BUD-DEP-008-2026,2026-04-20,2026-05-26,9864.18,USD,rfq_closed,Operational need for synthetic implementation services
+PR-2026-000383,USR-0273,DEP-009,BUD-DEP-009-2026,2026-11-11,2027-01-08,13036.5,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000384,USR-0298,DEP-010,BUD-DEP-010-2026,2026-06-08,2026-08-04,9333.94,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000385,USR-0083,DEP-011,BUD-DEP-011-2026,2026-04-04,2026-06-28,1091.36,USD,approved,Operational need for synthetic laptop
+PR-2026-000386,USR-0253,DEP-001,BUD-DEP-001-2026,2026-02-25,2026-04-12,17681.58,USD,approved,Operational need for synthetic monitor
+PR-2026-000387,USR-0134,DEP-002,BUD-DEP-002-2026,2026-05-05,2026-07-14,2237.54,USD,approved,Operational need for synthetic implementation services
+PR-2026-000388,USR-0147,DEP-003,BUD-DEP-003-2026,2026-06-06,2026-07-31,11597.43,USD,approved,Operational need for synthetic analytics license
+PR-2026-000389,USR-0016,DEP-004,BUD-DEP-004-2026,2026-07-29,2026-09-14,7078.68,USD,ordered,Operational need for synthetic laptop
+PR-2026-000390,USR-0137,DEP-005,BUD-DEP-005-2026,2026-02-23,2026-05-02,10591.88,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000391,USR-0270,DEP-006,BUD-DEP-006-2026,2026-06-26,2026-09-19,4951.71,USD,approved,Operational need for synthetic analytics license
+PR-2026-000392,USR-0211,DEP-007,BUD-DEP-007-2026,2026-05-08,2026-07-12,16097.97,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000393,USR-0200,DEP-008,BUD-DEP-008-2026,2026-10-03,2026-11-27,12213.2,USD,ordered,Operational need for synthetic laptop
+PR-2026-000394,USR-0237,DEP-009,BUD-DEP-009-2026,2026-04-02,2026-04-26,7497.08,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000395,USR-0010,DEP-010,BUD-DEP-010-2026,2026-08-17,2026-11-07,4019.85,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000396,USR-0275,DEP-011,BUD-DEP-011-2026,2026-04-13,2026-06-26,6608.57,USD,approved,Operational need for synthetic air filter
+PR-2026-000397,USR-0133,DEP-001,BUD-DEP-001-2026,2026-05-14,2026-07-12,5819.04,USD,approved,Operational need for synthetic monitor
+PR-2026-000398,USR-0014,DEP-002,BUD-DEP-002-2026,2026-11-20,2027-01-11,20222.4,USD,approved,Operational need for synthetic security license
+PR-2026-000399,USR-0039,DEP-003,BUD-DEP-003-2026,2026-03-25,2026-05-11,6515.04,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000400,USR-0016,DEP-004,BUD-DEP-004-2026,2026-02-12,2026-04-16,5490.5,USD,approved,Operational need for synthetic air filter
+PR-2026-000401,USR-0005,DEP-005,BUD-DEP-005-2026,2026-06-01,2026-08-12,5602.35,USD,approved,Operational need for synthetic workstation
+PR-2026-000402,USR-0138,DEP-006,BUD-DEP-006-2026,2026-08-03,2026-10-24,3230.52,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000403,USR-0127,DEP-007,BUD-DEP-007-2026,2026-08-28,2026-10-04,2369.1,USD,ordered,Operational need for synthetic security license
+PR-2026-000404,USR-0092,DEP-008,BUD-DEP-008-2026,2026-01-27,2026-04-09,6560.29,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000405,USR-0009,DEP-009,BUD-DEP-009-2026,2026-08-08,2026-09-17,2797.55,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000406,USR-0046,DEP-010,BUD-DEP-010-2026,2026-10-09,2026-10-29,4351.0,USD,ordered,Operational need for synthetic audit support
+PR-2026-000407,USR-0167,DEP-011,BUD-DEP-011-2026,2026-05-15,2026-07-28,2606.56,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000408,USR-0193,DEP-001,BUD-DEP-001-2026,2026-01-17,2026-03-23,21242.01,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000409,USR-0122,DEP-002,BUD-DEP-002-2026,2026-09-06,2026-11-09,9931.57,USD,ordered,Operational need for synthetic security license
+PR-2026-000410,USR-0267,DEP-003,BUD-DEP-003-2026,2026-04-23,2026-07-07,8763.93,USD,approved,Operational need for synthetic air filter
+PR-2026-000411,USR-0124,DEP-004,BUD-DEP-004-2026,2026-04-29,2026-07-02,1768.52,USD,approved,Operational need for synthetic analytics license
+PR-2026-000412,USR-0137,DEP-005,BUD-DEP-005-2026,2026-08-20,2026-10-18,1963.52,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000413,USR-0054,DEP-006,BUD-DEP-006-2026,2026-06-11,2026-08-01,7816.55,USD,ordered,Operational need for synthetic network switch
+PR-2026-000414,USR-0163,DEP-007,BUD-DEP-007-2026,2026-09-11,2026-12-07,7112.04,USD,approved,Operational need for synthetic implementation services
+PR-2026-000415,USR-0248,DEP-008,BUD-DEP-008-2026,2026-01-18,2026-03-22,16740.36,USD,approved,Operational need for synthetic network switch
+PR-2026-000416,USR-0297,DEP-009,BUD-DEP-009-2026,2026-01-16,2026-03-23,680.1,USD,approved,Operational need for synthetic analytics license
+PR-2026-000417,USR-0238,DEP-010,BUD-DEP-010-2026,2026-04-09,2026-05-23,22719.6,USD,approved,Operational need for synthetic design license
+PR-2026-000418,USR-0167,DEP-011,BUD-DEP-011-2026,2026-03-27,2026-04-22,22028.5,USD,approved,Operational need for synthetic implementation services
+PR-2026-000419,USR-0217,DEP-001,BUD-DEP-001-2026,2026-07-19,2026-08-16,4628.32,USD,approved,Operational need for synthetic workstation
+PR-2026-000420,USR-0026,DEP-002,BUD-DEP-002-2026,2026-10-28,2026-11-30,4457.32,USD,approved,Operational need for synthetic implementation services
+PR-2026-000421,USR-0111,DEP-003,BUD-DEP-003-2026,2026-10-15,2026-12-25,6905.74,USD,approved,Operational need for synthetic audit support
+PR-2026-000422,USR-0040,DEP-004,BUD-DEP-004-2026,2026-05-12,2026-07-09,1357.95,USD,approved,Operational need for synthetic workstation
+PR-2026-000423,USR-0101,DEP-005,BUD-DEP-005-2026,2026-07-13,2026-10-05,10569.0,USD,ordered,Operational need for synthetic design license
+PR-2026-000424,USR-0114,DEP-006,BUD-DEP-006-2026,2026-06-22,2026-08-22,21863.19,USD,approved,Operational need for synthetic audit support
+PR-2026-000425,USR-0115,DEP-007,BUD-DEP-007-2026,2026-01-26,2026-02-23,22666.44,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000426,USR-0188,DEP-008,BUD-DEP-008-2026,2026-09-20,2026-10-13,6475.35,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000427,USR-0141,DEP-009,BUD-DEP-009-2026,2026-07-31,2026-10-10,9631.08,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000428,USR-0298,DEP-010,BUD-DEP-010-2026,2026-10-20,2026-12-13,2097.86,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000429,USR-0131,DEP-011,BUD-DEP-011-2026,2026-10-03,2026-11-01,1604.57,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000430,USR-0265,DEP-001,BUD-DEP-001-2026,2026-02-03,2026-02-26,6115.76,USD,approved,Operational need for synthetic analytics license
+PR-2026-000431,USR-0086,DEP-002,BUD-DEP-002-2026,2026-06-20,2026-08-20,8176.27,USD,ordered,Operational need for synthetic monitor
+PR-2026-000432,USR-0147,DEP-003,BUD-DEP-003-2026,2026-03-24,2026-05-17,8598.24,USD,ordered,Operational need for synthetic workstation
+PR-2026-000433,USR-0232,DEP-004,BUD-DEP-004-2026,2026-10-31,2026-12-03,10074.04,USD,ordered,Operational need for synthetic air filter
+PR-2026-000434,USR-0257,DEP-005,BUD-DEP-005-2026,2026-01-13,2026-02-04,2618.4,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000435,USR-0078,DEP-006,BUD-DEP-006-2026,2026-07-22,2026-08-21,13464.55,USD,approved,Operational need for synthetic network switch
+PR-2026-000436,USR-0211,DEP-007,BUD-DEP-007-2026,2026-07-04,2026-10-01,10193.68,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000437,USR-0224,DEP-008,BUD-DEP-008-2026,2026-05-01,2026-06-14,2913.76,USD,approved,Operational need for synthetic audit support
+PR-2026-000438,USR-0069,DEP-009,BUD-DEP-009-2026,2026-03-02,2026-05-09,12052.5,USD,approved,Operational need for synthetic air filter
+PR-2026-000439,USR-0022,DEP-010,BUD-DEP-010-2026,2026-08-13,2026-09-06,2772.28,USD,approved,Operational need for synthetic printer paper
+PR-2026-000440,USR-0227,DEP-011,BUD-DEP-011-2026,2026-08-21,2026-10-30,7448.32,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000441,USR-0289,DEP-001,BUD-DEP-001-2026,2026-02-04,2026-03-16,1755.78,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000442,USR-0146,DEP-002,BUD-DEP-002-2026,2026-06-23,2026-07-29,3834.5,USD,approved,Operational need for synthetic led fixture
+PR-2026-000443,USR-0039,DEP-003,BUD-DEP-003-2026,2026-04-11,2026-05-13,1402.47,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000444,USR-0268,DEP-004,BUD-DEP-004-2026,2026-01-31,2026-03-04,2656.94,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000445,USR-0221,DEP-005,BUD-DEP-005-2026,2026-09-11,2026-12-10,9477.76,USD,rfq_closed,Operational need for synthetic workstation
+PR-2026-000446,USR-0210,DEP-006,BUD-DEP-006-2026,2026-10-14,2026-12-25,1568.07,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000447,USR-0175,DEP-007,BUD-DEP-007-2026,2026-05-07,2026-06-11,14053.16,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000448,USR-0164,DEP-008,BUD-DEP-008-2026,2026-08-07,2026-10-16,8751.0,USD,approved,Operational need for synthetic air filter
+PR-2026-000449,USR-0117,DEP-009,BUD-DEP-009-2026,2026-07-02,2026-08-26,3339.7,USD,ordered,Operational need for synthetic security license
+PR-2026-000450,USR-0238,DEP-010,BUD-DEP-010-2026,2026-05-21,2026-06-29,444.4,USD,rfq_closed,Operational need for synthetic workstation
+PR-2026-000451,USR-0239,DEP-011,BUD-DEP-011-2026,2026-11-05,2026-12-22,12555.48,USD,ordered,Operational need for synthetic design license
+PR-2026-000452,USR-0097,DEP-001,BUD-DEP-001-2026,2026-10-05,2026-12-07,1878.15,USD,approved,Operational need for synthetic design license
+PR-2026-000453,USR-0050,DEP-002,BUD-DEP-002-2026,2026-09-10,2026-10-08,10726.31,USD,ordered,Operational need for synthetic air filter
+PR-2026-000454,USR-0279,DEP-003,BUD-DEP-003-2026,2026-07-12,2026-08-03,9835.56,USD,approved,Operational need for synthetic analytics license
+PR-2026-000455,USR-0076,DEP-004,BUD-DEP-004-2026,2026-04-21,2026-05-11,2334.0,USD,ordered,Operational need for synthetic monitor
+PR-2026-000456,USR-0209,DEP-005,BUD-DEP-005-2026,2026-01-11,2026-02-17,10543.04,USD,ordered,Operational need for synthetic workstation
+PR-2026-000457,USR-0126,DEP-006,BUD-DEP-006-2026,2026-03-16,2026-06-12,12837.41,USD,approved,Operational need for synthetic implementation services
+PR-2026-000458,USR-0139,DEP-007,BUD-DEP-007-2026,2026-01-31,2026-03-19,7339.5,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000459,USR-0092,DEP-008,BUD-DEP-008-2026,2026-02-08,2026-04-06,2245.59,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000460,USR-0009,DEP-009,BUD-DEP-009-2026,2026-07-21,2026-08-12,4321.85,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000461,USR-0286,DEP-010,BUD-DEP-010-2026,2026-11-13,2027-01-02,5700.95,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000462,USR-0071,DEP-011,BUD-DEP-011-2026,2026-05-31,2026-08-19,12312.12,USD,approved,Operational need for synthetic protective kit
+PR-2026-000463,USR-0001,DEP-001,BUD-DEP-001-2026,2026-04-15,2026-05-23,23815.2,USD,approved,Operational need for synthetic design license
+PR-2026-000464,USR-0266,DEP-002,BUD-DEP-002-2026,2026-05-07,2026-07-14,4875.86,USD,approved,Operational need for synthetic security license
+PR-2026-000465,USR-0171,DEP-003,BUD-DEP-003-2026,2026-01-15,2026-04-02,11649.76,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000466,USR-0088,DEP-004,BUD-DEP-004-2026,2026-10-09,2026-12-19,4959.5,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000467,USR-0281,DEP-005,BUD-DEP-005-2026,2026-02-27,2026-05-03,7118.65,USD,approved,Operational need for synthetic analytics license
+PR-2026-000468,USR-0210,DEP-006,BUD-DEP-006-2026,2026-06-21,2026-08-10,14829.0,USD,approved,Operational need for synthetic implementation services
+PR-2026-000469,USR-0211,DEP-007,BUD-DEP-007-2026,2026-10-02,2026-11-09,17237.6,USD,approved,Operational need for synthetic design license
+PR-2026-000470,USR-0200,DEP-008,BUD-DEP-008-2026,2026-01-17,2026-03-12,2674.28,USD,ordered,Operational need for synthetic network switch
+PR-2026-000471,USR-0177,DEP-009,BUD-DEP-009-2026,2026-02-23,2026-04-24,4686.22,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000472,USR-0214,DEP-010,BUD-DEP-010-2026,2026-05-12,2026-06-23,2076.6,USD,approved,Operational need for synthetic printer paper
+PR-2026-000473,USR-0035,DEP-011,BUD-DEP-011-2026,2026-04-10,2026-05-15,3849.3,USD,approved,Operational need for synthetic design license
+PR-2026-000474,USR-0037,DEP-001,BUD-DEP-001-2026,2026-03-07,2026-03-27,1586.76,USD,approved,Operational need for synthetic workstation
+PR-2026-000475,USR-0278,DEP-002,BUD-DEP-002-2026,2026-09-03,2026-11-14,9779.38,USD,approved,Operational need for synthetic network switch
+PR-2026-000476,USR-0231,DEP-003,BUD-DEP-003-2026,2026-05-17,2026-08-08,7773.75,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000477,USR-0016,DEP-004,BUD-DEP-004-2026,2026-04-10,2026-07-09,4726.44,USD,approved,Operational need for synthetic audit support
+PR-2026-000478,USR-0029,DEP-005,BUD-DEP-005-2026,2026-08-20,2026-11-04,9488.64,USD,approved,Operational need for synthetic audit support
+PR-2026-000479,USR-0294,DEP-006,BUD-DEP-006-2026,2026-06-20,2026-08-09,4920.0,USD,rfq_closed,Operational need for synthetic printer paper
+PR-2026-000480,USR-0055,DEP-007,BUD-DEP-007-2026,2026-10-29,2027-01-02,2493.71,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000481,USR-0296,DEP-008,BUD-DEP-008-2026,2026-02-10,2026-04-16,7958.15,USD,approved,Operational need for synthetic analytics license
+PR-2026-000482,USR-0069,DEP-009,BUD-DEP-009-2026,2026-04-19,2026-06-28,1176.16,USD,approved,Operational need for synthetic laptop
+PR-2026-000483,USR-0214,DEP-010,BUD-DEP-010-2026,2026-02-24,2026-03-17,2124.45,USD,approved,Operational need for synthetic protective kit
+PR-2026-000484,USR-0143,DEP-011,BUD-DEP-011-2026,2026-05-26,2026-06-30,16996.8,USD,ordered,Operational need for synthetic design license
+PR-2026-000485,USR-0193,DEP-001,BUD-DEP-001-2026,2026-10-20,2027-01-09,17963.76,USD,rfq_closed,Operational need for synthetic security license
+PR-2026-000486,USR-0266,DEP-002,BUD-DEP-002-2026,2026-02-27,2026-05-15,19945.0,USD,ordered,Operational need for synthetic audit support
+PR-2026-000487,USR-0243,DEP-003,BUD-DEP-003-2026,2026-10-23,2027-01-07,20540.68,USD,rfq_closed,Operational need for synthetic security license
+PR-2026-000488,USR-0280,DEP-004,BUD-DEP-004-2026,2026-10-25,2027-01-10,6341.14,USD,ordered,Operational need for synthetic design license
+PR-2026-000489,USR-0029,DEP-005,BUD-DEP-005-2026,2026-03-17,2026-04-20,1687.5,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000490,USR-0090,DEP-006,BUD-DEP-006-2026,2026-10-21,2026-11-16,18160.2,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000491,USR-0199,DEP-007,BUD-DEP-007-2026,2026-10-02,2026-11-30,4770.04,USD,ordered,Operational need for synthetic laptop
+PR-2026-000492,USR-0272,DEP-008,BUD-DEP-008-2026,2026-07-20,2026-08-17,10895.02,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000493,USR-0081,DEP-009,BUD-DEP-009-2026,2026-10-14,2026-11-07,9623.89,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000494,USR-0178,DEP-010,BUD-DEP-010-2026,2026-03-14,2026-06-09,7283.65,USD,approved,Operational need for synthetic monitor
+PR-2026-000495,USR-0287,DEP-011,BUD-DEP-011-2026,2026-04-21,2026-06-13,4675.13,USD,approved,Operational need for synthetic security license
+PR-2026-000496,USR-0241,DEP-001,BUD-DEP-001-2026,2026-02-04,2026-03-28,14436.58,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000497,USR-0182,DEP-002,BUD-DEP-002-2026,2026-04-16,2026-07-11,469.35,USD,ordered,Operational need for synthetic monitor
+PR-2026-000498,USR-0111,DEP-003,BUD-DEP-003-2026,2026-06-24,2026-08-07,10255.29,USD,ordered,Operational need for synthetic air filter
+PR-2026-000499,USR-0232,DEP-004,BUD-DEP-004-2026,2026-04-23,2026-06-04,6514.3,USD,approved,Operational need for synthetic design license
+PR-2026-000500,USR-0173,DEP-005,BUD-DEP-005-2026,2026-10-02,2026-12-11,2232.56,USD,approved,Operational need for synthetic printer paper
+PR-2026-000501,USR-0114,DEP-006,BUD-DEP-006-2026,2026-03-02,2026-04-07,1519.98,USD,ordered,Operational need for synthetic monitor
+PR-2026-000502,USR-0007,DEP-007,BUD-DEP-007-2026,2026-01-23,2026-04-23,1448.65,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000503,USR-0116,DEP-008,BUD-DEP-008-2026,2026-06-15,2026-07-28,1669.68,USD,approved,Operational need for synthetic implementation services
+PR-2026-000504,USR-0261,DEP-009,BUD-DEP-009-2026,2026-11-03,2026-11-29,3072.42,USD,approved,Operational need for synthetic led fixture
+PR-2026-000505,USR-0154,DEP-010,BUD-DEP-010-2026,2026-05-20,2026-07-24,11609.57,USD,ordered,Operational need for synthetic air filter
+PR-2026-000506,USR-0131,DEP-011,BUD-DEP-011-2026,2026-02-11,2026-03-25,7200.18,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000507,USR-0085,DEP-001,BUD-DEP-001-2026,2026-06-12,2026-08-25,7350.12,USD,ordered,Operational need for synthetic design license
+PR-2026-000508,USR-0098,DEP-002,BUD-DEP-002-2026,2026-09-22,2026-12-13,4866.25,USD,approved,Operational need for synthetic audit support
+PR-2026-000509,USR-0135,DEP-003,BUD-DEP-003-2026,2026-09-16,2026-11-03,7322.41,USD,approved,Operational need for synthetic implementation services
+PR-2026-000510,USR-0028,DEP-004,BUD-DEP-004-2026,2026-09-22,2026-11-14,12489.75,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000511,USR-0065,DEP-005,BUD-DEP-005-2026,2026-10-31,2026-12-13,12072.03,USD,rfq_closed,Operational need for synthetic ergonomic chair
+PR-2026-000512,USR-0294,DEP-006,BUD-DEP-006-2026,2026-01-25,2026-04-17,16227.88,USD,approved,Operational need for synthetic led fixture
+PR-2026-000513,USR-0067,DEP-007,BUD-DEP-007-2026,2026-06-08,2026-06-28,4449.12,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000514,USR-0164,DEP-008,BUD-DEP-008-2026,2026-10-16,2026-11-08,8724.3,USD,approved,Operational need for synthetic air filter
+PR-2026-000515,USR-0285,DEP-009,BUD-DEP-009-2026,2026-02-06,2026-02-28,3774.98,USD,approved,Operational need for synthetic air filter
+PR-2026-000516,USR-0190,DEP-010,BUD-DEP-010-2026,2026-11-17,2027-01-10,5200.32,USD,approved,Operational need for synthetic audit support
+PR-2026-000517,USR-0059,DEP-011,BUD-DEP-011-2026,2026-02-23,2026-05-11,6307.95,USD,approved,Operational need for synthetic monitor
+PR-2026-000518,USR-0241,DEP-001,BUD-DEP-001-2026,2026-03-13,2026-05-03,5718.24,USD,approved,Operational need for synthetic analytics license
+PR-2026-000519,USR-0290,DEP-002,BUD-DEP-002-2026,2026-02-21,2026-05-14,17935.2,USD,ordered,Operational need for synthetic air filter
+PR-2026-000520,USR-0291,DEP-003,BUD-DEP-003-2026,2026-08-27,2026-10-02,24441.03,USD,approved,Operational need for synthetic air filter
+PR-2026-000521,USR-0136,DEP-004,BUD-DEP-004-2026,2026-10-03,2026-12-20,19812.85,USD,ordered,Operational need for synthetic monitor
+PR-2026-000522,USR-0089,DEP-005,BUD-DEP-005-2026,2026-02-12,2026-03-10,6513.78,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000523,USR-0162,DEP-006,BUD-DEP-006-2026,2026-06-23,2026-09-05,12660.49,USD,ordered,Operational need for synthetic air filter
+PR-2026-000524,USR-0019,DEP-007,BUD-DEP-007-2026,2026-05-04,2026-07-08,5473.5,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000525,USR-0008,DEP-008,BUD-DEP-008-2026,2026-10-01,2026-12-26,2139.54,USD,approved,Operational need for synthetic monitor
+PR-2026-000526,USR-0249,DEP-009,BUD-DEP-009-2026,2026-08-21,2026-09-12,20223.77,USD,approved,Operational need for synthetic security license
+PR-2026-000527,USR-0118,DEP-010,BUD-DEP-010-2026,2026-01-13,2026-04-13,4862.33,USD,ordered,Operational need for synthetic security license
+PR-2026-000528,USR-0155,DEP-011,BUD-DEP-011-2026,2026-06-06,2026-07-17,5528.88,USD,ordered,Operational need for synthetic design license
+PR-2026-000529,USR-0037,DEP-001,BUD-DEP-001-2026,2026-11-17,2027-01-26,2649.0,USD,approved,Operational need for synthetic analytics license
+PR-2026-000530,USR-0050,DEP-002,BUD-DEP-002-2026,2026-09-28,2026-11-04,15429.54,USD,approved,Operational need for synthetic air filter
+PR-2026-000531,USR-0195,DEP-003,BUD-DEP-003-2026,2026-07-24,2026-10-15,11056.2,USD,approved,Operational need for synthetic monitor
+PR-2026-000532,USR-0040,DEP-004,BUD-DEP-004-2026,2026-01-11,2026-03-02,6559.8,USD,approved,Operational need for synthetic led fixture
+PR-2026-000533,USR-0209,DEP-005,BUD-DEP-005-2026,2026-10-11,2026-11-11,5286.08,USD,approved,Operational need for synthetic led fixture
+PR-2026-000534,USR-0042,DEP-006,BUD-DEP-006-2026,2026-08-13,2026-10-27,7329.95,USD,ordered,Operational need for synthetic laptop
+PR-2026-000535,USR-0055,DEP-007,BUD-DEP-007-2026,2026-11-07,2027-01-28,19231.2,USD,approved,Operational need for synthetic analytics license
+PR-2026-000536,USR-0296,DEP-008,BUD-DEP-008-2026,2026-01-25,2026-03-19,4214.0,USD,approved,Operational need for synthetic security license
+PR-2026-000537,USR-0177,DEP-009,BUD-DEP-009-2026,2026-03-31,2026-05-24,7079.1,USD,ordered,Operational need for synthetic workstation
+PR-2026-000538,USR-0262,DEP-010,BUD-DEP-010-2026,2026-11-19,2027-01-08,18720.13,USD,ordered,Operational need for synthetic design license
+PR-2026-000539,USR-0155,DEP-011,BUD-DEP-011-2026,2026-09-09,2026-11-18,3634.26,USD,ordered,Operational need for synthetic monitor
+PR-2026-000540,USR-0217,DEP-001,BUD-DEP-001-2026,2026-08-19,2026-09-12,17618.15,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000541,USR-0206,DEP-002,BUD-DEP-002-2026,2026-03-10,2026-06-04,12495.84,USD,approved,Operational need for synthetic security license
+PR-2026-000542,USR-0135,DEP-003,BUD-DEP-003-2026,2026-01-05,2026-01-29,12929.84,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000543,USR-0112,DEP-004,BUD-DEP-004-2026,2026-06-29,2026-09-01,21986.06,USD,approved,Operational need for synthetic design license
+PR-2026-000544,USR-0185,DEP-005,BUD-DEP-005-2026,2026-07-21,2026-09-20,2507.36,USD,ordered,Operational need for synthetic design license
+PR-2026-000545,USR-0246,DEP-006,BUD-DEP-006-2026,2026-07-04,2026-09-01,12561.06,USD,ordered,Operational need for synthetic audit support
+PR-2026-000546,USR-0283,DEP-007,BUD-DEP-007-2026,2026-03-21,2026-04-21,13125.75,USD,approved,Operational need for synthetic monitor
+PR-2026-000547,USR-0284,DEP-008,BUD-DEP-008-2026,2026-07-16,2026-09-18,10103.96,USD,approved,Operational need for synthetic analytics license
+PR-2026-000548,USR-0285,DEP-009,BUD-DEP-009-2026,2026-08-28,2026-11-17,3923.7,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000549,USR-0106,DEP-010,BUD-DEP-010-2026,2026-05-07,2026-07-17,11521.46,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000550,USR-0107,DEP-011,BUD-DEP-011-2026,2026-06-11,2026-08-14,16935.16,USD,approved,Operational need for synthetic security license
+PR-2026-000551,USR-0025,DEP-001,BUD-DEP-001-2026,2026-06-28,2026-08-10,2728.8,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000552,USR-0062,DEP-002,BUD-DEP-002-2026,2026-05-24,2026-07-22,5347.65,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000553,USR-0039,DEP-003,BUD-DEP-003-2026,2026-05-17,2026-06-24,2564.64,USD,ordered,Operational need for synthetic air filter
+PR-2026-000554,USR-0088,DEP-004,BUD-DEP-004-2026,2026-03-19,2026-05-08,24037.52,USD,ordered,Operational need for synthetic air filter
+PR-2026-000555,USR-0245,DEP-005,BUD-DEP-005-2026,2026-01-15,2026-02-28,7818.51,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000556,USR-0006,DEP-006,BUD-DEP-006-2026,2026-01-22,2026-02-23,2967.3,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000557,USR-0175,DEP-007,BUD-DEP-007-2026,2026-10-18,2026-11-17,10363.76,USD,rfq_closed,Operational need for synthetic audit support
+PR-2026-000558,USR-0068,DEP-008,BUD-DEP-008-2026,2026-11-17,2027-01-10,6652.1,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000559,USR-0129,DEP-009,BUD-DEP-009-2026,2026-11-11,2026-12-22,5509.0,USD,approved,Operational need for synthetic printer paper
+PR-2026-000560,USR-0130,DEP-010,BUD-DEP-010-2026,2026-07-09,2026-09-15,4910.76,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000561,USR-0215,DEP-011,BUD-DEP-011-2026,2026-04-19,2026-06-05,3085.92,USD,approved,Operational need for synthetic security license
+PR-2026-000562,USR-0013,DEP-001,BUD-DEP-001-2026,2026-01-08,2026-03-28,2440.69,USD,approved,Operational need for synthetic implementation services
+PR-2026-000563,USR-0062,DEP-002,BUD-DEP-002-2026,2026-05-28,2026-08-16,2740.36,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000564,USR-0195,DEP-003,BUD-DEP-003-2026,2026-07-23,2026-10-20,3606.2,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000565,USR-0136,DEP-004,BUD-DEP-004-2026,2026-10-28,2026-12-15,3255.01,USD,approved,Operational need for synthetic led fixture
+PR-2026-000566,USR-0077,DEP-005,BUD-DEP-005-2026,2026-03-12,2026-04-17,18525.5,USD,approved,Operational need for synthetic printer paper
+PR-2026-000567,USR-0246,DEP-006,BUD-DEP-006-2026,2026-03-01,2026-05-28,4535.21,USD,approved,Operational need for synthetic printer paper
+PR-2026-000568,USR-0043,DEP-007,BUD-DEP-007-2026,2026-09-04,2026-11-06,10183.49,USD,approved,Operational need for synthetic monitor
+PR-2026-000569,USR-0152,DEP-008,BUD-DEP-008-2026,2026-03-26,2026-06-09,2841.89,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000570,USR-0165,DEP-009,BUD-DEP-009-2026,2026-07-19,2026-09-16,2937.12,USD,approved,Operational need for synthetic analytics license
+PR-2026-000571,USR-0070,DEP-010,BUD-DEP-010-2026,2026-01-30,2026-03-20,2593.57,USD,approved,Operational need for synthetic implementation services
+PR-2026-000572,USR-0203,DEP-011,BUD-DEP-011-2026,2026-06-16,2026-08-21,4450.4,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000573,USR-0049,DEP-001,BUD-DEP-001-2026,2026-07-08,2026-09-25,11256.0,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000574,USR-0290,DEP-002,BUD-DEP-002-2026,2026-08-31,2026-10-19,5816.28,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000575,USR-0099,DEP-003,BUD-DEP-003-2026,2026-01-22,2026-04-05,3012.68,USD,approved,Operational need for synthetic network switch
+PR-2026-000576,USR-0064,DEP-004,BUD-DEP-004-2026,2026-11-19,2027-02-17,5242.8,USD,approved,Operational need for synthetic implementation services
+PR-2026-000577,USR-0149,DEP-005,BUD-DEP-005-2026,2026-04-08,2026-07-05,6625.35,USD,approved,Operational need for synthetic implementation services
+PR-2026-000578,USR-0138,DEP-006,BUD-DEP-006-2026,2026-09-03,2026-10-06,16269.96,USD,approved,Operational need for synthetic workstation
+PR-2026-000579,USR-0055,DEP-007,BUD-DEP-007-2026,2026-09-29,2026-10-22,13324.8,USD,approved,Operational need for synthetic air filter
+PR-2026-000580,USR-0044,DEP-008,BUD-DEP-008-2026,2026-07-03,2026-07-30,16397.13,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000581,USR-0033,DEP-009,BUD-DEP-009-2026,2026-01-21,2026-03-28,9295.0,USD,ordered,Operational need for synthetic design license
+PR-2026-000582,USR-0190,DEP-010,BUD-DEP-010-2026,2026-02-15,2026-03-26,12527.6,USD,approved,Operational need for synthetic air filter
+PR-2026-000583,USR-0155,DEP-011,BUD-DEP-011-2026,2026-03-02,2026-05-13,5090.36,USD,rfq_closed,Operational need for synthetic safety monitor
+PR-2026-000584,USR-0169,DEP-001,BUD-DEP-001-2026,2026-07-29,2026-10-04,914.16,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000585,USR-0098,DEP-002,BUD-DEP-002-2026,2026-10-16,2026-11-24,14782.91,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000586,USR-0291,DEP-003,BUD-DEP-003-2026,2026-08-13,2026-10-16,7172.49,USD,approved,Operational need for synthetic laptop
+PR-2026-000587,USR-0076,DEP-004,BUD-DEP-004-2026,2026-10-14,2027-01-11,16698.4,USD,approved,Operational need for synthetic protective kit
+PR-2026-000588,USR-0077,DEP-005,BUD-DEP-005-2026,2026-10-21,2026-11-12,3261.6,USD,approved,Operational need for synthetic analytics license
+PR-2026-000589,USR-0294,DEP-006,BUD-DEP-006-2026,2026-05-23,2026-07-23,4050.93,USD,approved,Operational need for synthetic laptop
+PR-2026-000590,USR-0175,DEP-007,BUD-DEP-007-2026,2026-04-18,2026-07-02,11282.9,USD,approved,Operational need for synthetic printer paper
+PR-2026-000591,USR-0008,DEP-008,BUD-DEP-008-2026,2026-06-22,2026-08-16,2959.44,USD,approved,Operational need for synthetic implementation services
+PR-2026-000592,USR-0141,DEP-009,BUD-DEP-009-2026,2026-01-23,2026-02-16,1759.29,USD,approved,Operational need for synthetic led fixture
+PR-2026-000593,USR-0190,DEP-010,BUD-DEP-010-2026,2026-07-26,2026-09-25,3085.94,USD,ordered,Operational need for synthetic audit support
+PR-2026-000594,USR-0059,DEP-011,BUD-DEP-011-2026,2026-04-06,2026-06-10,15877.12,USD,approved,Operational need for synthetic security license
+PR-2026-000595,USR-0253,DEP-001,BUD-DEP-001-2026,2026-04-01,2026-06-01,4978.8,USD,approved,Operational need for synthetic audit support
+PR-2026-000596,USR-0122,DEP-002,BUD-DEP-002-2026,2026-11-06,2026-12-30,2877.38,USD,approved,Operational need for synthetic monitor
+PR-2026-000597,USR-0207,DEP-003,BUD-DEP-003-2026,2026-04-09,2026-06-12,23009.18,USD,approved,Operational need for synthetic implementation services
+PR-2026-000598,USR-0124,DEP-004,BUD-DEP-004-2026,2026-08-25,2026-09-20,3472.26,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000599,USR-0005,DEP-005,BUD-DEP-005-2026,2026-08-19,2026-11-04,9549.46,USD,approved,Operational need for synthetic implementation services
+PR-2026-000600,USR-0210,DEP-006,BUD-DEP-006-2026,2026-06-29,2026-08-29,2953.6,USD,rfq_closed,Operational need for synthetic safety monitor
+PR-2026-000601,USR-0175,DEP-007,BUD-DEP-007-2026,2026-04-17,2026-05-10,4529.17,USD,rfq_closed,Operational need for synthetic ergonomic chair
+PR-2026-000602,USR-0056,DEP-008,BUD-DEP-008-2026,2026-08-17,2026-10-03,18941.94,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000603,USR-0273,DEP-009,BUD-DEP-009-2026,2026-06-10,2026-08-22,20779.2,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000604,USR-0010,DEP-010,BUD-DEP-010-2026,2026-05-11,2026-08-08,4590.0,USD,approved,Operational need for synthetic security license
+PR-2026-000605,USR-0143,DEP-011,BUD-DEP-011-2026,2026-01-24,2026-02-15,10484.25,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000606,USR-0121,DEP-001,BUD-DEP-001-2026,2026-01-28,2026-04-25,7498.92,USD,approved,Operational need for synthetic protective kit
+PR-2026-000607,USR-0038,DEP-002,BUD-DEP-002-2026,2026-05-04,2026-07-25,8687.8,USD,approved,Operational need for synthetic implementation services
+PR-2026-000608,USR-0183,DEP-003,BUD-DEP-003-2026,2026-09-24,2026-12-03,4156.38,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000609,USR-0220,DEP-004,BUD-DEP-004-2026,2026-05-28,2026-07-25,927.35,USD,approved,Operational need for synthetic network switch
+PR-2026-000610,USR-0281,DEP-005,BUD-DEP-005-2026,2026-09-12,2026-11-03,3449.06,USD,approved,Operational need for synthetic security license
+PR-2026-000611,USR-0210,DEP-006,BUD-DEP-006-2026,2026-04-26,2026-07-24,3672.89,USD,approved,Operational need for synthetic network switch
+PR-2026-000612,USR-0019,DEP-007,BUD-DEP-007-2026,2026-07-12,2026-09-12,8942.51,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000613,USR-0152,DEP-008,BUD-DEP-008-2026,2026-06-16,2026-07-17,2433.31,USD,approved,Operational need for synthetic audit support
+PR-2026-000614,USR-0297,DEP-009,BUD-DEP-009-2026,2026-07-04,2026-09-12,1768.76,USD,approved,Operational need for synthetic printer paper
+PR-2026-000615,USR-0010,DEP-010,BUD-DEP-010-2026,2026-03-14,2026-05-31,6010.84,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000616,USR-0215,DEP-011,BUD-DEP-011-2026,2026-08-15,2026-10-24,14020.48,USD,ordered,Operational need for synthetic network switch
+PR-2026-000617,USR-0169,DEP-001,BUD-DEP-001-2026,2026-09-12,2026-10-02,2915.36,USD,ordered,Operational need for synthetic workstation
+PR-2026-000618,USR-0086,DEP-002,BUD-DEP-002-2026,2026-06-02,2026-08-30,14544.92,USD,approved,Operational need for synthetic air filter
+PR-2026-000619,USR-0255,DEP-003,BUD-DEP-003-2026,2026-01-15,2026-02-28,6917.12,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000620,USR-0052,DEP-004,BUD-DEP-004-2026,2026-02-18,2026-03-23,4651.14,USD,rfq_closed,Operational need for synthetic network switch
+PR-2026-000621,USR-0017,DEP-005,BUD-DEP-005-2026,2026-02-01,2026-04-16,9350.0,USD,ordered,Operational need for synthetic monitor
+PR-2026-000622,USR-0162,DEP-006,BUD-DEP-006-2026,2026-04-18,2026-06-23,2384.4,USD,ordered,Operational need for synthetic monitor
+PR-2026-000623,USR-0055,DEP-007,BUD-DEP-007-2026,2026-06-15,2026-07-23,14025.5,USD,rfq_closed,Operational need for synthetic analytics license
+PR-2026-000624,USR-0176,DEP-008,BUD-DEP-008-2026,2026-05-15,2026-07-13,9654.12,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000625,USR-0117,DEP-009,BUD-DEP-009-2026,2026-05-13,2026-07-21,13784.31,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000626,USR-0286,DEP-010,BUD-DEP-010-2026,2026-03-04,2026-04-29,1283.75,USD,approved,Operational need for synthetic audit support
+PR-2026-000627,USR-0155,DEP-011,BUD-DEP-011-2026,2026-07-20,2026-10-14,7514.43,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000628,USR-0265,DEP-001,BUD-DEP-001-2026,2026-08-25,2026-10-31,16250.42,USD,approved,Operational need for synthetic security license
+PR-2026-000629,USR-0062,DEP-002,BUD-DEP-002-2026,2026-08-24,2026-10-28,6177.0,USD,approved,Operational need for synthetic network switch
+PR-2026-000630,USR-0255,DEP-003,BUD-DEP-003-2026,2026-03-29,2026-06-23,10234.57,USD,approved,Operational need for synthetic protective kit
+PR-2026-000631,USR-0148,DEP-004,BUD-DEP-004-2026,2026-02-06,2026-03-01,5754.0,USD,approved,Operational need for synthetic protective kit
+PR-2026-000632,USR-0197,DEP-005,BUD-DEP-005-2026,2026-10-09,2026-11-01,11966.92,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000633,USR-0030,DEP-006,BUD-DEP-006-2026,2026-01-23,2026-03-16,9168.0,USD,approved,Operational need for synthetic air filter
+PR-2026-000634,USR-0211,DEP-007,BUD-DEP-007-2026,2026-09-19,2026-11-03,3054.63,USD,ordered,Operational need for synthetic security license
+PR-2026-000635,USR-0284,DEP-008,BUD-DEP-008-2026,2026-02-01,2026-04-01,15241.2,USD,approved,Operational need for synthetic implementation services
+PR-2026-000636,USR-0177,DEP-009,BUD-DEP-009-2026,2026-10-10,2026-11-24,8769.6,USD,approved,Operational need for synthetic implementation services
+PR-2026-000637,USR-0130,DEP-010,BUD-DEP-010-2026,2026-04-10,2026-05-07,18301.21,USD,approved,Operational need for synthetic led fixture
+PR-2026-000638,USR-0227,DEP-011,BUD-DEP-011-2026,2026-01-30,2026-04-24,4611.87,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000639,USR-0157,DEP-001,BUD-DEP-001-2026,2026-11-13,2026-12-16,7846.81,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000640,USR-0002,DEP-002,BUD-DEP-002-2026,2026-04-16,2026-06-30,1964.0,USD,ordered,Operational need for synthetic audit support
+PR-2026-000641,USR-0195,DEP-003,BUD-DEP-003-2026,2026-06-06,2026-08-06,3499.6,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000642,USR-0004,DEP-004,BUD-DEP-004-2026,2026-08-28,2026-10-06,7190.4,USD,ordered,Operational need for synthetic laptop
+PR-2026-000643,USR-0269,DEP-005,BUD-DEP-005-2026,2026-10-29,2026-12-28,3108.96,USD,approved,Operational need for synthetic implementation services
+PR-2026-000644,USR-0114,DEP-006,BUD-DEP-006-2026,2026-02-25,2026-03-19,2920.88,USD,approved,Operational need for synthetic security license
+PR-2026-000645,USR-0271,DEP-007,BUD-DEP-007-2026,2026-10-23,2027-01-19,9851.8,USD,ordered,Operational need for synthetic audit support
+PR-2026-000646,USR-0128,DEP-008,BUD-DEP-008-2026,2026-06-03,2026-08-30,11492.55,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000647,USR-0285,DEP-009,BUD-DEP-009-2026,2026-09-30,2026-10-20,9653.7,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000648,USR-0250,DEP-010,BUD-DEP-010-2026,2026-02-16,2026-03-17,3995.25,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000649,USR-0107,DEP-011,BUD-DEP-011-2026,2026-04-28,2026-05-25,17884.99,USD,rfq_closed,Operational need for synthetic audit support
+PR-2026-000650,USR-0229,DEP-001,BUD-DEP-001-2026,2026-05-12,2026-07-01,16440.84,USD,approved,Operational need for synthetic audit support
+PR-2026-000651,USR-0134,DEP-002,BUD-DEP-002-2026,2026-03-07,2026-04-03,15039.2,USD,approved,Operational need for synthetic printer paper
+PR-2026-000652,USR-0075,DEP-003,BUD-DEP-003-2026,2026-01-28,2026-02-27,2118.51,USD,ordered,Operational need for synthetic workstation
+PR-2026-000653,USR-0160,DEP-004,BUD-DEP-004-2026,2026-04-29,2026-07-21,7866.4,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000654,USR-0185,DEP-005,BUD-DEP-005-2026,2026-01-11,2026-02-14,9735.0,USD,ordered,Operational need for synthetic workstation
+PR-2026-000655,USR-0198,DEP-006,BUD-DEP-006-2026,2026-04-18,2026-06-10,7063.18,USD,rfq_closed,Operational need for synthetic network switch
+PR-2026-000656,USR-0079,DEP-007,BUD-DEP-007-2026,2026-02-11,2026-05-10,5566.4,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000657,USR-0092,DEP-008,BUD-DEP-008-2026,2026-06-05,2026-08-27,1057.23,USD,ordered,Operational need for synthetic workstation
+PR-2026-000658,USR-0237,DEP-009,BUD-DEP-009-2026,2026-11-04,2026-11-29,3230.81,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000659,USR-0166,DEP-010,BUD-DEP-010-2026,2026-06-22,2026-07-26,3121.3,USD,approved,Operational need for synthetic printer paper
+PR-2026-000660,USR-0155,DEP-011,BUD-DEP-011-2026,2026-05-07,2026-06-10,10803.78,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000661,USR-0013,DEP-001,BUD-DEP-001-2026,2026-09-08,2026-10-18,3529.9,USD,ordered,Operational need for synthetic audit support
+PR-2026-000662,USR-0218,DEP-002,BUD-DEP-002-2026,2026-02-24,2026-03-21,16573.41,USD,ordered,Operational need for synthetic audit support
+PR-2026-000663,USR-0087,DEP-003,BUD-DEP-003-2026,2026-10-14,2026-11-03,1050.16,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000664,USR-0160,DEP-004,BUD-DEP-004-2026,2026-02-25,2026-05-13,3014.78,USD,ordered,Operational need for synthetic laptop
+PR-2026-000665,USR-0149,DEP-005,BUD-DEP-005-2026,2026-11-02,2027-01-18,10083.81,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000666,USR-0126,DEP-006,BUD-DEP-006-2026,2026-10-05,2026-12-29,3701.76,USD,approved,Operational need for synthetic led fixture
+PR-2026-000667,USR-0067,DEP-007,BUD-DEP-007-2026,2026-07-07,2026-08-30,2363.6,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000668,USR-0212,DEP-008,BUD-DEP-008-2026,2026-04-07,2026-06-30,8879.8,USD,ordered,Operational need for synthetic audit support
+PR-2026-000669,USR-0057,DEP-009,BUD-DEP-009-2026,2026-08-05,2026-09-26,16394.56,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000670,USR-0178,DEP-010,BUD-DEP-010-2026,2026-03-17,2026-04-24,9823.95,USD,approved,Operational need for synthetic implementation services
+PR-2026-000671,USR-0179,DEP-011,BUD-DEP-011-2026,2026-10-06,2026-12-11,14158.8,USD,approved,Operational need for synthetic audit support
+PR-2026-000672,USR-0289,DEP-001,BUD-DEP-001-2026,2026-08-18,2026-10-21,1504.65,USD,approved,Operational need for synthetic audit support
+PR-2026-000673,USR-0278,DEP-002,BUD-DEP-002-2026,2026-10-17,2026-12-09,3295.74,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000674,USR-0219,DEP-003,BUD-DEP-003-2026,2026-05-16,2026-06-22,7349.4,USD,approved,Operational need for synthetic design license
+PR-2026-000675,USR-0160,DEP-004,BUD-DEP-004-2026,2026-07-20,2026-08-12,12452.22,USD,rfq_closed,Operational need for synthetic access-control reader
+PR-2026-000676,USR-0101,DEP-005,BUD-DEP-005-2026,2026-10-01,2026-12-24,9966.96,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000677,USR-0114,DEP-006,BUD-DEP-006-2026,2026-09-26,2026-12-19,6089.8,USD,ordered,Operational need for synthetic laptop
+PR-2026-000678,USR-0211,DEP-007,BUD-DEP-007-2026,2026-02-04,2026-04-07,2140.32,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000679,USR-0032,DEP-008,BUD-DEP-008-2026,2026-05-06,2026-07-28,9855.0,USD,approved,Operational need for synthetic analytics license
+PR-2026-000680,USR-0117,DEP-009,BUD-DEP-009-2026,2026-11-16,2027-01-30,8696.4,USD,approved,Operational need for synthetic security license
+PR-2026-000681,USR-0178,DEP-010,BUD-DEP-010-2026,2026-05-07,2026-07-20,23252.49,USD,ordered,Operational need for synthetic air filter
+PR-2026-000682,USR-0215,DEP-011,BUD-DEP-011-2026,2026-01-23,2026-02-16,23498.1,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000683,USR-0241,DEP-001,BUD-DEP-001-2026,2026-05-07,2026-07-14,5513.0,USD,approved,Operational need for synthetic implementation services
+PR-2026-000684,USR-0146,DEP-002,BUD-DEP-002-2026,2026-07-10,2026-08-29,3114.8,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000685,USR-0183,DEP-003,BUD-DEP-003-2026,2026-08-24,2026-10-18,13938.1,USD,ordered,Operational need for synthetic design license
+PR-2026-000686,USR-0196,DEP-004,BUD-DEP-004-2026,2026-08-01,2026-09-21,12236.76,USD,ordered,Operational need for synthetic audit support
+PR-2026-000687,USR-0209,DEP-005,BUD-DEP-005-2026,2026-07-12,2026-08-21,1645.28,USD,approved,Operational need for synthetic design license
+PR-2026-000688,USR-0294,DEP-006,BUD-DEP-006-2026,2026-01-29,2026-04-17,16150.8,USD,ordered,Operational need for synthetic air filter
+PR-2026-000689,USR-0055,DEP-007,BUD-DEP-007-2026,2026-06-19,2026-08-18,11204.55,USD,ordered,Operational need for synthetic workstation
+PR-2026-000690,USR-0248,DEP-008,BUD-DEP-008-2026,2026-10-05,2026-11-16,5420.48,USD,ordered,Operational need for synthetic air filter
+PR-2026-000691,USR-0009,DEP-009,BUD-DEP-009-2026,2026-08-08,2026-09-01,20127.64,USD,approved,Operational need for synthetic audit support
+PR-2026-000692,USR-0238,DEP-010,BUD-DEP-010-2026,2026-04-19,2026-06-12,2647.62,USD,ordered,Operational need for synthetic air filter
+PR-2026-000693,USR-0071,DEP-011,BUD-DEP-011-2026,2026-08-21,2026-09-16,7062.9,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000694,USR-0133,DEP-001,BUD-DEP-001-2026,2026-10-17,2026-11-22,2516.04,USD,approved,Operational need for synthetic laptop
+PR-2026-000695,USR-0218,DEP-002,BUD-DEP-002-2026,2026-04-23,2026-06-27,6632.15,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000696,USR-0075,DEP-003,BUD-DEP-003-2026,2026-09-18,2026-12-15,18443.04,USD,approved,Operational need for synthetic printer paper
+PR-2026-000697,USR-0268,DEP-004,BUD-DEP-004-2026,2026-01-29,2026-03-20,4594.98,USD,ordered,Operational need for synthetic design license
+PR-2026-000698,USR-0053,DEP-005,BUD-DEP-005-2026,2026-07-18,2026-09-03,7959.25,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000699,USR-0186,DEP-006,BUD-DEP-006-2026,2026-02-01,2026-04-11,2499.8,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000700,USR-0295,DEP-007,BUD-DEP-007-2026,2026-01-21,2026-03-13,23497.34,USD,approved,Operational need for synthetic implementation services
+PR-2026-000701,USR-0224,DEP-008,BUD-DEP-008-2026,2026-03-03,2026-04-27,5788.16,USD,approved,Operational need for synthetic monitor
+PR-2026-000702,USR-0057,DEP-009,BUD-DEP-009-2026,2026-11-19,2027-01-25,2300.52,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000703,USR-0070,DEP-010,BUD-DEP-010-2026,2026-05-12,2026-08-07,2359.68,USD,ordered,Operational need for synthetic audit support
+PR-2026-000704,USR-0179,DEP-011,BUD-DEP-011-2026,2026-08-18,2026-09-18,1610.28,USD,approved,Operational need for synthetic workstation
+PR-2026-000705,USR-0181,DEP-001,BUD-DEP-001-2026,2026-10-26,2026-12-20,15068.04,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000706,USR-0038,DEP-002,BUD-DEP-002-2026,2026-04-04,2026-06-01,11649.12,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000707,USR-0147,DEP-003,BUD-DEP-003-2026,2026-04-26,2026-07-25,7864.0,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000708,USR-0028,DEP-004,BUD-DEP-004-2026,2026-07-01,2026-08-29,1362.9,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000709,USR-0029,DEP-005,BUD-DEP-005-2026,2026-09-23,2026-10-25,12081.2,USD,approved,Operational need for synthetic air filter
+PR-2026-000710,USR-0030,DEP-006,BUD-DEP-006-2026,2026-05-21,2026-07-19,2423.63,USD,ordered,Operational need for synthetic monitor
+PR-2026-000711,USR-0199,DEP-007,BUD-DEP-007-2026,2026-09-23,2026-11-01,20807.85,USD,approved,Operational need for synthetic implementation services
+PR-2026-000712,USR-0212,DEP-008,BUD-DEP-008-2026,2026-03-31,2026-05-03,2392.94,USD,approved,Operational need for synthetic laptop
+PR-2026-000713,USR-0057,DEP-009,BUD-DEP-009-2026,2026-05-03,2026-07-27,6238.56,USD,approved,Operational need for synthetic security license
+PR-2026-000714,USR-0034,DEP-010,BUD-DEP-010-2026,2026-11-20,2027-02-06,815.76,USD,ordered,Operational need for synthetic audit support
+PR-2026-000715,USR-0191,DEP-011,BUD-DEP-011-2026,2026-11-02,2026-11-27,16177.95,USD,approved,Operational need for synthetic workstation
+PR-2026-000716,USR-0145,DEP-001,BUD-DEP-001-2026,2026-06-24,2026-08-24,17424.18,USD,approved,Operational need for synthetic implementation services
+PR-2026-000717,USR-0170,DEP-002,BUD-DEP-002-2026,2026-04-07,2026-06-29,10142.89,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000718,USR-0243,DEP-003,BUD-DEP-003-2026,2026-05-01,2026-07-04,5174.73,USD,approved,Operational need for synthetic led fixture
+PR-2026-000719,USR-0136,DEP-004,BUD-DEP-004-2026,2026-02-03,2026-03-20,3851.32,USD,approved,Operational need for synthetic workstation
+PR-2026-000720,USR-0197,DEP-005,BUD-DEP-005-2026,2026-07-30,2026-10-27,17441.23,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000721,USR-0222,DEP-006,BUD-DEP-006-2026,2026-11-04,2027-01-26,13737.36,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000722,USR-0007,DEP-007,BUD-DEP-007-2026,2026-03-17,2026-05-06,7518.08,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000723,USR-0248,DEP-008,BUD-DEP-008-2026,2026-08-13,2026-11-04,4860.02,USD,approved,Operational need for synthetic audit support
+PR-2026-000724,USR-0177,DEP-009,BUD-DEP-009-2026,2026-10-04,2027-01-01,4928.8,USD,approved,Operational need for synthetic implementation services
+PR-2026-000725,USR-0202,DEP-010,BUD-DEP-010-2026,2026-09-20,2026-10-16,6417.36,USD,approved,Operational need for synthetic design license
+PR-2026-000726,USR-0203,DEP-011,BUD-DEP-011-2026,2026-01-27,2026-04-01,8436.42,USD,approved,Operational need for synthetic printer paper
+PR-2026-000727,USR-0205,DEP-001,BUD-DEP-001-2026,2026-06-11,2026-07-23,7344.48,USD,approved,Operational need for synthetic implementation services
+PR-2026-000728,USR-0146,DEP-002,BUD-DEP-002-2026,2026-10-27,2026-12-14,5295.2,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000729,USR-0099,DEP-003,BUD-DEP-003-2026,2026-11-03,2026-11-26,18774.45,USD,approved,Operational need for synthetic protective kit
+PR-2026-000730,USR-0232,DEP-004,BUD-DEP-004-2026,2026-02-05,2026-03-08,3110.54,USD,approved,Operational need for synthetic implementation services
+PR-2026-000731,USR-0053,DEP-005,BUD-DEP-005-2026,2026-04-08,2026-05-10,12064.36,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000732,USR-0150,DEP-006,BUD-DEP-006-2026,2026-01-17,2026-03-26,12404.0,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000733,USR-0247,DEP-007,BUD-DEP-007-2026,2026-11-02,2026-12-04,3296.4,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000734,USR-0080,DEP-008,BUD-DEP-008-2026,2026-05-29,2026-08-15,13408.63,USD,approved,Operational need for synthetic analytics license
+PR-2026-000735,USR-0081,DEP-009,BUD-DEP-009-2026,2026-09-15,2026-11-02,8499.12,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000736,USR-0058,DEP-010,BUD-DEP-010-2026,2026-01-29,2026-04-29,13717.47,USD,ordered,Operational need for synthetic design license
+PR-2026-000737,USR-0299,DEP-011,BUD-DEP-011-2026,2026-07-02,2026-08-23,3079.62,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000738,USR-0145,DEP-001,BUD-DEP-001-2026,2026-01-10,2026-03-31,4934.8,USD,approved,Operational need for synthetic security license
+PR-2026-000739,USR-0074,DEP-002,BUD-DEP-002-2026,2026-05-25,2026-07-27,8204.01,USD,ordered,Operational need for synthetic design license
+PR-2026-000740,USR-0267,DEP-003,BUD-DEP-003-2026,2026-07-19,2026-09-19,4761.25,USD,approved,Operational need for synthetic protective kit
+PR-2026-000741,USR-0064,DEP-004,BUD-DEP-004-2026,2026-07-16,2026-09-20,8604.96,USD,approved,Operational need for synthetic implementation services
+PR-2026-000742,USR-0185,DEP-005,BUD-DEP-005-2026,2026-08-11,2026-10-11,8208.64,USD,approved,Operational need for synthetic audit support
+PR-2026-000743,USR-0114,DEP-006,BUD-DEP-006-2026,2026-01-30,2026-04-17,3888.24,USD,approved,Operational need for synthetic led fixture
+PR-2026-000744,USR-0115,DEP-007,BUD-DEP-007-2026,2026-02-28,2026-03-21,15195.62,USD,ordered,Operational need for synthetic air filter
+PR-2026-000745,USR-0164,DEP-008,BUD-DEP-008-2026,2026-03-10,2026-04-29,4086.29,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000746,USR-0129,DEP-009,BUD-DEP-009-2026,2026-01-06,2026-02-21,13631.52,USD,approved,Operational need for synthetic network switch
+PR-2026-000747,USR-0250,DEP-010,BUD-DEP-010-2026,2026-06-30,2026-07-30,3650.99,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000748,USR-0047,DEP-011,BUD-DEP-011-2026,2026-03-05,2026-04-23,6725.28,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000749,USR-0229,DEP-001,BUD-DEP-001-2026,2026-05-20,2026-07-04,1408.33,USD,approved,Operational need for synthetic led fixture
+PR-2026-000750,USR-0026,DEP-002,BUD-DEP-002-2026,2026-09-12,2026-10-16,16322.9,USD,approved,Operational need for synthetic led fixture
+PR-2026-000751,USR-0039,DEP-003,BUD-DEP-003-2026,2026-05-20,2026-08-14,19735.32,USD,approved,Operational need for synthetic laptop
+PR-2026-000752,USR-0100,DEP-004,BUD-DEP-004-2026,2026-10-08,2026-11-26,4570.6,USD,ordered,Operational need for synthetic audit support
+PR-2026-000753,USR-0197,DEP-005,BUD-DEP-005-2026,2026-07-07,2026-07-29,4654.8,USD,ordered,Operational need for synthetic monitor
+PR-2026-000754,USR-0030,DEP-006,BUD-DEP-006-2026,2026-03-30,2026-06-19,8172.15,USD,ordered,Operational need for synthetic workstation
+PR-2026-000755,USR-0127,DEP-007,BUD-DEP-007-2026,2026-11-11,2026-12-26,11600.11,USD,rfq_closed,Operational need for synthetic filing cabinet
+PR-2026-000756,USR-0092,DEP-008,BUD-DEP-008-2026,2026-11-05,2026-12-09,2375.8,USD,ordered,Operational need for synthetic network switch
+PR-2026-000757,USR-0261,DEP-009,BUD-DEP-009-2026,2026-03-15,2026-04-08,2632.86,USD,approved,Operational need for synthetic led fixture
+PR-2026-000758,USR-0094,DEP-010,BUD-DEP-010-2026,2026-10-06,2026-11-02,2111.2,USD,rfq_closed,Operational need for synthetic printer paper
+PR-2026-000759,USR-0083,DEP-011,BUD-DEP-011-2026,2026-05-18,2026-07-10,6431.62,USD,approved,Operational need for synthetic implementation services
+PR-2026-000760,USR-0085,DEP-001,BUD-DEP-001-2026,2026-04-10,2026-06-29,19582.69,USD,approved,Operational need for synthetic led fixture
+PR-2026-000761,USR-0242,DEP-002,BUD-DEP-002-2026,2026-01-29,2026-03-21,3037.92,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000762,USR-0039,DEP-003,BUD-DEP-003-2026,2026-09-27,2026-10-22,8100.27,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000763,USR-0076,DEP-004,BUD-DEP-004-2026,2026-03-18,2026-06-12,2540.44,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000764,USR-0257,DEP-005,BUD-DEP-005-2026,2026-03-07,2026-03-29,3537.69,USD,approved,Operational need for synthetic protective kit
+PR-2026-000765,USR-0210,DEP-006,BUD-DEP-006-2026,2026-06-27,2026-07-29,10303.2,USD,rfq_closed,Operational need for synthetic ergonomic chair
+PR-2026-000766,USR-0115,DEP-007,BUD-DEP-007-2026,2026-02-01,2026-03-18,2900.43,USD,approved,Operational need for synthetic air filter
+PR-2026-000767,USR-0152,DEP-008,BUD-DEP-008-2026,2026-09-12,2026-12-07,9377.2,USD,approved,Operational need for synthetic audit support
+PR-2026-000768,USR-0009,DEP-009,BUD-DEP-009-2026,2026-09-14,2026-10-24,8881.2,USD,approved,Operational need for synthetic monitor
+PR-2026-000769,USR-0262,DEP-010,BUD-DEP-010-2026,2026-02-22,2026-05-09,7815.34,USD,approved,Operational need for synthetic implementation services
+PR-2026-000770,USR-0227,DEP-011,BUD-DEP-011-2026,2026-02-15,2026-04-05,8470.35,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000771,USR-0181,DEP-001,BUD-DEP-001-2026,2026-08-16,2026-09-27,4686.85,USD,ordered,Operational need for synthetic audit support
+PR-2026-000772,USR-0050,DEP-002,BUD-DEP-002-2026,2026-07-24,2026-08-13,21519.5,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000773,USR-0147,DEP-003,BUD-DEP-003-2026,2026-02-11,2026-03-06,11483.1,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000774,USR-0220,DEP-004,BUD-DEP-004-2026,2026-04-19,2026-06-16,5299.2,USD,approved,Operational need for synthetic led fixture
+PR-2026-000775,USR-0245,DEP-005,BUD-DEP-005-2026,2026-01-11,2026-02-20,15940.68,USD,ordered,Operational need for synthetic network switch
+PR-2026-000776,USR-0162,DEP-006,BUD-DEP-006-2026,2026-07-21,2026-08-14,4920.3,USD,approved,Operational need for synthetic audit support
+PR-2026-000777,USR-0163,DEP-007,BUD-DEP-007-2026,2026-05-18,2026-08-03,6190.2,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000778,USR-0176,DEP-008,BUD-DEP-008-2026,2026-02-05,2026-03-23,2915.43,USD,approved,Operational need for synthetic analytics license
+PR-2026-000779,USR-0069,DEP-009,BUD-DEP-009-2026,2026-10-19,2026-11-26,11725.86,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000780,USR-0082,DEP-010,BUD-DEP-010-2026,2026-10-30,2026-12-17,7948.71,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000781,USR-0263,DEP-011,BUD-DEP-011-2026,2026-05-29,2026-08-23,9443.8,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000782,USR-0001,DEP-001,BUD-DEP-001-2026,2026-05-07,2026-06-30,15643.14,USD,approved,Operational need for synthetic security license
+PR-2026-000783,USR-0050,DEP-002,BUD-DEP-002-2026,2026-02-27,2026-05-24,3152.1,USD,approved,Operational need for synthetic monitor
+PR-2026-000784,USR-0279,DEP-003,BUD-DEP-003-2026,2026-09-01,2026-11-06,10235.05,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000785,USR-0136,DEP-004,BUD-DEP-004-2026,2026-10-03,2026-12-24,1569.36,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000786,USR-0185,DEP-005,BUD-DEP-005-2026,2026-06-12,2026-07-28,4413.52,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000787,USR-0198,DEP-006,BUD-DEP-006-2026,2026-06-04,2026-07-01,9433.16,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000788,USR-0235,DEP-007,BUD-DEP-007-2026,2026-01-14,2026-02-20,3306.42,USD,ordered,Operational need for synthetic monitor
+PR-2026-000789,USR-0296,DEP-008,BUD-DEP-008-2026,2026-09-02,2026-09-25,21978.52,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000790,USR-0225,DEP-009,BUD-DEP-009-2026,2026-10-13,2027-01-07,11510.68,USD,approved,Operational need for synthetic analytics license
+PR-2026-000791,USR-0178,DEP-010,BUD-DEP-010-2026,2026-10-07,2026-12-21,3906.72,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000792,USR-0287,DEP-011,BUD-DEP-011-2026,2026-10-12,2027-01-04,2014.89,USD,approved,Operational need for synthetic design license
+PR-2026-000793,USR-0217,DEP-001,BUD-DEP-001-2026,2026-01-23,2026-02-18,13371.84,USD,approved,Operational need for synthetic printer paper
+PR-2026-000794,USR-0158,DEP-002,BUD-DEP-002-2026,2026-02-27,2026-03-28,3735.04,USD,approved,Operational need for synthetic workstation
+PR-2026-000795,USR-0183,DEP-003,BUD-DEP-003-2026,2026-09-03,2026-11-08,4355.04,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000796,USR-0052,DEP-004,BUD-DEP-004-2026,2026-05-13,2026-06-16,1263.79,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000797,USR-0101,DEP-005,BUD-DEP-005-2026,2026-11-20,2027-01-01,4169.55,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000798,USR-0162,DEP-006,BUD-DEP-006-2026,2026-10-18,2026-12-07,6442.8,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000799,USR-0079,DEP-007,BUD-DEP-007-2026,2026-04-25,2026-05-23,4347.85,USD,approved,Operational need for synthetic implementation services
+PR-2026-000800,USR-0284,DEP-008,BUD-DEP-008-2026,2026-10-08,2026-11-15,22473.92,USD,approved,Operational need for synthetic network switch
+PR-2026-000801,USR-0069,DEP-009,BUD-DEP-009-2026,2026-06-24,2026-09-06,8439.14,USD,approved,Operational need for synthetic implementation services
+PR-2026-000802,USR-0274,DEP-010,BUD-DEP-010-2026,2026-09-10,2026-11-09,11037.48,USD,approved,Operational need for synthetic monitor
+PR-2026-000803,USR-0119,DEP-011,BUD-DEP-011-2026,2026-02-28,2026-04-30,7934.75,USD,approved,Operational need for synthetic led fixture
+PR-2026-000804,USR-0085,DEP-001,BUD-DEP-001-2026,2026-04-25,2026-06-03,12728.04,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000805,USR-0026,DEP-002,BUD-DEP-002-2026,2026-07-21,2026-10-15,9871.2,USD,approved,Operational need for synthetic led fixture
+PR-2026-000806,USR-0255,DEP-003,BUD-DEP-003-2026,2026-04-14,2026-05-07,14769.0,USD,approved,Operational need for synthetic workstation
+PR-2026-000807,USR-0100,DEP-004,BUD-DEP-004-2026,2026-05-21,2026-07-05,10715.4,USD,approved,Operational need for synthetic security license
+PR-2026-000808,USR-0053,DEP-005,BUD-DEP-005-2026,2026-06-15,2026-08-11,14137.54,USD,approved,Operational need for synthetic air filter
+PR-2026-000809,USR-0042,DEP-006,BUD-DEP-006-2026,2026-05-11,2026-07-20,2356.47,USD,ordered,Operational need for synthetic audit support
+PR-2026-000810,USR-0103,DEP-007,BUD-DEP-007-2026,2026-07-11,2026-09-04,18442.62,USD,ordered,Operational need for synthetic audit support
+PR-2026-000811,USR-0080,DEP-008,BUD-DEP-008-2026,2026-02-13,2026-04-25,10175.76,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000812,USR-0225,DEP-009,BUD-DEP-009-2026,2026-07-13,2026-08-02,15949.45,USD,ordered,Operational need for synthetic audit support
+PR-2026-000813,USR-0034,DEP-010,BUD-DEP-010-2026,2026-02-13,2026-04-30,15790.5,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000814,USR-0191,DEP-011,BUD-DEP-011-2026,2026-05-02,2026-05-30,2142.7,USD,approved,Operational need for synthetic implementation services
+PR-2026-000815,USR-0025,DEP-001,BUD-DEP-001-2026,2026-06-13,2026-08-20,13905.72,USD,ordered,Operational need for synthetic network switch
+PR-2026-000816,USR-0134,DEP-002,BUD-DEP-002-2026,2026-10-05,2026-12-19,3394.39,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000817,USR-0063,DEP-003,BUD-DEP-003-2026,2026-02-28,2026-05-17,9181.0,USD,ordered,Operational need for synthetic printer paper
+PR-2026-000818,USR-0256,DEP-004,BUD-DEP-004-2026,2026-01-22,2026-03-02,4691.16,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000819,USR-0293,DEP-005,BUD-DEP-005-2026,2026-07-04,2026-07-31,2262.39,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000820,USR-0198,DEP-006,BUD-DEP-006-2026,2026-09-14,2026-10-17,7620.08,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000821,USR-0175,DEP-007,BUD-DEP-007-2026,2026-01-27,2026-03-01,9751.8,USD,ordered,Operational need for synthetic design license
+PR-2026-000822,USR-0068,DEP-008,BUD-DEP-008-2026,2026-01-15,2026-03-18,15877.2,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000823,USR-0177,DEP-009,BUD-DEP-009-2026,2026-02-02,2026-04-30,19512.6,USD,approved,Operational need for synthetic protective kit
+PR-2026-000824,USR-0046,DEP-010,BUD-DEP-010-2026,2026-02-18,2026-03-10,17156.48,USD,ordered,Operational need for synthetic monitor
+PR-2026-000825,USR-0143,DEP-011,BUD-DEP-011-2026,2026-09-06,2026-11-29,5497.66,USD,approved,Operational need for synthetic laptop
+PR-2026-000826,USR-0121,DEP-001,BUD-DEP-001-2026,2026-01-05,2026-02-25,19046.88,USD,approved,Operational need for synthetic workstation
+PR-2026-000827,USR-0182,DEP-002,BUD-DEP-002-2026,2026-08-13,2026-10-18,2020.5,USD,approved,Operational need for synthetic printer paper
+PR-2026-000828,USR-0051,DEP-003,BUD-DEP-003-2026,2026-09-21,2026-11-09,14352.0,USD,approved,Operational need for synthetic design license
+PR-2026-000829,USR-0244,DEP-004,BUD-DEP-004-2026,2026-02-08,2026-03-28,948.42,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000830,USR-0029,DEP-005,BUD-DEP-005-2026,2026-07-23,2026-08-26,16631.11,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000831,USR-0150,DEP-006,BUD-DEP-006-2026,2026-08-14,2026-09-21,8836.08,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000832,USR-0043,DEP-007,BUD-DEP-007-2026,2026-05-26,2026-08-23,5944.13,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000833,USR-0032,DEP-008,BUD-DEP-008-2026,2026-11-06,2026-11-27,11614.05,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000834,USR-0201,DEP-009,BUD-DEP-009-2026,2026-06-07,2026-08-16,5135.85,USD,approved,Operational need for synthetic protective kit
+PR-2026-000835,USR-0010,DEP-010,BUD-DEP-010-2026,2026-05-28,2026-07-08,10688.96,USD,approved,Operational need for synthetic workstation
+PR-2026-000836,USR-0287,DEP-011,BUD-DEP-011-2026,2026-10-10,2026-12-25,11996.34,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-000837,USR-0109,DEP-001,BUD-DEP-001-2026,2026-02-11,2026-05-11,3589.17,USD,ordered,Operational need for synthetic design license
+PR-2026-000838,USR-0050,DEP-002,BUD-DEP-002-2026,2026-07-27,2026-09-18,7832.7,USD,approved,Operational need for synthetic implementation services
+PR-2026-000839,USR-0051,DEP-003,BUD-DEP-003-2026,2026-05-26,2026-07-07,10985.13,USD,ordered,Operational need for synthetic network switch
+PR-2026-000840,USR-0064,DEP-004,BUD-DEP-004-2026,2026-02-08,2026-04-15,1627.94,USD,ordered,Operational need for synthetic network switch
+PR-2026-000841,USR-0041,DEP-005,BUD-DEP-005-2026,2026-03-01,2026-05-09,12744.34,USD,approved,Operational need for synthetic protective kit
+PR-2026-000842,USR-0222,DEP-006,BUD-DEP-006-2026,2026-05-27,2026-07-02,20838.72,USD,approved,Operational need for synthetic air filter
+PR-2026-000843,USR-0139,DEP-007,BUD-DEP-007-2026,2026-09-15,2026-12-01,1480.0,USD,ordered,Operational need for synthetic workstation
+PR-2026-000844,USR-0056,DEP-008,BUD-DEP-008-2026,2026-10-17,2027-01-02,16462.29,USD,approved,Operational need for synthetic network switch
+PR-2026-000845,USR-0213,DEP-009,BUD-DEP-009-2026,2026-05-11,2026-07-02,8699.04,USD,approved,Operational need for synthetic led fixture
+PR-2026-000846,USR-0298,DEP-010,BUD-DEP-010-2026,2026-03-27,2026-04-28,11313.84,USD,approved,Operational need for synthetic analytics license
+PR-2026-000847,USR-0131,DEP-011,BUD-DEP-011-2026,2026-07-19,2026-08-27,18494.13,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000848,USR-0193,DEP-001,BUD-DEP-001-2026,2026-04-25,2026-07-05,1311.1,USD,approved,Operational need for synthetic monitor
+PR-2026-000849,USR-0218,DEP-002,BUD-DEP-002-2026,2026-10-05,2026-11-26,2768.74,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000850,USR-0231,DEP-003,BUD-DEP-003-2026,2026-09-01,2026-11-01,2512.84,USD,approved,Operational need for synthetic printer paper
+PR-2026-000851,USR-0196,DEP-004,BUD-DEP-004-2026,2026-06-09,2026-09-03,4426.6,USD,ordered,Operational need for synthetic design license
+PR-2026-000852,USR-0041,DEP-005,BUD-DEP-005-2026,2026-08-04,2026-09-21,3028.98,USD,approved,Operational need for synthetic audit support
+PR-2026-000853,USR-0018,DEP-006,BUD-DEP-006-2026,2026-02-17,2026-05-09,4032.08,USD,ordered,Operational need for synthetic audit support
+PR-2026-000854,USR-0031,DEP-007,BUD-DEP-007-2026,2026-02-26,2026-05-05,3508.23,USD,approved,Operational need for synthetic laptop
+PR-2026-000855,USR-0128,DEP-008,BUD-DEP-008-2026,2026-03-31,2026-06-20,8877.0,USD,ordered,Operational need for synthetic monitor
+PR-2026-000856,USR-0273,DEP-009,BUD-DEP-009-2026,2026-01-15,2026-02-11,6162.6,USD,approved,Operational need for synthetic monitor
+PR-2026-000857,USR-0214,DEP-010,BUD-DEP-010-2026,2026-06-09,2026-07-04,9067.19,USD,approved,Operational need for synthetic laptop
+PR-2026-000858,USR-0275,DEP-011,BUD-DEP-011-2026,2026-01-24,2026-03-13,12249.59,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000859,USR-0073,DEP-001,BUD-DEP-001-2026,2026-03-26,2026-05-18,1768.65,USD,rfq_closed,Operational need for synthetic implementation services
+PR-2026-000860,USR-0170,DEP-002,BUD-DEP-002-2026,2026-01-18,2026-02-27,12196.95,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000861,USR-0171,DEP-003,BUD-DEP-003-2026,2026-01-16,2026-03-15,1657.26,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000862,USR-0196,DEP-004,BUD-DEP-004-2026,2026-01-07,2026-04-06,5875.98,USD,ordered,Operational need for synthetic laptop
+PR-2026-000863,USR-0281,DEP-005,BUD-DEP-005-2026,2026-06-07,2026-09-02,14040.0,USD,approved,Operational need for synthetic led fixture
+PR-2026-000864,USR-0174,DEP-006,BUD-DEP-006-2026,2026-04-30,2026-07-12,17350.65,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000865,USR-0247,DEP-007,BUD-DEP-007-2026,2026-10-28,2026-11-26,923.4,USD,approved,Operational need for synthetic protective kit
+PR-2026-000866,USR-0092,DEP-008,BUD-DEP-008-2026,2026-11-19,2027-01-02,8496.54,USD,approved,Operational need for synthetic air filter
+PR-2026-000867,USR-0045,DEP-009,BUD-DEP-009-2026,2026-03-29,2026-06-27,3898.26,USD,approved,Operational need for synthetic printer paper
+PR-2026-000868,USR-0274,DEP-010,BUD-DEP-010-2026,2026-07-14,2026-09-19,11533.27,USD,ordered,Operational need for synthetic audit support
+PR-2026-000869,USR-0047,DEP-011,BUD-DEP-011-2026,2026-02-22,2026-03-27,9970.78,USD,approved,Operational need for synthetic audit support
+PR-2026-000870,USR-0073,DEP-001,BUD-DEP-001-2026,2026-03-08,2026-04-19,2170.8,USD,ordered,Operational need for synthetic audit support
+PR-2026-000871,USR-0110,DEP-002,BUD-DEP-002-2026,2026-10-10,2027-01-06,5762.6,USD,ordered,Operational need for synthetic air filter
+PR-2026-000872,USR-0039,DEP-003,BUD-DEP-003-2026,2026-11-14,2026-12-24,3634.32,USD,approved,Operational need for synthetic protective kit
+PR-2026-000873,USR-0160,DEP-004,BUD-DEP-004-2026,2026-09-22,2026-11-25,9717.88,USD,approved,Operational need for synthetic monitor
+PR-2026-000874,USR-0065,DEP-005,BUD-DEP-005-2026,2026-09-07,2026-11-29,5606.09,USD,ordered,Operational need for synthetic design license
+PR-2026-000875,USR-0258,DEP-006,BUD-DEP-006-2026,2026-11-19,2027-02-11,14319.24,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000876,USR-0211,DEP-007,BUD-DEP-007-2026,2026-01-22,2026-04-22,9106.08,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000877,USR-0068,DEP-008,BUD-DEP-008-2026,2026-09-18,2026-10-14,7335.72,USD,ordered,Operational need for synthetic security license
+PR-2026-000878,USR-0141,DEP-009,BUD-DEP-009-2026,2026-11-16,2026-12-25,11063.6,USD,ordered,Operational need for synthetic audit support
+PR-2026-000879,USR-0250,DEP-010,BUD-DEP-010-2026,2026-04-17,2026-05-16,8553.0,USD,approved,Operational need for synthetic laptop
+PR-2026-000880,USR-0155,DEP-011,BUD-DEP-011-2026,2026-10-12,2026-12-25,11246.1,USD,ordered,Operational need for synthetic analytics license
+PR-2026-000881,USR-0277,DEP-001,BUD-DEP-001-2026,2026-11-06,2026-12-25,5432.57,USD,approved,Operational need for synthetic protective kit
+PR-2026-000882,USR-0242,DEP-002,BUD-DEP-002-2026,2026-04-02,2026-05-10,13357.95,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000883,USR-0003,DEP-003,BUD-DEP-003-2026,2026-03-31,2026-06-26,460.44,USD,rfq_closed,Operational need for synthetic safety monitor
+PR-2026-000884,USR-0280,DEP-004,BUD-DEP-004-2026,2026-02-25,2026-04-25,15069.15,USD,ordered,Operational need for synthetic workstation
+PR-2026-000885,USR-0209,DEP-005,BUD-DEP-005-2026,2026-05-02,2026-07-09,3872.5,USD,approved,Operational need for synthetic printer paper
+PR-2026-000886,USR-0114,DEP-006,BUD-DEP-006-2026,2026-02-09,2026-04-02,13681.29,USD,ordered,Operational need for synthetic security license
+PR-2026-000887,USR-0175,DEP-007,BUD-DEP-007-2026,2026-04-18,2026-07-01,5803.8,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000888,USR-0200,DEP-008,BUD-DEP-008-2026,2026-07-31,2026-09-08,6090.84,USD,approved,Operational need for synthetic audit support
+PR-2026-000889,USR-0201,DEP-009,BUD-DEP-009-2026,2026-08-29,2026-11-16,1701.28,USD,approved,Operational need for synthetic printer paper
+PR-2026-000890,USR-0250,DEP-010,BUD-DEP-010-2026,2026-10-16,2026-11-22,22498.56,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000891,USR-0047,DEP-011,BUD-DEP-011-2026,2026-07-29,2026-10-26,21894.18,USD,ordered,Operational need for synthetic workstation
+PR-2026-000892,USR-0013,DEP-001,BUD-DEP-001-2026,2026-06-12,2026-08-07,10331.16,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000893,USR-0002,DEP-002,BUD-DEP-002-2026,2026-03-13,2026-05-08,9810.0,USD,approved,Operational need for synthetic audit support
+PR-2026-000894,USR-0267,DEP-003,BUD-DEP-003-2026,2026-11-11,2027-01-22,3447.68,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000895,USR-0160,DEP-004,BUD-DEP-004-2026,2026-01-07,2026-02-23,6635.46,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000896,USR-0029,DEP-005,BUD-DEP-005-2026,2026-03-06,2026-05-27,3020.4,USD,approved,Operational need for synthetic workstation
+PR-2026-000897,USR-0174,DEP-006,BUD-DEP-006-2026,2026-01-31,2026-03-11,8673.72,USD,approved,Operational need for synthetic protective kit
+PR-2026-000898,USR-0007,DEP-007,BUD-DEP-007-2026,2026-11-11,2027-02-04,1566.24,USD,approved,Operational need for synthetic printer paper
+PR-2026-000899,USR-0116,DEP-008,BUD-DEP-008-2026,2026-06-03,2026-07-05,4362.93,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000900,USR-0177,DEP-009,BUD-DEP-009-2026,2026-05-16,2026-06-07,3533.0,USD,approved,Operational need for synthetic implementation services
+PR-2026-000901,USR-0214,DEP-010,BUD-DEP-010-2026,2026-05-08,2026-06-16,2890.09,USD,approved,Operational need for synthetic audit support
+PR-2026-000902,USR-0215,DEP-011,BUD-DEP-011-2026,2026-03-19,2026-05-18,13825.35,USD,ordered,Operational need for synthetic monitor
+PR-2026-000903,USR-0229,DEP-001,BUD-DEP-001-2026,2026-10-17,2026-12-12,3302.1,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000904,USR-0050,DEP-002,BUD-DEP-002-2026,2026-07-30,2026-10-12,13417.25,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000905,USR-0255,DEP-003,BUD-DEP-003-2026,2026-07-17,2026-09-04,8997.75,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000906,USR-0244,DEP-004,BUD-DEP-004-2026,2026-09-27,2026-12-16,13438.44,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000907,USR-0053,DEP-005,BUD-DEP-005-2026,2026-07-19,2026-10-08,15285.07,USD,approved,Operational need for synthetic design license
+PR-2026-000908,USR-0186,DEP-006,BUD-DEP-006-2026,2026-02-26,2026-03-27,8011.5,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000909,USR-0031,DEP-007,BUD-DEP-007-2026,2026-09-06,2026-11-20,6018.68,USD,approved,Operational need for synthetic analytics license
+PR-2026-000910,USR-0224,DEP-008,BUD-DEP-008-2026,2026-10-16,2026-12-12,7228.32,USD,approved,Operational need for synthetic implementation services
+PR-2026-000911,USR-0045,DEP-009,BUD-DEP-009-2026,2026-06-30,2026-08-08,9234.73,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000912,USR-0142,DEP-010,BUD-DEP-010-2026,2026-01-16,2026-02-18,3344.18,USD,approved,Operational need for synthetic air filter
+PR-2026-000913,USR-0023,DEP-011,BUD-DEP-011-2026,2026-10-20,2026-11-11,2590.56,USD,approved,Operational need for synthetic monitor
+PR-2026-000914,USR-0061,DEP-001,BUD-DEP-001-2026,2026-08-28,2026-10-30,6190.56,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000915,USR-0122,DEP-002,BUD-DEP-002-2026,2026-05-13,2026-06-08,13694.88,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000916,USR-0123,DEP-003,BUD-DEP-003-2026,2026-10-09,2026-10-29,12205.9,USD,approved,Operational need for synthetic implementation services
+PR-2026-000917,USR-0028,DEP-004,BUD-DEP-004-2026,2026-03-19,2026-04-27,1563.52,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000918,USR-0221,DEP-005,BUD-DEP-005-2026,2026-06-10,2026-07-23,19453.86,USD,approved,Operational need for synthetic protective kit
+PR-2026-000919,USR-0102,DEP-006,BUD-DEP-006-2026,2026-10-04,2026-11-14,16167.15,USD,approved,Operational need for synthetic laptop
+PR-2026-000920,USR-0187,DEP-007,BUD-DEP-007-2026,2026-03-11,2026-04-13,477.54,USD,approved,Operational need for synthetic air filter
+PR-2026-000921,USR-0044,DEP-008,BUD-DEP-008-2026,2026-03-29,2026-06-15,5558.22,USD,ordered,Operational need for synthetic workstation
+PR-2026-000922,USR-0033,DEP-009,BUD-DEP-009-2026,2026-01-11,2026-02-27,7459.75,USD,ordered,Operational need for synthetic security license
+PR-2026-000923,USR-0154,DEP-010,BUD-DEP-010-2026,2026-08-14,2026-09-24,3270.96,USD,approved,Operational need for synthetic workstation
+PR-2026-000924,USR-0095,DEP-011,BUD-DEP-011-2026,2026-01-05,2026-03-16,2086.1,USD,ordered,Operational need for synthetic laptop
+PR-2026-000925,USR-0073,DEP-001,BUD-DEP-001-2026,2026-09-21,2026-11-19,17850.24,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000926,USR-0146,DEP-002,BUD-DEP-002-2026,2026-04-10,2026-05-06,1829.07,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-000927,USR-0195,DEP-003,BUD-DEP-003-2026,2026-09-16,2026-10-15,4527.72,USD,approved,Operational need for synthetic analytics license
+PR-2026-000928,USR-0292,DEP-004,BUD-DEP-004-2026,2026-07-08,2026-09-03,6748.2,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000929,USR-0281,DEP-005,BUD-DEP-005-2026,2026-07-25,2026-10-03,16789.2,USD,ordered,Operational need for synthetic laptop
+PR-2026-000930,USR-0222,DEP-006,BUD-DEP-006-2026,2026-03-16,2026-06-06,8520.74,USD,rfq_closed,Operational need for synthetic network switch
+PR-2026-000931,USR-0259,DEP-007,BUD-DEP-007-2026,2026-11-09,2026-12-12,11856.96,USD,rfq_closed,Operational need for synthetic air filter
+PR-2026-000932,USR-0164,DEP-008,BUD-DEP-008-2026,2026-07-22,2026-10-17,6068.03,USD,approved,Operational need for synthetic led fixture
+PR-2026-000933,USR-0057,DEP-009,BUD-DEP-009-2026,2026-01-14,2026-03-21,10611.61,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000934,USR-0226,DEP-010,BUD-DEP-010-2026,2026-09-10,2026-11-25,7033.2,USD,approved,Operational need for synthetic audit support
+PR-2026-000935,USR-0071,DEP-011,BUD-DEP-011-2026,2026-03-08,2026-05-29,8430.24,USD,ordered,Operational need for synthetic network switch
+PR-2026-000936,USR-0145,DEP-001,BUD-DEP-001-2026,2026-02-10,2026-03-31,6067.26,USD,ordered,Operational need for synthetic led fixture
+PR-2026-000937,USR-0014,DEP-002,BUD-DEP-002-2026,2026-04-26,2026-07-24,3471.0,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000938,USR-0147,DEP-003,BUD-DEP-003-2026,2026-05-12,2026-07-30,1877.46,USD,approved,Operational need for synthetic design license
+PR-2026-000939,USR-0016,DEP-004,BUD-DEP-004-2026,2026-08-01,2026-09-20,5294.0,USD,approved,Operational need for synthetic air filter
+PR-2026-000940,USR-0077,DEP-005,BUD-DEP-005-2026,2026-02-19,2026-03-20,21171.7,USD,approved,Operational need for synthetic implementation services
+PR-2026-000941,USR-0294,DEP-006,BUD-DEP-006-2026,2026-03-13,2026-06-06,2018.24,USD,ordered,Operational need for synthetic workstation
+PR-2026-000942,USR-0271,DEP-007,BUD-DEP-007-2026,2026-07-10,2026-09-02,7066.14,USD,ordered,Operational need for synthetic air filter
+PR-2026-000943,USR-0296,DEP-008,BUD-DEP-008-2026,2026-01-05,2026-02-05,13921.11,USD,approved,Operational need for synthetic security license
+PR-2026-000944,USR-0201,DEP-009,BUD-DEP-009-2026,2026-04-06,2026-07-04,9705.84,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000945,USR-0274,DEP-010,BUD-DEP-010-2026,2026-06-20,2026-07-23,9905.04,USD,approved,Operational need for synthetic analytics license
+PR-2026-000946,USR-0119,DEP-011,BUD-DEP-011-2026,2026-05-29,2026-07-12,17857.56,USD,approved,Operational need for synthetic design license
+PR-2026-000947,USR-0205,DEP-001,BUD-DEP-001-2026,2026-01-12,2026-02-06,9729.5,USD,approved,Operational need for synthetic safety monitor
+PR-2026-000948,USR-0182,DEP-002,BUD-DEP-002-2026,2026-02-22,2026-04-22,6056.16,USD,approved,Operational need for synthetic audit support
+PR-2026-000949,USR-0003,DEP-003,BUD-DEP-003-2026,2026-06-12,2026-07-09,5238.48,USD,ordered,Operational need for synthetic laptop
+PR-2026-000950,USR-0136,DEP-004,BUD-DEP-004-2026,2026-07-09,2026-07-29,21377.02,USD,approved,Operational need for synthetic workstation
+PR-2026-000951,USR-0053,DEP-005,BUD-DEP-005-2026,2026-07-14,2026-08-23,8483.44,USD,approved,Operational need for synthetic analytics license
+PR-2026-000952,USR-0246,DEP-006,BUD-DEP-006-2026,2026-07-29,2026-10-17,4578.34,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000953,USR-0043,DEP-007,BUD-DEP-007-2026,2026-01-09,2026-02-13,2019.72,USD,approved,Operational need for synthetic workstation
+PR-2026-000954,USR-0020,DEP-008,BUD-DEP-008-2026,2026-09-20,2026-12-05,3882.96,USD,approved,Operational need for synthetic security license
+PR-2026-000955,USR-0093,DEP-009,BUD-DEP-009-2026,2026-11-13,2026-12-26,6880.99,USD,approved,Operational need for synthetic printer paper
+PR-2026-000956,USR-0202,DEP-010,BUD-DEP-010-2026,2026-08-23,2026-11-03,12201.7,USD,ordered,Operational need for synthetic audit support
+PR-2026-000957,USR-0251,DEP-011,BUD-DEP-011-2026,2026-05-05,2026-07-07,2327.04,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-000958,USR-0121,DEP-001,BUD-DEP-001-2026,2026-01-29,2026-03-24,11191.68,USD,approved,Operational need for synthetic implementation services
+PR-2026-000959,USR-0062,DEP-002,BUD-DEP-002-2026,2026-11-01,2027-01-11,10490.04,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000960,USR-0063,DEP-003,BUD-DEP-003-2026,2026-04-19,2026-07-15,9370.48,USD,approved,Operational need for synthetic workstation
+PR-2026-000961,USR-0184,DEP-004,BUD-DEP-004-2026,2026-10-09,2027-01-03,10599.66,USD,approved,Operational need for synthetic led fixture
+PR-2026-000962,USR-0173,DEP-005,BUD-DEP-005-2026,2026-02-03,2026-03-08,11939.98,USD,approved,Operational need for synthetic protective kit
+PR-2026-000963,USR-0258,DEP-006,BUD-DEP-006-2026,2026-03-30,2026-06-02,1022.23,USD,approved,Operational need for synthetic first-aid station
+PR-2026-000964,USR-0043,DEP-007,BUD-DEP-007-2026,2026-07-11,2026-08-17,25528.12,USD,ordered,Operational need for synthetic laptop
+PR-2026-000965,USR-0188,DEP-008,BUD-DEP-008-2026,2026-02-01,2026-03-09,3469.2,USD,approved,Operational need for synthetic printer paper
+PR-2026-000966,USR-0129,DEP-009,BUD-DEP-009-2026,2026-06-19,2026-07-14,902.75,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000967,USR-0286,DEP-010,BUD-DEP-010-2026,2026-07-11,2026-09-07,4957.74,USD,ordered,Operational need for synthetic laptop
+PR-2026-000968,USR-0095,DEP-011,BUD-DEP-011-2026,2026-06-25,2026-07-31,11052.0,USD,approved,Operational need for synthetic air filter
+PR-2026-000969,USR-0169,DEP-001,BUD-DEP-001-2026,2026-09-01,2026-10-17,9060.5,USD,approved,Operational need for synthetic air filter
+PR-2026-000970,USR-0026,DEP-002,BUD-DEP-002-2026,2026-01-14,2026-03-12,2695.68,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-000971,USR-0219,DEP-003,BUD-DEP-003-2026,2026-05-22,2026-06-13,1603.52,USD,approved,Operational need for synthetic security license
+PR-2026-000972,USR-0160,DEP-004,BUD-DEP-004-2026,2026-05-08,2026-07-18,4895.76,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-000973,USR-0101,DEP-005,BUD-DEP-005-2026,2026-09-16,2026-10-31,12505.29,USD,ordered,Operational need for synthetic air filter
+PR-2026-000974,USR-0090,DEP-006,BUD-DEP-006-2026,2026-11-16,2027-01-23,18438.68,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000975,USR-0199,DEP-007,BUD-DEP-007-2026,2026-07-02,2026-08-11,23539.23,USD,approved,Operational need for synthetic design license
+PR-2026-000976,USR-0248,DEP-008,BUD-DEP-008-2026,2026-11-15,2027-01-04,6483.3,USD,approved,Operational need for synthetic printer paper
+PR-2026-000977,USR-0021,DEP-009,BUD-DEP-009-2026,2026-07-01,2026-08-26,7070.4,USD,approved,Operational need for synthetic laptop
+PR-2026-000978,USR-0106,DEP-010,BUD-DEP-010-2026,2026-05-03,2026-06-26,2462.13,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000979,USR-0071,DEP-011,BUD-DEP-011-2026,2026-09-24,2026-10-31,2889.04,USD,approved,Operational need for synthetic implementation services
+PR-2026-000980,USR-0157,DEP-001,BUD-DEP-001-2026,2026-01-28,2026-03-05,3283.05,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000981,USR-0278,DEP-002,BUD-DEP-002-2026,2026-01-17,2026-03-31,7077.5,USD,ordered,Operational need for synthetic laptop
+PR-2026-000982,USR-0063,DEP-003,BUD-DEP-003-2026,2026-05-06,2026-06-08,10717.5,USD,ordered,Operational need for synthetic protective kit
+PR-2026-000983,USR-0136,DEP-004,BUD-DEP-004-2026,2026-06-24,2026-09-10,3200.4,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-000984,USR-0161,DEP-005,BUD-DEP-005-2026,2026-08-06,2026-10-17,11834.2,USD,approved,Operational need for synthetic workstation
+PR-2026-000985,USR-0258,DEP-006,BUD-DEP-006-2026,2026-07-08,2026-09-15,2422.28,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000986,USR-0127,DEP-007,BUD-DEP-007-2026,2026-06-15,2026-08-13,3108.68,USD,approved,Operational need for synthetic design license
+PR-2026-000987,USR-0236,DEP-008,BUD-DEP-008-2026,2026-09-12,2026-11-14,3119.5,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000988,USR-0165,DEP-009,BUD-DEP-009-2026,2026-06-08,2026-08-18,21328.2,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000989,USR-0190,DEP-010,BUD-DEP-010-2026,2026-05-11,2026-07-14,13601.4,USD,approved,Operational need for synthetic implementation services
+PR-2026-000990,USR-0179,DEP-011,BUD-DEP-011-2026,2026-04-23,2026-05-15,19139.12,USD,approved,Operational need for synthetic air filter
+PR-2026-000991,USR-0169,DEP-001,BUD-DEP-001-2026,2026-02-15,2026-05-07,12162.97,USD,approved,Operational need for synthetic printer paper
+PR-2026-000992,USR-0050,DEP-002,BUD-DEP-002-2026,2026-10-17,2026-11-09,4489.5,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-000993,USR-0291,DEP-003,BUD-DEP-003-2026,2026-07-07,2026-09-12,18895.25,USD,ordered,Operational need for synthetic implementation services
+PR-2026-000994,USR-0244,DEP-004,BUD-DEP-004-2026,2026-06-28,2026-09-21,16394.33,USD,approved,Operational need for synthetic security license
+PR-2026-000995,USR-0257,DEP-005,BUD-DEP-005-2026,2026-07-01,2026-07-27,11880.0,USD,approved,Operational need for synthetic printer paper
+PR-2026-000996,USR-0198,DEP-006,BUD-DEP-006-2026,2026-04-18,2026-05-25,2940.6,USD,approved,Operational need for synthetic access-control reader
+PR-2026-000997,USR-0187,DEP-007,BUD-DEP-007-2026,2026-06-07,2026-07-28,2404.39,USD,approved,Operational need for synthetic design license
+PR-2026-000998,USR-0176,DEP-008,BUD-DEP-008-2026,2026-02-04,2026-04-29,4488.48,USD,ordered,Operational need for synthetic network switch
+PR-2026-000999,USR-0177,DEP-009,BUD-DEP-009-2026,2026-03-20,2026-06-12,12058.88,USD,approved,Operational need for synthetic workstation
+PR-2026-001000,USR-0286,DEP-010,BUD-DEP-010-2026,2026-04-04,2026-05-31,17081.22,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001001,USR-0167,DEP-011,BUD-DEP-011-2026,2026-05-30,2026-07-26,13809.12,USD,approved,Operational need for synthetic protective kit
+PR-2026-001002,USR-0181,DEP-001,BUD-DEP-001-2026,2026-04-17,2026-06-03,2739.1,USD,approved,Operational need for synthetic laptop
+PR-2026-001003,USR-0026,DEP-002,BUD-DEP-002-2026,2026-03-03,2026-05-02,3445.0,USD,approved,Operational need for synthetic implementation services
+PR-2026-001004,USR-0243,DEP-003,BUD-DEP-003-2026,2026-10-26,2027-01-04,8235.24,USD,approved,Operational need for synthetic first-aid station
+PR-2026-001005,USR-0040,DEP-004,BUD-DEP-004-2026,2026-03-16,2026-05-29,10883.86,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001006,USR-0173,DEP-005,BUD-DEP-005-2026,2026-07-12,2026-08-15,13674.6,USD,ordered,Operational need for synthetic printer paper
+PR-2026-001007,USR-0198,DEP-006,BUD-DEP-006-2026,2026-01-07,2026-02-13,10844.25,USD,ordered,Operational need for synthetic security license
+PR-2026-001008,USR-0115,DEP-007,BUD-DEP-007-2026,2026-10-05,2026-10-31,7169.82,USD,approved,Operational need for synthetic safety monitor
+PR-2026-001009,USR-0116,DEP-008,BUD-DEP-008-2026,2026-11-01,2027-01-01,1217.2,USD,approved,Operational need for synthetic design license
+PR-2026-001010,USR-0285,DEP-009,BUD-DEP-009-2026,2026-05-04,2026-06-28,3398.67,USD,approved,Operational need for synthetic audit support
+PR-2026-001011,USR-0070,DEP-010,BUD-DEP-010-2026,2026-08-15,2026-10-04,10191.48,USD,ordered,Operational need for synthetic printer paper
+PR-2026-001012,USR-0107,DEP-011,BUD-DEP-011-2026,2026-05-24,2026-07-23,2411.9,USD,ordered,Operational need for synthetic analytics license
+PR-2026-001013,USR-0085,DEP-001,BUD-DEP-001-2026,2026-01-28,2026-03-14,1018.8,USD,approved,Operational need for synthetic safety monitor
+PR-2026-001014,USR-0170,DEP-002,BUD-DEP-002-2026,2026-03-19,2026-05-12,1920.6,USD,approved,Operational need for synthetic implementation services
+PR-2026-001015,USR-0027,DEP-003,BUD-DEP-003-2026,2026-02-08,2026-03-31,11653.92,USD,ordered,Operational need for synthetic workstation
+PR-2026-001016,USR-0292,DEP-004,BUD-DEP-004-2026,2026-11-06,2027-01-04,13551.72,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-001017,USR-0281,DEP-005,BUD-DEP-005-2026,2026-11-11,2026-12-19,8400.15,USD,approved,Operational need for synthetic design license
+PR-2026-001018,USR-0114,DEP-006,BUD-DEP-006-2026,2026-06-20,2026-08-09,14108.64,USD,ordered,Operational need for synthetic analytics license
+PR-2026-001019,USR-0211,DEP-007,BUD-DEP-007-2026,2026-09-14,2026-12-01,3940.86,USD,approved,Operational need for synthetic analytics license
+PR-2026-001020,USR-0248,DEP-008,BUD-DEP-008-2026,2026-07-30,2026-10-05,4163.92,USD,rfq_closed,Operational need for synthetic safety monitor
+PR-2026-001021,USR-0117,DEP-009,BUD-DEP-009-2026,2026-03-05,2026-04-26,11306.88,USD,approved,Operational need for synthetic security license
+PR-2026-001022,USR-0010,DEP-010,BUD-DEP-010-2026,2026-08-21,2026-11-10,2541.5,USD,approved,Operational need for synthetic led fixture
+PR-2026-001023,USR-0095,DEP-011,BUD-DEP-011-2026,2026-01-06,2026-02-14,12511.24,USD,rfq_closed,Operational need for synthetic audit support
+PR-2026-001024,USR-0001,DEP-001,BUD-DEP-001-2026,2026-11-01,2026-11-21,6750.24,USD,approved,Operational need for synthetic monitor
+PR-2026-001025,USR-0218,DEP-002,BUD-DEP-002-2026,2026-01-30,2026-02-22,11662.04,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001026,USR-0147,DEP-003,BUD-DEP-003-2026,2026-02-27,2026-05-26,16597.83,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001027,USR-0160,DEP-004,BUD-DEP-004-2026,2026-04-02,2026-06-24,3179.41,USD,ordered,Operational need for synthetic security license
+PR-2026-001028,USR-0233,DEP-005,BUD-DEP-005-2026,2026-09-28,2026-11-04,23536.2,USD,approved,Operational need for synthetic printer paper
+PR-2026-001029,USR-0114,DEP-006,BUD-DEP-006-2026,2026-04-22,2026-05-28,16485.02,USD,approved,Operational need for synthetic network switch
+PR-2026-001030,USR-0223,DEP-007,BUD-DEP-007-2026,2026-10-20,2026-12-28,11820.98,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-001031,USR-0056,DEP-008,BUD-DEP-008-2026,2026-09-09,2026-11-21,4041.68,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001032,USR-0153,DEP-009,BUD-DEP-009-2026,2026-05-06,2026-06-20,19737.5,USD,approved,Operational need for synthetic air filter
+PR-2026-001033,USR-0298,DEP-010,BUD-DEP-010-2026,2026-06-13,2026-07-27,7593.6,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001034,USR-0071,DEP-011,BUD-DEP-011-2026,2026-08-16,2026-10-13,9707.57,USD,ordered,Operational need for synthetic led fixture
+PR-2026-001035,USR-0013,DEP-001,BUD-DEP-001-2026,2026-08-14,2026-10-27,13358.85,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001036,USR-0110,DEP-002,BUD-DEP-002-2026,2026-04-17,2026-05-11,5041.83,USD,ordered,Operational need for synthetic audit support
+PR-2026-001037,USR-0171,DEP-003,BUD-DEP-003-2026,2026-04-07,2026-05-28,4916.82,USD,approved,Operational need for synthetic laptop
+PR-2026-001038,USR-0124,DEP-004,BUD-DEP-004-2026,2026-09-27,2026-11-08,16874.55,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001039,USR-0053,DEP-005,BUD-DEP-005-2026,2026-09-13,2026-12-09,5771.28,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001040,USR-0102,DEP-006,BUD-DEP-006-2026,2026-06-20,2026-08-30,8371.55,USD,approved,Operational need for synthetic audit support
+PR-2026-001041,USR-0079,DEP-007,BUD-DEP-007-2026,2026-11-07,2027-01-23,10062.52,USD,approved,Operational need for synthetic workstation
+PR-2026-001042,USR-0116,DEP-008,BUD-DEP-008-2026,2026-09-13,2026-11-22,5298.39,USD,approved,Operational need for synthetic analytics license
+PR-2026-001043,USR-0105,DEP-009,BUD-DEP-009-2026,2026-03-08,2026-04-20,9126.75,USD,ordered,Operational need for synthetic network switch
+PR-2026-001044,USR-0022,DEP-010,BUD-DEP-010-2026,2026-04-14,2026-05-24,4109.76,USD,approved,Operational need for synthetic security license
+PR-2026-001045,USR-0011,DEP-011,BUD-DEP-011-2026,2026-11-19,2026-12-09,2705.22,USD,approved,Operational need for synthetic analytics license
+PR-2026-001046,USR-0265,DEP-001,BUD-DEP-001-2026,2026-06-16,2026-07-15,14736.0,USD,approved,Operational need for synthetic air filter
+PR-2026-001047,USR-0254,DEP-002,BUD-DEP-002-2026,2026-08-09,2026-09-13,14962.5,USD,approved,Operational need for synthetic design license
+PR-2026-001048,USR-0279,DEP-003,BUD-DEP-003-2026,2026-10-26,2027-01-21,7386.82,USD,ordered,Operational need for synthetic network switch
+PR-2026-001049,USR-0280,DEP-004,BUD-DEP-004-2026,2026-07-17,2026-08-06,1334.76,USD,approved,Operational need for synthetic design license
+PR-2026-001050,USR-0101,DEP-005,BUD-DEP-005-2026,2026-10-08,2026-12-17,1898.9,USD,rfq_closed,Operational need for synthetic safety monitor
+PR-2026-001051,USR-0270,DEP-006,BUD-DEP-006-2026,2026-02-03,2026-03-09,4642.32,USD,rfq_closed,Operational need for synthetic printer paper
+PR-2026-001052,USR-0199,DEP-007,BUD-DEP-007-2026,2026-01-23,2026-04-04,11269.44,USD,approved,Operational need for synthetic printer paper
+PR-2026-001053,USR-0152,DEP-008,BUD-DEP-008-2026,2026-03-02,2026-04-13,4518.69,USD,ordered,Operational need for synthetic implementation services
+PR-2026-001054,USR-0045,DEP-009,BUD-DEP-009-2026,2026-05-17,2026-06-10,11265.09,USD,ordered,Operational need for synthetic implementation services
+PR-2026-001055,USR-0142,DEP-010,BUD-DEP-010-2026,2026-02-12,2026-04-18,9395.88,USD,approved,Operational need for synthetic monitor
+PR-2026-001056,USR-0251,DEP-011,BUD-DEP-011-2026,2026-09-06,2026-10-26,3897.85,USD,ordered,Operational need for synthetic audit support
+PR-2026-001057,USR-0253,DEP-001,BUD-DEP-001-2026,2026-09-12,2026-10-09,11087.25,USD,approved,Operational need for synthetic implementation services
+PR-2026-001058,USR-0134,DEP-002,BUD-DEP-002-2026,2026-03-01,2026-04-21,10381.41,USD,approved,Operational need for synthetic led fixture
+PR-2026-001059,USR-0231,DEP-003,BUD-DEP-003-2026,2026-05-19,2026-06-28,9638.4,USD,rfq_closed,Operational need for synthetic workstation
+PR-2026-001060,USR-0148,DEP-004,BUD-DEP-004-2026,2026-08-13,2026-10-17,1758.9,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-001061,USR-0269,DEP-005,BUD-DEP-005-2026,2026-10-13,2027-01-01,19550.0,USD,approved,Operational need for synthetic air filter
+PR-2026-001062,USR-0090,DEP-006,BUD-DEP-006-2026,2026-02-27,2026-05-10,10478.24,USD,ordered,Operational need for synthetic network switch
+PR-2026-001063,USR-0019,DEP-007,BUD-DEP-007-2026,2026-07-05,2026-08-02,8946.28,USD,ordered,Operational need for synthetic implementation services
+PR-2026-001064,USR-0260,DEP-008,BUD-DEP-008-2026,2026-09-29,2026-12-03,4320.0,USD,approved,Operational need for synthetic workstation
+PR-2026-001065,USR-0261,DEP-009,BUD-DEP-009-2026,2026-04-24,2026-06-27,1653.52,USD,approved,Operational need for synthetic implementation services
+PR-2026-001066,USR-0082,DEP-010,BUD-DEP-010-2026,2026-04-08,2026-05-13,2751.6,USD,rfq_closed,Operational need for synthetic air filter
+PR-2026-001067,USR-0047,DEP-011,BUD-DEP-011-2026,2026-01-20,2026-04-02,2382.0,USD,approved,Operational need for synthetic first-aid station
+PR-2026-001068,USR-0193,DEP-001,BUD-DEP-001-2026,2026-07-25,2026-10-07,4818.78,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001069,USR-0266,DEP-002,BUD-DEP-002-2026,2026-06-05,2026-08-07,10725.12,USD,approved,Operational need for synthetic audit support
+PR-2026-001070,USR-0051,DEP-003,BUD-DEP-003-2026,2026-11-11,2026-12-29,7000.4,USD,ordered,Operational need for synthetic air filter
+PR-2026-001071,USR-0064,DEP-004,BUD-DEP-004-2026,2026-11-11,2026-12-11,7097.4,USD,approved,Operational need for synthetic audit support
+PR-2026-001072,USR-0173,DEP-005,BUD-DEP-005-2026,2026-02-01,2026-04-16,3898.32,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001073,USR-0042,DEP-006,BUD-DEP-006-2026,2026-04-17,2026-05-25,20742.63,USD,ordered,Operational need for synthetic led fixture
+PR-2026-001074,USR-0007,DEP-007,BUD-DEP-007-2026,2026-09-16,2026-11-26,14169.56,USD,approved,Operational need for synthetic protective kit
+PR-2026-001075,USR-0152,DEP-008,BUD-DEP-008-2026,2026-10-07,2026-12-07,2369.33,USD,ordered,Operational need for synthetic led fixture
+PR-2026-001076,USR-0201,DEP-009,BUD-DEP-009-2026,2026-10-09,2026-12-15,2109.12,USD,approved,Operational need for synthetic design license
+PR-2026-001077,USR-0238,DEP-010,BUD-DEP-010-2026,2026-03-03,2026-03-31,1517.6,USD,approved,Operational need for synthetic audit support
+PR-2026-001078,USR-0167,DEP-011,BUD-DEP-011-2026,2026-06-27,2026-09-08,3199.36,USD,approved,Operational need for synthetic led fixture
+PR-2026-001079,USR-0073,DEP-001,BUD-DEP-001-2026,2026-01-12,2026-03-25,3809.31,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001080,USR-0098,DEP-002,BUD-DEP-002-2026,2026-11-15,2026-12-27,7480.2,USD,approved,Operational need for synthetic safety monitor
+PR-2026-001081,USR-0231,DEP-003,BUD-DEP-003-2026,2026-04-13,2026-07-02,7977.84,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001082,USR-0268,DEP-004,BUD-DEP-004-2026,2026-05-20,2026-08-07,4354.56,USD,approved,Operational need for synthetic analytics license
+PR-2026-001083,USR-0245,DEP-005,BUD-DEP-005-2026,2026-03-28,2026-05-28,21278.97,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-001084,USR-0186,DEP-006,BUD-DEP-006-2026,2026-08-31,2026-10-04,2616.11,USD,ordered,Operational need for synthetic security license
+PR-2026-001085,USR-0091,DEP-007,BUD-DEP-007-2026,2026-07-31,2026-09-25,14264.5,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-001086,USR-0020,DEP-008,BUD-DEP-008-2026,2026-02-06,2026-02-27,15243.5,USD,ordered,Operational need for synthetic implementation services
+PR-2026-001087,USR-0297,DEP-009,BUD-DEP-009-2026,2026-08-05,2026-10-18,9120.04,USD,approved,Operational need for synthetic air filter
+PR-2026-001088,USR-0094,DEP-010,BUD-DEP-010-2026,2026-03-24,2026-06-22,10751.09,USD,approved,Operational need for synthetic led fixture
+PR-2026-001089,USR-0071,DEP-011,BUD-DEP-011-2026,2026-02-07,2026-04-28,5727.92,USD,rfq_closed,Operational need for synthetic network switch
+PR-2026-001090,USR-0265,DEP-001,BUD-DEP-001-2026,2026-06-18,2026-09-03,10626.23,USD,ordered,Operational need for synthetic filing cabinet
+PR-2026-001091,USR-0002,DEP-002,BUD-DEP-002-2026,2026-04-16,2026-05-09,4421.23,USD,approved,Operational need for synthetic protective kit
+PR-2026-001092,USR-0171,DEP-003,BUD-DEP-003-2026,2026-09-24,2026-12-10,9377.94,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001093,USR-0280,DEP-004,BUD-DEP-004-2026,2026-03-26,2026-05-07,8192.6,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-001094,USR-0161,DEP-005,BUD-DEP-005-2026,2026-01-20,2026-03-26,6722.1,USD,approved,Operational need for synthetic laptop
+PR-2026-001095,USR-0270,DEP-006,BUD-DEP-006-2026,2026-05-05,2026-06-19,1159.2,USD,approved,Operational need for synthetic design license
+PR-2026-001096,USR-0043,DEP-007,BUD-DEP-007-2026,2026-07-09,2026-08-06,9857.7,USD,approved,Operational need for synthetic design license
+PR-2026-001097,USR-0020,DEP-008,BUD-DEP-008-2026,2026-02-14,2026-03-19,8785.92,USD,approved,Operational need for synthetic led fixture
+PR-2026-001098,USR-0213,DEP-009,BUD-DEP-009-2026,2026-02-05,2026-03-17,14712.85,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-001099,USR-0250,DEP-010,BUD-DEP-010-2026,2026-09-19,2026-11-30,6270.09,USD,ordered,Operational need for synthetic audit support
+PR-2026-001100,USR-0119,DEP-011,BUD-DEP-011-2026,2026-10-07,2026-11-18,6442.32,USD,ordered,Operational need for synthetic air filter
+PR-2026-001101,USR-0253,DEP-001,BUD-DEP-001-2026,2026-01-11,2026-02-17,10205.1,USD,approved,Operational need for synthetic implementation services
+PR-2026-001102,USR-0230,DEP-002,BUD-DEP-002-2026,2026-09-02,2026-11-18,9579.86,USD,approved,Operational need for synthetic first-aid station
+PR-2026-001103,USR-0135,DEP-003,BUD-DEP-003-2026,2026-06-10,2026-07-15,856.18,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001104,USR-0172,DEP-004,BUD-DEP-004-2026,2026-04-26,2026-07-13,7277.49,USD,approved,Operational need for synthetic led fixture
+PR-2026-001105,USR-0185,DEP-005,BUD-DEP-005-2026,2026-03-20,2026-04-27,4486.62,USD,approved,Operational need for synthetic monitor
+PR-2026-001106,USR-0294,DEP-006,BUD-DEP-006-2026,2026-10-09,2026-11-06,22235.0,USD,approved,Operational need for synthetic security license
+PR-2026-001107,USR-0235,DEP-007,BUD-DEP-007-2026,2026-07-17,2026-09-27,10932.75,USD,ordered,Operational need for synthetic workstation
+PR-2026-001108,USR-0020,DEP-008,BUD-DEP-008-2026,2026-04-24,2026-07-12,6355.83,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001109,USR-0165,DEP-009,BUD-DEP-009-2026,2026-08-31,2026-10-27,1527.26,USD,approved,Operational need for synthetic analytics license
+PR-2026-001110,USR-0022,DEP-010,BUD-DEP-010-2026,2026-01-10,2026-03-10,2488.4,USD,ordered,Operational need for synthetic printer paper
+PR-2026-001111,USR-0167,DEP-011,BUD-DEP-011-2026,2026-05-29,2026-08-14,5363.4,USD,approved,Operational need for synthetic analytics license
+PR-2026-001112,USR-0121,DEP-001,BUD-DEP-001-2026,2026-07-20,2026-09-30,7546.33,USD,approved,Operational need for synthetic implementation services
+PR-2026-001113,USR-0230,DEP-002,BUD-DEP-002-2026,2026-11-03,2026-11-27,5947.02,USD,approved,Operational need for synthetic design license
+PR-2026-001114,USR-0015,DEP-003,BUD-DEP-003-2026,2026-09-25,2026-10-31,16606.98,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001115,USR-0208,DEP-004,BUD-DEP-004-2026,2026-10-21,2027-01-16,1153.4,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-001116,USR-0221,DEP-005,BUD-DEP-005-2026,2026-04-24,2026-07-20,13357.39,USD,ordered,Operational need for synthetic security license
+PR-2026-001117,USR-0258,DEP-006,BUD-DEP-006-2026,2026-03-22,2026-04-19,8277.5,USD,approved,Operational need for synthetic printer paper
+PR-2026-001118,USR-0259,DEP-007,BUD-DEP-007-2026,2026-01-28,2026-02-25,10307.04,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-001119,USR-0008,DEP-008,BUD-DEP-008-2026,2026-01-31,2026-03-29,11281.92,USD,approved,Operational need for synthetic audit support
+PR-2026-001120,USR-0057,DEP-009,BUD-DEP-009-2026,2026-01-13,2026-02-12,8559.12,USD,approved,Operational need for synthetic air filter
+PR-2026-001121,USR-0010,DEP-010,BUD-DEP-010-2026,2026-01-13,2026-03-06,7794.9,USD,ordered,Operational need for synthetic network switch
+PR-2026-001122,USR-0035,DEP-011,BUD-DEP-011-2026,2026-05-15,2026-08-01,6636.74,USD,approved,Operational need for synthetic design license
+PR-2026-001123,USR-0133,DEP-001,BUD-DEP-001-2026,2026-11-06,2026-12-20,2525.12,USD,ordered,Operational need for synthetic led fixture
+PR-2026-001124,USR-0158,DEP-002,BUD-DEP-002-2026,2026-05-26,2026-06-18,2456.51,USD,approved,Operational need for synthetic security license
+PR-2026-001125,USR-0183,DEP-003,BUD-DEP-003-2026,2026-10-29,2026-12-14,2118.2,USD,rfq_closed,Operational need for synthetic implementation services
+PR-2026-001126,USR-0052,DEP-004,BUD-DEP-004-2026,2026-04-21,2026-05-21,7954.8,USD,approved,Operational need for synthetic protective kit
+PR-2026-001127,USR-0029,DEP-005,BUD-DEP-005-2026,2026-09-18,2026-11-20,11670.91,USD,approved,Operational need for synthetic led fixture
+PR-2026-001128,USR-0042,DEP-006,BUD-DEP-006-2026,2026-10-02,2026-12-15,3618.4,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001129,USR-0007,DEP-007,BUD-DEP-007-2026,2026-01-10,2026-03-23,16169.72,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-001130,USR-0032,DEP-008,BUD-DEP-008-2026,2026-03-12,2026-06-09,4962.21,USD,approved,Operational need for synthetic filing cabinet
+PR-2026-001131,USR-0141,DEP-009,BUD-DEP-009-2026,2026-06-10,2026-08-29,2189.7,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001132,USR-0058,DEP-010,BUD-DEP-010-2026,2026-05-28,2026-08-09,5402.1,USD,ordered,Operational need for synthetic security license
+PR-2026-001133,USR-0095,DEP-011,BUD-DEP-011-2026,2026-10-29,2027-01-01,4280.4,USD,approved,Operational need for synthetic safety monitor
+PR-2026-001134,USR-0193,DEP-001,BUD-DEP-001-2026,2026-11-07,2026-12-02,3793.5,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001135,USR-0146,DEP-002,BUD-DEP-002-2026,2026-09-22,2026-11-12,16302.6,USD,approved,Operational need for synthetic led fixture
+PR-2026-001136,USR-0087,DEP-003,BUD-DEP-003-2026,2026-02-17,2026-05-07,5534.97,USD,approved,Operational need for synthetic monitor
+PR-2026-001137,USR-0280,DEP-004,BUD-DEP-004-2026,2026-06-30,2026-09-24,2699.04,USD,ordered,Operational need for synthetic security license
+PR-2026-001138,USR-0269,DEP-005,BUD-DEP-005-2026,2026-02-13,2026-05-13,20823.04,USD,approved,Operational need for synthetic first-aid station
+PR-2026-001139,USR-0222,DEP-006,BUD-DEP-006-2026,2026-05-18,2026-08-10,3488.7,USD,rfq_closed,Operational need for synthetic implementation services
+PR-2026-001140,USR-0199,DEP-007,BUD-DEP-007-2026,2026-03-14,2026-05-21,3806.32,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001141,USR-0248,DEP-008,BUD-DEP-008-2026,2026-09-13,2026-12-12,10511.63,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-001142,USR-0021,DEP-009,BUD-DEP-009-2026,2026-05-25,2026-08-11,8685.6,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-001143,USR-0238,DEP-010,BUD-DEP-010-2026,2026-05-06,2026-05-29,12123.6,USD,approved,Operational need for synthetic implementation services
+PR-2026-001144,USR-0131,DEP-011,BUD-DEP-011-2026,2026-06-24,2026-08-20,9875.66,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001145,USR-0145,DEP-001,BUD-DEP-001-2026,2026-03-05,2026-04-19,3743.96,USD,approved,Operational need for synthetic led fixture
+PR-2026-001146,USR-0194,DEP-002,BUD-DEP-002-2026,2026-08-19,2026-09-08,17997.96,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-001147,USR-0219,DEP-003,BUD-DEP-003-2026,2026-11-20,2027-02-12,7883.2,USD,approved,Operational need for synthetic implementation services
+PR-2026-001148,USR-0052,DEP-004,BUD-DEP-004-2026,2026-10-29,2026-12-20,2063.34,USD,approved,Operational need for synthetic implementation services
+PR-2026-001149,USR-0221,DEP-005,BUD-DEP-005-2026,2026-01-17,2026-04-07,4686.92,USD,approved,Operational need for synthetic air filter
+PR-2026-001150,USR-0066,DEP-006,BUD-DEP-006-2026,2026-01-08,2026-03-03,7462.25,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001151,USR-0127,DEP-007,BUD-DEP-007-2026,2026-09-12,2026-10-22,4831.7,USD,ordered,Operational need for synthetic led fixture
+PR-2026-001152,USR-0236,DEP-008,BUD-DEP-008-2026,2026-07-07,2026-09-06,9180.78,USD,approved,Operational need for synthetic analytics license
+PR-2026-001153,USR-0057,DEP-009,BUD-DEP-009-2026,2026-10-02,2026-10-29,13640.21,USD,ordered,Operational need for synthetic audit support
+PR-2026-001154,USR-0238,DEP-010,BUD-DEP-010-2026,2026-05-06,2026-07-21,16149.62,USD,approved,Operational need for synthetic implementation services
+PR-2026-001155,USR-0203,DEP-011,BUD-DEP-011-2026,2026-01-11,2026-04-02,7201.6,USD,ordered,Operational need for synthetic led fixture
+PR-2026-001156,USR-0157,DEP-001,BUD-DEP-001-2026,2026-09-05,2026-11-25,3839.65,USD,approved,Operational need for synthetic implementation services
+PR-2026-001157,USR-0206,DEP-002,BUD-DEP-002-2026,2026-03-12,2026-04-26,3087.54,USD,approved,Operational need for synthetic workstation
+PR-2026-001158,USR-0267,DEP-003,BUD-DEP-003-2026,2026-04-21,2026-07-03,6846.6,USD,approved,Operational need for synthetic laptop
+PR-2026-001159,USR-0220,DEP-004,BUD-DEP-004-2026,2026-10-21,2026-11-15,21830.43,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001160,USR-0281,DEP-005,BUD-DEP-005-2026,2026-03-29,2026-04-28,11232.82,USD,ordered,Operational need for synthetic protective kit
+PR-2026-001161,USR-0078,DEP-006,BUD-DEP-006-2026,2026-08-05,2026-09-01,3561.6,USD,ordered,Operational need for synthetic protective kit
+PR-2026-001162,USR-0187,DEP-007,BUD-DEP-007-2026,2026-07-16,2026-08-08,3191.72,USD,ordered,Operational need for synthetic implementation services
+PR-2026-001163,USR-0260,DEP-008,BUD-DEP-008-2026,2026-06-10,2026-08-24,2044.25,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001164,USR-0249,DEP-009,BUD-DEP-009-2026,2026-10-08,2026-12-07,11134.2,USD,ordered,Operational need for synthetic analytics license
+PR-2026-001165,USR-0070,DEP-010,BUD-DEP-010-2026,2026-02-11,2026-04-14,7670.26,USD,ordered,Operational need for synthetic design license
+PR-2026-001166,USR-0239,DEP-011,BUD-DEP-011-2026,2026-07-07,2026-09-10,5204.0,USD,ordered,Operational need for synthetic analytics license
+PR-2026-001167,USR-0001,DEP-001,BUD-DEP-001-2026,2026-04-12,2026-07-08,1033.06,USD,ordered,Operational need for synthetic laptop
+PR-2026-001168,USR-0038,DEP-002,BUD-DEP-002-2026,2026-08-23,2026-10-30,3265.36,USD,approved,Operational need for synthetic network switch
+PR-2026-001169,USR-0183,DEP-003,BUD-DEP-003-2026,2026-03-28,2026-06-12,4006.53,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-001170,USR-0256,DEP-004,BUD-DEP-004-2026,2026-07-04,2026-08-15,25743.47,USD,approved,Operational need for synthetic protective kit
+PR-2026-001171,USR-0017,DEP-005,BUD-DEP-005-2026,2026-03-12,2026-04-12,16008.52,USD,approved,Operational need for synthetic protective kit
+PR-2026-001172,USR-0018,DEP-006,BUD-DEP-006-2026,2026-08-27,2026-11-25,5391.33,USD,ordered,Operational need for synthetic safety monitor
+PR-2026-001173,USR-0175,DEP-007,BUD-DEP-007-2026,2026-06-09,2026-08-14,7851.4,USD,approved,Operational need for synthetic printer paper
+PR-2026-001174,USR-0200,DEP-008,BUD-DEP-008-2026,2026-06-18,2026-08-05,1898.4,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-001175,USR-0057,DEP-009,BUD-DEP-009-2026,2026-06-17,2026-09-14,19549.05,USD,ordered,Operational need for synthetic network switch
+PR-2026-001176,USR-0094,DEP-010,BUD-DEP-010-2026,2026-09-10,2026-10-25,9145.71,USD,approved,Operational need for synthetic analytics license
+PR-2026-001177,USR-0023,DEP-011,BUD-DEP-011-2026,2026-03-13,2026-04-25,15899.0,USD,rfq_closed,Operational need for synthetic air filter
+PR-2026-001178,USR-0145,DEP-001,BUD-DEP-001-2026,2026-01-27,2026-03-12,6604.56,USD,approved,Operational need for synthetic implementation services
+PR-2026-001179,USR-0290,DEP-002,BUD-DEP-002-2026,2026-05-19,2026-07-13,18452.2,USD,approved,Operational need for synthetic laptop
+PR-2026-001180,USR-0207,DEP-003,BUD-DEP-003-2026,2026-08-18,2026-10-08,1437.52,USD,ordered,Operational need for synthetic audit support
+PR-2026-001181,USR-0100,DEP-004,BUD-DEP-004-2026,2026-10-05,2026-10-30,12068.55,USD,approved,Operational need for synthetic implementation services
+PR-2026-001182,USR-0257,DEP-005,BUD-DEP-005-2026,2026-03-27,2026-05-09,2161.66,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-001183,USR-0066,DEP-006,BUD-DEP-006-2026,2026-07-29,2026-08-18,6797.96,USD,rfq_closed,Operational need for synthetic design license
+PR-2026-001184,USR-0295,DEP-007,BUD-DEP-007-2026,2026-07-17,2026-09-27,17312.96,USD,approved,Operational need for synthetic implementation services
+PR-2026-001185,USR-0092,DEP-008,BUD-DEP-008-2026,2026-02-11,2026-04-20,3434.84,USD,approved,Operational need for synthetic ergonomic chair
+PR-2026-001186,USR-0153,DEP-009,BUD-DEP-009-2026,2026-08-18,2026-09-25,2200.48,USD,ordered,Operational need for synthetic protective kit
+PR-2026-001187,USR-0214,DEP-010,BUD-DEP-010-2026,2026-02-16,2026-04-11,20828.5,USD,ordered,Operational need for synthetic first-aid station
+PR-2026-001188,USR-0251,DEP-011,BUD-DEP-011-2026,2026-01-22,2026-02-22,12299.84,USD,ordered,Operational need for synthetic ergonomic chair
+PR-2026-001189,USR-0289,DEP-001,BUD-DEP-001-2026,2026-11-18,2026-12-27,3347.75,USD,approved,Operational need for synthetic analytics license
+PR-2026-001190,USR-0086,DEP-002,BUD-DEP-002-2026,2026-01-11,2026-03-02,5406.3,USD,approved,Operational need for synthetic led fixture
+PR-2026-001191,USR-0231,DEP-003,BUD-DEP-003-2026,2026-01-13,2026-03-16,9280.32,USD,ordered,Operational need for synthetic network switch
+PR-2026-001192,USR-0184,DEP-004,BUD-DEP-004-2026,2026-11-05,2026-12-12,18860.1,USD,approved,Operational need for synthetic implementation services
+PR-2026-001193,USR-0041,DEP-005,BUD-DEP-005-2026,2026-04-22,2026-06-13,2997.68,USD,ordered,Operational need for synthetic access-control reader
+PR-2026-001194,USR-0018,DEP-006,BUD-DEP-006-2026,2026-08-28,2026-09-23,12963.3,USD,approved,Operational need for synthetic access-control reader
+PR-2026-001195,USR-0031,DEP-007,BUD-DEP-007-2026,2026-06-06,2026-07-14,4429.7,USD,approved,Operational need for synthetic air filter
+PR-2026-001196,USR-0116,DEP-008,BUD-DEP-008-2026,2026-10-13,2026-11-09,3768.8,USD,ordered,Operational need for synthetic air filter
+PR-2026-001197,USR-0009,DEP-009,BUD-DEP-009-2026,2026-01-28,2026-03-28,10049.0,USD,approved,Operational need for synthetic laptop
+PR-2026-001198,USR-0286,DEP-010,BUD-DEP-010-2026,2026-11-02,2026-11-23,3924.96,USD,ordered,Operational need for synthetic printer paper
+PR-2026-001199,USR-0120,DEP-012,BUD-DEP-012-2026,2026-10-07,2026-12-08,10000.0,USD,ordered,Operational need for synthetic network switch
+PR-2026-001200,USR-0253,DEP-001,BUD-DEP-001-2026,2026-11-19,2026-12-22,10000.0,USD,rejected_duplicate,Operational need for synthetic workstation

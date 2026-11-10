@@ -1,0 +1,901 @@
+award_id,rfq_id,quote_id,awarded_at,quantity_awarded,award_total,rationale,decision_status
+AWD-000001,RFQ-2026-000001,QUO-S0012-2026-000001,2026-11-30,20,8778.72,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000002,RFQ-2026-000002,QUO-S0028-2026-000001,2026-09-19,19,1176.05,,awarded
+AWD-000003,RFQ-2026-000002,QUO-S0120-2026-000001,2026-09-19,18,577.62,Known supplier-inactive exception injected for control evaluation,awarded
+AWD-000004,RFQ-2026-000002,QUO-S0089-2026-000001,2026-09-19,18,1135.78,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000005,RFQ-2026-000003,QUO-S0019-2026-000001,2026-11-16,5,909.79,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000006,RFQ-2026-000003,QUO-S0068-2026-000001,2026-11-16,5,950.58,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000007,RFQ-2026-000003,QUO-S0017-2026-000001,2026-11-16,4,770.14,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000008,RFQ-2026-000004,QUO-S0058-2026-000001,2026-08-12,15,3868.84,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000009,RFQ-2026-000004,QUO-S0066-2026-000001,2026-08-12,15,4912.69,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000010,RFQ-2026-000004,QUO-S0006-2026-000001,2026-08-12,15,5132.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000011,RFQ-2026-000005,QUO-S0115-2026-000001,2026-07-15,19,3174.5,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000012,RFQ-2026-000005,QUO-S0017-2026-000002,2026-07-15,19,3495.19,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000013,RFQ-2026-000005,QUO-S0005-2026-000001,2026-07-15,18,3628.28,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000014,RFQ-2026-000006,QUO-S0103-2026-000001,2026-09-11,7,867.88,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000015,RFQ-2026-000006,QUO-S0060-2026-000001,2026-09-11,6,816.74,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000016,RFQ-2026-000006,QUO-S0007-2026-000001,2026-09-11,6,874.92,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000017,RFQ-2026-000007,QUO-S0071-2026-000001,2026-10-19,8,1709.52,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000018,RFQ-2026-000007,QUO-S0107-2026-000002,2026-10-19,8,1954.94,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000019,RFQ-2026-000007,QUO-S0092-2026-000001,2026-10-19,8,1983.55,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000020,RFQ-2026-000008,QUO-S0072-2026-000001,2026-09-24,12,3963.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000021,RFQ-2026-000008,QUO-S0049-2026-000001,2026-09-24,11,4411.3,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000022,RFQ-2026-000008,QUO-S0008-2026-000002,2026-09-24,11,4451.92,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000023,RFQ-2026-000009,QUO-S0025-2026-000001,2026-05-28,12,867.37,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000024,RFQ-2026-000009,QUO-S0017-2026-000003,2026-05-28,12,918.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000025,RFQ-2026-000009,QUO-S0002-2026-000001,2026-05-28,12,948.57,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000026,RFQ-2026-000010,QUO-S0102-2026-000001,2026-09-19,11,1942.84,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000027,RFQ-2026-000010,QUO-S0009-2026-000001,2026-09-19,11,2016.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000028,RFQ-2026-000010,QUO-S0106-2026-000001,2026-09-19,10,2012.5,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000029,RFQ-2026-000011,QUO-S0106-2026-000002,2026-04-28,20,6120.02,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000030,RFQ-2026-000011,QUO-S0018-2026-000001,2026-04-28,20,6602.16,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000031,RFQ-2026-000011,QUO-S0088-2026-000001,2026-04-28,19,6300.63,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000032,RFQ-2026-000012,QUO-S0092-2026-000002,2026-07-23,14,2737.56,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000033,RFQ-2026-000012,QUO-S0042-2026-000001,2026-07-23,14,3110.35,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000034,RFQ-2026-000012,QUO-S0084-2026-000001,2026-07-23,13,2924.68,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000035,RFQ-2026-000013,QUO-S0059-2026-000001,2026-08-03,7,1259.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000036,RFQ-2026-000013,QUO-S0027-2026-000001,2026-08-03,6,1129.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000037,RFQ-2026-000013,QUO-S0017-2026-000004,2026-08-03,6,1220.54,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000038,RFQ-2026-000014,QUO-S0102-2026-000002,2026-11-18,13,1352.72,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000039,RFQ-2026-000014,QUO-S0052-2026-000001,2026-11-18,13,1404.85,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000040,RFQ-2026-000014,QUO-S0072-2026-000002,2026-11-18,13,1546.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000041,RFQ-2026-000015,QUO-S0061-2026-000001,2026-08-26,11,4821.01,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000042,RFQ-2026-000015,QUO-S0031-2026-000001,2026-08-26,11,4832.22,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000043,RFQ-2026-000015,QUO-S0116-2026-000001,2026-08-26,10,4484.76,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000044,RFQ-2026-000016,QUO-S0094-2026-000001,2026-01-22,9,2725.58,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000045,RFQ-2026-000016,QUO-S0087-2026-000001,2026-01-22,8,2584.5,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000046,RFQ-2026-000016,QUO-S0032-2026-000001,2026-01-22,8,2607.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000047,RFQ-2026-000017,QUO-S0009-2026-000002,2026-10-13,4,1596.14,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000048,RFQ-2026-000017,QUO-S0023-2026-000001,2026-10-13,4,1691.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000049,RFQ-2026-000017,QUO-S0027-2026-000002,2026-10-13,3,1571.69,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000050,RFQ-2026-000018,QUO-S0068-2026-000002,2026-09-11,13,1951.72,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000051,RFQ-2026-000018,QUO-S0059-2026-000002,2026-09-11,13,2112.88,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000052,RFQ-2026-000018,QUO-S0118-2026-000002,2026-09-11,12,2049.45,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000053,RFQ-2026-000019,QUO-S0048-2026-000001,2026-11-17,12,3345.04,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000054,RFQ-2026-000019,QUO-S0051-2026-000001,2026-11-17,12,3925.15,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000055,RFQ-2026-000019,QUO-S0106-2026-000003,2026-11-17,11,3766.21,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000056,RFQ-2026-000020,QUO-S0056-2026-000001,2026-05-10,14,2383.82,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000057,RFQ-2026-000020,QUO-S0079-2026-000001,2026-05-10,13,2248.78,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000058,RFQ-2026-000020,QUO-S0118-2026-000003,2026-05-10,13,2323.36,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000059,RFQ-2026-000021,QUO-S0042-2026-000002,2026-10-20,10,3811.1,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000060,RFQ-2026-000021,QUO-S0054-2026-000001,2026-10-20,9,3681.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000061,RFQ-2026-000021,QUO-S0044-2026-000001,2026-10-20,9,3958.04,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000062,RFQ-2026-000022,QUO-S0112-2026-000002,2026-10-24,5,1214.26,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000063,RFQ-2026-000022,QUO-S0039-2026-000001,2026-10-24,5,1484.87,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000064,RFQ-2026-000022,QUO-S0067-2026-000001,2026-10-24,4,1230.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000065,RFQ-2026-000023,QUO-S0116-2026-000002,2026-04-28,8,1553.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000066,RFQ-2026-000023,QUO-S0020-2026-000005,2026-04-28,8,1664.77,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000067,RFQ-2026-000023,QUO-S0087-2026-000002,2026-04-28,7,1505.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000068,RFQ-2026-000024,QUO-S0118-2026-000004,2026-09-12,8,1695.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000069,RFQ-2026-000024,QUO-S0059-2026-000003,2026-09-12,7,1658.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000070,RFQ-2026-000024,QUO-S0037-2026-000002,2026-09-12,7,2104.04,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000071,RFQ-2026-000025,QUO-S0062-2026-000001,2026-09-25,5,1986.35,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000072,RFQ-2026-000025,QUO-S0003-2026-000001,2026-09-25,5,2119.18,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000073,RFQ-2026-000025,QUO-S0058-2026-000002,2026-09-25,5,2198.6,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000074,RFQ-2026-000026,QUO-S0025-2026-000002,2026-06-21,18,6210.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000075,RFQ-2026-000026,QUO-S0088-2026-000002,2026-06-21,18,6608.04,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000076,RFQ-2026-000026,QUO-S0038-2026-000001,2026-06-21,18,7155.29,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000077,RFQ-2026-000027,QUO-S0041-2026-000001,2026-06-01,10,821.44,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000078,RFQ-2026-000027,QUO-S0056-2026-000002,2026-06-01,9,754.86,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000079,RFQ-2026-000027,QUO-S0080-2026-000001,2026-06-01,9,947.77,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000080,RFQ-2026-000028,QUO-S0010-2026-000001,2026-02-01,19,2959.93,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000081,RFQ-2026-000028,QUO-S0070-2026-000001,2026-02-01,18,3152.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000082,RFQ-2026-000028,QUO-S0089-2026-000002,2026-02-01,18,3172.45,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000083,RFQ-2026-000029,QUO-S0092-2026-000004,2026-04-05,18,4743.36,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000084,RFQ-2026-000029,QUO-S0061-2026-000002,2026-04-05,18,4913.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000085,RFQ-2026-000029,QUO-S0068-2026-000003,2026-04-05,17,4645.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000086,RFQ-2026-000030,QUO-S0061-2026-000003,2026-02-02,8,2864.83,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000087,RFQ-2026-000030,QUO-S0056-2026-000003,2026-02-02,8,2928.55,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000088,RFQ-2026-000030,QUO-S0099-2026-000001,2026-02-02,8,3005.89,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000089,RFQ-2026-000031,QUO-S0080-2026-000002,2026-10-21,16,3835.06,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000090,RFQ-2026-000031,QUO-S0031-2026-000002,2026-10-21,15,3649.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000091,RFQ-2026-000031,QUO-S0034-2026-000001,2026-10-21,15,3931.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000092,RFQ-2026-000032,QUO-S0058-2026-000003,2026-04-07,20,685.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000093,RFQ-2026-000032,QUO-S0063-2026-000001,2026-04-07,19,680.54,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000094,RFQ-2026-000032,QUO-S0017-2026-000005,2026-04-07,19,822.06,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000095,RFQ-2026-000033,QUO-S0078-2026-000001,2026-08-17,12,1553.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000096,RFQ-2026-000033,QUO-S0086-2026-000001,2026-08-17,11,1452.9,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000097,RFQ-2026-000033,QUO-S0112-2026-000003,2026-08-17,11,1488.5,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000098,RFQ-2026-000034,QUO-S0014-2026-000001,2026-09-08,6,2521.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000099,RFQ-2026-000034,QUO-S0105-2026-000001,2026-09-08,5,2131.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000100,RFQ-2026-000034,QUO-S0004-2026-000001,2026-09-08,5,2629.43,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000101,RFQ-2026-000035,QUO-S0046-2026-000001,2026-11-11,15,3329.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000102,RFQ-2026-000035,QUO-S0102-2026-000003,2026-11-11,14,3460.71,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000103,RFQ-2026-000035,QUO-S0111-2026-000001,2026-11-11,14,3700.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000104,RFQ-2026-000036,QUO-S0042-2026-000003,2026-02-27,7,1241.93,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000105,RFQ-2026-000036,QUO-S0064-2026-000001,2026-02-27,7,1342.57,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000106,RFQ-2026-000036,QUO-S0061-2026-000004,2026-02-27,7,1488.44,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000107,RFQ-2026-000037,QUO-S0111-2026-000002,2026-12-01,3,299.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000108,RFQ-2026-000037,QUO-S0096-2026-000001,2026-12-01,3,320.35,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000109,RFQ-2026-000037,QUO-S0061-2026-000005,2026-12-01,2,222.09,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000110,RFQ-2026-000038,QUO-S0102-2026-000004,2026-06-02,13,5238.74,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000111,RFQ-2026-000038,QUO-S0092-2026-000005,2026-06-02,12,5085.49,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000112,RFQ-2026-000038,QUO-S0083-2026-000001,2026-06-02,12,5731.96,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000113,RFQ-2026-000039,QUO-S0064-2026-000002,2026-07-22,6,1675.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000114,RFQ-2026-000039,QUO-S0027-2026-000003,2026-07-22,6,1735.87,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000115,RFQ-2026-000039,QUO-S0072-2026-000004,2026-07-22,6,1743.01,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000116,RFQ-2026-000040,QUO-S0117-2026-000003,2026-09-01,10,2295.97,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000117,RFQ-2026-000040,QUO-S0078-2026-000002,2026-09-01,10,2346.64,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000118,RFQ-2026-000040,QUO-S0076-2026-000002,2026-09-01,10,2436.01,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000119,RFQ-2026-000041,QUO-S0033-2026-000001,2026-11-04,5,1476.75,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000120,RFQ-2026-000041,QUO-S0090-2026-000001,2026-11-04,5,1786.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000121,RFQ-2026-000041,QUO-S0077-2026-000001,2026-11-04,5,1879.78,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000122,RFQ-2026-000042,QUO-S0064-2026-000003,2026-08-19,7,1693.0,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000123,RFQ-2026-000042,QUO-S0035-2026-000001,2026-08-19,6,1560.68,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000124,RFQ-2026-000042,QUO-S0079-2026-000002,2026-08-19,6,1818.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000125,RFQ-2026-000043,QUO-S0015-2026-000002,2026-08-26,14,5157.57,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000126,RFQ-2026-000043,QUO-S0031-2026-000003,2026-08-26,14,5311.73,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000127,RFQ-2026-000043,QUO-S0002-2026-000002,2026-08-26,14,7014.89,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000128,RFQ-2026-000044,QUO-S0104-2026-000002,2026-11-10,15,1025.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000129,RFQ-2026-000044,QUO-S0048-2026-000002,2026-11-10,15,1327.43,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000130,RFQ-2026-000044,QUO-S0036-2026-000001,2026-11-10,15,1413.36,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000131,RFQ-2026-000045,QUO-S0051-2026-000003,2026-02-15,13,4775.27,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000132,RFQ-2026-000045,QUO-S0060-2026-000003,2026-02-15,13,5273.74,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000133,RFQ-2026-000045,QUO-S0047-2026-000001,2026-02-15,12,5136.76,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000134,RFQ-2026-000046,QUO-S0086-2026-000002,2026-05-14,15,3424.75,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000135,RFQ-2026-000046,QUO-S0066-2026-000002,2026-05-14,15,4274.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000136,RFQ-2026-000046,QUO-S0003-2026-000002,2026-05-14,14,4346.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000137,RFQ-2026-000047,QUO-S0031-2026-000004,2026-03-07,13,5382.39,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000138,RFQ-2026-000047,QUO-S0102-2026-000005,2026-03-07,12,5005.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000139,RFQ-2026-000047,QUO-S0052-2026-000002,2026-03-07,12,6242.22,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000140,RFQ-2026-000048,QUO-S0021-2026-000001,2026-08-27,14,2997.51,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000141,RFQ-2026-000048,QUO-S0025-2026-000003,2026-08-27,14,3125.54,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000142,RFQ-2026-000048,QUO-S0008-2026-000003,2026-08-27,13,2940.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000143,RFQ-2026-000049,QUO-S0105-2026-000002,2026-01-18,10,1686.63,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000144,RFQ-2026-000049,QUO-S0075-2026-000001,2026-01-18,10,1805.2,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000145,RFQ-2026-000049,QUO-S0113-2026-000001,2026-01-18,9,2254.23,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000146,RFQ-2026-000050,QUO-S0019-2026-000002,2026-04-10,19,5490.96,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000147,RFQ-2026-000050,QUO-S0037-2026-000003,2026-04-10,19,5491.52,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000148,RFQ-2026-000050,QUO-S0103-2026-000004,2026-04-10,18,6721.96,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000149,RFQ-2026-000051,QUO-S0081-2026-000001,2026-10-05,15,1469.42,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000150,RFQ-2026-000051,QUO-S0118-2026-000005,2026-10-05,14,1555.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000151,RFQ-2026-000051,QUO-S0078-2026-000003,2026-10-05,14,1592.73,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000152,RFQ-2026-000052,QUO-S0062-2026-000003,2026-07-19,6,2272.11,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000153,RFQ-2026-000052,QUO-S0071-2026-000003,2026-07-19,6,2638.67,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000154,RFQ-2026-000052,QUO-S0042-2026-000004,2026-07-19,6,2691.98,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000155,RFQ-2026-000053,QUO-S0028-2026-000006,2026-10-01,11,3230.63,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000156,RFQ-2026-000053,QUO-S0002-2026-000003,2026-10-01,10,3207.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000157,RFQ-2026-000054,QUO-S0048-2026-000003,2026-07-01,12,3857.37,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000158,RFQ-2026-000054,QUO-S0083-2026-000002,2026-07-01,11,4154.23,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000159,RFQ-2026-000055,QUO-S0009-2026-000003,2026-01-22,25,7190.1,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000160,RFQ-2026-000055,QUO-S0066-2026-000003,2026-01-22,24,7966.15,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000161,RFQ-2026-000056,QUO-S0034-2026-000003,2026-11-13,17,5513.11,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000162,RFQ-2026-000056,QUO-S0059-2026-000005,2026-11-13,16,5528.55,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000163,RFQ-2026-000057,QUO-S0109-2026-000001,2026-09-26,13,799.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000164,RFQ-2026-000057,QUO-S0022-2026-000001,2026-09-26,12,760.14,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000165,RFQ-2026-000058,QUO-S0101-2026-000001,2026-05-28,13,3678.17,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000166,RFQ-2026-000058,QUO-S0103-2026-000005,2026-05-28,12,4276.33,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000167,RFQ-2026-000059,QUO-S0092-2026-000006,2026-11-04,7,451.02,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000168,RFQ-2026-000059,QUO-S0040-2026-000002,2026-11-04,6,470.49,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000169,RFQ-2026-000060,QUO-S0003-2026-000004,2026-01-22,16,4666.28,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000170,RFQ-2026-000060,QUO-S0096-2026-000002,2026-01-22,16,4876.1,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000171,RFQ-2026-000061,QUO-S0085-2026-000001,2026-07-28,16,4892.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000172,RFQ-2026-000061,QUO-S0064-2026-000005,2026-07-28,16,5547.53,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000173,RFQ-2026-000062,QUO-S0078-2026-000004,2026-03-28,11,2934.2,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000174,RFQ-2026-000062,QUO-S0017-2026-000007,2026-03-28,11,3149.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000175,RFQ-2026-000063,QUO-S0098-2026-000001,2026-06-23,26,3359.57,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000176,RFQ-2026-000063,QUO-S0072-2026-000005,2026-06-23,25,3311.67,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000177,RFQ-2026-000064,QUO-S0078-2026-000005,2026-03-19,6,971.57,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000178,RFQ-2026-000064,QUO-S0081-2026-000003,2026-03-19,6,1064.61,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000179,RFQ-2026-000065,QUO-S0042-2026-000005,2026-03-03,22,5959.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000180,RFQ-2026-000065,QUO-S0028-2026-000007,2026-03-03,21,7134.27,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000181,RFQ-2026-000066,QUO-S0039-2026-000003,2026-05-25,22,4800.27,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000182,RFQ-2026-000066,QUO-S0084-2026-000002,2026-05-25,21,4892.51,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000183,RFQ-2026-000067,QUO-S0027-2026-000004,2026-07-05,19,4913.92,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000184,RFQ-2026-000067,QUO-S0054-2026-000002,2026-07-05,18,4898.21,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000185,RFQ-2026-000068,QUO-S0001-2026-000003,2026-10-19,21,4693.7,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000186,RFQ-2026-000068,QUO-S0015-2026-000004,2026-10-19,21,5471.67,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000187,RFQ-2026-000069,QUO-S0087-2026-000003,2026-06-04,5,1046.4,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000188,RFQ-2026-000069,QUO-S0088-2026-000004,2026-06-04,5,1096.59,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000189,RFQ-2026-000070,QUO-S0027-2026-000005,2026-10-28,5,2224.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000190,RFQ-2026-000070,QUO-S0066-2026-000004,2026-10-28,5,2521.51,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000191,RFQ-2026-000071,QUO-S0063-2026-000004,2026-04-03,6,1978.93,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000192,RFQ-2026-000071,QUO-S0031-2026-000005,2026-04-03,5,1724.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000193,RFQ-2026-000072,QUO-S0102-2026-000006,2026-09-18,14,2186.8,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000194,RFQ-2026-000072,QUO-S0095-2026-000001,2026-09-18,13,2337.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000195,RFQ-2026-000073,QUO-S0095-2026-000002,2026-10-14,20,756.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000196,RFQ-2026-000073,QUO-S0090-2026-000004,2026-10-14,19,922.16,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000197,RFQ-2026-000074,QUO-S0055-2026-000001,2026-02-20,21,7589.65,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000198,RFQ-2026-000074,QUO-S0116-2026-000004,2026-02-20,20,7466.47,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000199,RFQ-2026-000075,QUO-S0073-2026-000001,2026-06-03,6,787.37,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000200,RFQ-2026-000075,QUO-S0029-2026-000003,2026-06-03,6,868.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000201,RFQ-2026-000076,QUO-S0053-2026-000002,2026-04-07,23,4820.89,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000202,RFQ-2026-000076,QUO-S0095-2026-000003,2026-04-07,23,5037.73,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000203,RFQ-2026-000077,QUO-S0059-2026-000006,2026-10-05,21,4355.42,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000204,RFQ-2026-000077,QUO-S0045-2026-000002,2026-10-05,20,4189.85,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000205,RFQ-2026-000078,QUO-S0034-2026-000004,2026-03-06,22,8294.11,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000206,RFQ-2026-000078,QUO-S0017-2026-000008,2026-03-06,22,9153.39,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000207,RFQ-2026-000079,QUO-S0061-2026-000007,2026-03-09,25,4262.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000208,RFQ-2026-000079,QUO-S0031-2026-000006,2026-03-09,25,4396.23,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000209,RFQ-2026-000080,QUO-S0078-2026-000006,2026-09-08,5,1069.71,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000210,RFQ-2026-000080,QUO-S0064-2026-000006,2026-09-08,5,1080.18,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000211,RFQ-2026-000081,QUO-S0068-2026-000005,2026-06-09,23,4150.15,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000212,RFQ-2026-000081,QUO-S0104-2026-000003,2026-06-09,23,4618.36,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000213,RFQ-2026-000082,QUO-S0067-2026-000004,2026-07-22,29,7905.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000214,RFQ-2026-000082,QUO-S0052-2026-000003,2026-07-22,29,8434.28,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000215,RFQ-2026-000083,QUO-S0008-2026-000004,2026-04-09,27,2527.7,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000216,RFQ-2026-000083,QUO-S0098-2026-000002,2026-04-09,27,2560.44,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000217,RFQ-2026-000084,QUO-S0045-2026-000003,2026-02-26,27,3956.54,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000218,RFQ-2026-000084,QUO-S0010-2026-000002,2026-02-26,26,3906.78,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000219,RFQ-2026-000085,QUO-S0116-2026-000005,2026-06-17,5,1690.17,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000220,RFQ-2026-000085,QUO-S0029-2026-000004,2026-06-17,5,1737.92,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000221,RFQ-2026-000086,QUO-S0023-2026-000002,2026-06-28,27,9348.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000222,RFQ-2026-000086,QUO-S0066-2026-000005,2026-06-28,26,9050.58,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000223,RFQ-2026-000087,QUO-S0094-2026-000002,2026-02-11,18,3871.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000224,RFQ-2026-000087,QUO-S0065-2026-000003,2026-02-11,17,4030.66,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000225,RFQ-2026-000088,QUO-S0109-2026-000004,2026-07-11,12,4189.2,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000226,RFQ-2026-000088,QUO-S0108-2026-000002,2026-07-11,11,4509.27,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000227,RFQ-2026-000089,QUO-S0100-2026-000004,2026-02-28,26,1907.61,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000228,RFQ-2026-000089,QUO-S0040-2026-000003,2026-02-28,26,1974.61,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000229,RFQ-2026-000090,QUO-S0034-2026-000005,2026-05-11,12,622.88,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000230,RFQ-2026-000090,QUO-S0114-2026-000002,2026-05-11,12,718.53,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000231,RFQ-2026-000091,QUO-S0109-2026-000005,2026-09-11,9,1759.02,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000232,RFQ-2026-000091,QUO-S0031-2026-000007,2026-09-11,9,2182.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000233,RFQ-2026-000092,QUO-S0053-2026-000003,2026-11-27,26,8763.63,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000234,RFQ-2026-000092,QUO-S0005-2026-000005,2026-11-27,26,9020.47,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000235,RFQ-2026-000093,QUO-S0040-2026-000004,2026-06-05,22,5146.6,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000236,RFQ-2026-000093,QUO-S0115-2026-000004,2026-06-05,21,6347.74,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000237,RFQ-2026-000094,QUO-S0083-2026-000003,2026-11-13,10,1628.44,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000238,RFQ-2026-000094,QUO-S0039-2026-000004,2026-11-13,10,1715.46,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000239,RFQ-2026-000095,QUO-S0064-2026-000008,2026-02-28,24,6604.96,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000240,RFQ-2026-000095,QUO-S0021-2026-000002,2026-02-28,24,7423.47,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000241,RFQ-2026-000096,QUO-S0101-2026-000006,2026-07-22,5,1119.19,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000242,RFQ-2026-000096,QUO-S0030-2026-000003,2026-07-22,5,1370.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000243,RFQ-2026-000097,QUO-S0103-2026-000006,2026-03-28,13,917.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000244,RFQ-2026-000097,QUO-S0057-2026-000002,2026-03-28,12,855.88,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000245,RFQ-2026-000098,QUO-S0045-2026-000005,2026-01-16,5,1014.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000246,RFQ-2026-000098,QUO-S0004-2026-000003,2026-01-16,5,1177.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000247,RFQ-2026-000099,QUO-S0115-2026-000005,2026-05-31,15,5492.73,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000248,RFQ-2026-000099,QUO-S0109-2026-000006,2026-05-31,14,5394.9,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000249,RFQ-2026-000100,QUO-S0105-2026-000003,2026-05-14,19,5480.24,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000250,RFQ-2026-000100,QUO-S0033-2026-000002,2026-05-14,19,6567.15,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000251,RFQ-2026-000101,QUO-S0041-2026-000003,2026-06-16,9,515.86,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000252,RFQ-2026-000101,QUO-S0005-2026-000006,2026-06-16,8,504.16,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000253,RFQ-2026-000102,QUO-S0058-2026-000005,2026-08-16,30,1921.39,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000254,RFQ-2026-000102,QUO-S0004-2026-000004,2026-08-16,30,2115.69,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000255,RFQ-2026-000103,QUO-S0106-2026-000005,2026-02-20,6,2750.92,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000256,RFQ-2026-000103,QUO-S0011-2026-000003,2026-02-20,5,2307.64,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000257,RFQ-2026-000104,QUO-S0043-2026-000004,2026-01-19,22,8784.05,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000258,RFQ-2026-000104,QUO-S0065-2026-000004,2026-01-19,22,10413.9,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000259,RFQ-2026-000105,QUO-S0046-2026-000002,2026-10-29,28,5233.65,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000260,RFQ-2026-000105,QUO-S0107-2026-000004,2026-10-29,28,5437.0,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000261,RFQ-2026-000106,QUO-S0063-2026-000005,2026-02-06,8,389.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000262,RFQ-2026-000106,QUO-S0080-2026-000003,2026-02-06,7,346.48,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000263,RFQ-2026-000107,QUO-S0011-2026-000004,2026-01-27,22,6499.55,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000264,RFQ-2026-000107,QUO-S0046-2026-000003,2026-01-27,22,8030.42,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000265,RFQ-2026-000108,QUO-S0012-2026-000003,2026-09-15,8,3323.75,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000266,RFQ-2026-000108,QUO-S0118-2026-000006,2026-09-15,7,3096.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000267,RFQ-2026-000109,QUO-S0081-2026-000004,2026-05-26,11,1138.39,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000268,RFQ-2026-000109,QUO-S0059-2026-000007,2026-05-26,11,1243.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000269,RFQ-2026-000110,QUO-S0037-2026-000005,2026-09-27,24,5849.36,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000270,RFQ-2026-000110,QUO-S0033-2026-000003,2026-09-27,23,6852.51,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000271,RFQ-2026-000111,QUO-S0062-2026-000005,2026-07-31,11,3483.78,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000272,RFQ-2026-000111,QUO-S0094-2026-000003,2026-07-31,10,3308.4,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000273,RFQ-2026-000112,QUO-S0103-2026-000007,2026-03-01,22,7613.66,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000274,RFQ-2026-000112,QUO-S0085-2026-000002,2026-03-01,22,10041.91,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000275,RFQ-2026-000113,QUO-S0100-2026-000005,2026-07-11,24,1281.36,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000276,RFQ-2026-000113,QUO-S0089-2026-000004,2026-07-11,24,1469.43,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000277,RFQ-2026-000114,QUO-S0063-2026-000006,2026-07-25,23,8550.27,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000278,RFQ-2026-000114,QUO-S0041-2026-000004,2026-07-25,22,8700.75,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000279,RFQ-2026-000115,QUO-S0048-2026-000006,2026-09-23,21,3392.7,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000280,RFQ-2026-000115,QUO-S0103-2026-000008,2026-09-23,21,3691.05,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000281,RFQ-2026-000116,QUO-S0038-2026-000003,2026-07-24,24,8878.5,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000282,RFQ-2026-000116,QUO-S0044-2026-000004,2026-07-24,23,8532.11,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000283,RFQ-2026-000117,QUO-S0081-2026-000005,2026-01-28,26,11858.21,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000284,RFQ-2026-000117,QUO-S0065-2026-000005,2026-01-28,25,11572.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000285,RFQ-2026-000118,QUO-S0079-2026-000003,2026-01-24,14,4157.99,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000286,RFQ-2026-000118,QUO-S0029-2026-000006,2026-01-24,14,4294.34,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000287,RFQ-2026-000119,QUO-S0081-2026-000006,2026-05-29,29,2706.03,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000288,RFQ-2026-000119,QUO-S0106-2026-000006,2026-05-29,28,2675.68,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000289,RFQ-2026-000120,QUO-S0114-2026-000005,2026-03-17,16,2745.26,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000290,RFQ-2026-000120,QUO-S0109-2026-000007,2026-03-17,16,2941.09,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000291,RFQ-2026-000121,QUO-S0064-2026-000009,2026-01-16,7,1495.5,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000292,RFQ-2026-000121,QUO-S0094-2026-000004,2026-01-16,7,1594.52,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000293,RFQ-2026-000122,QUO-S0083-2026-000004,2026-09-17,12,3044.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000294,RFQ-2026-000122,QUO-S0030-2026-000004,2026-09-17,11,3070.55,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000295,RFQ-2026-000123,QUO-S0027-2026-000006,2026-08-26,29,9197.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000296,RFQ-2026-000123,QUO-S0022-2026-000002,2026-08-26,28,9260.69,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000297,RFQ-2026-000124,QUO-S0030-2026-000005,2026-07-16,20,1961.37,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000298,RFQ-2026-000124,QUO-S0102-2026-000007,2026-07-16,20,2084.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000299,RFQ-2026-000125,QUO-S0054-2026-000004,2026-10-04,16,991.86,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000300,RFQ-2026-000125,QUO-S0055-2026-000002,2026-10-04,15,1086.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000301,RFQ-2026-000126,QUO-S0074-2026-000002,2026-01-21,22,7649.47,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000302,RFQ-2026-000126,QUO-S0010-2026-000005,2026-01-21,21,7680.23,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000303,RFQ-2026-000127,QUO-S0069-2026-000001,2026-08-01,4,1204.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000304,RFQ-2026-000127,QUO-S0004-2026-000005,2026-08-01,4,1363.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000305,RFQ-2026-000128,QUO-S0104-2026-000005,2026-06-01,23,3996.76,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000306,RFQ-2026-000128,QUO-S0028-2026-000008,2026-06-01,23,4674.9,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000307,RFQ-2026-000129,QUO-S0037-2026-000006,2026-10-20,10,1880.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000308,RFQ-2026-000129,QUO-S0017-2026-000010,2026-10-20,10,2270.72,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000309,RFQ-2026-000130,QUO-S0071-2026-000004,2026-11-17,22,8364.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000310,RFQ-2026-000130,QUO-S0076-2026-000005,2026-11-17,21,8623.64,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000311,RFQ-2026-000131,QUO-S0047-2026-000003,2026-03-21,9,1889.1,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000312,RFQ-2026-000131,QUO-S0063-2026-000007,2026-03-21,8,2251.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000313,RFQ-2026-000132,QUO-S0024-2026-000004,2026-07-02,22,7456.29,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000314,RFQ-2026-000132,QUO-S0012-2026-000004,2026-07-02,21,7507.85,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000315,RFQ-2026-000133,QUO-S0085-2026-000004,2026-01-22,20,3817.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000316,RFQ-2026-000133,QUO-S0098-2026-000004,2026-01-22,20,4126.44,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000317,RFQ-2026-000134,QUO-S0005-2026-000007,2026-07-31,18,5066.71,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000318,RFQ-2026-000134,QUO-S0036-2026-000002,2026-07-31,17,5519.65,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000319,RFQ-2026-000135,QUO-S0013-2026-000002,2026-07-27,14,1578.38,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000320,RFQ-2026-000135,QUO-S0004-2026-000006,2026-07-27,14,1728.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000321,RFQ-2026-000136,QUO-S0057-2026-000003,2026-08-24,16,3489.59,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000322,RFQ-2026-000136,QUO-S0108-2026-000003,2026-08-24,15,3404.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000323,RFQ-2026-000137,QUO-S0011-2026-000005,2026-11-05,29,3090.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000324,RFQ-2026-000137,QUO-S0112-2026-000007,2026-11-05,29,3362.23,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000325,RFQ-2026-000138,QUO-S0111-2026-000007,2026-10-13,30,6036.29,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000326,RFQ-2026-000138,QUO-S0074-2026-000003,2026-10-13,29,6845.64,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000327,RFQ-2026-000139,QUO-S0083-2026-000005,2026-10-14,20,5429.99,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000328,RFQ-2026-000139,QUO-S0022-2026-000003,2026-10-14,20,5734.84,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000329,RFQ-2026-000140,QUO-S0093-2026-000004,2026-02-10,21,5716.59,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000330,RFQ-2026-000140,QUO-S0110-2026-000005,2026-02-10,20,5948.22,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000331,RFQ-2026-000141,QUO-S0012-2026-000005,2026-10-28,25,1704.38,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000332,RFQ-2026-000141,QUO-S0079-2026-000004,2026-10-28,24,1989.36,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000333,RFQ-2026-000142,QUO-S0046-2026-000005,2026-04-20,20,6734.1,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000334,RFQ-2026-000142,QUO-S0079-2026-000005,2026-04-20,20,7619.94,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000335,RFQ-2026-000143,QUO-S0058-2026-000006,2026-05-20,28,6035.97,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000336,RFQ-2026-000143,QUO-S0055-2026-000003,2026-05-20,28,6301.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000337,RFQ-2026-000144,QUO-S0055-2026-000004,2026-04-17,19,5575.89,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000338,RFQ-2026-000144,QUO-S0098-2026-000005,2026-04-17,18,5410.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000339,RFQ-2026-000145,QUO-S0089-2026-000005,2026-05-18,30,12422.28,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000340,RFQ-2026-000145,QUO-S0002-2026-000005,2026-05-18,29,12740.18,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000341,RFQ-2026-000146,QUO-S0009-2026-000006,2026-01-24,14,3682.95,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000342,RFQ-2026-000146,QUO-S0095-2026-000005,2026-01-24,13,4544.16,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000343,RFQ-2026-000147,QUO-S0071-2026-000005,2026-04-18,10,4289.26,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000344,RFQ-2026-000147,QUO-S0094-2026-000005,2026-04-18,10,4405.72,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000345,RFQ-2026-000148,QUO-S0052-2026-000004,2026-05-17,13,5029.92,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000346,RFQ-2026-000148,QUO-S0053-2026-000004,2026-05-17,12,5102.35,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000347,RFQ-2026-000149,QUO-S0048-2026-000007,2026-03-04,14,2082.36,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000348,RFQ-2026-000149,QUO-S0073-2026-000002,2026-03-04,13,2227.39,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000349,RFQ-2026-000150,QUO-S0062-2026-000006,2026-05-24,24,5916.03,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000350,RFQ-2026-000150,QUO-S0035-2026-000003,2026-05-24,24,6018.22,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000351,RFQ-2026-000151,QUO-S0002-2026-000006,2026-02-16,21,7201.59,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000352,RFQ-2026-000151,QUO-S0062-2026-000007,2026-02-16,20,7120.06,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000353,RFQ-2026-000152,QUO-S0021-2026-000003,2026-04-23,17,1580.5,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000354,RFQ-2026-000152,QUO-S0073-2026-000003,2026-04-23,16,1504.65,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000355,RFQ-2026-000153,QUO-S0084-2026-000004,2026-01-25,16,5443.83,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000356,RFQ-2026-000153,QUO-S0026-2026-000002,2026-01-25,15,5792.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000357,RFQ-2026-000154,QUO-S0032-2026-000004,2026-03-13,6,2139.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000358,RFQ-2026-000154,QUO-S0076-2026-000006,2026-03-13,5,1878.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000359,RFQ-2026-000155,QUO-S0107-2026-000005,2026-10-20,18,2544.5,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000360,RFQ-2026-000155,QUO-S0055-2026-000005,2026-10-20,17,2558.0,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000361,RFQ-2026-000156,QUO-S0103-2026-000009,2026-09-02,4,1400.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000362,RFQ-2026-000156,QUO-S0049-2026-000003,2026-09-02,4,1822.37,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000363,RFQ-2026-000157,QUO-S0076-2026-000007,2026-03-06,26,6096.6,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000364,RFQ-2026-000157,QUO-S0114-2026-000006,2026-03-06,26,7256.73,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000365,RFQ-2026-000158,QUO-S0073-2026-000004,2026-05-06,26,6147.65,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000366,RFQ-2026-000158,QUO-S0104-2026-000006,2026-05-06,26,6266.95,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000367,RFQ-2026-000159,QUO-S0057-2026-000005,2026-05-11,23,3101.11,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000368,RFQ-2026-000159,QUO-S0109-2026-000008,2026-05-11,22,3271.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000369,RFQ-2026-000160,QUO-S0016-2026-000001,2026-10-18,17,3168.93,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000370,RFQ-2026-000160,QUO-S0071-2026-000007,2026-10-18,17,3834.9,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000371,RFQ-2026-000161,QUO-S0030-2026-000008,2026-03-08,9,1435.76,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000372,RFQ-2026-000161,QUO-S0070-2026-000007,2026-03-08,8,1449.27,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000373,RFQ-2026-000162,QUO-S0042-2026-000006,2026-06-08,13,668.99,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000374,RFQ-2026-000162,QUO-S0095-2026-000006,2026-06-08,12,685.57,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000375,RFQ-2026-000163,QUO-S0067-2026-000007,2026-02-15,25,1020.4,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000376,RFQ-2026-000163,QUO-S0024-2026-000005,2026-02-15,24,1072.76,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000377,RFQ-2026-000164,QUO-S0086-2026-000006,2026-06-01,6,1202.79,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000378,RFQ-2026-000164,QUO-S0093-2026-000005,2026-06-01,5,1100.16,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000379,RFQ-2026-000165,QUO-S0105-2026-000004,2026-10-16,7,2620.33,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000380,RFQ-2026-000165,QUO-S0084-2026-000005,2026-10-16,6,2345.01,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000381,RFQ-2026-000166,QUO-S0059-2026-000008,2026-05-16,6,1544.66,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000382,RFQ-2026-000166,QUO-S0026-2026-000003,2026-05-16,6,1562.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000383,RFQ-2026-000167,QUO-S0007-2026-000006,2026-07-25,19,5320.54,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000384,RFQ-2026-000167,QUO-S0038-2026-000004,2026-07-25,18,5490.59,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000385,RFQ-2026-000168,QUO-S0023-2026-000004,2026-02-14,9,2819.98,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000386,RFQ-2026-000168,QUO-S0020-2026-000007,2026-02-14,9,3048.61,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000387,RFQ-2026-000169,QUO-S0066-2026-000009,2026-08-14,6,1430.52,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000388,RFQ-2026-000169,QUO-S0105-2026-000005,2026-08-14,6,1686.55,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000389,RFQ-2026-000170,QUO-S0012-2026-000006,2026-02-19,12,780.6,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000390,RFQ-2026-000170,QUO-S0104-2026-000007,2026-02-19,11,785.87,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000391,RFQ-2026-000171,QUO-S0038-2026-000005,2026-06-21,7,482.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000392,RFQ-2026-000171,QUO-S0034-2026-000006,2026-06-21,6,499.0,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000393,RFQ-2026-000172,QUO-S0117-2026-000004,2026-01-28,25,3604.97,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000394,RFQ-2026-000172,QUO-S0001-2026-000006,2026-01-28,25,4144.14,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000395,RFQ-2026-000173,QUO-S0084-2026-000006,2026-04-08,17,1816.33,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000396,RFQ-2026-000173,QUO-S0048-2026-000008,2026-04-08,16,1710.73,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000397,RFQ-2026-000174,QUO-S0032-2026-000005,2026-05-05,21,6335.41,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000398,RFQ-2026-000174,QUO-S0048-2026-000009,2026-05-05,20,6709.51,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000399,RFQ-2026-000175,QUO-S0113-2026-000002,2026-10-25,12,4922.25,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000400,RFQ-2026-000175,QUO-S0038-2026-000006,2026-10-25,11,4613.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000401,RFQ-2026-000176,QUO-S0054-2026-000005,2026-06-29,24,5198.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000402,RFQ-2026-000176,QUO-S0038-2026-000007,2026-06-29,23,5917.11,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000403,RFQ-2026-000177,QUO-S0098-2026-000006,2026-04-11,11,5056.68,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000404,RFQ-2026-000177,QUO-S0056-2026-000005,2026-04-11,11,5114.74,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000405,RFQ-2026-000178,QUO-S0108-2026-000004,2026-03-19,22,3889.82,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000406,RFQ-2026-000178,QUO-S0010-2026-000006,2026-03-19,21,3931.82,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000407,RFQ-2026-000179,QUO-S0087-2026-000005,2026-02-08,28,1535.7,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000408,RFQ-2026-000179,QUO-S0035-2026-000004,2026-02-08,28,1583.53,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000409,RFQ-2026-000180,QUO-S0033-2026-000004,2026-02-22,13,4305.71,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000410,RFQ-2026-000180,QUO-S0109-2026-000009,2026-02-22,13,4491.69,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000411,RFQ-2026-000181,QUO-S0115-2026-000008,2026-09-05,17,1668.23,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000412,RFQ-2026-000181,QUO-S0025-2026-000006,2026-09-05,16,1786.95,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000413,RFQ-2026-000182,QUO-S0012-2026-000007,2026-05-18,16,5786.32,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000414,RFQ-2026-000182,QUO-S0079-2026-000006,2026-05-18,15,5888.47,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000415,RFQ-2026-000183,QUO-S0084-2026-000007,2026-01-23,21,1707.86,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000416,RFQ-2026-000183,QUO-S0020-2026-000008,2026-01-23,20,1910.11,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000417,RFQ-2026-000184,QUO-S0040-2026-000008,2026-01-28,5,1218.41,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000418,RFQ-2026-000184,QUO-S0048-2026-000011,2026-01-28,4,1150.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000419,RFQ-2026-000185,QUO-S0030-2026-000009,2026-04-10,11,4713.41,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000420,RFQ-2026-000185,QUO-S0087-2026-000006,2026-04-10,10,4423.54,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000421,RFQ-2026-000186,QUO-S0068-2026-000006,2026-07-19,21,1117.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000422,RFQ-2026-000186,QUO-S0078-2026-000007,2026-07-19,20,1231.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000423,RFQ-2026-000187,QUO-S0046-2026-000006,2026-09-13,29,12498.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000424,RFQ-2026-000187,QUO-S0112-2026-000009,2026-09-13,29,12776.36,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000425,RFQ-2026-000188,QUO-S0066-2026-000010,2026-06-05,28,4063.75,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000426,RFQ-2026-000188,QUO-S0003-2026-000007,2026-06-05,28,4566.58,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000427,RFQ-2026-000189,QUO-S0077-2026-000002,2026-07-22,21,9286.75,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000428,RFQ-2026-000189,QUO-S0031-2026-000008,2026-07-22,20,10242.45,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000429,RFQ-2026-000190,QUO-S0043-2026-000005,2026-06-11,7,1881.33,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000430,RFQ-2026-000190,QUO-S0009-2026-000007,2026-06-11,6,1808.1,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000431,RFQ-2026-000191,QUO-S0012-2026-000008,2026-05-19,12,2351.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000432,RFQ-2026-000191,QUO-S0059-2026-000009,2026-05-19,12,2397.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000433,RFQ-2026-000192,QUO-S0065-2026-000008,2026-02-22,14,5300.52,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000434,RFQ-2026-000192,QUO-S0068-2026-000007,2026-02-22,13,6348.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000435,RFQ-2026-000193,QUO-S0093-2026-000006,2026-09-23,19,2283.53,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000436,RFQ-2026-000193,QUO-S0110-2026-000006,2026-09-23,19,2744.56,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000437,RFQ-2026-000194,QUO-S0030-2026-000010,2026-07-29,16,3706.89,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000438,RFQ-2026-000194,QUO-S0104-2026-000009,2026-07-29,15,4462.71,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000439,RFQ-2026-000195,QUO-S0119-2026-000001,2026-03-10,25,9493.34,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000440,RFQ-2026-000195,QUO-S0103-2026-000011,2026-03-10,25,9820.64,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000441,RFQ-2026-000196,QUO-S0104-2026-000010,2026-03-25,10,2753.74,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000442,RFQ-2026-000196,QUO-S0038-2026-000008,2026-03-25,9,3218.02,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000443,RFQ-2026-000197,QUO-S0018-2026-000004,2026-09-08,12,2778.78,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000444,RFQ-2026-000197,QUO-S0021-2026-000004,2026-09-08,12,3192.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000445,RFQ-2026-000198,QUO-S0096-2026-000005,2026-10-12,12,4883.91,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000446,RFQ-2026-000198,QUO-S0079-2026-000007,2026-10-12,12,4984.46,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000447,RFQ-2026-000199,QUO-S0038-2026-000009,2026-09-03,16,1350.55,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000448,RFQ-2026-000199,QUO-S0054-2026-000006,2026-09-03,16,1359.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000449,RFQ-2026-000200,QUO-S0071-2026-000010,2026-10-16,15,1635.59,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000450,RFQ-2026-000200,QUO-S0018-2026-000006,2026-10-16,15,1785.49,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000451,RFQ-2026-000201,QUO-S0112-2026-000010,2026-02-09,30,7412.58,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000452,RFQ-2026-000201,QUO-S0091-2026-000004,2026-02-09,30,7730.21,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000453,RFQ-2026-000202,QUO-S0033-2026-000005,2026-08-06,11,1357.96,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000454,RFQ-2026-000202,QUO-S0053-2026-000005,2026-08-06,11,1657.04,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000455,RFQ-2026-000203,QUO-S0106-2026-000008,2026-09-18,25,2977.31,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000456,RFQ-2026-000203,QUO-S0054-2026-000007,2026-09-18,24,3031.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000457,RFQ-2026-000204,QUO-S0032-2026-000006,2026-02-17,25,6891.93,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000458,RFQ-2026-000204,QUO-S0087-2026-000007,2026-02-17,25,6959.14,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000459,RFQ-2026-000205,QUO-S0075-2026-000004,2026-03-30,17,6747.31,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000460,RFQ-2026-000205,QUO-S0105-2026-000006,2026-03-30,16,7647.81,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000461,RFQ-2026-000206,QUO-S0074-2026-000004,2026-10-08,27,11330.15,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000462,RFQ-2026-000206,QUO-S0056-2026-000006,2026-10-08,26,11211.46,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000463,RFQ-2026-000207,QUO-S0069-2026-000002,2026-03-10,29,8680.04,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000464,RFQ-2026-000207,QUO-S0027-2026-000007,2026-03-10,28,8715.19,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000465,RFQ-2026-000208,QUO-S0016-2026-000004,2026-10-21,10,2682.28,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000466,RFQ-2026-000208,QUO-S0005-2026-000008,2026-10-21,10,3457.32,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000467,RFQ-2026-000209,QUO-S0075-2026-000005,2026-07-18,28,10308.65,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000468,RFQ-2026-000209,QUO-S0051-2026-000007,2026-07-18,27,11216.01,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000469,RFQ-2026-000210,QUO-S0043-2026-000006,2026-11-06,19,4040.54,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000470,RFQ-2026-000210,QUO-S0057-2026-000006,2026-11-06,19,4155.08,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000471,RFQ-2026-000211,QUO-S0078-2026-000008,2026-07-04,22,5947.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000472,RFQ-2026-000211,QUO-S0092-2026-000009,2026-07-04,21,6239.74,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000473,RFQ-2026-000212,QUO-S0105-2026-000007,2026-08-25,19,7013.68,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000474,RFQ-2026-000212,QUO-S0063-2026-000010,2026-08-25,18,6901.84,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000475,RFQ-2026-000213,QUO-S0113-2026-000005,2026-08-11,24,6815.29,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000476,RFQ-2026-000213,QUO-S0005-2026-000009,2026-08-11,23,6532.21,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000477,RFQ-2026-000214,QUO-S0091-2026-000005,2026-08-03,22,7776.1,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000478,RFQ-2026-000214,QUO-S0039-2026-000006,2026-08-03,21,8625.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000479,RFQ-2026-000215,QUO-S0067-2026-000008,2026-04-07,30,2885.01,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000480,RFQ-2026-000215,QUO-S0110-2026-000007,2026-04-07,30,3136.67,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000481,RFQ-2026-000216,QUO-S0088-2026-000005,2026-07-13,7,1645.16,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000482,RFQ-2026-000216,QUO-S0050-2026-000003,2026-07-13,7,1677.66,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000483,RFQ-2026-000217,QUO-S0035-2026-000005,2026-09-27,12,5185.03,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000484,RFQ-2026-000217,QUO-S0038-2026-000010,2026-09-27,12,5233.31,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000485,RFQ-2026-000218,QUO-S0057-2026-000007,2026-03-31,20,3127.7,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000486,RFQ-2026-000218,QUO-S0081-2026-000007,2026-03-31,19,3605.55,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000487,RFQ-2026-000219,QUO-S0037-2026-000007,2026-01-26,25,2652.46,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000488,RFQ-2026-000219,QUO-S0084-2026-000008,2026-01-26,25,2672.57,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000489,RFQ-2026-000220,QUO-S0057-2026-000008,2026-12-01,28,2028.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000490,RFQ-2026-000220,QUO-S0049-2026-000004,2026-12-01,27,2214.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000491,RFQ-2026-000221,QUO-S0015-2026-000007,2026-11-09,16,3665.78,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000492,RFQ-2026-000221,QUO-S0051-2026-000008,2026-11-09,16,4040.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000493,RFQ-2026-000222,QUO-S0002-2026-000007,2026-01-21,4,1085.92,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000494,RFQ-2026-000222,QUO-S0083-2026-000006,2026-01-21,4,1346.67,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000495,RFQ-2026-000223,QUO-S0098-2026-000007,2026-03-16,24,3013.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000496,RFQ-2026-000223,QUO-S0057-2026-000009,2026-03-16,24,3646.18,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000497,RFQ-2026-000224,QUO-S0064-2026-000010,2026-06-19,30,9229.26,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000498,RFQ-2026-000224,QUO-S0050-2026-000004,2026-06-19,30,10980.22,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000499,RFQ-2026-000225,QUO-S0012-2026-000009,2026-11-30,27,8160.22,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000500,RFQ-2026-000225,QUO-S0068-2026-000008,2026-11-30,26,8528.35,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000501,RFQ-2026-000226,QUO-S0073-2026-000006,2026-06-17,16,2774.25,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000502,RFQ-2026-000226,QUO-S0018-2026-000008,2026-06-17,15,2971.01,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000503,RFQ-2026-000227,QUO-S0004-2026-000007,2026-02-09,22,2237.5,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000504,RFQ-2026-000227,QUO-S0084-2026-000009,2026-02-09,21,2399.23,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000505,RFQ-2026-000228,QUO-S0011-2026-000006,2026-11-01,29,9661.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000506,RFQ-2026-000228,QUO-S0107-2026-000006,2026-11-01,28,10275.32,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000507,RFQ-2026-000229,QUO-S0030-2026-000011,2026-11-18,28,4571.65,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000508,RFQ-2026-000229,QUO-S0098-2026-000008,2026-11-18,27,4788.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000509,RFQ-2026-000230,QUO-S0025-2026-000008,2026-07-18,10,2348.32,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000510,RFQ-2026-000230,QUO-S0045-2026-000009,2026-07-18,10,2351.15,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000511,RFQ-2026-000231,QUO-S0004-2026-000008,2026-04-29,6,1186.26,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000512,RFQ-2026-000231,QUO-S0049-2026-000005,2026-04-29,6,1253.12,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000513,RFQ-2026-000232,QUO-S0006-2026-000006,2026-07-18,10,1096.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000514,RFQ-2026-000232,QUO-S0098-2026-000009,2026-07-18,10,1314.04,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000515,RFQ-2026-000233,QUO-S0033-2026-000006,2026-05-02,25,1134.73,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000516,RFQ-2026-000233,QUO-S0078-2026-000009,2026-05-02,25,1152.59,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000517,RFQ-2026-000234,QUO-S0037-2026-000008,2026-03-30,14,4420.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000518,RFQ-2026-000234,QUO-S0014-2026-000004,2026-03-30,14,5280.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000519,RFQ-2026-000235,QUO-S0030-2026-000012,2026-11-20,20,2659.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000520,RFQ-2026-000235,QUO-S0018-2026-000009,2026-11-20,19,2942.94,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000521,RFQ-2026-000236,QUO-S0010-2026-000009,2026-02-02,28,5913.47,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000522,RFQ-2026-000236,QUO-S0068-2026-000009,2026-02-02,28,7007.54,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000523,RFQ-2026-000237,QUO-S0027-2026-000009,2026-10-12,10,1862.21,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000524,RFQ-2026-000237,QUO-S0003-2026-000008,2026-10-12,10,1952.94,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000525,RFQ-2026-000238,QUO-S0029-2026-000008,2026-11-27,20,4812.86,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000526,RFQ-2026-000238,QUO-S0080-2026-000006,2026-11-27,20,5480.36,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000527,RFQ-2026-000239,QUO-S0063-2026-000011,2026-05-13,12,1976.27,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000528,RFQ-2026-000239,QUO-S0033-2026-000007,2026-05-13,11,1872.04,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000529,RFQ-2026-000240,QUO-S0074-2026-000006,2026-06-06,21,4844.27,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000530,RFQ-2026-000240,QUO-S0078-2026-000010,2026-06-06,20,5391.32,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000531,RFQ-2026-000241,QUO-S0106-2026-000010,2026-09-21,16,4861.89,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000532,RFQ-2026-000241,QUO-S0116-2026-000008,2026-09-21,15,5012.66,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000533,RFQ-2026-000242,QUO-S0019-2026-000005,2026-05-07,10,2752.2,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000534,RFQ-2026-000242,QUO-S0103-2026-000012,2026-05-07,9,2560.12,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000535,RFQ-2026-000243,QUO-S0074-2026-000007,2026-08-29,9,1191.8,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000536,RFQ-2026-000243,QUO-S0045-2026-000010,2026-08-29,8,1125.33,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000537,RFQ-2026-000244,QUO-S0065-2026-000009,2026-11-24,10,3906.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000538,RFQ-2026-000244,QUO-S0077-2026-000003,2026-11-24,9,3998.59,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000539,RFQ-2026-000245,QUO-S0104-2026-000011,2026-07-18,10,2610.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000540,RFQ-2026-000245,QUO-S0107-2026-000008,2026-07-18,10,2963.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000541,RFQ-2026-000246,QUO-S0019-2026-000006,2026-08-24,5,1650.66,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000542,RFQ-2026-000246,QUO-S0024-2026-000006,2026-08-24,4,1332.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000543,RFQ-2026-000247,QUO-S0093-2026-000007,2026-04-21,19,8582.47,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000544,RFQ-2026-000247,QUO-S0036-2026-000005,2026-04-21,19,9336.56,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000545,RFQ-2026-000248,QUO-S0058-2026-000008,2026-08-26,13,5675.64,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000546,RFQ-2026-000248,QUO-S0073-2026-000008,2026-08-26,13,5885.1,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000547,RFQ-2026-000249,QUO-S0054-2026-000009,2026-11-15,28,5754.73,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000548,RFQ-2026-000249,QUO-S0024-2026-000007,2026-11-15,28,7064.3,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000549,RFQ-2026-000250,QUO-S0101-2026-000011,2026-08-12,28,7659.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000550,RFQ-2026-000250,QUO-S0065-2026-000010,2026-08-12,27,7953.9,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000551,RFQ-2026-000251,QUO-S0027-2026-000011,2026-08-12,18,5624.51,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000552,RFQ-2026-000251,QUO-S0105-2026-000008,2026-08-12,18,5827.19,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000553,RFQ-2026-000252,QUO-S0089-2026-000006,2026-04-23,7,491.25,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000554,RFQ-2026-000252,QUO-S0030-2026-000014,2026-04-23,7,557.94,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000555,RFQ-2026-000253,QUO-S0062-2026-000011,2026-05-03,4,1401.4,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000556,RFQ-2026-000253,QUO-S0100-2026-000007,2026-05-03,4,1653.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000557,RFQ-2026-000254,QUO-S0115-2026-000011,2026-07-22,30,12180.24,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000558,RFQ-2026-000254,QUO-S0091-2026-000006,2026-07-22,29,11878.41,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000559,RFQ-2026-000255,QUO-S0109-2026-000012,2026-05-18,19,5537.14,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000560,RFQ-2026-000255,QUO-S0001-2026-000007,2026-05-18,19,5909.87,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000561,RFQ-2026-000256,QUO-S0029-2026-000010,2026-11-09,15,1268.07,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000562,RFQ-2026-000256,QUO-S0053-2026-000007,2026-11-09,14,1299.54,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000563,RFQ-2026-000257,QUO-S0007-2026-000007,2026-02-09,20,7051.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000564,RFQ-2026-000257,QUO-S0066-2026-000013,2026-02-09,19,7529.3,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000565,RFQ-2026-000258,QUO-S0096-2026-000006,2026-03-19,14,3899.88,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000566,RFQ-2026-000258,QUO-S0066-2026-000014,2026-03-19,14,4453.41,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000567,RFQ-2026-000259,QUO-S0100-2026-000008,2026-02-08,5,1171.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000568,RFQ-2026-000259,QUO-S0061-2026-000008,2026-02-08,4,1064.56,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000569,RFQ-2026-000260,QUO-S0037-2026-000009,2026-06-24,22,4763.01,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000570,RFQ-2026-000260,QUO-S0069-2026-000003,2026-06-24,22,5211.92,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000571,RFQ-2026-000261,QUO-S0074-2026-000008,2026-04-27,4,859.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000572,RFQ-2026-000261,QUO-S0064-2026-000011,2026-04-27,4,863.25,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000573,RFQ-2026-000262,QUO-S0029-2026-000011,2026-06-06,24,8923.86,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000574,RFQ-2026-000262,QUO-S0087-2026-000009,2026-06-06,24,9263.61,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000575,RFQ-2026-000263,QUO-S0053-2026-000008,2026-03-08,23,6669.19,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000576,RFQ-2026-000263,QUO-S0060-2026-000008,2026-03-08,22,7310.25,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000577,RFQ-2026-000264,QUO-S0084-2026-000010,2026-05-28,16,5804.55,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000578,RFQ-2026-000264,QUO-S0011-2026-000007,2026-05-28,15,5571.09,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000579,RFQ-2026-000265,QUO-S0119-2026-000003,2026-07-25,13,1405.73,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000580,RFQ-2026-000265,QUO-S0041-2026-000008,2026-07-25,12,1499.97,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000581,RFQ-2026-000266,QUO-S0008-2026-000007,2026-06-29,4,1021.15,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000582,RFQ-2026-000266,QUO-S0062-2026-000012,2026-06-29,4,1058.74,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000583,RFQ-2026-000267,QUO-S0018-2026-000010,2026-07-01,26,7161.28,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000584,RFQ-2026-000267,QUO-S0066-2026-000015,2026-07-01,26,8134.65,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000585,RFQ-2026-000268,QUO-S0094-2026-000006,2026-09-12,8,308.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000586,RFQ-2026-000268,QUO-S0039-2026-000008,2026-09-12,8,349.0,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000587,RFQ-2026-000269,QUO-S0003-2026-000009,2026-06-23,25,4740.51,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000588,RFQ-2026-000269,QUO-S0092-2026-000011,2026-06-23,24,4808.57,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000589,RFQ-2026-000270,QUO-S0102-2026-000010,2026-01-28,14,6346.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000590,RFQ-2026-000270,QUO-S0041-2026-000009,2026-01-28,14,6580.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000591,RFQ-2026-000271,QUO-S0095-2026-000007,2026-02-08,12,4872.36,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000592,RFQ-2026-000271,QUO-S0067-2026-000009,2026-02-08,12,5871.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000593,RFQ-2026-000272,QUO-S0015-2026-000009,2026-02-15,9,2044.77,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000594,RFQ-2026-000272,QUO-S0108-2026-000005,2026-02-15,9,2104.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000595,RFQ-2026-000273,QUO-S0018-2026-000011,2026-04-05,28,3362.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000596,RFQ-2026-000273,QUO-S0028-2026-000010,2026-04-05,28,3658.96,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000597,RFQ-2026-000274,QUO-S0020-2026-000012,2026-04-30,5,1386.86,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000598,RFQ-2026-000274,QUO-S0008-2026-000008,2026-04-30,4,1423.85,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000599,RFQ-2026-000275,QUO-S0047-2026-000004,2026-05-05,24,4469.74,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000600,RFQ-2026-000275,QUO-S0108-2026-000006,2026-05-05,23,4345.0,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000601,RFQ-2026-000276,QUO-S0117-2026-000006,2026-09-07,11,2514.44,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000602,RFQ-2026-000276,QUO-S0007-2026-000009,2026-09-07,10,2399.02,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000603,RFQ-2026-000277,QUO-S0034-2026-000008,2026-08-19,18,1309.71,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000604,RFQ-2026-000277,QUO-S0119-2026-000004,2026-08-19,17,1432.61,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000605,RFQ-2026-000278,QUO-S0049-2026-000006,2026-04-13,23,3711.15,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000606,RFQ-2026-000278,QUO-S0113-2026-000006,2026-04-13,23,4385.53,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000607,RFQ-2026-000279,QUO-S0004-2026-000009,2026-11-15,12,1679.01,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000608,RFQ-2026-000279,QUO-S0047-2026-000005,2026-11-15,11,1737.44,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000609,RFQ-2026-000280,QUO-S0061-2026-000009,2026-03-13,6,784.89,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000610,RFQ-2026-000280,QUO-S0064-2026-000012,2026-03-13,5,771.71,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000611,RFQ-2026-000281,QUO-S0079-2026-000009,2026-01-16,20,2458.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000612,RFQ-2026-000281,QUO-S0020-2026-000013,2026-01-16,19,2888.79,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000613,RFQ-2026-000282,QUO-S0009-2026-000009,2026-04-08,27,9828.83,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000614,RFQ-2026-000282,QUO-S0072-2026-000007,2026-04-08,26,12471.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000615,RFQ-2026-000283,QUO-S0113-2026-000008,2026-09-24,15,4981.99,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000616,RFQ-2026-000283,QUO-S0013-2026-000004,2026-09-24,14,4996.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000617,RFQ-2026-000284,QUO-S0005-2026-000010,2026-11-10,16,3988.7,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000618,RFQ-2026-000284,QUO-S0014-2026-000006,2026-11-10,15,3941.29,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000619,RFQ-2026-000285,QUO-S0112-2026-000011,2026-07-10,14,3351.25,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000620,RFQ-2026-000285,QUO-S0056-2026-000008,2026-07-10,13,3159.15,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000621,RFQ-2026-000286,QUO-S0012-2026-000011,2026-07-15,29,5638.1,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000622,RFQ-2026-000286,QUO-S0041-2026-000011,2026-07-15,29,6153.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000623,RFQ-2026-000287,QUO-S0090-2026-000008,2026-01-24,6,2569.34,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000624,RFQ-2026-000287,QUO-S0088-2026-000007,2026-01-24,5,2261.75,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000625,RFQ-2026-000288,QUO-S0088-2026-000008,2026-10-28,14,2543.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000626,RFQ-2026-000288,QUO-S0081-2026-000009,2026-10-28,14,3080.41,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000627,RFQ-2026-000289,QUO-S0020-2026-000014,2026-06-20,20,7674.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000628,RFQ-2026-000289,QUO-S0100-2026-000009,2026-06-20,20,7850.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000629,RFQ-2026-000290,QUO-S0111-2026-000008,2026-06-08,8,2595.63,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000630,RFQ-2026-000290,QUO-S0043-2026-000007,2026-06-08,7,2575.52,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000631,RFQ-2026-000291,QUO-S0103-2026-000013,2026-07-12,5,630.52,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000632,RFQ-2026-000291,QUO-S0037-2026-000010,2026-07-12,5,695.8,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000633,RFQ-2026-000292,QUO-S0090-2026-000009,2026-11-30,29,1319.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000634,RFQ-2026-000292,QUO-S0046-2026-000007,2026-11-30,28,1297.58,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000635,RFQ-2026-000293,QUO-S0042-2026-000008,2026-03-30,29,13289.56,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000636,RFQ-2026-000293,QUO-S0048-2026-000012,2026-03-30,29,13867.33,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000637,RFQ-2026-000294,QUO-S0103-2026-000014,2026-06-19,16,2279.64,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000638,RFQ-2026-000294,QUO-S0066-2026-000016,2026-06-19,15,2282.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000639,RFQ-2026-000295,QUO-S0098-2026-000011,2026-02-10,16,2179.48,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000640,RFQ-2026-000295,QUO-S0032-2026-000008,2026-02-10,15,2169.84,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000641,RFQ-2026-000296,QUO-S0027-2026-000012,2026-03-17,7,454.48,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000642,RFQ-2026-000296,QUO-S0063-2026-000015,2026-03-17,7,474.88,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000643,RFQ-2026-000297,QUO-S0048-2026-000013,2026-09-30,10,1566.52,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000644,RFQ-2026-000297,QUO-S0079-2026-000010,2026-09-30,9,1609.58,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000645,RFQ-2026-000298,QUO-S0012-2026-000012,2026-04-28,24,3705.16,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000646,RFQ-2026-000298,QUO-S0077-2026-000004,2026-04-28,23,4526.52,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000647,RFQ-2026-000299,QUO-S0118-2026-000012,2026-07-21,16,3595.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000648,RFQ-2026-000299,QUO-S0026-2026-000005,2026-07-21,15,3434.72,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000649,RFQ-2026-000300,QUO-S0024-2026-000008,2026-06-22,7,2010.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000650,RFQ-2026-000300,QUO-S0119-2026-000005,2026-06-22,7,2730.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000651,RFQ-2026-000301,QUO-S0037-2026-000011,2026-03-06,25,8286.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000652,RFQ-2026-000301,QUO-S0047-2026-000006,2026-03-06,24,9825.5,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000653,RFQ-2026-000302,QUO-S0080-2026-000008,2026-02-06,26,11673.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000654,RFQ-2026-000302,QUO-S0034-2026-000009,2026-02-06,25,11856.57,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000655,RFQ-2026-000303,QUO-S0017-2026-000012,2026-04-27,5,259.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000656,RFQ-2026-000303,QUO-S0094-2026-000008,2026-04-27,4,213.64,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000657,RFQ-2026-000304,QUO-S0047-2026-000007,2026-10-16,23,1273.34,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000658,RFQ-2026-000304,QUO-S0091-2026-000007,2026-10-16,23,1403.32,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000659,RFQ-2026-000305,QUO-S0038-2026-000012,2026-06-14,14,5255.06,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000660,RFQ-2026-000305,QUO-S0034-2026-000010,2026-06-14,13,5663.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000661,RFQ-2026-000306,QUO-S0119-2026-000006,2026-08-18,11,3126.32,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000662,RFQ-2026-000306,QUO-S0093-2026-000008,2026-08-18,10,3846.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000663,RFQ-2026-000307,QUO-S0023-2026-000007,2026-02-22,9,3381.31,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000664,RFQ-2026-000307,QUO-S0029-2026-000012,2026-02-22,9,3683.41,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000665,RFQ-2026-000308,QUO-S0038-2026-000013,2026-03-06,13,4804.97,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000666,RFQ-2026-000308,QUO-S0105-2026-000010,2026-03-06,13,5920.51,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000667,RFQ-2026-000309,QUO-S0033-2026-000009,2026-08-09,6,536.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000668,RFQ-2026-000309,QUO-S0091-2026-000008,2026-08-09,6,539.2,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000669,RFQ-2026-000310,QUO-S0047-2026-000008,2026-10-08,23,6998.12,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000670,RFQ-2026-000310,QUO-S0005-2026-000011,2026-10-08,23,7380.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000671,RFQ-2026-000311,QUO-S0004-2026-000010,2026-11-16,21,6360.56,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000672,RFQ-2026-000311,QUO-S0046-2026-000008,2026-11-16,21,6971.66,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000673,RFQ-2026-000312,QUO-S0031-2026-000010,2026-11-30,6,1711.91,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000674,RFQ-2026-000312,QUO-S0043-2026-000008,2026-11-30,5,1874.15,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000675,RFQ-2026-000313,QUO-S0003-2026-000011,2026-06-23,13,2399.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000676,RFQ-2026-000313,QUO-S0077-2026-000005,2026-06-23,13,2407.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000677,RFQ-2026-000314,QUO-S0015-2026-000011,2026-08-27,18,2446.47,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000678,RFQ-2026-000314,QUO-S0074-2026-000009,2026-08-27,17,2644.33,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000679,RFQ-2026-000315,QUO-S0107-2026-000009,2026-02-09,19,1272.69,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000680,RFQ-2026-000315,QUO-S0072-2026-000008,2026-02-09,19,1296.77,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000681,RFQ-2026-000316,QUO-S0010-2026-000011,2026-06-08,14,1429.94,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000682,RFQ-2026-000316,QUO-S0068-2026-000011,2026-06-08,14,1474.95,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000683,RFQ-2026-000317,QUO-S0022-2026-000006,2026-06-30,13,418.64,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000684,RFQ-2026-000317,QUO-S0012-2026-000013,2026-06-30,12,420.93,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000685,RFQ-2026-000318,QUO-S0116-2026-000009,2026-01-22,25,4434.82,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000686,RFQ-2026-000318,QUO-S0001-2026-000011,2026-01-22,25,5061.35,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000687,RFQ-2026-000319,QUO-S0043-2026-000009,2026-09-17,24,5725.51,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000688,RFQ-2026-000319,QUO-S0067-2026-000010,2026-09-17,23,5587.21,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000689,RFQ-2026-000320,QUO-S0090-2026-000011,2026-06-06,15,2703.69,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000690,RFQ-2026-000320,QUO-S0029-2026-000013,2026-06-06,14,2906.6,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000691,RFQ-2026-000321,QUO-S0018-2026-000012,2026-05-27,4,1444.65,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000692,RFQ-2026-000321,QUO-S0054-2026-000010,2026-05-27,4,1649.0,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000693,RFQ-2026-000322,QUO-S0043-2026-000010,2026-10-18,16,1032.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000694,RFQ-2026-000322,QUO-S0111-2026-000009,2026-10-18,15,1100.18,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000695,RFQ-2026-000323,QUO-S0042-2026-000009,2026-04-21,5,925.69,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000696,RFQ-2026-000323,QUO-S0111-2026-000010,2026-04-21,4,810.12,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000697,RFQ-2026-000324,QUO-S0109-2026-000015,2026-10-30,23,5501.9,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000698,RFQ-2026-000324,QUO-S0054-2026-000011,2026-10-30,23,6359.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000699,RFQ-2026-000325,QUO-S0077-2026-000006,2026-05-18,9,1196.24,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000700,RFQ-2026-000325,QUO-S0060-2026-000009,2026-05-18,8,1418.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000701,RFQ-2026-000326,QUO-S0048-2026-000014,2026-11-17,26,1256.99,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000702,RFQ-2026-000326,QUO-S0118-2026-000014,2026-11-17,26,1284.31,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000703,RFQ-2026-000327,QUO-S0090-2026-000012,2026-01-19,10,3756.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000704,RFQ-2026-000327,QUO-S0058-2026-000010,2026-01-19,9,3625.91,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000705,RFQ-2026-000328,QUO-S0010-2026-000012,2026-06-30,18,5025.78,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000706,RFQ-2026-000328,QUO-S0094-2026-000009,2026-06-30,17,5552.95,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000707,RFQ-2026-000329,QUO-S0070-2026-000009,2026-11-24,10,2764.55,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000708,RFQ-2026-000329,QUO-S0060-2026-000010,2026-11-24,9,2980.32,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000709,RFQ-2026-000330,QUO-S0008-2026-000010,2026-05-09,10,3423.9,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000710,RFQ-2026-000330,QUO-S0077-2026-000007,2026-05-09,10,3959.52,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000711,RFQ-2026-000331,QUO-S0054-2026-000012,2026-04-22,5,703.47,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000712,RFQ-2026-000331,QUO-S0064-2026-000014,2026-04-22,4,750.69,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000713,RFQ-2026-000332,QUO-S0096-2026-000008,2026-09-23,13,1483.12,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000714,RFQ-2026-000332,QUO-S0007-2026-000010,2026-09-23,12,1390.85,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000715,RFQ-2026-000333,QUO-S0014-2026-000007,2026-07-15,7,1235.32,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000716,RFQ-2026-000333,QUO-S0038-2026-000014,2026-07-15,6,1127.31,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000717,RFQ-2026-000334,QUO-S0100-2026-000010,2026-08-01,7,2169.18,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000718,RFQ-2026-000334,QUO-S0094-2026-000010,2026-08-01,6,1967.53,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000719,RFQ-2026-000335,QUO-S0080-2026-000009,2026-03-11,17,7942.88,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000720,RFQ-2026-000335,QUO-S0041-2026-000012,2026-03-11,17,8415.16,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000721,RFQ-2026-000336,QUO-S0105-2026-000011,2026-02-22,7,1719.61,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000722,RFQ-2026-000336,QUO-S0106-2026-000012,2026-02-22,6,1835.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000723,RFQ-2026-000337,QUO-S0016-2026-000006,2026-03-20,17,4291.96,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000724,RFQ-2026-000337,QUO-S0045-2026-000012,2026-03-20,16,4076.68,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000725,RFQ-2026-000338,QUO-S0090-2026-000013,2026-01-28,14,1226.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000726,RFQ-2026-000338,QUO-S0051-2026-000011,2026-01-28,14,1379.51,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000727,RFQ-2026-000339,QUO-S0111-2026-000011,2026-09-16,9,1850.67,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000728,RFQ-2026-000339,QUO-S0093-2026-000009,2026-09-16,8,1739.43,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000729,RFQ-2026-000340,QUO-S0003-2026-000012,2026-11-07,30,7264.19,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000730,RFQ-2026-000340,QUO-S0022-2026-000007,2026-11-07,30,7375.88,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000731,RFQ-2026-000341,QUO-S0003-2026-000013,2026-02-27,28,10192.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000732,RFQ-2026-000341,QUO-S0069-2026-000005,2026-02-27,27,10811.07,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000733,RFQ-2026-000342,QUO-S0034-2026-000011,2026-03-13,8,2809.03,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000734,RFQ-2026-000342,QUO-S0058-2026-000012,2026-03-13,7,2515.88,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000735,RFQ-2026-000343,QUO-S0064-2026-000015,2026-03-24,8,954.79,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000736,RFQ-2026-000343,QUO-S0042-2026-000010,2026-03-24,8,1047.81,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000737,RFQ-2026-000344,QUO-S0048-2026-000015,2026-01-18,29,4748.96,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000738,RFQ-2026-000344,QUO-S0059-2026-000011,2026-01-18,28,4841.88,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000739,RFQ-2026-000345,QUO-S0025-2026-000010,2026-08-28,26,10545.71,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000740,RFQ-2026-000345,QUO-S0117-2026-000007,2026-08-28,25,12158.49,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000741,RFQ-2026-000346,QUO-S0014-2026-000008,2026-08-13,30,7539.21,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000742,RFQ-2026-000346,QUO-S0076-2026-000009,2026-08-13,30,7965.01,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000743,RFQ-2026-000347,QUO-S0068-2026-000012,2026-11-07,20,2294.21,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000744,RFQ-2026-000347,QUO-S0004-2026-000011,2026-11-07,20,2580.48,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000745,RFQ-2026-000348,QUO-S0104-2026-000014,2026-10-19,10,2603.04,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000746,RFQ-2026-000348,QUO-S0050-2026-000005,2026-10-19,10,2751.91,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000747,RFQ-2026-000349,QUO-S0094-2026-000011,2026-09-12,18,5650.23,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000748,RFQ-2026-000349,QUO-S0083-2026-000007,2026-09-12,17,5801.63,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000749,RFQ-2026-000350,QUO-S0036-2026-000006,2026-03-04,27,7733.64,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000750,RFQ-2026-000350,QUO-S0028-2026-000011,2026-03-04,26,8485.74,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000751,RFQ-2026-000351,QUO-S0082-2026-000001,2026-07-22,7,2337.34,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000752,RFQ-2026-000351,QUO-S0107-2026-000010,2026-07-22,7,2493.94,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000753,RFQ-2026-000352,QUO-S0047-2026-000009,2026-09-23,8,1500.9,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000754,RFQ-2026-000352,QUO-S0053-2026-000011,2026-09-23,8,1562.62,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000755,RFQ-2026-000353,QUO-S0070-2026-000010,2026-10-07,10,2968.76,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000756,RFQ-2026-000353,QUO-S0062-2026-000013,2026-10-07,10,3002.78,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000757,RFQ-2026-000354,QUO-S0059-2026-000012,2026-09-04,28,6434.8,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000758,RFQ-2026-000354,QUO-S0076-2026-000010,2026-09-04,27,6642.79,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000759,RFQ-2026-000355,QUO-S0088-2026-000010,2026-03-19,19,3498.38,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000760,RFQ-2026-000355,QUO-S0075-2026-000007,2026-03-19,19,3622.14,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000761,RFQ-2026-000356,QUO-S0109-2026-000016,2026-05-15,13,2753.63,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000762,RFQ-2026-000356,QUO-S0095-2026-000008,2026-05-15,12,2679.44,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000763,RFQ-2026-000357,QUO-S0007-2026-000011,2026-09-30,15,3010.35,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000764,RFQ-2026-000357,QUO-S0020-2026-000015,2026-09-30,14,3413.73,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000765,RFQ-2026-000358,QUO-S0107-2026-000011,2026-11-15,18,7182.86,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000766,RFQ-2026-000358,QUO-S0084-2026-000012,2026-11-15,18,7814.77,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000767,RFQ-2026-000359,QUO-S0083-2026-000008,2026-05-23,6,1249.48,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000768,RFQ-2026-000359,QUO-S0005-2026-000012,2026-05-23,6,1252.83,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000769,RFQ-2026-000360,QUO-S0009-2026-000010,2026-10-12,19,4088.45,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000770,RFQ-2026-000360,QUO-S0106-2026-000013,2026-10-12,19,4348.36,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000771,RFQ-2026-000361,QUO-S0033-2026-000012,2026-01-21,28,8859.37,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000772,RFQ-2026-000361,QUO-S0101-2026-000014,2026-01-21,27,9256.04,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000773,RFQ-2026-000362,QUO-S0088-2026-000011,2026-03-10,22,4568.54,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000774,RFQ-2026-000362,QUO-S0026-2026-000006,2026-03-10,21,4674.86,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000775,RFQ-2026-000363,QUO-S0005-2026-000013,2026-04-13,7,1690.31,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000776,RFQ-2026-000363,QUO-S0118-2026-000015,2026-04-13,6,1502.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000777,RFQ-2026-000364,QUO-S0084-2026-000013,2026-05-26,5,1973.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000778,RFQ-2026-000364,QUO-S0083-2026-000009,2026-05-26,5,2213.89,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000779,RFQ-2026-000365,QUO-S0002-2026-000008,2026-08-28,23,2106.27,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000780,RFQ-2026-000365,QUO-S0078-2026-000013,2026-08-28,22,2189.24,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000781,RFQ-2026-000366,QUO-S0095-2026-000009,2026-07-24,20,4901.59,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000782,RFQ-2026-000366,QUO-S0030-2026-000016,2026-07-24,19,4990.51,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000783,RFQ-2026-000367,QUO-S0115-2026-000014,2026-07-16,14,4332.73,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000784,RFQ-2026-000367,QUO-S0101-2026-000015,2026-07-16,14,5061.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000785,RFQ-2026-000368,QUO-S0042-2026-000012,2026-05-22,5,1164.08,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000786,RFQ-2026-000368,QUO-S0113-2026-000009,2026-05-22,4,1019.79,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000787,RFQ-2026-000369,QUO-S0052-2026-000007,2026-03-01,8,781.83,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000788,RFQ-2026-000369,QUO-S0022-2026-000008,2026-03-01,7,762.9,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000789,RFQ-2026-000370,QUO-S0022-2026-000009,2026-02-21,19,2855.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000790,RFQ-2026-000370,QUO-S0072-2026-000009,2026-02-21,18,2760.77,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000791,RFQ-2026-000371,QUO-S0117-2026-000009,2026-10-03,23,6223.11,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000792,RFQ-2026-000371,QUO-S0023-2026-000008,2026-10-03,22,6399.65,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000793,RFQ-2026-000372,QUO-S0072-2026-000011,2026-09-14,24,2007.98,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000794,RFQ-2026-000372,QUO-S0055-2026-000007,2026-09-14,24,2043.41,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000795,RFQ-2026-000373,QUO-S0017-2026-000014,2026-05-14,6,1534.12,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000796,RFQ-2026-000373,QUO-S0008-2026-000011,2026-05-14,5,1298.26,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000797,RFQ-2026-000374,QUO-S0007-2026-000012,2026-04-04,11,4108.75,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000798,RFQ-2026-000374,QUO-S0004-2026-000012,2026-04-04,10,5013.26,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000799,RFQ-2026-000375,QUO-S0040-2026-000011,2026-04-09,27,5416.19,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000800,RFQ-2026-000375,QUO-S0029-2026-000014,2026-04-09,26,5245.99,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000801,RFQ-2026-000376,QUO-S0090-2026-000014,2026-08-10,28,6778.23,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000802,RFQ-2026-000376,QUO-S0116-2026-000010,2026-08-10,27,6976.44,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000803,RFQ-2026-000377,QUO-S0018-2026-000014,2026-07-24,10,390.66,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000804,RFQ-2026-000377,QUO-S0067-2026-000013,2026-07-24,10,395.34,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000805,RFQ-2026-000378,QUO-S0090-2026-000015,2026-03-11,25,4515.54,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000806,RFQ-2026-000378,QUO-S0099-2026-000003,2026-03-11,25,4572.66,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000807,RFQ-2026-000379,QUO-S0076-2026-000011,2026-02-12,9,448.84,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000808,RFQ-2026-000379,QUO-S0022-2026-000010,2026-02-12,8,418.84,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000809,RFQ-2026-000380,QUO-S0046-2026-000009,2026-11-22,10,2969.36,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000810,RFQ-2026-000380,QUO-S0081-2026-000011,2026-11-22,10,3733.23,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000811,RFQ-2026-000381,QUO-S0100-2026-000011,2026-09-20,12,2853.53,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000812,RFQ-2026-000381,QUO-S0092-2026-000012,2026-09-20,11,2695.31,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000813,RFQ-2026-000382,QUO-S0031-2026-000011,2026-10-23,19,2053.25,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000814,RFQ-2026-000382,QUO-S0026-2026-000007,2026-10-23,19,2177.32,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000815,RFQ-2026-000383,QUO-S0013-2026-000007,2026-08-03,19,4910.35,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000816,RFQ-2026-000383,QUO-S0090-2026-000016,2026-08-03,19,5973.92,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000817,RFQ-2026-000384,QUO-S0059-2026-000013,2026-11-25,23,6653.87,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000818,RFQ-2026-000384,QUO-S0044-2026-000008,2026-11-25,23,7532.52,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000819,RFQ-2026-000385,QUO-S0004-2026-000013,2026-06-19,15,4396.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000820,RFQ-2026-000385,QUO-S0075-2026-000008,2026-06-19,14,4252.7,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000821,RFQ-2026-000386,QUO-S0110-2026-000009,2026-02-07,15,4656.9,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000822,RFQ-2026-000386,QUO-S0003-2026-000014,2026-02-07,15,4811.17,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000823,RFQ-2026-000387,QUO-S0013-2026-000008,2026-06-05,19,3566.69,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000824,RFQ-2026-000387,QUO-S0027-2026-000013,2026-06-05,18,3879.46,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000825,RFQ-2026-000388,QUO-S0086-2026-000011,2026-06-24,19,6801.58,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000826,RFQ-2026-000388,QUO-S0076-2026-000012,2026-06-24,19,6811.89,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000827,RFQ-2026-000389,QUO-S0006-2026-000008,2026-02-04,13,4489.14,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000828,RFQ-2026-000389,QUO-S0094-2026-000013,2026-02-04,12,4900.58,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000829,RFQ-2026-000390,QUO-S0005-2026-000014,2026-09-04,20,1047.66,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000830,RFQ-2026-000390,QUO-S0062-2026-000014,2026-09-04,19,1020.33,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000831,RFQ-2026-000391,QUO-S0088-2026-000013,2026-06-22,18,3383.42,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000832,RFQ-2026-000391,QUO-S0095-2026-000010,2026-06-22,17,3947.03,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000833,RFQ-2026-000392,QUO-S0088-2026-000014,2026-10-14,24,9902.7,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000834,RFQ-2026-000392,QUO-S0064-2026-000016,2026-10-14,23,10556.38,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000835,RFQ-2026-000393,QUO-S0029-2026-000016,2026-07-05,14,1515.22,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000836,RFQ-2026-000393,QUO-S0117-2026-000010,2026-07-05,14,1797.5,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000837,RFQ-2026-000394,QUO-S0093-2026-000010,2026-07-28,22,5303.07,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000838,RFQ-2026-000394,QUO-S0037-2026-000012,2026-07-28,21,5557.12,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000839,RFQ-2026-000395,QUO-S0063-2026-000016,2026-05-13,29,9502.3,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000840,RFQ-2026-000395,QUO-S0010-2026-000013,2026-05-13,28,10676.84,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000841,RFQ-2026-000396,QUO-S0108-2026-000008,2026-10-14,6,868.93,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000842,RFQ-2026-000396,QUO-S0043-2026-000012,2026-10-14,5,810.52,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000843,RFQ-2026-000397,QUO-S0092-2026-000013,2026-01-26,17,6306.42,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000844,RFQ-2026-000397,QUO-S0094-2026-000014,2026-01-26,17,6605.49,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000845,RFQ-2026-000398,QUO-S0049-2026-000008,2026-08-09,25,9601.25,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000846,RFQ-2026-000398,QUO-S0025-2026-000012,2026-08-09,24,10688.88,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000847,RFQ-2026-000399,QUO-S0066-2026-000019,2026-09-20,9,1755.09,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000848,RFQ-2026-000399,QUO-S0091-2026-000010,2026-09-20,8,1738.79,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000849,RFQ-2026-000400,QUO-S0110-2026-000010,2026-12-01,23,3416.41,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000850,RFQ-2026-000400,QUO-S0074-2026-000010,2026-12-01,22,3875.13,Documented delivery-time advantage offsets the landed-cost premium,awarded
+AWD-000851,RFQ-2026-000451,QUO-S0118-2026-000019,2026-08-10,47,21391.34,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000852,RFQ-2026-000452,QUO-S0053-2026-000012,2026-10-25,26,1605.13,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000853,RFQ-2026-000453,QUO-S0018-2026-000016,2026-09-03,35,14986.58,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000854,RFQ-2026-000454,QUO-S0053-2026-000013,2026-08-09,36,8436.23,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000855,RFQ-2026-000455,QUO-S0068-2026-000015,2026-02-08,15,3096.74,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000856,RFQ-2026-000456,QUO-S0085-2026-000006,2026-05-04,35,6298.95,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000857,RFQ-2026-000457,QUO-S0011-2026-000010,2026-10-28,9,2995.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000858,RFQ-2026-000458,QUO-S0038-2026-000017,2026-02-16,42,10341.48,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000859,RFQ-2026-000459,QUO-S0001-2026-000014,2026-08-05,40,18959.04,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000860,RFQ-2026-000460,QUO-S0076-2026-000013,2026-03-31,46,4176.95,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000861,RFQ-2026-000461,QUO-S0098-2026-000017,2026-05-10,9,3679.14,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000862,RFQ-2026-000462,QUO-S0031-2026-000012,2026-01-25,13,3650.33,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000863,RFQ-2026-000463,QUO-S0110-2026-000012,2026-11-23,22,3773.56,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000864,RFQ-2026-000464,QUO-S0075-2026-000013,2026-02-28,29,10042.85,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000865,RFQ-2026-000465,QUO-S0098-2026-000018,2026-05-06,31,3097.57,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000866,RFQ-2026-000466,QUO-S0064-2026-000019,2026-07-28,45,7918.62,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000867,RFQ-2026-000467,QUO-S0089-2026-000009,2026-01-25,31,2613.32,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000868,RFQ-2026-000468,QUO-S0059-2026-000015,2026-09-17,55,3697.35,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000869,RFQ-2026-000469,QUO-S0083-2026-000010,2026-08-11,31,11533.78,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000870,RFQ-2026-000470,QUO-S0029-2026-000018,2026-11-06,47,1613.49,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000871,RFQ-2026-000471,QUO-S0035-2026-000010,2026-02-12,22,10300.11,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000872,RFQ-2026-000472,QUO-S0001-2026-000015,2026-06-17,42,5102.04,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000873,RFQ-2026-000473,QUO-S0003-2026-000017,2026-07-13,18,4198.6,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000874,RFQ-2026-000474,QUO-S0071-2026-000016,2026-11-13,26,4081.19,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000875,RFQ-2026-000475,QUO-S0016-2026-000007,2026-04-11,14,3180.5,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000876,RFQ-2026-000476,QUO-S0001-2026-000016,2026-11-03,35,9001.73,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000877,RFQ-2026-000477,QUO-S0081-2026-000015,2026-06-03,12,3364.67,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000878,RFQ-2026-000478,QUO-S0073-2026-000013,2026-07-09,24,3060.15,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000879,RFQ-2026-000479,QUO-S0013-2026-000010,2026-02-23,8,2132.04,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000880,RFQ-2026-000480,QUO-S0098-2026-000019,2026-08-30,46,17488.91,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000881,RFQ-2026-000481,QUO-S0113-2026-000010,2026-01-24,8,2958.57,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000882,RFQ-2026-000482,QUO-S0056-2026-000011,2026-10-25,19,1970.97,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000883,RFQ-2026-000483,QUO-S0117-2026-000011,2026-07-23,24,5314.51,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000884,RFQ-2026-000484,QUO-S0047-2026-000011,2026-08-19,39,2288.48,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000885,RFQ-2026-000485,QUO-S0010-2026-000016,2026-08-04,50,20473.98,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000886,RFQ-2026-000486,QUO-S0070-2026-000013,2026-01-26,31,7791.21,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000887,RFQ-2026-000487,QUO-S0022-2026-000011,2026-02-19,36,12219.37,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000888,RFQ-2026-000488,QUO-S0058-2026-000018,2026-06-20,10,5425.48,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000889,RFQ-2026-000489,QUO-S0045-2026-000015,2026-08-29,14,1277.41,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000890,RFQ-2026-000490,QUO-S0002-2026-000010,2026-08-07,16,7115.29,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000891,RFQ-2026-000491,QUO-S0119-2026-000008,2026-09-29,41,8756.96,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000892,RFQ-2026-000492,QUO-S0070-2026-000014,2026-07-23,60,14012.54,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000893,RFQ-2026-000493,QUO-S0006-2026-000009,2026-01-17,42,10930.33,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000894,RFQ-2026-000494,QUO-S0019-2026-000010,2026-10-23,57,13620.38,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000895,RFQ-2026-000495,QUO-S0112-2026-000013,2026-04-11,35,6310.16,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000896,RFQ-2026-000496,QUO-S0109-2026-000020,2026-11-09,32,12882.78,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000897,RFQ-2026-000497,QUO-S0006-2026-000010,2026-08-29,15,2525.71,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000898,RFQ-2026-000498,QUO-S0074-2026-000014,2026-08-28,47,16337.43,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000899,RFQ-2026-000499,QUO-S0041-2026-000015,2026-02-19,27,2389.11,Lowest eligible landed cost; delivery time met the required date,awarded
+AWD-000900,RFQ-2026-000500,QUO-S0061-2026-000011,2026-10-18,10,11200.0,Lowest eligible landed cost; delivery time met the required date,awarded

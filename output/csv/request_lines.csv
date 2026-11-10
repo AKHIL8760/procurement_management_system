@@ -1,0 +1,1201 @@
+request_line_id,request_id,line_number,description,category,quantity,unit_of_measure,estimated_unit_cost,estimated_total,currency
+RL-000001,PR-2026-000001,1,Synthetic workstation,IT Hardware,20,each,500.0,10000.0,USD
+RL-000002,PR-2026-000002,1,Synthetic Workstation,IT Hardware,31,each,93.49,2898.19,USD
+RL-000003,PR-2026-000003,1,Synthetic Network switch,IT Hardware,17,each,224.83,3822.11,USD
+RL-000004,PR-2026-000004,1,Synthetic Design license,Software,29,each,74.41,2157.89,USD
+RL-000005,PR-2026-000005,1,Synthetic Laptop,IT Hardware,37,each,330.02,12210.74,USD
+RL-000006,PR-2026-000006,1,Synthetic Implementation services,Professional Services,56,each,59.01,3304.56,USD
+RL-000007,PR-2026-000007,1,Synthetic Access-control reader,Facilities,20,each,37.39,747.8,USD
+RL-000008,PR-2026-000008,1,Synthetic Security license,Software,38,each,294.71,11198.98,USD
+RL-000009,PR-2026-000009,1,Synthetic LED fixture,Facilities,57,each,404.6,23062.2,USD
+RL-000010,PR-2026-000010,1,Synthetic Network switch,IT Hardware,9,each,348.11,3132.99,USD
+RL-000011,PR-2026-000011,1,Synthetic Design license,Software,41,each,311.14,12756.74,USD
+RL-000012,PR-2026-000012,1,Synthetic Implementation services,Professional Services,15,each,47.97,719.55,USD
+RL-000013,PR-2026-000013,1,Synthetic Workstation,IT Hardware,32,each,248.28,7944.96,USD
+RL-000014,PR-2026-000014,1,Synthetic First-aid station,Safety Equipment,50,each,118.45,5922.5,USD
+RL-000015,PR-2026-000015,1,Synthetic Safety monitor,Safety Equipment,39,each,151.21,5897.19,USD
+RL-000016,PR-2026-000016,1,Synthetic Security license,Software,58,each,265.36,15390.88,USD
+RL-000017,PR-2026-000017,1,Synthetic Printer paper,Office Supplies,40,each,97.96,3918.4,USD
+RL-000018,PR-2026-000018,1,Synthetic Filing cabinet,Office Supplies,8,each,50.87,406.96,USD
+RL-000019,PR-2026-000019,1,Synthetic Safety monitor,Safety Equipment,56,each,389.13,21791.28,USD
+RL-000020,PR-2026-000020,1,Synthetic Implementation services,Professional Services,17,each,234.72,3990.24,USD
+RL-000021,PR-2026-000021,1,Synthetic Design license,Software,31,each,72.06,2233.86,USD
+RL-000022,PR-2026-000022,1,Synthetic LED fixture,Facilities,46,each,319.89,14714.94,USD
+RL-000023,PR-2026-000023,1,Synthetic Audit support,Professional Services,12,each,294.3,3531.6,USD
+RL-000024,PR-2026-000024,1,Synthetic Implementation services,Professional Services,33,each,443.62,14639.46,USD
+RL-000025,PR-2026-000025,1,Synthetic Printer paper,Office Supplies,33,each,411.7,13586.1,USD
+RL-000026,PR-2026-000026,1,Synthetic Access-control reader,Facilities,27,each,371.78,10038.06,USD
+RL-000027,PR-2026-000027,1,Synthetic Analytics license,Software,38,each,87.32,3318.16,USD
+RL-000028,PR-2026-000028,1,Synthetic Audit support,Professional Services,31,each,198.86,6164.66,USD
+RL-000029,PR-2026-000029,1,Synthetic Analytics license,Software,43,each,441.54,18986.22,USD
+RL-000030,PR-2026-000030,1,Synthetic Security license,Software,57,each,64.01,3648.57,USD
+RL-000031,PR-2026-000031,1,Synthetic Network switch,IT Hardware,13,each,66.57,865.41,USD
+RL-000032,PR-2026-000032,1,Synthetic Network switch,IT Hardware,43,each,432.76,18608.68,USD
+RL-000033,PR-2026-000033,1,Synthetic Security license,Software,24,each,375.85,9020.4,USD
+RL-000034,PR-2026-000034,1,Synthetic Workstation,IT Hardware,43,each,260.21,11189.03,USD
+RL-000035,PR-2026-000035,1,Synthetic Air filter,Facilities,30,each,307.65,9229.5,USD
+RL-000036,PR-2026-000036,1,Synthetic Implementation services,Professional Services,27,each,222.23,6000.21,USD
+RL-000037,PR-2026-000037,1,Synthetic Filing cabinet,Office Supplies,20,each,48.06,961.2,USD
+RL-000038,PR-2026-000038,1,Synthetic Audit support,Professional Services,38,each,179.7,6828.6,USD
+RL-000039,PR-2026-000039,1,Synthetic Air filter,Facilities,13,each,271.67,3531.71,USD
+RL-000040,PR-2026-000040,1,Synthetic Safety monitor,Safety Equipment,58,each,297.26,17241.08,USD
+RL-000041,PR-2026-000041,1,Synthetic Air filter,Facilities,15,each,415.19,6227.85,USD
+RL-000042,PR-2026-000042,1,Synthetic Audit support,Professional Services,25,each,49.72,1243.0,USD
+RL-000043,PR-2026-000043,1,Synthetic Design license,Software,46,each,90.43,4159.78,USD
+RL-000044,PR-2026-000044,1,Synthetic LED fixture,Facilities,24,each,157.49,3779.76,USD
+RL-000045,PR-2026-000045,1,Synthetic Analytics license,Software,32,each,361.28,11560.96,USD
+RL-000046,PR-2026-000046,1,Synthetic First-aid station,Safety Equipment,10,each,267.8,2678.0,USD
+RL-000047,PR-2026-000047,1,Synthetic Air filter,Facilities,31,each,260.72,8082.32,USD
+RL-000048,PR-2026-000048,1,Synthetic Workstation,IT Hardware,30,each,96.2,2886.0,USD
+RL-000049,PR-2026-000049,1,Synthetic Filing cabinet,Office Supplies,29,each,331.45,9612.05,USD
+RL-000050,PR-2026-000050,1,Synthetic Printer paper,Office Supplies,57,each,369.22,21045.54,USD
+RL-000051,PR-2026-000051,1,Synthetic Implementation services,Professional Services,11,each,174.27,1916.97,USD
+RL-000052,PR-2026-000052,1,Synthetic Protective kit,Safety Equipment,22,each,227.07,4995.54,USD
+RL-000053,PR-2026-000053,1,Synthetic Protective kit,Safety Equipment,48,each,298.54,14329.92,USD
+RL-000054,PR-2026-000054,1,Synthetic Access-control reader,Facilities,18,each,150.14,2702.52,USD
+RL-000055,PR-2026-000055,1,Synthetic Audit support,Professional Services,42,each,163.54,6868.68,USD
+RL-000056,PR-2026-000056,1,Synthetic Workstation,IT Hardware,8,each,357.61,2860.88,USD
+RL-000057,PR-2026-000057,1,Synthetic Printer paper,Office Supplies,11,each,405.88,4464.68,USD
+RL-000058,PR-2026-000058,1,Synthetic First-aid station,Safety Equipment,9,each,271.65,2444.85,USD
+RL-000059,PR-2026-000059,1,Synthetic Network switch,IT Hardware,45,each,358.58,16136.1,USD
+RL-000060,PR-2026-000060,1,Synthetic Ergonomic chair,Office Supplies,28,each,334.43,9364.04,USD
+RL-000061,PR-2026-000061,1,Synthetic Filing cabinet,Office Supplies,12,each,98.81,1185.72,USD
+RL-000062,PR-2026-000062,1,Synthetic Monitor,IT Hardware,18,each,315.01,5670.18,USD
+RL-000063,PR-2026-000063,1,Synthetic Ergonomic chair,Office Supplies,38,each,73.17,2780.46,USD
+RL-000064,PR-2026-000064,1,Synthetic Access-control reader,Facilities,47,each,198.07,9309.29,USD
+RL-000065,PR-2026-000065,1,Synthetic Design license,Software,16,each,112.33,1797.28,USD
+RL-000066,PR-2026-000066,1,Synthetic First-aid station,Safety Equipment,55,each,357.07,19638.85,USD
+RL-000067,PR-2026-000067,1,Synthetic First-aid station,Safety Equipment,26,each,433.94,11282.44,USD
+RL-000068,PR-2026-000068,1,Synthetic Analytics license,Software,41,each,194.88,7990.08,USD
+RL-000069,PR-2026-000069,1,Synthetic Implementation services,Professional Services,48,each,296.49,14231.52,USD
+RL-000070,PR-2026-000070,1,Synthetic Implementation services,Professional Services,59,each,327.63,19330.17,USD
+RL-000071,PR-2026-000071,1,Synthetic First-aid station,Safety Equipment,28,each,178.11,4987.08,USD
+RL-000072,PR-2026-000072,1,Synthetic Network switch,IT Hardware,44,each,263.34,11586.96,USD
+RL-000073,PR-2026-000073,1,Synthetic Implementation services,Professional Services,10,each,71.32,713.2,USD
+RL-000074,PR-2026-000074,1,Synthetic Design license,Software,41,each,134.97,5533.77,USD
+RL-000075,PR-2026-000075,1,Synthetic Network switch,IT Hardware,27,each,285.23,7701.21,USD
+RL-000076,PR-2026-000076,1,Synthetic LED fixture,Facilities,23,each,202.33,4653.59,USD
+RL-000077,PR-2026-000077,1,Synthetic Printer paper,Office Supplies,54,each,280.62,15153.48,USD
+RL-000078,PR-2026-000078,1,Synthetic First-aid station,Safety Equipment,46,each,182.22,8382.12,USD
+RL-000079,PR-2026-000079,1,Synthetic Audit support,Professional Services,23,each,39.25,902.75,USD
+RL-000080,PR-2026-000080,1,Synthetic Audit support,Professional Services,45,each,78.51,3532.95,USD
+RL-000081,PR-2026-000081,1,Synthetic Audit support,Professional Services,41,each,229.53,9410.73,USD
+RL-000082,PR-2026-000082,1,Synthetic Implementation services,Professional Services,20,each,389.61,7792.2,USD
+RL-000083,PR-2026-000083,1,Synthetic Laptop,IT Hardware,20,each,259.48,5189.6,USD
+RL-000084,PR-2026-000084,1,Synthetic Security license,Software,30,each,150.89,4526.7,USD
+RL-000085,PR-2026-000085,1,Synthetic Filing cabinet,Office Supplies,24,each,227.42,5458.08,USD
+RL-000086,PR-2026-000086,1,Synthetic Protective kit,Safety Equipment,34,each,348.87,11861.58,USD
+RL-000087,PR-2026-000087,1,Synthetic Design license,Software,19,each,319.06,6062.14,USD
+RL-000088,PR-2026-000088,1,Synthetic Monitor,IT Hardware,44,each,230.39,10137.16,USD
+RL-000089,PR-2026-000089,1,Synthetic Design license,Software,21,each,101.97,2141.37,USD
+RL-000090,PR-2026-000090,1,Synthetic Analytics license,Software,52,each,249.37,12967.24,USD
+RL-000091,PR-2026-000091,1,Synthetic Workstation,IT Hardware,30,each,122.31,3669.3,USD
+RL-000092,PR-2026-000092,1,Synthetic Network switch,IT Hardware,19,each,174.26,3310.94,USD
+RL-000093,PR-2026-000093,1,Synthetic Protective kit,Safety Equipment,26,each,157.41,4092.66,USD
+RL-000094,PR-2026-000094,1,Synthetic Workstation,IT Hardware,32,each,417.96,13374.72,USD
+RL-000095,PR-2026-000095,1,Synthetic Analytics license,Software,20,each,50.71,1014.2,USD
+RL-000096,PR-2026-000096,1,Synthetic Workstation,IT Hardware,38,each,88.09,3347.42,USD
+RL-000097,PR-2026-000097,1,Synthetic Security license,Software,12,each,129.06,1548.72,USD
+RL-000098,PR-2026-000098,1,Synthetic First-aid station,Safety Equipment,32,each,85.2,2726.4,USD
+RL-000099,PR-2026-000099,1,Synthetic Printer paper,Office Supplies,24,each,401.27,9630.48,USD
+RL-000100,PR-2026-000100,1,Synthetic Printer paper,Office Supplies,30,each,138.35,4150.5,USD
+RL-000101,PR-2026-000101,1,Synthetic Air filter,Facilities,32,each,379.34,12138.88,USD
+RL-000102,PR-2026-000102,1,Synthetic Design license,Software,9,each,403.52,3631.68,USD
+RL-000103,PR-2026-000103,1,Synthetic Printer paper,Office Supplies,60,each,280.02,16801.2,USD
+RL-000104,PR-2026-000104,1,Synthetic Printer paper,Office Supplies,20,each,354.52,7090.4,USD
+RL-000105,PR-2026-000105,1,Synthetic Filing cabinet,Office Supplies,39,each,384.45,14993.55,USD
+RL-000106,PR-2026-000106,1,Synthetic Laptop,IT Hardware,16,each,75.58,1209.28,USD
+RL-000107,PR-2026-000107,1,Synthetic Printer paper,Office Supplies,39,each,139.87,5454.93,USD
+RL-000108,PR-2026-000108,1,Synthetic Workstation,IT Hardware,42,each,242.02,10164.84,USD
+RL-000109,PR-2026-000109,1,Synthetic Network switch,IT Hardware,13,each,275.86,3586.18,USD
+RL-000110,PR-2026-000110,1,Synthetic Analytics license,Software,45,each,292.98,13184.1,USD
+RL-000111,PR-2026-000111,1,Synthetic First-aid station,Safety Equipment,19,each,395.48,7514.12,USD
+RL-000112,PR-2026-000112,1,Synthetic Audit support,Professional Services,18,each,224.38,4038.84,USD
+RL-000113,PR-2026-000113,1,Synthetic Printer paper,Office Supplies,45,each,279.17,12562.65,USD
+RL-000114,PR-2026-000114,1,Synthetic LED fixture,Facilities,23,each,163.5,3760.5,USD
+RL-000115,PR-2026-000115,1,Synthetic Ergonomic chair,Office Supplies,21,each,39.84,836.64,USD
+RL-000116,PR-2026-000116,1,Synthetic Analytics license,Software,10,each,90.31,903.1,USD
+RL-000117,PR-2026-000117,1,Synthetic Ergonomic chair,Office Supplies,8,each,54.91,439.28,USD
+RL-000118,PR-2026-000118,1,Synthetic Audit support,Professional Services,13,each,126.42,1643.46,USD
+RL-000119,PR-2026-000119,1,Synthetic Design license,Software,38,each,416.95,15844.1,USD
+RL-000120,PR-2026-000120,1,Synthetic Printer paper,Office Supplies,18,each,288.4,5191.2,USD
+RL-000121,PR-2026-000121,1,Synthetic Safety monitor,Safety Equipment,60,each,99.1,5946.0,USD
+RL-000122,PR-2026-000122,1,Synthetic Access-control reader,Facilities,48,each,388.96,18670.08,USD
+RL-000123,PR-2026-000123,1,Synthetic Filing cabinet,Office Supplies,8,each,270.46,2163.68,USD
+RL-000124,PR-2026-000124,1,Synthetic Protective kit,Safety Equipment,51,each,142.63,7274.13,USD
+RL-000125,PR-2026-000125,1,Synthetic Protective kit,Safety Equipment,17,each,104.66,1779.22,USD
+RL-000126,PR-2026-000126,1,Synthetic Audit support,Professional Services,53,each,67.15,3558.95,USD
+RL-000127,PR-2026-000127,1,Synthetic Ergonomic chair,Office Supplies,28,each,424.5,11886.0,USD
+RL-000128,PR-2026-000128,1,Synthetic Workstation,IT Hardware,32,each,360.08,11522.56,USD
+RL-000129,PR-2026-000129,1,Synthetic First-aid station,Safety Equipment,12,each,392.11,4705.32,USD
+RL-000130,PR-2026-000130,1,Synthetic Implementation services,Professional Services,8,each,262.37,2098.96,USD
+RL-000131,PR-2026-000131,1,Synthetic Workstation,IT Hardware,49,each,366.55,17960.95,USD
+RL-000132,PR-2026-000132,1,Synthetic Access-control reader,Facilities,46,each,192.89,8872.94,USD
+RL-000133,PR-2026-000133,1,Synthetic First-aid station,Safety Equipment,56,each,204.62,11458.72,USD
+RL-000134,PR-2026-000134,1,Synthetic Analytics license,Software,29,each,342.55,9933.95,USD
+RL-000135,PR-2026-000135,1,Synthetic Network switch,IT Hardware,32,each,182.27,5832.64,USD
+RL-000136,PR-2026-000136,1,Synthetic Protective kit,Safety Equipment,35,each,279.99,9799.65,USD
+RL-000137,PR-2026-000137,1,Synthetic Safety monitor,Safety Equipment,23,each,282.1,6488.3,USD
+RL-000138,PR-2026-000138,1,Synthetic Design license,Software,24,each,236.42,5674.08,USD
+RL-000139,PR-2026-000139,1,Synthetic Design license,Software,42,each,407.28,17105.76,USD
+RL-000140,PR-2026-000140,1,Synthetic LED fixture,Facilities,19,each,261.17,4962.23,USD
+RL-000141,PR-2026-000141,1,Synthetic Implementation services,Professional Services,36,each,449.57,16184.52,USD
+RL-000142,PR-2026-000142,1,Synthetic Ergonomic chair,Office Supplies,46,each,194.88,8964.48,USD
+RL-000143,PR-2026-000143,1,Synthetic Workstation,IT Hardware,22,each,289.55,6370.1,USD
+RL-000144,PR-2026-000144,1,Synthetic Monitor,IT Hardware,30,each,404.85,12145.5,USD
+RL-000145,PR-2026-000145,1,Synthetic Implementation services,Professional Services,33,each,137.53,4538.49,USD
+RL-000146,PR-2026-000146,1,Synthetic First-aid station,Safety Equipment,12,each,106.73,1280.76,USD
+RL-000147,PR-2026-000147,1,Synthetic Filing cabinet,Office Supplies,40,each,231.5,9260.0,USD
+RL-000148,PR-2026-000148,1,Synthetic LED fixture,Facilities,25,each,283.56,7089.0,USD
+RL-000149,PR-2026-000149,1,Synthetic Filing cabinet,Office Supplies,20,each,200.58,4011.6,USD
+RL-000150,PR-2026-000150,1,Synthetic Ergonomic chair,Office Supplies,20,each,306.99,6139.8,USD
+RL-000151,PR-2026-000151,1,Synthetic Printer paper,Office Supplies,41,each,402.83,16516.03,USD
+RL-000152,PR-2026-000152,1,Synthetic Protective kit,Safety Equipment,55,each,175.64,9660.2,USD
+RL-000153,PR-2026-000153,1,Synthetic Analytics license,Software,57,each,78.65,4483.05,USD
+RL-000154,PR-2026-000154,1,Synthetic LED fixture,Facilities,54,each,286.76,15485.04,USD
+RL-000155,PR-2026-000155,1,Synthetic Network switch,IT Hardware,44,each,387.94,17069.36,USD
+RL-000156,PR-2026-000156,1,Synthetic Design license,Software,39,each,60.04,2341.56,USD
+RL-000157,PR-2026-000157,1,Synthetic Network switch,IT Hardware,37,each,133.65,4945.05,USD
+RL-000158,PR-2026-000158,1,Synthetic Network switch,IT Hardware,11,each,319.65,3516.15,USD
+RL-000159,PR-2026-000159,1,Synthetic Protective kit,Safety Equipment,11,each,320.72,3527.92,USD
+RL-000160,PR-2026-000160,1,Synthetic Implementation services,Professional Services,56,each,329.28,18439.68,USD
+RL-000161,PR-2026-000161,1,Synthetic Filing cabinet,Office Supplies,45,each,145.31,6538.95,USD
+RL-000162,PR-2026-000162,1,Synthetic Printer paper,Office Supplies,38,each,344.61,13095.18,USD
+RL-000163,PR-2026-000163,1,Synthetic First-aid station,Safety Equipment,19,each,57.46,1091.74,USD
+RL-000164,PR-2026-000164,1,Synthetic Ergonomic chair,Office Supplies,11,each,66.3,729.3,USD
+RL-000165,PR-2026-000165,1,Synthetic Filing cabinet,Office Supplies,8,each,395.08,3160.64,USD
+RL-000166,PR-2026-000166,1,Synthetic Laptop,IT Hardware,17,each,401.11,6818.87,USD
+RL-000167,PR-2026-000167,1,Synthetic Printer paper,Office Supplies,26,each,226.77,5896.02,USD
+RL-000168,PR-2026-000168,1,Synthetic Network switch,IT Hardware,27,each,270.74,7309.98,USD
+RL-000169,PR-2026-000169,1,Synthetic Filing cabinet,Office Supplies,26,each,284.75,7403.5,USD
+RL-000170,PR-2026-000170,1,Synthetic First-aid station,Safety Equipment,32,each,354.65,11348.8,USD
+RL-000171,PR-2026-000171,1,Synthetic Implementation services,Professional Services,42,each,189.91,7976.22,USD
+RL-000172,PR-2026-000172,1,Synthetic First-aid station,Safety Equipment,38,each,120.7,4586.6,USD
+RL-000173,PR-2026-000173,1,Synthetic Filing cabinet,Office Supplies,10,each,178.63,1786.3,USD
+RL-000174,PR-2026-000174,1,Synthetic Safety monitor,Safety Equipment,49,each,220.94,10826.06,USD
+RL-000175,PR-2026-000175,1,Synthetic First-aid station,Safety Equipment,38,each,380.12,14444.56,USD
+RL-000176,PR-2026-000176,1,Synthetic Access-control reader,Facilities,26,each,58.13,1511.38,USD
+RL-000177,PR-2026-000177,1,Synthetic Audit support,Professional Services,34,each,97.68,3321.12,USD
+RL-000178,PR-2026-000178,1,Synthetic Safety monitor,Safety Equipment,25,each,118.88,2972.0,USD
+RL-000179,PR-2026-000179,1,Synthetic Security license,Software,53,each,248.73,13182.69,USD
+RL-000180,PR-2026-000180,1,Synthetic Filing cabinet,Office Supplies,37,each,410.63,15193.31,USD
+RL-000181,PR-2026-000181,1,Synthetic Audit support,Professional Services,33,each,96.23,3175.59,USD
+RL-000182,PR-2026-000182,1,Synthetic Laptop,IT Hardware,57,each,66.99,3818.43,USD
+RL-000183,PR-2026-000183,1,Synthetic Design license,Software,38,each,293.76,11162.88,USD
+RL-000184,PR-2026-000184,1,Synthetic Network switch,IT Hardware,38,each,44.79,1702.02,USD
+RL-000185,PR-2026-000185,1,Synthetic Printer paper,Office Supplies,17,each,46.11,783.87,USD
+RL-000186,PR-2026-000186,1,Synthetic Safety monitor,Safety Equipment,49,each,247.29,12117.21,USD
+RL-000187,PR-2026-000187,1,Synthetic First-aid station,Safety Equipment,11,each,335.85,3694.35,USD
+RL-000188,PR-2026-000188,1,Synthetic Protective kit,Safety Equipment,22,each,86.67,1906.74,USD
+RL-000189,PR-2026-000189,1,Synthetic Air filter,Facilities,45,each,132.53,5963.85,USD
+RL-000190,PR-2026-000190,1,Synthetic Design license,Software,49,each,231.12,11324.88,USD
+RL-000191,PR-2026-000191,1,Synthetic Implementation services,Professional Services,32,each,125.61,4019.52,USD
+RL-000192,PR-2026-000192,1,Synthetic Filing cabinet,Office Supplies,20,each,209.62,4192.4,USD
+RL-000193,PR-2026-000193,1,Synthetic Network switch,IT Hardware,37,each,246.31,9113.47,USD
+RL-000194,PR-2026-000194,1,Synthetic Workstation,IT Hardware,17,each,261.08,4438.36,USD
+RL-000195,PR-2026-000195,1,Synthetic Ergonomic chair,Office Supplies,52,each,354.69,18443.88,USD
+RL-000196,PR-2026-000196,1,Synthetic Laptop,IT Hardware,34,each,159.3,5416.2,USD
+RL-000197,PR-2026-000197,1,Synthetic Filing cabinet,Office Supplies,13,each,234.8,3052.4,USD
+RL-000198,PR-2026-000198,1,Synthetic Design license,Software,41,each,70.52,2891.32,USD
+RL-000199,PR-2026-000199,1,Synthetic Analytics license,Software,46,each,301.8,13882.8,USD
+RL-000200,PR-2026-000200,1,Synthetic Audit support,Professional Services,19,each,270.35,5136.65,USD
+RL-000201,PR-2026-000201,1,Synthetic Implementation services,Professional Services,22,each,275.27,6055.94,USD
+RL-000202,PR-2026-000202,1,Synthetic LED fixture,Facilities,51,each,435.93,22232.43,USD
+RL-000203,PR-2026-000203,1,Synthetic Access-control reader,Facilities,58,each,256.7,14888.6,USD
+RL-000204,PR-2026-000204,1,Synthetic Laptop,IT Hardware,13,each,45.62,593.06,USD
+RL-000205,PR-2026-000205,1,Synthetic Air filter,Facilities,21,each,389.97,8189.37,USD
+RL-000206,PR-2026-000206,1,Synthetic First-aid station,Safety Equipment,59,each,269.19,15882.21,USD
+RL-000207,PR-2026-000207,1,Synthetic Security license,Software,53,each,323.43,17141.79,USD
+RL-000208,PR-2026-000208,1,Synthetic Analytics license,Software,10,each,39.69,396.9,USD
+RL-000209,PR-2026-000209,1,Synthetic Implementation services,Professional Services,45,each,165.94,7467.3,USD
+RL-000210,PR-2026-000210,1,Synthetic Ergonomic chair,Office Supplies,16,each,265.39,4246.24,USD
+RL-000211,PR-2026-000211,1,Synthetic Protective kit,Safety Equipment,37,each,299.13,11067.81,USD
+RL-000212,PR-2026-000212,1,Synthetic Workstation,IT Hardware,8,each,320.32,2562.56,USD
+RL-000213,PR-2026-000213,1,Synthetic Filing cabinet,Office Supplies,14,each,332.35,4652.9,USD
+RL-000214,PR-2026-000214,1,Synthetic Laptop,IT Hardware,30,each,244.83,7344.9,USD
+RL-000215,PR-2026-000215,1,Synthetic Workstation,IT Hardware,48,each,52.47,2518.56,USD
+RL-000216,PR-2026-000216,1,Synthetic Safety monitor,Safety Equipment,27,each,176.11,4754.97,USD
+RL-000217,PR-2026-000217,1,Synthetic Filing cabinet,Office Supplies,60,each,290.7,17442.0,USD
+RL-000218,PR-2026-000218,1,Synthetic Printer paper,Office Supplies,24,each,66.81,1603.44,USD
+RL-000219,PR-2026-000219,1,Synthetic Design license,Software,25,each,41.18,1029.5,USD
+RL-000220,PR-2026-000220,1,Synthetic Implementation services,Professional Services,59,each,407.94,24068.46,USD
+RL-000221,PR-2026-000221,1,Synthetic Implementation services,Professional Services,51,each,204.02,10405.02,USD
+RL-000222,PR-2026-000222,1,Synthetic Workstation,IT Hardware,12,each,438.06,5256.72,USD
+RL-000223,PR-2026-000223,1,Synthetic Design license,Software,52,each,342.1,17789.2,USD
+RL-000224,PR-2026-000224,1,Synthetic Security license,Software,38,each,198.67,7549.46,USD
+RL-000225,PR-2026-000225,1,Synthetic Implementation services,Professional Services,56,each,199.11,11150.16,USD
+RL-000226,PR-2026-000226,1,Synthetic Implementation services,Professional Services,25,each,383.73,9593.25,USD
+RL-000227,PR-2026-000227,1,Synthetic Air filter,Facilities,15,each,114.96,1724.4,USD
+RL-000228,PR-2026-000228,1,Synthetic Implementation services,Professional Services,56,each,212.33,11890.48,USD
+RL-000229,PR-2026-000229,1,Synthetic Analytics license,Software,22,each,138.99,3057.78,USD
+RL-000230,PR-2026-000230,1,Synthetic LED fixture,Facilities,35,each,349.36,12227.6,USD
+RL-000231,PR-2026-000231,1,Synthetic LED fixture,Facilities,54,each,280.67,15156.18,USD
+RL-000232,PR-2026-000232,1,Synthetic Access-control reader,Facilities,12,each,277.75,3333.0,USD
+RL-000233,PR-2026-000233,1,Synthetic Audit support,Professional Services,20,each,200.0,4000.0,USD
+RL-000234,PR-2026-000234,1,Synthetic Analytics license,Software,15,each,321.59,4823.85,USD
+RL-000235,PR-2026-000235,1,Synthetic Air filter,Facilities,34,each,268.61,9132.74,USD
+RL-000236,PR-2026-000236,1,Synthetic Design license,Software,25,each,91.8,2295.0,USD
+RL-000237,PR-2026-000237,1,Synthetic Network switch,IT Hardware,18,each,192.15,3458.7,USD
+RL-000238,PR-2026-000238,1,Synthetic Ergonomic chair,Office Supplies,9,each,327.57,2948.13,USD
+RL-000239,PR-2026-000239,1,Synthetic Implementation services,Professional Services,24,each,424.11,10178.64,USD
+RL-000240,PR-2026-000240,1,Synthetic Security license,Software,43,each,435.24,18715.32,USD
+RL-000241,PR-2026-000241,1,Synthetic Security license,Software,18,each,171.18,3081.24,USD
+RL-000242,PR-2026-000242,1,Synthetic Audit support,Professional Services,16,each,174.32,2789.12,USD
+RL-000243,PR-2026-000243,1,Synthetic Analytics license,Software,29,each,132.15,3832.35,USD
+RL-000244,PR-2026-000244,1,Synthetic Audit support,Professional Services,14,each,371.45,5200.3,USD
+RL-000245,PR-2026-000245,1,Synthetic Laptop,IT Hardware,14,each,214.18,2998.52,USD
+RL-000246,PR-2026-000246,1,Synthetic Design license,Software,26,each,240.31,6248.06,USD
+RL-000247,PR-2026-000247,1,Synthetic Monitor,IT Hardware,43,each,363.7,15639.1,USD
+RL-000248,PR-2026-000248,1,Synthetic Filing cabinet,Office Supplies,28,each,231.61,6485.08,USD
+RL-000249,PR-2026-000249,1,Synthetic Access-control reader,Facilities,39,each,186.33,7266.87,USD
+RL-000250,PR-2026-000250,1,Synthetic Safety monitor,Safety Equipment,17,each,273.57,4650.69,USD
+RL-000251,PR-2026-000251,1,Synthetic First-aid station,Safety Equipment,51,each,409.44,20881.44,USD
+RL-000252,PR-2026-000252,1,Synthetic Audit support,Professional Services,27,each,173.0,4671.0,USD
+RL-000253,PR-2026-000253,1,Synthetic Audit support,Professional Services,18,each,336.1,6049.8,USD
+RL-000254,PR-2026-000254,1,Synthetic Design license,Software,47,each,68.11,3201.17,USD
+RL-000255,PR-2026-000255,1,Synthetic Audit support,Professional Services,56,each,62.29,3488.24,USD
+RL-000256,PR-2026-000256,1,Synthetic Workstation,IT Hardware,48,each,442.52,21240.96,USD
+RL-000257,PR-2026-000257,1,Synthetic Design license,Software,33,each,255.8,8441.4,USD
+RL-000258,PR-2026-000258,1,Synthetic Filing cabinet,Office Supplies,33,each,404.93,13362.69,USD
+RL-000259,PR-2026-000259,1,Synthetic Air filter,Facilities,22,each,250.88,5519.36,USD
+RL-000260,PR-2026-000260,1,Synthetic Implementation services,Professional Services,30,each,400.56,12016.8,USD
+RL-000261,PR-2026-000261,1,Synthetic Implementation services,Professional Services,33,each,449.36,14828.88,USD
+RL-000262,PR-2026-000262,1,Synthetic Protective kit,Safety Equipment,36,each,393.99,14183.64,USD
+RL-000263,PR-2026-000263,1,Synthetic Design license,Software,42,each,233.33,9799.86,USD
+RL-000264,PR-2026-000264,1,Synthetic Protective kit,Safety Equipment,30,each,218.8,6564.0,USD
+RL-000265,PR-2026-000265,1,Synthetic Audit support,Professional Services,57,each,417.34,23788.38,USD
+RL-000266,PR-2026-000266,1,Synthetic Workstation,IT Hardware,8,each,93.16,745.28,USD
+RL-000267,PR-2026-000267,1,Synthetic Design license,Software,12,each,121.42,1457.04,USD
+RL-000268,PR-2026-000268,1,Synthetic Protective kit,Safety Equipment,32,each,338.64,10836.48,USD
+RL-000269,PR-2026-000269,1,Synthetic Access-control reader,Facilities,37,each,126.1,4665.7,USD
+RL-000270,PR-2026-000270,1,Synthetic Laptop,IT Hardware,59,each,203.31,11995.29,USD
+RL-000271,PR-2026-000271,1,Synthetic Filing cabinet,Office Supplies,10,each,427.2,4272.0,USD
+RL-000272,PR-2026-000272,1,Synthetic Security license,Software,38,each,116.54,4428.52,USD
+RL-000273,PR-2026-000273,1,Synthetic Implementation services,Professional Services,32,each,91.39,2924.48,USD
+RL-000274,PR-2026-000274,1,Synthetic Implementation services,Professional Services,52,each,342.42,17805.84,USD
+RL-000275,PR-2026-000275,1,Synthetic Ergonomic chair,Office Supplies,29,each,141.96,4116.84,USD
+RL-000276,PR-2026-000276,1,Synthetic Protective kit,Safety Equipment,25,each,413.74,10343.5,USD
+RL-000277,PR-2026-000277,1,Synthetic Laptop,IT Hardware,55,each,308.2,16951.0,USD
+RL-000278,PR-2026-000278,1,Synthetic Analytics license,Software,10,each,234.76,2347.6,USD
+RL-000279,PR-2026-000279,1,Synthetic Implementation services,Professional Services,51,each,329.8,16819.8,USD
+RL-000280,PR-2026-000280,1,Synthetic Implementation services,Professional Services,57,each,344.73,19649.61,USD
+RL-000281,PR-2026-000281,1,Synthetic Analytics license,Software,34,each,134.49,4572.66,USD
+RL-000282,PR-2026-000282,1,Synthetic Implementation services,Professional Services,28,each,213.75,5985.0,USD
+RL-000283,PR-2026-000283,1,Synthetic Design license,Software,14,each,321.98,4507.72,USD
+RL-000284,PR-2026-000284,1,Synthetic Network switch,IT Hardware,21,each,380.35,7987.35,USD
+RL-000285,PR-2026-000285,1,Synthetic Air filter,Facilities,15,each,176.03,2640.45,USD
+RL-000286,PR-2026-000286,1,Synthetic Audit support,Professional Services,21,each,339.9,7137.9,USD
+RL-000287,PR-2026-000287,1,Synthetic Printer paper,Office Supplies,17,each,119.86,2037.62,USD
+RL-000288,PR-2026-000288,1,Synthetic Audit support,Professional Services,15,each,73.59,1103.85,USD
+RL-000289,PR-2026-000289,1,Synthetic Monitor,IT Hardware,24,each,88.68,2128.32,USD
+RL-000290,PR-2026-000290,1,Synthetic Analytics license,Software,43,each,233.08,10022.44,USD
+RL-000291,PR-2026-000291,1,Synthetic Security license,Software,10,each,409.05,4090.5,USD
+RL-000292,PR-2026-000292,1,Synthetic Monitor,IT Hardware,38,each,198.91,7558.58,USD
+RL-000293,PR-2026-000293,1,Synthetic Protective kit,Safety Equipment,32,each,65.54,2097.28,USD
+RL-000294,PR-2026-000294,1,Synthetic Audit support,Professional Services,37,each,415.11,15359.07,USD
+RL-000295,PR-2026-000295,1,Synthetic Protective kit,Safety Equipment,54,each,56.01,3024.54,USD
+RL-000296,PR-2026-000296,1,Synthetic Implementation services,Professional Services,38,each,182.75,6944.5,USD
+RL-000297,PR-2026-000297,1,Synthetic Ergonomic chair,Office Supplies,45,each,171.6,7722.0,USD
+RL-000298,PR-2026-000298,1,Synthetic Printer paper,Office Supplies,28,each,94.31,2640.68,USD
+RL-000299,PR-2026-000299,1,Synthetic Air filter,Facilities,49,each,262.68,12871.32,USD
+RL-000300,PR-2026-000300,1,Synthetic First-aid station,Safety Equipment,24,each,61.67,1480.08,USD
+RL-000301,PR-2026-000301,1,Synthetic Printer paper,Office Supplies,16,each,43.72,699.52,USD
+RL-000302,PR-2026-000302,1,Synthetic Design license,Software,14,each,442.09,6189.26,USD
+RL-000303,PR-2026-000303,1,Synthetic Monitor,IT Hardware,45,each,167.05,7517.25,USD
+RL-000304,PR-2026-000304,1,Synthetic Printer paper,Office Supplies,10,each,448.65,4486.5,USD
+RL-000305,PR-2026-000305,1,Synthetic First-aid station,Safety Equipment,60,each,223.14,13388.4,USD
+RL-000306,PR-2026-000306,1,Synthetic Implementation services,Professional Services,23,each,370.41,8519.43,USD
+RL-000307,PR-2026-000307,1,Synthetic Analytics license,Software,18,each,170.64,3071.52,USD
+RL-000308,PR-2026-000308,1,Synthetic Security license,Software,40,each,364.15,14566.0,USD
+RL-000309,PR-2026-000309,1,Synthetic Implementation services,Professional Services,15,each,446.82,6702.3,USD
+RL-000310,PR-2026-000310,1,Synthetic Printer paper,Office Supplies,53,each,147.48,7816.44,USD
+RL-000311,PR-2026-000311,1,Synthetic Design license,Software,57,each,351.52,20036.64,USD
+RL-000312,PR-2026-000312,1,Synthetic Filing cabinet,Office Supplies,37,each,136.27,5041.99,USD
+RL-000313,PR-2026-000313,1,Synthetic Workstation,IT Hardware,20,each,343.22,6864.4,USD
+RL-000314,PR-2026-000314,1,Synthetic Audit support,Professional Services,9,each,251.57,2264.13,USD
+RL-000315,PR-2026-000315,1,Synthetic Monitor,IT Hardware,49,each,286.87,14056.63,USD
+RL-000316,PR-2026-000316,1,Synthetic First-aid station,Safety Equipment,30,each,189.81,5694.3,USD
+RL-000317,PR-2026-000317,1,Synthetic First-aid station,Safety Equipment,30,each,284.55,8536.5,USD
+RL-000318,PR-2026-000318,1,Synthetic Protective kit,Safety Equipment,60,each,223.57,13414.2,USD
+RL-000319,PR-2026-000319,1,Synthetic Audit support,Professional Services,40,each,443.39,17735.6,USD
+RL-000320,PR-2026-000320,1,Synthetic Protective kit,Safety Equipment,16,each,440.34,7045.44,USD
+RL-000321,PR-2026-000321,1,Synthetic Monitor,IT Hardware,50,each,408.63,20431.5,USD
+RL-000322,PR-2026-000322,1,Synthetic LED fixture,Facilities,31,each,405.65,12575.15,USD
+RL-000323,PR-2026-000323,1,Synthetic Implementation services,Professional Services,36,each,77.74,2798.64,USD
+RL-000324,PR-2026-000324,1,Synthetic Ergonomic chair,Office Supplies,43,each,313.59,13484.37,USD
+RL-000325,PR-2026-000325,1,Synthetic Air filter,Facilities,42,each,207.73,8724.66,USD
+RL-000326,PR-2026-000326,1,Synthetic Access-control reader,Facilities,32,each,184.11,5891.52,USD
+RL-000327,PR-2026-000327,1,Synthetic Audit support,Professional Services,27,each,425.62,11491.74,USD
+RL-000328,PR-2026-000328,1,Synthetic Implementation services,Professional Services,40,each,153.35,6134.0,USD
+RL-000329,PR-2026-000329,1,Synthetic Safety monitor,Safety Equipment,28,each,444.31,12440.68,USD
+RL-000330,PR-2026-000330,1,Synthetic Access-control reader,Facilities,18,each,253.85,4569.3,USD
+RL-000331,PR-2026-000331,1,Synthetic Laptop,IT Hardware,10,each,40.25,402.5,USD
+RL-000332,PR-2026-000332,1,Synthetic Implementation services,Professional Services,53,each,398.78,21135.34,USD
+RL-000333,PR-2026-000333,1,Synthetic Filing cabinet,Office Supplies,60,each,104.75,6285.0,USD
+RL-000334,PR-2026-000334,1,Synthetic Ergonomic chair,Office Supplies,31,each,69.35,2149.85,USD
+RL-000335,PR-2026-000335,1,Synthetic Audit support,Professional Services,25,each,161.36,4034.0,USD
+RL-000336,PR-2026-000336,1,Synthetic Network switch,IT Hardware,49,each,256.76,12581.24,USD
+RL-000337,PR-2026-000337,1,Synthetic Protective kit,Safety Equipment,14,each,441.11,6175.54,USD
+RL-000338,PR-2026-000338,1,Synthetic Workstation,IT Hardware,14,each,250.56,3507.84,USD
+RL-000339,PR-2026-000339,1,Synthetic Workstation,IT Hardware,15,each,396.3,5944.5,USD
+RL-000340,PR-2026-000340,1,Synthetic Audit support,Professional Services,51,each,209.14,10666.14,USD
+RL-000341,PR-2026-000341,1,Synthetic Security license,Software,46,each,248.66,11438.36,USD
+RL-000342,PR-2026-000342,1,Synthetic Laptop,IT Hardware,16,each,242.3,3876.8,USD
+RL-000343,PR-2026-000343,1,Synthetic Air filter,Facilities,36,each,432.32,15563.52,USD
+RL-000344,PR-2026-000344,1,Synthetic Implementation services,Professional Services,55,each,310.65,17085.75,USD
+RL-000345,PR-2026-000345,1,Synthetic LED fixture,Facilities,35,each,297.7,10419.5,USD
+RL-000346,PR-2026-000346,1,Synthetic Implementation services,Professional Services,38,each,254.55,9672.9,USD
+RL-000347,PR-2026-000347,1,Synthetic First-aid station,Safety Equipment,40,each,394.13,15765.2,USD
+RL-000348,PR-2026-000348,1,Synthetic Safety monitor,Safety Equipment,58,each,279.26,16197.08,USD
+RL-000349,PR-2026-000349,1,Synthetic Printer paper,Office Supplies,20,each,143.75,2875.0,USD
+RL-000350,PR-2026-000350,1,Synthetic Laptop,IT Hardware,31,each,163.42,5066.02,USD
+RL-000351,PR-2026-000351,1,Synthetic Printer paper,Office Supplies,35,each,177.21,6202.35,USD
+RL-000352,PR-2026-000352,1,Synthetic Design license,Software,56,each,342.65,19188.4,USD
+RL-000353,PR-2026-000353,1,Synthetic Ergonomic chair,Office Supplies,24,each,192.63,4623.12,USD
+RL-000354,PR-2026-000354,1,Synthetic Implementation services,Professional Services,14,each,65.07,910.98,USD
+RL-000355,PR-2026-000355,1,Synthetic Design license,Software,31,each,40.97,1270.07,USD
+RL-000356,PR-2026-000356,1,Synthetic Design license,Software,53,each,209.75,11116.75,USD
+RL-000357,PR-2026-000357,1,Synthetic Design license,Software,44,each,313.38,13788.72,USD
+RL-000358,PR-2026-000358,1,Synthetic Laptop,IT Hardware,20,each,181.38,3627.6,USD
+RL-000359,PR-2026-000359,1,Synthetic Implementation services,Professional Services,51,each,415.54,21192.54,USD
+RL-000360,PR-2026-000360,1,Synthetic LED fixture,Facilities,35,each,296.05,10361.75,USD
+RL-000361,PR-2026-000361,1,Synthetic Printer paper,Office Supplies,34,each,113.66,3864.44,USD
+RL-000362,PR-2026-000362,1,Synthetic Monitor,IT Hardware,18,each,217.04,3906.72,USD
+RL-000363,PR-2026-000363,1,Synthetic First-aid station,Safety Equipment,17,each,148.93,2531.81,USD
+RL-000364,PR-2026-000364,1,Synthetic Workstation,IT Hardware,39,each,45.48,1773.72,USD
+RL-000365,PR-2026-000365,1,Synthetic Printer paper,Office Supplies,42,each,346.1,14536.2,USD
+RL-000366,PR-2026-000366,1,Synthetic Air filter,Facilities,35,each,267.82,9373.7,USD
+RL-000367,PR-2026-000367,1,Synthetic Filing cabinet,Office Supplies,47,each,175.55,8250.85,USD
+RL-000368,PR-2026-000368,1,Synthetic Safety monitor,Safety Equipment,44,each,427.02,18788.88,USD
+RL-000369,PR-2026-000369,1,Synthetic Workstation,IT Hardware,16,each,447.44,7159.04,USD
+RL-000370,PR-2026-000370,1,Synthetic Design license,Software,50,each,60.45,3022.5,USD
+RL-000371,PR-2026-000371,1,Synthetic Access-control reader,Facilities,47,each,39.46,1854.62,USD
+RL-000372,PR-2026-000372,1,Synthetic Analytics license,Software,58,each,305.24,17703.92,USD
+RL-000373,PR-2026-000373,1,Synthetic Implementation services,Professional Services,31,each,232.24,7199.44,USD
+RL-000374,PR-2026-000374,1,Synthetic Analytics license,Software,48,each,318.69,15297.12,USD
+RL-000375,PR-2026-000375,1,Synthetic Security license,Software,27,each,270.48,7302.96,USD
+RL-000376,PR-2026-000376,1,Synthetic Filing cabinet,Office Supplies,23,each,262.47,6036.81,USD
+RL-000377,PR-2026-000377,1,Synthetic Workstation,IT Hardware,16,each,423.25,6772.0,USD
+RL-000378,PR-2026-000378,1,Synthetic Printer paper,Office Supplies,39,each,114.68,4472.52,USD
+RL-000379,PR-2026-000379,1,Synthetic Design license,Software,52,each,226.95,11801.4,USD
+RL-000380,PR-2026-000380,1,Synthetic Filing cabinet,Office Supplies,39,each,115.65,4510.35,USD
+RL-000381,PR-2026-000381,1,Synthetic Safety monitor,Safety Equipment,58,each,265.22,15382.76,USD
+RL-000382,PR-2026-000382,1,Synthetic Implementation services,Professional Services,54,each,182.67,9864.18,USD
+RL-000383,PR-2026-000383,1,Synthetic Filing cabinet,Office Supplies,50,each,260.73,13036.5,USD
+RL-000384,PR-2026-000384,1,Synthetic Safety monitor,Safety Equipment,29,each,321.86,9333.94,USD
+RL-000385,PR-2026-000385,1,Synthetic Laptop,IT Hardware,16,each,68.21,1091.36,USD
+RL-000386,PR-2026-000386,1,Synthetic Monitor,IT Hardware,42,each,420.99,17681.58,USD
+RL-000387,PR-2026-000387,1,Synthetic Implementation services,Professional Services,34,each,65.81,2237.54,USD
+RL-000388,PR-2026-000388,1,Synthetic Analytics license,Software,39,each,297.37,11597.43,USD
+RL-000389,PR-2026-000389,1,Synthetic Laptop,IT Hardware,36,each,196.63,7078.68,USD
+RL-000390,PR-2026-000390,1,Synthetic Implementation services,Professional Services,26,each,407.38,10591.88,USD
+RL-000391,PR-2026-000391,1,Synthetic Analytics license,Software,37,each,133.83,4951.71,USD
+RL-000392,PR-2026-000392,1,Synthetic Filing cabinet,Office Supplies,47,each,342.51,16097.97,USD
+RL-000393,PR-2026-000393,1,Synthetic Laptop,IT Hardware,40,each,305.33,12213.2,USD
+RL-000394,PR-2026-000394,1,Synthetic First-aid station,Safety Equipment,46,each,162.98,7497.08,USD
+RL-000395,PR-2026-000395,1,Synthetic Protective kit,Safety Equipment,45,each,89.33,4019.85,USD
+RL-000396,PR-2026-000396,1,Synthetic Air filter,Facilities,53,each,124.69,6608.57,USD
+RL-000397,PR-2026-000397,1,Synthetic Monitor,IT Hardware,18,each,323.28,5819.04,USD
+RL-000398,PR-2026-000398,1,Synthetic Security license,Software,48,each,421.3,20222.4,USD
+RL-000399,PR-2026-000399,1,Synthetic LED fixture,Facilities,56,each,116.34,6515.04,USD
+RL-000400,PR-2026-000400,1,Synthetic Air filter,Facilities,25,each,219.62,5490.5,USD
+RL-000401,PR-2026-000401,1,Synthetic Workstation,IT Hardware,17,each,329.55,5602.35,USD
+RL-000402,PR-2026-000402,1,Synthetic Access-control reader,Facilities,12,each,269.21,3230.52,USD
+RL-000403,PR-2026-000403,1,Synthetic Security license,Software,10,each,236.91,2369.1,USD
+RL-000404,PR-2026-000404,1,Synthetic Access-control reader,Facilities,23,each,285.23,6560.29,USD
+RL-000405,PR-2026-000405,1,Synthetic Ergonomic chair,Office Supplies,35,each,79.93,2797.55,USD
+RL-000406,PR-2026-000406,1,Synthetic Audit support,Professional Services,20,each,217.55,4351.0,USD
+RL-000407,PR-2026-000407,1,Synthetic Printer paper,Office Supplies,22,each,118.48,2606.56,USD
+RL-000408,PR-2026-000408,1,Synthetic LED fixture,Facilities,51,each,416.51,21242.01,USD
+RL-000409,PR-2026-000409,1,Synthetic Security license,Software,47,each,211.31,9931.57,USD
+RL-000410,PR-2026-000410,1,Synthetic Air filter,Facilities,27,each,324.59,8763.93,USD
+RL-000411,PR-2026-000411,1,Synthetic Analytics license,Software,26,each,68.02,1768.52,USD
+RL-000412,PR-2026-000412,1,Synthetic Ergonomic chair,Office Supplies,8,each,245.44,1963.52,USD
+RL-000413,PR-2026-000413,1,Synthetic Network switch,IT Hardware,35,each,223.33,7816.55,USD
+RL-000414,PR-2026-000414,1,Synthetic Implementation services,Professional Services,47,each,151.32,7112.04,USD
+RL-000415,PR-2026-000415,1,Synthetic Network switch,IT Hardware,49,each,341.64,16740.36,USD
+RL-000416,PR-2026-000416,1,Synthetic Analytics license,Software,10,each,68.01,680.1,USD
+RL-000417,PR-2026-000417,1,Synthetic Design license,Software,60,each,378.66,22719.6,USD
+RL-000418,PR-2026-000418,1,Synthetic Implementation services,Professional Services,50,each,440.57,22028.5,USD
+RL-000419,PR-2026-000419,1,Synthetic Workstation,IT Hardware,16,each,289.27,4628.32,USD
+RL-000420,PR-2026-000420,1,Synthetic Implementation services,Professional Services,28,each,159.19,4457.32,USD
+RL-000421,PR-2026-000421,1,Synthetic Audit support,Professional Services,17,each,406.22,6905.74,USD
+RL-000422,PR-2026-000422,1,Synthetic Workstation,IT Hardware,15,each,90.53,1357.95,USD
+RL-000423,PR-2026-000423,1,Synthetic Design license,Software,39,each,271.0,10569.0,USD
+RL-000424,PR-2026-000424,1,Synthetic Audit support,Professional Services,51,each,428.69,21863.19,USD
+RL-000425,PR-2026-000425,1,Synthetic First-aid station,Safety Equipment,51,each,444.44,22666.44,USD
+RL-000426,PR-2026-000426,1,Synthetic Analytics license,Software,21,each,308.35,6475.35,USD
+RL-000427,PR-2026-000427,1,Synthetic First-aid station,Safety Equipment,31,each,310.68,9631.08,USD
+RL-000428,PR-2026-000428,1,Synthetic Ergonomic chair,Office Supplies,29,each,72.34,2097.86,USD
+RL-000429,PR-2026-000429,1,Synthetic Filing cabinet,Office Supplies,11,each,145.87,1604.57,USD
+RL-000430,PR-2026-000430,1,Synthetic Analytics license,Software,56,each,109.21,6115.76,USD
+RL-000431,PR-2026-000431,1,Synthetic Monitor,IT Hardware,23,each,355.49,8176.27,USD
+RL-000432,PR-2026-000432,1,Synthetic Workstation,IT Hardware,21,each,409.44,8598.24,USD
+RL-000433,PR-2026-000433,1,Synthetic Air filter,Facilities,43,each,234.28,10074.04,USD
+RL-000434,PR-2026-000434,1,Synthetic LED fixture,Facilities,8,each,327.3,2618.4,USD
+RL-000435,PR-2026-000435,1,Synthetic Network switch,IT Hardware,55,each,244.81,13464.55,USD
+RL-000436,PR-2026-000436,1,Synthetic Ergonomic chair,Office Supplies,56,each,182.03,10193.68,USD
+RL-000437,PR-2026-000437,1,Synthetic Audit support,Professional Services,8,each,364.22,2913.76,USD
+RL-000438,PR-2026-000438,1,Synthetic Air filter,Facilities,50,each,241.05,12052.5,USD
+RL-000439,PR-2026-000439,1,Synthetic Printer paper,Office Supplies,28,each,99.01,2772.28,USD
+RL-000440,PR-2026-000440,1,Synthetic Safety monitor,Safety Equipment,22,each,338.56,7448.32,USD
+RL-000441,PR-2026-000441,1,Synthetic First-aid station,Safety Equipment,26,each,67.53,1755.78,USD
+RL-000442,PR-2026-000442,1,Synthetic LED fixture,Facilities,10,each,383.45,3834.5,USD
+RL-000443,PR-2026-000443,1,Synthetic Printer paper,Office Supplies,9,each,155.83,1402.47,USD
+RL-000444,PR-2026-000444,1,Synthetic Ergonomic chair,Office Supplies,22,each,120.77,2656.94,USD
+RL-000445,PR-2026-000445,1,Synthetic Workstation,IT Hardware,32,each,296.18,9477.76,USD
+RL-000446,PR-2026-000446,1,Synthetic First-aid station,Safety Equipment,19,each,82.53,1568.07,USD
+RL-000447,PR-2026-000447,1,Synthetic First-aid station,Safety Equipment,38,each,369.82,14053.16,USD
+RL-000448,PR-2026-000448,1,Synthetic Air filter,Facilities,20,each,437.55,8751.0,USD
+RL-000449,PR-2026-000449,1,Synthetic Security license,Software,14,each,238.55,3339.7,USD
+RL-000450,PR-2026-000450,1,Synthetic Workstation,IT Hardware,10,each,44.44,444.4,USD
+RL-000451,PR-2026-000451,1,Synthetic Design license,Software,42,each,298.94,12555.48,USD
+RL-000452,PR-2026-000452,1,Synthetic Design license,Software,19,each,98.85,1878.15,USD
+RL-000453,PR-2026-000453,1,Synthetic Air filter,Facilities,31,each,346.01,10726.31,USD
+RL-000454,PR-2026-000454,1,Synthetic Analytics license,Software,27,each,364.28,9835.56,USD
+RL-000455,PR-2026-000455,1,Synthetic Monitor,IT Hardware,50,each,46.68,2334.0,USD
+RL-000456,PR-2026-000456,1,Synthetic Workstation,IT Hardware,32,each,329.47,10543.04,USD
+RL-000457,PR-2026-000457,1,Synthetic Implementation services,Professional Services,31,each,414.11,12837.41,USD
+RL-000458,PR-2026-000458,1,Synthetic Filing cabinet,Office Supplies,35,each,209.7,7339.5,USD
+RL-000459,PR-2026-000459,1,Synthetic Implementation services,Professional Services,27,each,83.17,2245.59,USD
+RL-000460,PR-2026-000460,1,Synthetic First-aid station,Safety Equipment,13,each,332.45,4321.85,USD
+RL-000461,PR-2026-000461,1,Synthetic Analytics license,Software,19,each,300.05,5700.95,USD
+RL-000462,PR-2026-000462,1,Synthetic Protective kit,Safety Equipment,59,each,208.68,12312.12,USD
+RL-000463,PR-2026-000463,1,Synthetic Design license,Software,60,each,396.92,23815.2,USD
+RL-000464,PR-2026-000464,1,Synthetic Security license,Software,11,each,443.26,4875.86,USD
+RL-000465,PR-2026-000465,1,Synthetic Implementation services,Professional Services,34,each,342.64,11649.76,USD
+RL-000466,PR-2026-000466,1,Synthetic Safety monitor,Safety Equipment,35,each,141.7,4959.5,USD
+RL-000467,PR-2026-000467,1,Synthetic Analytics license,Software,43,each,165.55,7118.65,USD
+RL-000468,PR-2026-000468,1,Synthetic Implementation services,Professional Services,50,each,296.58,14829.0,USD
+RL-000469,PR-2026-000469,1,Synthetic Design license,Software,58,each,297.2,17237.6,USD
+RL-000470,PR-2026-000470,1,Synthetic Network switch,IT Hardware,28,each,95.51,2674.28,USD
+RL-000471,PR-2026-000471,1,Synthetic Ergonomic chair,Office Supplies,17,each,275.66,4686.22,USD
+RL-000472,PR-2026-000472,1,Synthetic Printer paper,Office Supplies,10,each,207.66,2076.6,USD
+RL-000473,PR-2026-000473,1,Synthetic Design license,Software,14,each,274.95,3849.3,USD
+RL-000474,PR-2026-000474,1,Synthetic Workstation,IT Hardware,42,each,37.78,1586.76,USD
+RL-000475,PR-2026-000475,1,Synthetic Network switch,IT Hardware,26,each,376.13,9779.38,USD
+RL-000476,PR-2026-000476,1,Synthetic Access-control reader,Facilities,25,each,310.95,7773.75,USD
+RL-000477,PR-2026-000477,1,Synthetic Audit support,Professional Services,57,each,82.92,4726.44,USD
+RL-000478,PR-2026-000478,1,Synthetic Audit support,Professional Services,42,each,225.92,9488.64,USD
+RL-000479,PR-2026-000479,1,Synthetic Printer paper,Office Supplies,12,each,410.0,4920.0,USD
+RL-000480,PR-2026-000480,1,Synthetic Filing cabinet,Office Supplies,29,each,85.99,2493.71,USD
+RL-000481,PR-2026-000481,1,Synthetic Analytics license,Software,19,each,418.85,7958.15,USD
+RL-000482,PR-2026-000482,1,Synthetic Laptop,IT Hardware,8,each,147.02,1176.16,USD
+RL-000483,PR-2026-000483,1,Synthetic Protective kit,Safety Equipment,9,each,236.05,2124.45,USD
+RL-000484,PR-2026-000484,1,Synthetic Design license,Software,48,each,354.1,16996.8,USD
+RL-000485,PR-2026-000485,1,Synthetic Security license,Software,58,each,309.72,17963.76,USD
+RL-000486,PR-2026-000486,1,Synthetic Audit support,Professional Services,50,each,398.9,19945.0,USD
+RL-000487,PR-2026-000487,1,Synthetic Security license,Software,53,each,387.56,20540.68,USD
+RL-000488,PR-2026-000488,1,Synthetic Design license,Software,58,each,109.33,6341.14,USD
+RL-000489,PR-2026-000489,1,Synthetic Access-control reader,Facilities,25,each,67.5,1687.5,USD
+RL-000490,PR-2026-000490,1,Synthetic Ergonomic chair,Office Supplies,60,each,302.67,18160.2,USD
+RL-000491,PR-2026-000491,1,Synthetic Laptop,IT Hardware,11,each,433.64,4770.04,USD
+RL-000492,PR-2026-000492,1,Synthetic Ergonomic chair,Office Supplies,37,each,294.46,10895.02,USD
+RL-000493,PR-2026-000493,1,Synthetic Printer paper,Office Supplies,23,each,418.43,9623.89,USD
+RL-000494,PR-2026-000494,1,Synthetic Monitor,IT Hardware,19,each,383.35,7283.65,USD
+RL-000495,PR-2026-000495,1,Synthetic Security license,Software,53,each,88.21,4675.13,USD
+RL-000496,PR-2026-000496,1,Synthetic LED fixture,Facilities,38,each,379.91,14436.58,USD
+RL-000497,PR-2026-000497,1,Synthetic Monitor,IT Hardware,9,each,52.15,469.35,USD
+RL-000498,PR-2026-000498,1,Synthetic Air filter,Facilities,37,each,277.17,10255.29,USD
+RL-000499,PR-2026-000499,1,Synthetic Design license,Software,26,each,250.55,6514.3,USD
+RL-000500,PR-2026-000500,1,Synthetic Printer paper,Office Supplies,44,each,50.74,2232.56,USD
+RL-000501,PR-2026-000501,1,Synthetic Monitor,IT Hardware,11,each,138.18,1519.98,USD
+RL-000502,PR-2026-000502,1,Synthetic Access-control reader,Facilities,35,each,41.39,1448.65,USD
+RL-000503,PR-2026-000503,1,Synthetic Implementation services,Professional Services,27,each,61.84,1669.68,USD
+RL-000504,PR-2026-000504,1,Synthetic LED fixture,Facilities,26,each,118.17,3072.42,USD
+RL-000505,PR-2026-000505,1,Synthetic Air filter,Facilities,29,each,400.33,11609.57,USD
+RL-000506,PR-2026-000506,1,Synthetic Analytics license,Software,18,each,400.01,7200.18,USD
+RL-000507,PR-2026-000507,1,Synthetic Design license,Software,51,each,144.12,7350.12,USD
+RL-000508,PR-2026-000508,1,Synthetic Audit support,Professional Services,25,each,194.65,4866.25,USD
+RL-000509,PR-2026-000509,1,Synthetic Implementation services,Professional Services,17,each,430.73,7322.41,USD
+RL-000510,PR-2026-000510,1,Synthetic Analytics license,Software,45,each,277.55,12489.75,USD
+RL-000511,PR-2026-000511,1,Synthetic Ergonomic chair,Office Supplies,57,each,211.79,12072.03,USD
+RL-000512,PR-2026-000512,1,Synthetic LED fixture,Facilities,46,each,352.78,16227.88,USD
+RL-000513,PR-2026-000513,1,Synthetic First-aid station,Safety Equipment,31,each,143.52,4449.12,USD
+RL-000514,PR-2026-000514,1,Synthetic Air filter,Facilities,39,each,223.7,8724.3,USD
+RL-000515,PR-2026-000515,1,Synthetic Air filter,Facilities,22,each,171.59,3774.98,USD
+RL-000516,PR-2026-000516,1,Synthetic Audit support,Professional Services,16,each,325.02,5200.32,USD
+RL-000517,PR-2026-000517,1,Synthetic Monitor,IT Hardware,33,each,191.15,6307.95,USD
+RL-000518,PR-2026-000518,1,Synthetic Analytics license,Software,22,each,259.92,5718.24,USD
+RL-000519,PR-2026-000519,1,Synthetic Air filter,Facilities,53,each,338.4,17935.2,USD
+RL-000520,PR-2026-000520,1,Synthetic Air filter,Facilities,57,each,428.79,24441.03,USD
+RL-000521,PR-2026-000521,1,Synthetic Monitor,IT Hardware,47,each,421.55,19812.85,USD
+RL-000522,PR-2026-000522,1,Synthetic Access-control reader,Facilities,21,each,310.18,6513.78,USD
+RL-000523,PR-2026-000523,1,Synthetic Air filter,Facilities,43,each,294.43,12660.49,USD
+RL-000524,PR-2026-000524,1,Synthetic Safety monitor,Safety Equipment,25,each,218.94,5473.5,USD
+RL-000525,PR-2026-000525,1,Synthetic Monitor,IT Hardware,26,each,82.29,2139.54,USD
+RL-000526,PR-2026-000526,1,Synthetic Security license,Software,49,each,412.73,20223.77,USD
+RL-000527,PR-2026-000527,1,Synthetic Security license,Software,11,each,442.03,4862.33,USD
+RL-000528,PR-2026-000528,1,Synthetic Design license,Software,42,each,131.64,5528.88,USD
+RL-000529,PR-2026-000529,1,Synthetic Analytics license,Software,60,each,44.15,2649.0,USD
+RL-000530,PR-2026-000530,1,Synthetic Air filter,Facilities,51,each,302.54,15429.54,USD
+RL-000531,PR-2026-000531,1,Synthetic Monitor,IT Hardware,30,each,368.54,11056.2,USD
+RL-000532,PR-2026-000532,1,Synthetic LED fixture,Facilities,39,each,168.2,6559.8,USD
+RL-000533,PR-2026-000533,1,Synthetic LED fixture,Facilities,32,each,165.19,5286.08,USD
+RL-000534,PR-2026-000534,1,Synthetic Laptop,IT Hardware,31,each,236.45,7329.95,USD
+RL-000535,PR-2026-000535,1,Synthetic Analytics license,Software,60,each,320.52,19231.2,USD
+RL-000536,PR-2026-000536,1,Synthetic Security license,Software,25,each,168.56,4214.0,USD
+RL-000537,PR-2026-000537,1,Synthetic Workstation,IT Hardware,35,each,202.26,7079.1,USD
+RL-000538,PR-2026-000538,1,Synthetic Design license,Software,53,each,353.21,18720.13,USD
+RL-000539,PR-2026-000539,1,Synthetic Monitor,IT Hardware,17,each,213.78,3634.26,USD
+RL-000540,PR-2026-000540,1,Synthetic Filing cabinet,Office Supplies,55,each,320.33,17618.15,USD
+RL-000541,PR-2026-000541,1,Synthetic Security license,Software,28,each,446.28,12495.84,USD
+RL-000542,PR-2026-000542,1,Synthetic Filing cabinet,Office Supplies,56,each,230.89,12929.84,USD
+RL-000543,PR-2026-000543,1,Synthetic Design license,Software,58,each,379.07,21986.06,USD
+RL-000544,PR-2026-000544,1,Synthetic Design license,Software,8,each,313.42,2507.36,USD
+RL-000545,PR-2026-000545,1,Synthetic Audit support,Professional Services,58,each,216.57,12561.06,USD
+RL-000546,PR-2026-000546,1,Synthetic Monitor,IT Hardware,55,each,238.65,13125.75,USD
+RL-000547,PR-2026-000547,1,Synthetic Analytics license,Software,37,each,273.08,10103.96,USD
+RL-000548,PR-2026-000548,1,Synthetic Access-control reader,Facilities,33,each,118.9,3923.7,USD
+RL-000549,PR-2026-000549,1,Synthetic Filing cabinet,Office Supplies,31,each,371.66,11521.46,USD
+RL-000550,PR-2026-000550,1,Synthetic Security license,Software,44,each,384.89,16935.16,USD
+RL-000551,PR-2026-000551,1,Synthetic Implementation services,Professional Services,24,each,113.7,2728.8,USD
+RL-000552,PR-2026-000552,1,Synthetic Filing cabinet,Office Supplies,33,each,162.05,5347.65,USD
+RL-000553,PR-2026-000553,1,Synthetic Air filter,Facilities,36,each,71.24,2564.64,USD
+RL-000554,PR-2026-000554,1,Synthetic Air filter,Facilities,58,each,414.44,24037.52,USD
+RL-000555,PR-2026-000555,1,Synthetic Protective kit,Safety Equipment,31,each,252.21,7818.51,USD
+RL-000556,PR-2026-000556,1,Synthetic Safety monitor,Safety Equipment,10,each,296.73,2967.3,USD
+RL-000557,PR-2026-000557,1,Synthetic Audit support,Professional Services,44,each,235.54,10363.76,USD
+RL-000558,PR-2026-000558,1,Synthetic Ergonomic chair,Office Supplies,26,each,255.85,6652.1,USD
+RL-000559,PR-2026-000559,1,Synthetic Printer paper,Office Supplies,28,each,196.75,5509.0,USD
+RL-000560,PR-2026-000560,1,Synthetic Filing cabinet,Office Supplies,54,each,90.94,4910.76,USD
+RL-000561,PR-2026-000561,1,Synthetic Security license,Software,36,each,85.72,3085.92,USD
+RL-000562,PR-2026-000562,1,Synthetic Implementation services,Professional Services,17,each,143.57,2440.69,USD
+RL-000563,PR-2026-000563,1,Synthetic First-aid station,Safety Equipment,28,each,97.87,2740.36,USD
+RL-000564,PR-2026-000564,1,Synthetic Filing cabinet,Office Supplies,19,each,189.8,3606.2,USD
+RL-000565,PR-2026-000565,1,Synthetic LED fixture,Facilities,11,each,295.91,3255.01,USD
+RL-000566,PR-2026-000566,1,Synthetic Printer paper,Office Supplies,50,each,370.51,18525.5,USD
+RL-000567,PR-2026-000567,1,Synthetic Printer paper,Office Supplies,43,each,105.47,4535.21,USD
+RL-000568,PR-2026-000568,1,Synthetic Monitor,IT Hardware,47,each,216.67,10183.49,USD
+RL-000569,PR-2026-000569,1,Synthetic Safety monitor,Safety Equipment,17,each,167.17,2841.89,USD
+RL-000570,PR-2026-000570,1,Synthetic Analytics license,Software,16,each,183.57,2937.12,USD
+RL-000571,PR-2026-000571,1,Synthetic Implementation services,Professional Services,49,each,52.93,2593.57,USD
+RL-000572,PR-2026-000572,1,Synthetic Ergonomic chair,Office Supplies,40,each,111.26,4450.4,USD
+RL-000573,PR-2026-000573,1,Synthetic Safety monitor,Safety Equipment,35,each,321.6,11256.0,USD
+RL-000574,PR-2026-000574,1,Synthetic LED fixture,Facilities,38,each,153.06,5816.28,USD
+RL-000575,PR-2026-000575,1,Synthetic Network switch,IT Hardware,44,each,68.47,3012.68,USD
+RL-000576,PR-2026-000576,1,Synthetic Implementation services,Professional Services,51,each,102.8,5242.8,USD
+RL-000577,PR-2026-000577,1,Synthetic Implementation services,Professional Services,45,each,147.23,6625.35,USD
+RL-000578,PR-2026-000578,1,Synthetic Workstation,IT Hardware,49,each,332.04,16269.96,USD
+RL-000579,PR-2026-000579,1,Synthetic Air filter,Facilities,30,each,444.16,13324.8,USD
+RL-000580,PR-2026-000580,1,Synthetic Ergonomic chair,Office Supplies,41,each,399.93,16397.13,USD
+RL-000581,PR-2026-000581,1,Synthetic Design license,Software,55,each,169.0,9295.0,USD
+RL-000582,PR-2026-000582,1,Synthetic Air filter,Facilities,40,each,313.19,12527.6,USD
+RL-000583,PR-2026-000583,1,Synthetic Safety monitor,Safety Equipment,44,each,115.69,5090.36,USD
+RL-000584,PR-2026-000584,1,Synthetic Protective kit,Safety Equipment,12,each,76.18,914.16,USD
+RL-000585,PR-2026-000585,1,Synthetic Filing cabinet,Office Supplies,47,each,314.53,14782.91,USD
+RL-000586,PR-2026-000586,1,Synthetic Laptop,IT Hardware,39,each,183.91,7172.49,USD
+RL-000587,PR-2026-000587,1,Synthetic Protective kit,Safety Equipment,40,each,417.46,16698.4,USD
+RL-000588,PR-2026-000588,1,Synthetic Analytics license,Software,9,each,362.4,3261.6,USD
+RL-000589,PR-2026-000589,1,Synthetic Laptop,IT Hardware,47,each,86.19,4050.93,USD
+RL-000590,PR-2026-000590,1,Synthetic Printer paper,Office Supplies,34,each,331.85,11282.9,USD
+RL-000591,PR-2026-000591,1,Synthetic Implementation services,Professional Services,44,each,67.26,2959.44,USD
+RL-000592,PR-2026-000592,1,Synthetic LED fixture,Facilities,13,each,135.33,1759.29,USD
+RL-000593,PR-2026-000593,1,Synthetic Audit support,Professional Services,22,each,140.27,3085.94,USD
+RL-000594,PR-2026-000594,1,Synthetic Security license,Software,56,each,283.52,15877.12,USD
+RL-000595,PR-2026-000595,1,Synthetic Audit support,Professional Services,36,each,138.3,4978.8,USD
+RL-000596,PR-2026-000596,1,Synthetic Monitor,IT Hardware,11,each,261.58,2877.38,USD
+RL-000597,PR-2026-000597,1,Synthetic Implementation services,Professional Services,58,each,396.71,23009.18,USD
+RL-000598,PR-2026-000598,1,Synthetic Filing cabinet,Office Supplies,33,each,105.22,3472.26,USD
+RL-000599,PR-2026-000599,1,Synthetic Implementation services,Professional Services,47,each,203.18,9549.46,USD
+RL-000600,PR-2026-000600,1,Synthetic Safety monitor,Safety Equipment,20,each,147.68,2953.6,USD
+RL-000601,PR-2026-000601,1,Synthetic Ergonomic chair,Office Supplies,37,each,122.41,4529.17,USD
+RL-000602,PR-2026-000602,1,Synthetic Analytics license,Software,47,each,403.02,18941.94,USD
+RL-000603,PR-2026-000603,1,Synthetic LED fixture,Facilities,54,each,384.8,20779.2,USD
+RL-000604,PR-2026-000604,1,Synthetic Security license,Software,12,each,382.5,4590.0,USD
+RL-000605,PR-2026-000605,1,Synthetic Analytics license,Software,25,each,419.37,10484.25,USD
+RL-000606,PR-2026-000606,1,Synthetic Protective kit,Safety Equipment,19,each,394.68,7498.92,USD
+RL-000607,PR-2026-000607,1,Synthetic Implementation services,Professional Services,20,each,434.39,8687.8,USD
+RL-000608,PR-2026-000608,1,Synthetic Access-control reader,Facilities,43,each,96.66,4156.38,USD
+RL-000609,PR-2026-000609,1,Synthetic Network switch,IT Hardware,17,each,54.55,927.35,USD
+RL-000610,PR-2026-000610,1,Synthetic Security license,Software,31,each,111.26,3449.06,USD
+RL-000611,PR-2026-000611,1,Synthetic Network switch,IT Hardware,19,each,193.31,3672.89,USD
+RL-000612,PR-2026-000612,1,Synthetic LED fixture,Facilities,41,each,218.11,8942.51,USD
+RL-000613,PR-2026-000613,1,Synthetic Audit support,Professional Services,11,each,221.21,2433.31,USD
+RL-000614,PR-2026-000614,1,Synthetic Printer paper,Office Supplies,28,each,63.17,1768.76,USD
+RL-000615,PR-2026-000615,1,Synthetic Protective kit,Safety Equipment,19,each,316.36,6010.84,USD
+RL-000616,PR-2026-000616,1,Synthetic Network switch,IT Hardware,32,each,438.14,14020.48,USD
+RL-000617,PR-2026-000617,1,Synthetic Workstation,IT Hardware,16,each,182.21,2915.36,USD
+RL-000618,PR-2026-000618,1,Synthetic Air filter,Facilities,52,each,279.71,14544.92,USD
+RL-000619,PR-2026-000619,1,Synthetic Filing cabinet,Office Supplies,28,each,247.04,6917.12,USD
+RL-000620,PR-2026-000620,1,Synthetic Network switch,IT Hardware,26,each,178.89,4651.14,USD
+RL-000621,PR-2026-000621,1,Synthetic Monitor,IT Hardware,22,each,425.0,9350.0,USD
+RL-000622,PR-2026-000622,1,Synthetic Monitor,IT Hardware,12,each,198.7,2384.4,USD
+RL-000623,PR-2026-000623,1,Synthetic Analytics license,Software,50,each,280.51,14025.5,USD
+RL-000624,PR-2026-000624,1,Synthetic First-aid station,Safety Equipment,54,each,178.78,9654.12,USD
+RL-000625,PR-2026-000625,1,Synthetic First-aid station,Safety Equipment,57,each,241.83,13784.31,USD
+RL-000626,PR-2026-000626,1,Synthetic Audit support,Professional Services,25,each,51.35,1283.75,USD
+RL-000627,PR-2026-000627,1,Synthetic Implementation services,Professional Services,21,each,357.83,7514.43,USD
+RL-000628,PR-2026-000628,1,Synthetic Security license,Software,46,each,353.27,16250.42,USD
+RL-000629,PR-2026-000629,1,Synthetic Network switch,IT Hardware,58,each,106.5,6177.0,USD
+RL-000630,PR-2026-000630,1,Synthetic Protective kit,Safety Equipment,37,each,276.61,10234.57,USD
+RL-000631,PR-2026-000631,1,Synthetic Protective kit,Safety Equipment,30,each,191.8,5754.0,USD
+RL-000632,PR-2026-000632,1,Synthetic Protective kit,Safety Equipment,28,each,427.39,11966.92,USD
+RL-000633,PR-2026-000633,1,Synthetic Air filter,Facilities,50,each,183.36,9168.0,USD
+RL-000634,PR-2026-000634,1,Synthetic Security license,Software,19,each,160.77,3054.63,USD
+RL-000635,PR-2026-000635,1,Synthetic Implementation services,Professional Services,52,each,293.1,15241.2,USD
+RL-000636,PR-2026-000636,1,Synthetic Implementation services,Professional Services,27,each,324.8,8769.6,USD
+RL-000637,PR-2026-000637,1,Synthetic LED fixture,Facilities,59,each,310.19,18301.21,USD
+RL-000638,PR-2026-000638,1,Synthetic Implementation services,Professional Services,31,each,148.77,4611.87,USD
+RL-000639,PR-2026-000639,1,Synthetic Implementation services,Professional Services,19,each,412.99,7846.81,USD
+RL-000640,PR-2026-000640,1,Synthetic Audit support,Professional Services,8,each,245.5,1964.0,USD
+RL-000641,PR-2026-000641,1,Synthetic Analytics license,Software,10,each,349.96,3499.6,USD
+RL-000642,PR-2026-000642,1,Synthetic Laptop,IT Hardware,16,each,449.4,7190.4,USD
+RL-000643,PR-2026-000643,1,Synthetic Implementation services,Professional Services,34,each,91.44,3108.96,USD
+RL-000644,PR-2026-000644,1,Synthetic Security license,Software,8,each,365.11,2920.88,USD
+RL-000645,PR-2026-000645,1,Synthetic Audit support,Professional Services,35,each,281.48,9851.8,USD
+RL-000646,PR-2026-000646,1,Synthetic Protective kit,Safety Equipment,27,each,425.65,11492.55,USD
+RL-000647,PR-2026-000647,1,Synthetic First-aid station,Safety Equipment,30,each,321.79,9653.7,USD
+RL-000648,PR-2026-000648,1,Synthetic Protective kit,Safety Equipment,21,each,190.25,3995.25,USD
+RL-000649,PR-2026-000649,1,Synthetic Audit support,Professional Services,43,each,415.93,17884.99,USD
+RL-000650,PR-2026-000650,1,Synthetic Audit support,Professional Services,52,each,316.17,16440.84,USD
+RL-000651,PR-2026-000651,1,Synthetic Printer paper,Office Supplies,40,each,375.98,15039.2,USD
+RL-000652,PR-2026-000652,1,Synthetic Workstation,IT Hardware,9,each,235.39,2118.51,USD
+RL-000653,PR-2026-000653,1,Synthetic Ergonomic chair,Office Supplies,40,each,196.66,7866.4,USD
+RL-000654,PR-2026-000654,1,Synthetic Workstation,IT Hardware,50,each,194.7,9735.0,USD
+RL-000655,PR-2026-000655,1,Synthetic Network switch,IT Hardware,43,each,164.26,7063.18,USD
+RL-000656,PR-2026-000656,1,Synthetic Safety monitor,Safety Equipment,40,each,139.16,5566.4,USD
+RL-000657,PR-2026-000657,1,Synthetic Workstation,IT Hardware,17,each,62.19,1057.23,USD
+RL-000658,PR-2026-000658,1,Synthetic Printer paper,Office Supplies,23,each,140.47,3230.81,USD
+RL-000659,PR-2026-000659,1,Synthetic Printer paper,Office Supplies,49,each,63.7,3121.3,USD
+RL-000660,PR-2026-000660,1,Synthetic Filing cabinet,Office Supplies,38,each,284.31,10803.78,USD
+RL-000661,PR-2026-000661,1,Synthetic Audit support,Professional Services,55,each,64.18,3529.9,USD
+RL-000662,PR-2026-000662,1,Synthetic Audit support,Professional Services,37,each,447.93,16573.41,USD
+RL-000663,PR-2026-000663,1,Synthetic Safety monitor,Safety Equipment,8,each,131.27,1050.16,USD
+RL-000664,PR-2026-000664,1,Synthetic Laptop,IT Hardware,17,each,177.34,3014.78,USD
+RL-000665,PR-2026-000665,1,Synthetic Ergonomic chair,Office Supplies,33,each,305.57,10083.81,USD
+RL-000666,PR-2026-000666,1,Synthetic LED fixture,Facilities,32,each,115.68,3701.76,USD
+RL-000667,PR-2026-000667,1,Synthetic Safety monitor,Safety Equipment,20,each,118.18,2363.6,USD
+RL-000668,PR-2026-000668,1,Synthetic Audit support,Professional Services,20,each,443.99,8879.8,USD
+RL-000669,PR-2026-000669,1,Synthetic Access-control reader,Facilities,56,each,292.76,16394.56,USD
+RL-000670,PR-2026-000670,1,Synthetic Implementation services,Professional Services,57,each,172.35,9823.95,USD
+RL-000671,PR-2026-000671,1,Synthetic Audit support,Professional Services,60,each,235.98,14158.8,USD
+RL-000672,PR-2026-000672,1,Synthetic Audit support,Professional Services,35,each,42.99,1504.65,USD
+RL-000673,PR-2026-000673,1,Synthetic Access-control reader,Facilities,49,each,67.26,3295.74,USD
+RL-000674,PR-2026-000674,1,Synthetic Design license,Software,18,each,408.3,7349.4,USD
+RL-000675,PR-2026-000675,1,Synthetic Access-control reader,Facilities,38,each,327.69,12452.22,USD
+RL-000676,PR-2026-000676,1,Synthetic Access-control reader,Facilities,24,each,415.29,9966.96,USD
+RL-000677,PR-2026-000677,1,Synthetic Laptop,IT Hardware,20,each,304.49,6089.8,USD
+RL-000678,PR-2026-000678,1,Synthetic Implementation services,Professional Services,49,each,43.68,2140.32,USD
+RL-000679,PR-2026-000679,1,Synthetic Analytics license,Software,60,each,164.25,9855.0,USD
+RL-000680,PR-2026-000680,1,Synthetic Security license,Software,24,each,362.35,8696.4,USD
+RL-000681,PR-2026-000681,1,Synthetic Air filter,Facilities,59,each,394.11,23252.49,USD
+RL-000682,PR-2026-000682,1,Synthetic Access-control reader,Facilities,54,each,435.15,23498.1,USD
+RL-000683,PR-2026-000683,1,Synthetic Implementation services,Professional Services,25,each,220.52,5513.0,USD
+RL-000684,PR-2026-000684,1,Synthetic Filing cabinet,Office Supplies,13,each,239.6,3114.8,USD
+RL-000685,PR-2026-000685,1,Synthetic Design license,Software,55,each,253.42,13938.1,USD
+RL-000686,PR-2026-000686,1,Synthetic Audit support,Professional Services,36,each,339.91,12236.76,USD
+RL-000687,PR-2026-000687,1,Synthetic Design license,Software,26,each,63.28,1645.28,USD
+RL-000688,PR-2026-000688,1,Synthetic Air filter,Facilities,60,each,269.18,16150.8,USD
+RL-000689,PR-2026-000689,1,Synthetic Workstation,IT Hardware,35,each,320.13,11204.55,USD
+RL-000690,PR-2026-000690,1,Synthetic Air filter,Facilities,13,each,416.96,5420.48,USD
+RL-000691,PR-2026-000691,1,Synthetic Audit support,Professional Services,52,each,387.07,20127.64,USD
+RL-000692,PR-2026-000692,1,Synthetic Air filter,Facilities,9,each,294.18,2647.62,USD
+RL-000693,PR-2026-000693,1,Synthetic Analytics license,Software,30,each,235.43,7062.9,USD
+RL-000694,PR-2026-000694,1,Synthetic Laptop,IT Hardware,58,each,43.38,2516.04,USD
+RL-000695,PR-2026-000695,1,Synthetic Safety monitor,Safety Equipment,35,each,189.49,6632.15,USD
+RL-000696,PR-2026-000696,1,Synthetic Printer paper,Office Supplies,42,each,439.12,18443.04,USD
+RL-000697,PR-2026-000697,1,Synthetic Design license,Software,43,each,106.86,4594.98,USD
+RL-000698,PR-2026-000698,1,Synthetic Analytics license,Software,31,each,256.75,7959.25,USD
+RL-000699,PR-2026-000699,1,Synthetic Safety monitor,Safety Equipment,20,each,124.99,2499.8,USD
+RL-000700,PR-2026-000700,1,Synthetic Implementation services,Professional Services,59,each,398.26,23497.34,USD
+RL-000701,PR-2026-000701,1,Synthetic Monitor,IT Hardware,28,each,206.72,5788.16,USD
+RL-000702,PR-2026-000702,1,Synthetic Filing cabinet,Office Supplies,57,each,40.36,2300.52,USD
+RL-000703,PR-2026-000703,1,Synthetic Audit support,Professional Services,12,each,196.64,2359.68,USD
+RL-000704,PR-2026-000704,1,Synthetic Workstation,IT Hardware,12,each,134.19,1610.28,USD
+RL-000705,PR-2026-000705,1,Synthetic Safety monitor,Safety Equipment,39,each,386.36,15068.04,USD
+RL-000706,PR-2026-000706,1,Synthetic Ergonomic chair,Office Supplies,42,each,277.36,11649.12,USD
+RL-000707,PR-2026-000707,1,Synthetic Filing cabinet,Office Supplies,25,each,314.56,7864.0,USD
+RL-000708,PR-2026-000708,1,Synthetic First-aid station,Safety Equipment,10,each,136.29,1362.9,USD
+RL-000709,PR-2026-000709,1,Synthetic Air filter,Facilities,40,each,302.03,12081.2,USD
+RL-000710,PR-2026-000710,1,Synthetic Monitor,IT Hardware,11,each,220.33,2423.63,USD
+RL-000711,PR-2026-000711,1,Synthetic Implementation services,Professional Services,57,each,365.05,20807.85,USD
+RL-000712,PR-2026-000712,1,Synthetic Laptop,IT Hardware,22,each,108.77,2392.94,USD
+RL-000713,PR-2026-000713,1,Synthetic Security license,Software,48,each,129.97,6238.56,USD
+RL-000714,PR-2026-000714,1,Synthetic Audit support,Professional Services,8,each,101.97,815.76,USD
+RL-000715,PR-2026-000715,1,Synthetic Workstation,IT Hardware,45,each,359.51,16177.95,USD
+RL-000716,PR-2026-000716,1,Synthetic Implementation services,Professional Services,41,each,424.98,17424.18,USD
+RL-000717,PR-2026-000717,1,Synthetic Access-control reader,Facilities,31,each,327.19,10142.89,USD
+RL-000718,PR-2026-000718,1,Synthetic LED fixture,Facilities,33,each,156.81,5174.73,USD
+RL-000719,PR-2026-000719,1,Synthetic Workstation,IT Hardware,44,each,87.53,3851.32,USD
+RL-000720,PR-2026-000720,1,Synthetic Filing cabinet,Office Supplies,47,each,371.09,17441.23,USD
+RL-000721,PR-2026-000721,1,Synthetic Implementation services,Professional Services,56,each,245.31,13737.36,USD
+RL-000722,PR-2026-000722,1,Synthetic Safety monitor,Safety Equipment,32,each,234.94,7518.08,USD
+RL-000723,PR-2026-000723,1,Synthetic Audit support,Professional Services,11,each,441.82,4860.02,USD
+RL-000724,PR-2026-000724,1,Synthetic Implementation services,Professional Services,40,each,123.22,4928.8,USD
+RL-000725,PR-2026-000725,1,Synthetic Design license,Software,18,each,356.52,6417.36,USD
+RL-000726,PR-2026-000726,1,Synthetic Printer paper,Office Supplies,34,each,248.13,8436.42,USD
+RL-000727,PR-2026-000727,1,Synthetic Implementation services,Professional Services,24,each,306.02,7344.48,USD
+RL-000728,PR-2026-000728,1,Synthetic Filing cabinet,Office Supplies,40,each,132.38,5295.2,USD
+RL-000729,PR-2026-000729,1,Synthetic Protective kit,Safety Equipment,45,each,417.21,18774.45,USD
+RL-000730,PR-2026-000730,1,Synthetic Implementation services,Professional Services,31,each,100.34,3110.54,USD
+RL-000731,PR-2026-000731,1,Synthetic First-aid station,Safety Equipment,44,each,274.19,12064.36,USD
+RL-000732,PR-2026-000732,1,Synthetic First-aid station,Safety Equipment,28,each,443.0,12404.0,USD
+RL-000733,PR-2026-000733,1,Synthetic Filing cabinet,Office Supplies,20,each,164.82,3296.4,USD
+RL-000734,PR-2026-000734,1,Synthetic Analytics license,Software,47,each,285.29,13408.63,USD
+RL-000735,PR-2026-000735,1,Synthetic First-aid station,Safety Equipment,56,each,151.77,8499.12,USD
+RL-000736,PR-2026-000736,1,Synthetic Design license,Software,39,each,351.73,13717.47,USD
+RL-000737,PR-2026-000737,1,Synthetic Safety monitor,Safety Equipment,27,each,114.06,3079.62,USD
+RL-000738,PR-2026-000738,1,Synthetic Security license,Software,52,each,94.9,4934.8,USD
+RL-000739,PR-2026-000739,1,Synthetic Design license,Software,37,each,221.73,8204.01,USD
+RL-000740,PR-2026-000740,1,Synthetic Protective kit,Safety Equipment,13,each,366.25,4761.25,USD
+RL-000741,PR-2026-000741,1,Synthetic Implementation services,Professional Services,48,each,179.27,8604.96,USD
+RL-000742,PR-2026-000742,1,Synthetic Audit support,Professional Services,32,each,256.52,8208.64,USD
+RL-000743,PR-2026-000743,1,Synthetic LED fixture,Facilities,17,each,228.72,3888.24,USD
+RL-000744,PR-2026-000744,1,Synthetic Air filter,Facilities,34,each,446.93,15195.62,USD
+RL-000745,PR-2026-000745,1,Synthetic Protective kit,Safety Equipment,17,each,240.37,4086.29,USD
+RL-000746,PR-2026-000746,1,Synthetic Network switch,IT Hardware,48,each,283.99,13631.52,USD
+RL-000747,PR-2026-000747,1,Synthetic Safety monitor,Safety Equipment,49,each,74.51,3650.99,USD
+RL-000748,PR-2026-000748,1,Synthetic LED fixture,Facilities,48,each,140.11,6725.28,USD
+RL-000749,PR-2026-000749,1,Synthetic LED fixture,Facilities,11,each,128.03,1408.33,USD
+RL-000750,PR-2026-000750,1,Synthetic LED fixture,Facilities,38,each,429.55,16322.9,USD
+RL-000751,PR-2026-000751,1,Synthetic Laptop,IT Hardware,44,each,448.53,19735.32,USD
+RL-000752,PR-2026-000752,1,Synthetic Audit support,Professional Services,20,each,228.53,4570.6,USD
+RL-000753,PR-2026-000753,1,Synthetic Monitor,IT Hardware,20,each,232.74,4654.8,USD
+RL-000754,PR-2026-000754,1,Synthetic Workstation,IT Hardware,21,each,389.15,8172.15,USD
+RL-000755,PR-2026-000755,1,Synthetic Filing cabinet,Office Supplies,43,each,269.77,11600.11,USD
+RL-000756,PR-2026-000756,1,Synthetic Network switch,IT Hardware,14,each,169.7,2375.8,USD
+RL-000757,PR-2026-000757,1,Synthetic LED fixture,Facilities,9,each,292.54,2632.86,USD
+RL-000758,PR-2026-000758,1,Synthetic Printer paper,Office Supplies,40,each,52.78,2111.2,USD
+RL-000759,PR-2026-000759,1,Synthetic Implementation services,Professional Services,58,each,110.89,6431.62,USD
+RL-000760,PR-2026-000760,1,Synthetic LED fixture,Facilities,59,each,331.91,19582.69,USD
+RL-000761,PR-2026-000761,1,Synthetic Safety monitor,Safety Equipment,16,each,189.87,3037.92,USD
+RL-000762,PR-2026-000762,1,Synthetic Filing cabinet,Office Supplies,27,each,300.01,8100.27,USD
+RL-000763,PR-2026-000763,1,Synthetic Access-control reader,Facilities,43,each,59.08,2540.44,USD
+RL-000764,PR-2026-000764,1,Synthetic Protective kit,Safety Equipment,39,each,90.71,3537.69,USD
+RL-000765,PR-2026-000765,1,Synthetic Ergonomic chair,Office Supplies,45,each,228.96,10303.2,USD
+RL-000766,PR-2026-000766,1,Synthetic Air filter,Facilities,39,each,74.37,2900.43,USD
+RL-000767,PR-2026-000767,1,Synthetic Audit support,Professional Services,40,each,234.43,9377.2,USD
+RL-000768,PR-2026-000768,1,Synthetic Monitor,IT Hardware,40,each,222.03,8881.2,USD
+RL-000769,PR-2026-000769,1,Synthetic Implementation services,Professional Services,26,each,300.59,7815.34,USD
+RL-000770,PR-2026-000770,1,Synthetic First-aid station,Safety Equipment,35,each,242.01,8470.35,USD
+RL-000771,PR-2026-000771,1,Synthetic Audit support,Professional Services,35,each,133.91,4686.85,USD
+RL-000772,PR-2026-000772,1,Synthetic Ergonomic chair,Office Supplies,50,each,430.39,21519.5,USD
+RL-000773,PR-2026-000773,1,Synthetic Analytics license,Software,27,each,425.3,11483.1,USD
+RL-000774,PR-2026-000774,1,Synthetic LED fixture,Facilities,40,each,132.48,5299.2,USD
+RL-000775,PR-2026-000775,1,Synthetic Network switch,IT Hardware,49,each,325.32,15940.68,USD
+RL-000776,PR-2026-000776,1,Synthetic Audit support,Professional Services,55,each,89.46,4920.3,USD
+RL-000777,PR-2026-000777,1,Synthetic Ergonomic chair,Office Supplies,57,each,108.6,6190.2,USD
+RL-000778,PR-2026-000778,1,Synthetic Analytics license,Software,21,each,138.83,2915.43,USD
+RL-000779,PR-2026-000779,1,Synthetic Safety monitor,Safety Equipment,46,each,254.91,11725.86,USD
+RL-000780,PR-2026-000780,1,Synthetic Protective kit,Safety Equipment,31,each,256.41,7948.71,USD
+RL-000781,PR-2026-000781,1,Synthetic Analytics license,Software,46,each,205.3,9443.8,USD
+RL-000782,PR-2026-000782,1,Synthetic Security license,Software,41,each,381.54,15643.14,USD
+RL-000783,PR-2026-000783,1,Synthetic Monitor,IT Hardware,10,each,315.21,3152.1,USD
+RL-000784,PR-2026-000784,1,Synthetic Protective kit,Safety Equipment,35,each,292.43,10235.05,USD
+RL-000785,PR-2026-000785,1,Synthetic Analytics license,Software,39,each,40.24,1569.36,USD
+RL-000786,PR-2026-000786,1,Synthetic Ergonomic chair,Office Supplies,43,each,102.64,4413.52,USD
+RL-000787,PR-2026-000787,1,Synthetic First-aid station,Safety Equipment,44,each,214.39,9433.16,USD
+RL-000788,PR-2026-000788,1,Synthetic Monitor,IT Hardware,13,each,254.34,3306.42,USD
+RL-000789,PR-2026-000789,1,Synthetic LED fixture,Facilities,58,each,378.94,21978.52,USD
+RL-000790,PR-2026-000790,1,Synthetic Analytics license,Software,58,each,198.46,11510.68,USD
+RL-000791,PR-2026-000791,1,Synthetic Safety monitor,Safety Equipment,9,each,434.08,3906.72,USD
+RL-000792,PR-2026-000792,1,Synthetic Design license,Software,47,each,42.87,2014.89,USD
+RL-000793,PR-2026-000793,1,Synthetic Printer paper,Office Supplies,48,each,278.58,13371.84,USD
+RL-000794,PR-2026-000794,1,Synthetic Workstation,IT Hardware,16,each,233.44,3735.04,USD
+RL-000795,PR-2026-000795,1,Synthetic Analytics license,Software,48,each,90.73,4355.04,USD
+RL-000796,PR-2026-000796,1,Synthetic Safety monitor,Safety Equipment,11,each,114.89,1263.79,USD
+RL-000797,PR-2026-000797,1,Synthetic Implementation services,Professional Services,55,each,75.81,4169.55,USD
+RL-000798,PR-2026-000798,1,Synthetic Safety monitor,Safety Equipment,24,each,268.45,6442.8,USD
+RL-000799,PR-2026-000799,1,Synthetic Implementation services,Professional Services,13,each,334.45,4347.85,USD
+RL-000800,PR-2026-000800,1,Synthetic Network switch,IT Hardware,56,each,401.32,22473.92,USD
+RL-000801,PR-2026-000801,1,Synthetic Implementation services,Professional Services,34,each,248.21,8439.14,USD
+RL-000802,PR-2026-000802,1,Synthetic Monitor,IT Hardware,38,each,290.46,11037.48,USD
+RL-000803,PR-2026-000803,1,Synthetic LED fixture,Facilities,25,each,317.39,7934.75,USD
+RL-000804,PR-2026-000804,1,Synthetic Protective kit,Safety Equipment,52,each,244.77,12728.04,USD
+RL-000805,PR-2026-000805,1,Synthetic LED fixture,Facilities,40,each,246.78,9871.2,USD
+RL-000806,PR-2026-000806,1,Synthetic Workstation,IT Hardware,45,each,328.2,14769.0,USD
+RL-000807,PR-2026-000807,1,Synthetic Security license,Software,60,each,178.59,10715.4,USD
+RL-000808,PR-2026-000808,1,Synthetic Air filter,Facilities,34,each,415.81,14137.54,USD
+RL-000809,PR-2026-000809,1,Synthetic Audit support,Professional Services,9,each,261.83,2356.47,USD
+RL-000810,PR-2026-000810,1,Synthetic Audit support,Professional Services,41,each,449.82,18442.62,USD
+RL-000811,PR-2026-000811,1,Synthetic Access-control reader,Facilities,24,each,423.99,10175.76,USD
+RL-000812,PR-2026-000812,1,Synthetic Audit support,Professional Services,47,each,339.35,15949.45,USD
+RL-000813,PR-2026-000813,1,Synthetic Safety monitor,Safety Equipment,55,each,287.1,15790.5,USD
+RL-000814,PR-2026-000814,1,Synthetic Implementation services,Professional Services,10,each,214.27,2142.7,USD
+RL-000815,PR-2026-000815,1,Synthetic Network switch,IT Hardware,38,each,365.94,13905.72,USD
+RL-000816,PR-2026-000816,1,Synthetic Ergonomic chair,Office Supplies,17,each,199.67,3394.39,USD
+RL-000817,PR-2026-000817,1,Synthetic Printer paper,Office Supplies,50,each,183.62,9181.0,USD
+RL-000818,PR-2026-000818,1,Synthetic Safety monitor,Safety Equipment,12,each,390.93,4691.16,USD
+RL-000819,PR-2026-000819,1,Synthetic Analytics license,Software,13,each,174.03,2262.39,USD
+RL-000820,PR-2026-000820,1,Synthetic Access-control reader,Facilities,34,each,224.12,7620.08,USD
+RL-000821,PR-2026-000821,1,Synthetic Design license,Software,30,each,325.06,9751.8,USD
+RL-000822,PR-2026-000822,1,Synthetic Safety monitor,Safety Equipment,60,each,264.62,15877.2,USD
+RL-000823,PR-2026-000823,1,Synthetic Protective kit,Safety Equipment,51,each,382.6,19512.6,USD
+RL-000824,PR-2026-000824,1,Synthetic Monitor,IT Hardware,44,each,389.92,17156.48,USD
+RL-000825,PR-2026-000825,1,Synthetic Laptop,IT Hardware,14,each,392.69,5497.66,USD
+RL-000826,PR-2026-000826,1,Synthetic Workstation,IT Hardware,48,each,396.81,19046.88,USD
+RL-000827,PR-2026-000827,1,Synthetic Printer paper,Office Supplies,45,each,44.9,2020.5,USD
+RL-000828,PR-2026-000828,1,Synthetic Design license,Software,52,each,276.0,14352.0,USD
+RL-000829,PR-2026-000829,1,Synthetic Filing cabinet,Office Supplies,11,each,86.22,948.42,USD
+RL-000830,PR-2026-000830,1,Synthetic First-aid station,Safety Equipment,43,each,386.77,16631.11,USD
+RL-000831,PR-2026-000831,1,Synthetic Ergonomic chair,Office Supplies,33,each,267.76,8836.08,USD
+RL-000832,PR-2026-000832,1,Synthetic Ergonomic chair,Office Supplies,29,each,204.97,5944.13,USD
+RL-000833,PR-2026-000833,1,Synthetic Analytics license,Software,35,each,331.83,11614.05,USD
+RL-000834,PR-2026-000834,1,Synthetic Protective kit,Safety Equipment,15,each,342.39,5135.85,USD
+RL-000835,PR-2026-000835,1,Synthetic Workstation,IT Hardware,32,each,334.03,10688.96,USD
+RL-000836,PR-2026-000836,1,Synthetic Ergonomic chair,Office Supplies,46,each,260.79,11996.34,USD
+RL-000837,PR-2026-000837,1,Synthetic Design license,Software,13,each,276.09,3589.17,USD
+RL-000838,PR-2026-000838,1,Synthetic Implementation services,Professional Services,45,each,174.06,7832.7,USD
+RL-000839,PR-2026-000839,1,Synthetic Network switch,IT Hardware,41,each,267.93,10985.13,USD
+RL-000840,PR-2026-000840,1,Synthetic Network switch,IT Hardware,23,each,70.78,1627.94,USD
+RL-000841,PR-2026-000841,1,Synthetic Protective kit,Safety Equipment,43,each,296.38,12744.34,USD
+RL-000842,PR-2026-000842,1,Synthetic Air filter,Facilities,56,each,372.12,20838.72,USD
+RL-000843,PR-2026-000843,1,Synthetic Workstation,IT Hardware,25,each,59.2,1480.0,USD
+RL-000844,PR-2026-000844,1,Synthetic Network switch,IT Hardware,39,each,422.11,16462.29,USD
+RL-000845,PR-2026-000845,1,Synthetic LED fixture,Facilities,24,each,362.46,8699.04,USD
+RL-000846,PR-2026-000846,1,Synthetic Analytics license,Software,59,each,191.76,11313.84,USD
+RL-000847,PR-2026-000847,1,Synthetic First-aid station,Safety Equipment,51,each,362.63,18494.13,USD
+RL-000848,PR-2026-000848,1,Synthetic Monitor,IT Hardware,10,each,131.11,1311.1,USD
+RL-000849,PR-2026-000849,1,Synthetic Implementation services,Professional Services,46,each,60.19,2768.74,USD
+RL-000850,PR-2026-000850,1,Synthetic Printer paper,Office Supplies,22,each,114.22,2512.84,USD
+RL-000851,PR-2026-000851,1,Synthetic Design license,Software,10,each,442.66,4426.6,USD
+RL-000852,PR-2026-000852,1,Synthetic Audit support,Professional Services,19,each,159.42,3028.98,USD
+RL-000853,PR-2026-000853,1,Synthetic Audit support,Professional Services,52,each,77.54,4032.08,USD
+RL-000854,PR-2026-000854,1,Synthetic Laptop,IT Hardware,11,each,318.93,3508.23,USD
+RL-000855,PR-2026-000855,1,Synthetic Monitor,IT Hardware,22,each,403.5,8877.0,USD
+RL-000856,PR-2026-000856,1,Synthetic Monitor,IT Hardware,30,each,205.42,6162.6,USD
+RL-000857,PR-2026-000857,1,Synthetic Laptop,IT Hardware,31,each,292.49,9067.19,USD
+RL-000858,PR-2026-000858,1,Synthetic Ergonomic chair,Office Supplies,37,each,331.07,12249.59,USD
+RL-000859,PR-2026-000859,1,Synthetic Implementation services,Professional Services,13,each,136.05,1768.65,USD
+RL-000860,PR-2026-000860,1,Synthetic Ergonomic chair,Office Supplies,43,each,283.65,12196.95,USD
+RL-000861,PR-2026-000861,1,Synthetic Safety monitor,Safety Equipment,11,each,150.66,1657.26,USD
+RL-000862,PR-2026-000862,1,Synthetic Laptop,IT Hardware,29,each,202.62,5875.98,USD
+RL-000863,PR-2026-000863,1,Synthetic LED fixture,Facilities,50,each,280.8,14040.0,USD
+RL-000864,PR-2026-000864,1,Synthetic Filing cabinet,Office Supplies,45,each,385.57,17350.65,USD
+RL-000865,PR-2026-000865,1,Synthetic Protective kit,Safety Equipment,18,each,51.3,923.4,USD
+RL-000866,PR-2026-000866,1,Synthetic Air filter,Facilities,39,each,217.86,8496.54,USD
+RL-000867,PR-2026-000867,1,Synthetic Printer paper,Office Supplies,54,each,72.19,3898.26,USD
+RL-000868,PR-2026-000868,1,Synthetic Audit support,Professional Services,37,each,311.71,11533.27,USD
+RL-000869,PR-2026-000869,1,Synthetic Audit support,Professional Services,29,each,343.82,9970.78,USD
+RL-000870,PR-2026-000870,1,Synthetic Audit support,Professional Services,12,each,180.9,2170.8,USD
+RL-000871,PR-2026-000871,1,Synthetic Air filter,Facilities,20,each,288.13,5762.6,USD
+RL-000872,PR-2026-000872,1,Synthetic Protective kit,Safety Equipment,24,each,151.43,3634.32,USD
+RL-000873,PR-2026-000873,1,Synthetic Monitor,IT Hardware,31,each,313.48,9717.88,USD
+RL-000874,PR-2026-000874,1,Synthetic Design license,Software,49,each,114.41,5606.09,USD
+RL-000875,PR-2026-000875,1,Synthetic Ergonomic chair,Office Supplies,39,each,367.16,14319.24,USD
+RL-000876,PR-2026-000876,1,Synthetic Filing cabinet,Office Supplies,24,each,379.42,9106.08,USD
+RL-000877,PR-2026-000877,1,Synthetic Security license,Software,41,each,178.92,7335.72,USD
+RL-000878,PR-2026-000878,1,Synthetic Audit support,Professional Services,40,each,276.59,11063.6,USD
+RL-000879,PR-2026-000879,1,Synthetic Laptop,IT Hardware,25,each,342.12,8553.0,USD
+RL-000880,PR-2026-000880,1,Synthetic Analytics license,Software,57,each,197.3,11246.1,USD
+RL-000881,PR-2026-000881,1,Synthetic Protective kit,Safety Equipment,29,each,187.33,5432.57,USD
+RL-000882,PR-2026-000882,1,Synthetic Safety monitor,Safety Equipment,57,each,234.35,13357.95,USD
+RL-000883,PR-2026-000883,1,Synthetic Safety monitor,Safety Equipment,9,each,51.16,460.44,USD
+RL-000884,PR-2026-000884,1,Synthetic Workstation,IT Hardware,45,each,334.87,15069.15,USD
+RL-000885,PR-2026-000885,1,Synthetic Printer paper,Office Supplies,50,each,77.45,3872.5,USD
+RL-000886,PR-2026-000886,1,Synthetic Security license,Software,41,each,333.69,13681.29,USD
+RL-000887,PR-2026-000887,1,Synthetic First-aid station,Safety Equipment,30,each,193.46,5803.8,USD
+RL-000888,PR-2026-000888,1,Synthetic Audit support,Professional Services,36,each,169.19,6090.84,USD
+RL-000889,PR-2026-000889,1,Synthetic Printer paper,Office Supplies,28,each,60.76,1701.28,USD
+RL-000890,PR-2026-000890,1,Synthetic Filing cabinet,Office Supplies,56,each,401.76,22498.56,USD
+RL-000891,PR-2026-000891,1,Synthetic Workstation,IT Hardware,49,each,446.82,21894.18,USD
+RL-000892,PR-2026-000892,1,Synthetic Access-control reader,Facilities,49,each,210.84,10331.16,USD
+RL-000893,PR-2026-000893,1,Synthetic Audit support,Professional Services,45,each,218.0,9810.0,USD
+RL-000894,PR-2026-000894,1,Synthetic Filing cabinet,Office Supplies,8,each,430.96,3447.68,USD
+RL-000895,PR-2026-000895,1,Synthetic Ergonomic chair,Office Supplies,39,each,170.14,6635.46,USD
+RL-000896,PR-2026-000896,1,Synthetic Workstation,IT Hardware,9,each,335.6,3020.4,USD
+RL-000897,PR-2026-000897,1,Synthetic Protective kit,Safety Equipment,44,each,197.13,8673.72,USD
+RL-000898,PR-2026-000898,1,Synthetic Printer paper,Office Supplies,12,each,130.52,1566.24,USD
+RL-000899,PR-2026-000899,1,Synthetic First-aid station,Safety Equipment,13,each,335.61,4362.93,USD
+RL-000900,PR-2026-000900,1,Synthetic Implementation services,Professional Services,25,each,141.32,3533.0,USD
+RL-000901,PR-2026-000901,1,Synthetic Audit support,Professional Services,41,each,70.49,2890.09,USD
+RL-000902,PR-2026-000902,1,Synthetic Monitor,IT Hardware,33,each,418.95,13825.35,USD
+RL-000903,PR-2026-000903,1,Synthetic LED fixture,Facilities,9,each,366.9,3302.1,USD
+RL-000904,PR-2026-000904,1,Synthetic Filing cabinet,Office Supplies,55,each,243.95,13417.25,USD
+RL-000905,PR-2026-000905,1,Synthetic Implementation services,Professional Services,45,each,199.95,8997.75,USD
+RL-000906,PR-2026-000906,1,Synthetic First-aid station,Safety Equipment,46,each,292.14,13438.44,USD
+RL-000907,PR-2026-000907,1,Synthetic Design license,Software,37,each,413.11,15285.07,USD
+RL-000908,PR-2026-000908,1,Synthetic Implementation services,Professional Services,50,each,160.23,8011.5,USD
+RL-000909,PR-2026-000909,1,Synthetic Analytics license,Software,53,each,113.56,6018.68,USD
+RL-000910,PR-2026-000910,1,Synthetic Implementation services,Professional Services,22,each,328.56,7228.32,USD
+RL-000911,PR-2026-000911,1,Synthetic Safety monitor,Safety Equipment,23,each,401.51,9234.73,USD
+RL-000912,PR-2026-000912,1,Synthetic Air filter,Facilities,14,each,238.87,3344.18,USD
+RL-000913,PR-2026-000913,1,Synthetic Monitor,IT Hardware,9,each,287.84,2590.56,USD
+RL-000914,PR-2026-000914,1,Synthetic First-aid station,Safety Equipment,24,each,257.94,6190.56,USD
+RL-000915,PR-2026-000915,1,Synthetic LED fixture,Facilities,48,each,285.31,13694.88,USD
+RL-000916,PR-2026-000916,1,Synthetic Implementation services,Professional Services,49,each,249.1,12205.9,USD
+RL-000917,PR-2026-000917,1,Synthetic Ergonomic chair,Office Supplies,28,each,55.84,1563.52,USD
+RL-000918,PR-2026-000918,1,Synthetic Protective kit,Safety Equipment,46,each,422.91,19453.86,USD
+RL-000919,PR-2026-000919,1,Synthetic Laptop,IT Hardware,37,each,436.95,16167.15,USD
+RL-000920,PR-2026-000920,1,Synthetic Air filter,Facilities,9,each,53.06,477.54,USD
+RL-000921,PR-2026-000921,1,Synthetic Workstation,IT Hardware,54,each,102.93,5558.22,USD
+RL-000922,PR-2026-000922,1,Synthetic Security license,Software,25,each,298.39,7459.75,USD
+RL-000923,PR-2026-000923,1,Synthetic Workstation,IT Hardware,33,each,99.12,3270.96,USD
+RL-000924,PR-2026-000924,1,Synthetic Laptop,IT Hardware,10,each,208.61,2086.1,USD
+RL-000925,PR-2026-000925,1,Synthetic First-aid station,Safety Equipment,48,each,371.88,17850.24,USD
+RL-000926,PR-2026-000926,1,Synthetic Filing cabinet,Office Supplies,9,each,203.23,1829.07,USD
+RL-000927,PR-2026-000927,1,Synthetic Analytics license,Software,18,each,251.54,4527.72,USD
+RL-000928,PR-2026-000928,1,Synthetic Safety monitor,Safety Equipment,18,each,374.9,6748.2,USD
+RL-000929,PR-2026-000929,1,Synthetic Laptop,IT Hardware,40,each,419.73,16789.2,USD
+RL-000930,PR-2026-000930,1,Synthetic Network switch,IT Hardware,34,each,250.61,8520.74,USD
+RL-000931,PR-2026-000931,1,Synthetic Air filter,Facilities,36,each,329.36,11856.96,USD
+RL-000932,PR-2026-000932,1,Synthetic LED fixture,Facilities,19,each,319.37,6068.03,USD
+RL-000933,PR-2026-000933,1,Synthetic First-aid station,Safety Equipment,31,each,342.31,10611.61,USD
+RL-000934,PR-2026-000934,1,Synthetic Audit support,Professional Services,30,each,234.44,7033.2,USD
+RL-000935,PR-2026-000935,1,Synthetic Network switch,IT Hardware,28,each,301.08,8430.24,USD
+RL-000936,PR-2026-000936,1,Synthetic LED fixture,Facilities,37,each,163.98,6067.26,USD
+RL-000937,PR-2026-000937,1,Synthetic Ergonomic chair,Office Supplies,50,each,69.42,3471.0,USD
+RL-000938,PR-2026-000938,1,Synthetic Design license,Software,13,each,144.42,1877.46,USD
+RL-000939,PR-2026-000939,1,Synthetic Air filter,Facilities,50,each,105.88,5294.0,USD
+RL-000940,PR-2026-000940,1,Synthetic Implementation services,Professional Services,55,each,384.94,21171.7,USD
+RL-000941,PR-2026-000941,1,Synthetic Workstation,IT Hardware,16,each,126.14,2018.24,USD
+RL-000942,PR-2026-000942,1,Synthetic Air filter,Facilities,31,each,227.94,7066.14,USD
+RL-000943,PR-2026-000943,1,Synthetic Security license,Software,57,each,244.23,13921.11,USD
+RL-000944,PR-2026-000944,1,Synthetic Protective kit,Safety Equipment,37,each,262.32,9705.84,USD
+RL-000945,PR-2026-000945,1,Synthetic Analytics license,Software,36,each,275.14,9905.04,USD
+RL-000946,PR-2026-000946,1,Synthetic Design license,Software,42,each,425.18,17857.56,USD
+RL-000947,PR-2026-000947,1,Synthetic Safety monitor,Safety Equipment,58,each,167.75,9729.5,USD
+RL-000948,PR-2026-000948,1,Synthetic Audit support,Professional Services,16,each,378.51,6056.16,USD
+RL-000949,PR-2026-000949,1,Synthetic Laptop,IT Hardware,26,each,201.48,5238.48,USD
+RL-000950,PR-2026-000950,1,Synthetic Workstation,IT Hardware,53,each,403.34,21377.02,USD
+RL-000951,PR-2026-000951,1,Synthetic Analytics license,Software,28,each,302.98,8483.44,USD
+RL-000952,PR-2026-000952,1,Synthetic Access-control reader,Facilities,26,each,176.09,4578.34,USD
+RL-000953,PR-2026-000953,1,Synthetic Workstation,IT Hardware,12,each,168.31,2019.72,USD
+RL-000954,PR-2026-000954,1,Synthetic Security license,Software,12,each,323.58,3882.96,USD
+RL-000955,PR-2026-000955,1,Synthetic Printer paper,Office Supplies,53,each,129.83,6880.99,USD
+RL-000956,PR-2026-000956,1,Synthetic Audit support,Professional Services,35,each,348.62,12201.7,USD
+RL-000957,PR-2026-000957,1,Synthetic Filing cabinet,Office Supplies,32,each,72.72,2327.04,USD
+RL-000958,PR-2026-000958,1,Synthetic Implementation services,Professional Services,36,each,310.88,11191.68,USD
+RL-000959,PR-2026-000959,1,Synthetic Ergonomic chair,Office Supplies,54,each,194.26,10490.04,USD
+RL-000960,PR-2026-000960,1,Synthetic Workstation,IT Hardware,28,each,334.66,9370.48,USD
+RL-000961,PR-2026-000961,1,Synthetic LED fixture,Facilities,27,each,392.58,10599.66,USD
+RL-000962,PR-2026-000962,1,Synthetic Protective kit,Safety Equipment,38,each,314.21,11939.98,USD
+RL-000963,PR-2026-000963,1,Synthetic First-aid station,Safety Equipment,11,each,92.93,1022.23,USD
+RL-000964,PR-2026-000964,1,Synthetic Laptop,IT Hardware,59,each,432.68,25528.12,USD
+RL-000965,PR-2026-000965,1,Synthetic Printer paper,Office Supplies,14,each,247.8,3469.2,USD
+RL-000966,PR-2026-000966,1,Synthetic Implementation services,Professional Services,25,each,36.11,902.75,USD
+RL-000967,PR-2026-000967,1,Synthetic Laptop,IT Hardware,18,each,275.43,4957.74,USD
+RL-000968,PR-2026-000968,1,Synthetic Air filter,Facilities,36,each,307.0,11052.0,USD
+RL-000969,PR-2026-000969,1,Synthetic Air filter,Facilities,25,each,362.42,9060.5,USD
+RL-000970,PR-2026-000970,1,Synthetic Ergonomic chair,Office Supplies,32,each,84.24,2695.68,USD
+RL-000971,PR-2026-000971,1,Synthetic Security license,Software,8,each,200.44,1603.52,USD
+RL-000972,PR-2026-000972,1,Synthetic Access-control reader,Facilities,24,each,203.99,4895.76,USD
+RL-000973,PR-2026-000973,1,Synthetic Air filter,Facilities,47,each,266.07,12505.29,USD
+RL-000974,PR-2026-000974,1,Synthetic First-aid station,Safety Equipment,52,each,354.59,18438.68,USD
+RL-000975,PR-2026-000975,1,Synthetic Design license,Software,59,each,398.97,23539.23,USD
+RL-000976,PR-2026-000976,1,Synthetic Printer paper,Office Supplies,15,each,432.22,6483.3,USD
+RL-000977,PR-2026-000977,1,Synthetic Laptop,IT Hardware,16,each,441.9,7070.4,USD
+RL-000978,PR-2026-000978,1,Synthetic Safety monitor,Safety Equipment,11,each,223.83,2462.13,USD
+RL-000979,PR-2026-000979,1,Synthetic Implementation services,Professional Services,28,each,103.18,2889.04,USD
+RL-000980,PR-2026-000980,1,Synthetic Safety monitor,Safety Equipment,15,each,218.87,3283.05,USD
+RL-000981,PR-2026-000981,1,Synthetic Laptop,IT Hardware,50,each,141.55,7077.5,USD
+RL-000982,PR-2026-000982,1,Synthetic Protective kit,Safety Equipment,25,each,428.7,10717.5,USD
+RL-000983,PR-2026-000983,1,Synthetic Safety monitor,Safety Equipment,28,each,114.3,3200.4,USD
+RL-000984,PR-2026-000984,1,Synthetic Workstation,IT Hardware,35,each,338.12,11834.2,USD
+RL-000985,PR-2026-000985,1,Synthetic First-aid station,Safety Equipment,41,each,59.08,2422.28,USD
+RL-000986,PR-2026-000986,1,Synthetic Design license,Software,46,each,67.58,3108.68,USD
+RL-000987,PR-2026-000987,1,Synthetic Implementation services,Professional Services,25,each,124.78,3119.5,USD
+RL-000988,PR-2026-000988,1,Synthetic Implementation services,Professional Services,60,each,355.47,21328.2,USD
+RL-000989,PR-2026-000989,1,Synthetic Implementation services,Professional Services,60,each,226.69,13601.4,USD
+RL-000990,PR-2026-000990,1,Synthetic Air filter,Facilities,44,each,434.98,19139.12,USD
+RL-000991,PR-2026-000991,1,Synthetic Printer paper,Office Supplies,53,each,229.49,12162.97,USD
+RL-000992,PR-2026-000992,1,Synthetic First-aid station,Safety Equipment,10,each,448.95,4489.5,USD
+RL-000993,PR-2026-000993,1,Synthetic Implementation services,Professional Services,55,each,343.55,18895.25,USD
+RL-000994,PR-2026-000994,1,Synthetic Security license,Software,37,each,443.09,16394.33,USD
+RL-000995,PR-2026-000995,1,Synthetic Printer paper,Office Supplies,50,each,237.6,11880.0,USD
+RL-000996,PR-2026-000996,1,Synthetic Access-control reader,Facilities,39,each,75.4,2940.6,USD
+RL-000997,PR-2026-000997,1,Synthetic Design license,Software,29,each,82.91,2404.39,USD
+RL-000998,PR-2026-000998,1,Synthetic Network switch,IT Hardware,18,each,249.36,4488.48,USD
+RL-000999,PR-2026-000999,1,Synthetic Workstation,IT Hardware,32,each,376.84,12058.88,USD
+RL-001000,PR-2026-001000,1,Synthetic Access-control reader,Facilities,39,each,437.98,17081.22,USD
+RL-001001,PR-2026-001001,1,Synthetic Protective kit,Safety Equipment,48,each,287.69,13809.12,USD
+RL-001002,PR-2026-001002,1,Synthetic Laptop,IT Hardware,26,each,105.35,2739.1,USD
+RL-001003,PR-2026-001003,1,Synthetic Implementation services,Professional Services,50,each,68.9,3445.0,USD
+RL-001004,PR-2026-001004,1,Synthetic First-aid station,Safety Equipment,39,each,211.16,8235.24,USD
+RL-001005,PR-2026-001005,1,Synthetic Access-control reader,Facilities,26,each,418.61,10883.86,USD
+RL-001006,PR-2026-001006,1,Synthetic Printer paper,Office Supplies,60,each,227.91,13674.6,USD
+RL-001007,PR-2026-001007,1,Synthetic Security license,Software,57,each,190.25,10844.25,USD
+RL-001008,PR-2026-001008,1,Synthetic Safety monitor,Safety Equipment,21,each,341.42,7169.82,USD
+RL-001009,PR-2026-001009,1,Synthetic Design license,Software,10,each,121.72,1217.2,USD
+RL-001010,PR-2026-001010,1,Synthetic Audit support,Professional Services,11,each,308.97,3398.67,USD
+RL-001011,PR-2026-001011,1,Synthetic Printer paper,Office Supplies,26,each,391.98,10191.48,USD
+RL-001012,PR-2026-001012,1,Synthetic Analytics license,Software,10,each,241.19,2411.9,USD
+RL-001013,PR-2026-001013,1,Synthetic Safety monitor,Safety Equipment,9,each,113.2,1018.8,USD
+RL-001014,PR-2026-001014,1,Synthetic Implementation services,Professional Services,33,each,58.2,1920.6,USD
+RL-001015,PR-2026-001015,1,Synthetic Workstation,IT Hardware,36,each,323.72,11653.92,USD
+RL-001016,PR-2026-001016,1,Synthetic Filing cabinet,Office Supplies,51,each,265.72,13551.72,USD
+RL-001017,PR-2026-001017,1,Synthetic Design license,Software,33,each,254.55,8400.15,USD
+RL-001018,PR-2026-001018,1,Synthetic Analytics license,Software,52,each,271.32,14108.64,USD
+RL-001019,PR-2026-001019,1,Synthetic Analytics license,Software,14,each,281.49,3940.86,USD
+RL-001020,PR-2026-001020,1,Synthetic Safety monitor,Safety Equipment,31,each,134.32,4163.92,USD
+RL-001021,PR-2026-001021,1,Synthetic Security license,Software,32,each,353.34,11306.88,USD
+RL-001022,PR-2026-001022,1,Synthetic LED fixture,Facilities,46,each,55.25,2541.5,USD
+RL-001023,PR-2026-001023,1,Synthetic Audit support,Professional Services,28,each,446.83,12511.24,USD
+RL-001024,PR-2026-001024,1,Synthetic Monitor,IT Hardware,56,each,120.54,6750.24,USD
+RL-001025,PR-2026-001025,1,Synthetic Safety monitor,Safety Equipment,41,each,284.44,11662.04,USD
+RL-001026,PR-2026-001026,1,Synthetic Safety monitor,Safety Equipment,57,each,291.19,16597.83,USD
+RL-001027,PR-2026-001027,1,Synthetic Security license,Software,13,each,244.57,3179.41,USD
+RL-001028,PR-2026-001028,1,Synthetic Printer paper,Office Supplies,60,each,392.27,23536.2,USD
+RL-001029,PR-2026-001029,1,Synthetic Network switch,IT Hardware,46,each,358.37,16485.02,USD
+RL-001030,PR-2026-001030,1,Synthetic Filing cabinet,Office Supplies,29,each,407.62,11820.98,USD
+RL-001031,PR-2026-001031,1,Synthetic Access-control reader,Facilities,19,each,212.72,4041.68,USD
+RL-001032,PR-2026-001032,1,Synthetic Air filter,Facilities,50,each,394.75,19737.5,USD
+RL-001033,PR-2026-001033,1,Synthetic Access-control reader,Facilities,24,each,316.4,7593.6,USD
+RL-001034,PR-2026-001034,1,Synthetic LED fixture,Facilities,41,each,236.77,9707.57,USD
+RL-001035,PR-2026-001035,1,Synthetic Safety monitor,Safety Equipment,37,each,361.05,13358.85,USD
+RL-001036,PR-2026-001036,1,Synthetic Audit support,Professional Services,23,each,219.21,5041.83,USD
+RL-001037,PR-2026-001037,1,Synthetic Laptop,IT Hardware,38,each,129.39,4916.82,USD
+RL-001038,PR-2026-001038,1,Synthetic Ergonomic chair,Office Supplies,45,each,374.99,16874.55,USD
+RL-001039,PR-2026-001039,1,Synthetic Access-control reader,Facilities,24,each,240.47,5771.28,USD
+RL-001040,PR-2026-001040,1,Synthetic Audit support,Professional Services,31,each,270.05,8371.55,USD
+RL-001041,PR-2026-001041,1,Synthetic Workstation,IT Hardware,37,each,271.96,10062.52,USD
+RL-001042,PR-2026-001042,1,Synthetic Analytics license,Software,51,each,103.89,5298.39,USD
+RL-001043,PR-2026-001043,1,Synthetic Network switch,IT Hardware,43,each,212.25,9126.75,USD
+RL-001044,PR-2026-001044,1,Synthetic Security license,Software,36,each,114.16,4109.76,USD
+RL-001045,PR-2026-001045,1,Synthetic Analytics license,Software,18,each,150.29,2705.22,USD
+RL-001046,PR-2026-001046,1,Synthetic Air filter,Facilities,48,each,307.0,14736.0,USD
+RL-001047,PR-2026-001047,1,Synthetic Design license,Software,50,each,299.25,14962.5,USD
+RL-001048,PR-2026-001048,1,Synthetic Network switch,IT Hardware,38,each,194.39,7386.82,USD
+RL-001049,PR-2026-001049,1,Synthetic Design license,Software,14,each,95.34,1334.76,USD
+RL-001050,PR-2026-001050,1,Synthetic Safety monitor,Safety Equipment,10,each,189.89,1898.9,USD
+RL-001051,PR-2026-001051,1,Synthetic Printer paper,Office Supplies,29,each,160.08,4642.32,USD
+RL-001052,PR-2026-001052,1,Synthetic Printer paper,Office Supplies,42,each,268.32,11269.44,USD
+RL-001053,PR-2026-001053,1,Synthetic Implementation services,Professional Services,11,each,410.79,4518.69,USD
+RL-001054,PR-2026-001054,1,Synthetic Implementation services,Professional Services,31,each,363.39,11265.09,USD
+RL-001055,PR-2026-001055,1,Synthetic Monitor,IT Hardware,52,each,180.69,9395.88,USD
+RL-001056,PR-2026-001056,1,Synthetic Audit support,Professional Services,55,each,70.87,3897.85,USD
+RL-001057,PR-2026-001057,1,Synthetic Implementation services,Professional Services,25,each,443.49,11087.25,USD
+RL-001058,PR-2026-001058,1,Synthetic LED fixture,Facilities,57,each,182.13,10381.41,USD
+RL-001059,PR-2026-001059,1,Synthetic Workstation,IT Hardware,30,each,321.28,9638.4,USD
+RL-001060,PR-2026-001060,1,Synthetic Filing cabinet,Office Supplies,15,each,117.26,1758.9,USD
+RL-001061,PR-2026-001061,1,Synthetic Air filter,Facilities,46,each,425.0,19550.0,USD
+RL-001062,PR-2026-001062,1,Synthetic Network switch,IT Hardware,43,each,243.68,10478.24,USD
+RL-001063,PR-2026-001063,1,Synthetic Implementation services,Professional Services,28,each,319.51,8946.28,USD
+RL-001064,PR-2026-001064,1,Synthetic Workstation,IT Hardware,16,each,270.0,4320.0,USD
+RL-001065,PR-2026-001065,1,Synthetic Implementation services,Professional Services,11,each,150.32,1653.52,USD
+RL-001066,PR-2026-001066,1,Synthetic Air filter,Facilities,12,each,229.3,2751.6,USD
+RL-001067,PR-2026-001067,1,Synthetic First-aid station,Safety Equipment,60,each,39.7,2382.0,USD
+RL-001068,PR-2026-001068,1,Synthetic Access-control reader,Facilities,18,each,267.71,4818.78,USD
+RL-001069,PR-2026-001069,1,Synthetic Audit support,Professional Services,24,each,446.88,10725.12,USD
+RL-001070,PR-2026-001070,1,Synthetic Air filter,Facilities,20,each,350.02,7000.4,USD
+RL-001071,PR-2026-001071,1,Synthetic Audit support,Professional Services,30,each,236.58,7097.4,USD
+RL-001072,PR-2026-001072,1,Synthetic Ergonomic chair,Office Supplies,12,each,324.86,3898.32,USD
+RL-001073,PR-2026-001073,1,Synthetic LED fixture,Facilities,59,each,351.57,20742.63,USD
+RL-001074,PR-2026-001074,1,Synthetic Protective kit,Safety Equipment,47,each,301.48,14169.56,USD
+RL-001075,PR-2026-001075,1,Synthetic LED fixture,Facilities,31,each,76.43,2369.33,USD
+RL-001076,PR-2026-001076,1,Synthetic Design license,Software,16,each,131.82,2109.12,USD
+RL-001077,PR-2026-001077,1,Synthetic Audit support,Professional Services,40,each,37.94,1517.6,USD
+RL-001078,PR-2026-001078,1,Synthetic LED fixture,Facilities,32,each,99.98,3199.36,USD
+RL-001079,PR-2026-001079,1,Synthetic Safety monitor,Safety Equipment,41,each,92.91,3809.31,USD
+RL-001080,PR-2026-001080,1,Synthetic Safety monitor,Safety Equipment,35,each,213.72,7480.2,USD
+RL-001081,PR-2026-001081,1,Synthetic Ergonomic chair,Office Supplies,26,each,306.84,7977.84,USD
+RL-001082,PR-2026-001082,1,Synthetic Analytics license,Software,48,each,90.72,4354.56,USD
+RL-001083,PR-2026-001083,1,Synthetic Ergonomic chair,Office Supplies,53,each,401.49,21278.97,USD
+RL-001084,PR-2026-001084,1,Synthetic Security license,Software,19,each,137.69,2616.11,USD
+RL-001085,PR-2026-001085,1,Synthetic Access-control reader,Facilities,47,each,303.5,14264.5,USD
+RL-001086,PR-2026-001086,1,Synthetic Implementation services,Professional Services,50,each,304.87,15243.5,USD
+RL-001087,PR-2026-001087,1,Synthetic Air filter,Facilities,41,each,222.44,9120.04,USD
+RL-001088,PR-2026-001088,1,Synthetic LED fixture,Facilities,49,each,219.41,10751.09,USD
+RL-001089,PR-2026-001089,1,Synthetic Network switch,IT Hardware,46,each,124.52,5727.92,USD
+RL-001090,PR-2026-001090,1,Synthetic Filing cabinet,Office Supplies,47,each,226.09,10626.23,USD
+RL-001091,PR-2026-001091,1,Synthetic Protective kit,Safety Equipment,11,each,401.93,4421.23,USD
+RL-001092,PR-2026-001092,1,Synthetic Ergonomic chair,Office Supplies,22,each,426.27,9377.94,USD
+RL-001093,PR-2026-001093,1,Synthetic Filing cabinet,Office Supplies,46,each,178.1,8192.6,USD
+RL-001094,PR-2026-001094,1,Synthetic Laptop,IT Hardware,55,each,122.22,6722.1,USD
+RL-001095,PR-2026-001095,1,Synthetic Design license,Software,28,each,41.4,1159.2,USD
+RL-001096,PR-2026-001096,1,Synthetic Design license,Software,45,each,219.06,9857.7,USD
+RL-001097,PR-2026-001097,1,Synthetic LED fixture,Facilities,24,each,366.08,8785.92,USD
+RL-001098,PR-2026-001098,1,Synthetic Ergonomic chair,Office Supplies,41,each,358.85,14712.85,USD
+RL-001099,PR-2026-001099,1,Synthetic Audit support,Professional Services,29,each,216.21,6270.09,USD
+RL-001100,PR-2026-001100,1,Synthetic Air filter,Facilities,34,each,189.48,6442.32,USD
+RL-001101,PR-2026-001101,1,Synthetic Implementation services,Professional Services,34,each,300.15,10205.1,USD
+RL-001102,PR-2026-001102,1,Synthetic First-aid station,Safety Equipment,29,each,330.34,9579.86,USD
+RL-001103,PR-2026-001103,1,Synthetic Safety monitor,Safety Equipment,13,each,65.86,856.18,USD
+RL-001104,PR-2026-001104,1,Synthetic LED fixture,Facilities,33,each,220.53,7277.49,USD
+RL-001105,PR-2026-001105,1,Synthetic Monitor,IT Hardware,37,each,121.26,4486.62,USD
+RL-001106,PR-2026-001106,1,Synthetic Security license,Software,50,each,444.7,22235.0,USD
+RL-001107,PR-2026-001107,1,Synthetic Workstation,IT Hardware,43,each,254.25,10932.75,USD
+RL-001108,PR-2026-001108,1,Synthetic Access-control reader,Facilities,39,each,162.97,6355.83,USD
+RL-001109,PR-2026-001109,1,Synthetic Analytics license,Software,14,each,109.09,1527.26,USD
+RL-001110,PR-2026-001110,1,Synthetic Printer paper,Office Supplies,8,each,311.05,2488.4,USD
+RL-001111,PR-2026-001111,1,Synthetic Analytics license,Software,30,each,178.78,5363.4,USD
+RL-001112,PR-2026-001112,1,Synthetic Implementation services,Professional Services,31,each,243.43,7546.33,USD
+RL-001113,PR-2026-001113,1,Synthetic Design license,Software,27,each,220.26,5947.02,USD
+RL-001114,PR-2026-001114,1,Synthetic Access-control reader,Facilities,47,each,353.34,16606.98,USD
+RL-001115,PR-2026-001115,1,Synthetic Filing cabinet,Office Supplies,10,each,115.34,1153.4,USD
+RL-001116,PR-2026-001116,1,Synthetic Security license,Software,41,each,325.79,13357.39,USD
+RL-001117,PR-2026-001117,1,Synthetic Printer paper,Office Supplies,43,each,192.5,8277.5,USD
+RL-001118,PR-2026-001118,1,Synthetic Access-control reader,Facilities,24,each,429.46,10307.04,USD
+RL-001119,PR-2026-001119,1,Synthetic Audit support,Professional Services,32,each,352.56,11281.92,USD
+RL-001120,PR-2026-001120,1,Synthetic Air filter,Facilities,24,each,356.63,8559.12,USD
+RL-001121,PR-2026-001121,1,Synthetic Network switch,IT Hardware,27,each,288.7,7794.9,USD
+RL-001122,PR-2026-001122,1,Synthetic Design license,Software,22,each,301.67,6636.74,USD
+RL-001123,PR-2026-001123,1,Synthetic LED fixture,Facilities,52,each,48.56,2525.12,USD
+RL-001124,PR-2026-001124,1,Synthetic Security license,Software,19,each,129.29,2456.51,USD
+RL-001125,PR-2026-001125,1,Synthetic Implementation services,Professional Services,17,each,124.6,2118.2,USD
+RL-001126,PR-2026-001126,1,Synthetic Protective kit,Safety Equipment,40,each,198.87,7954.8,USD
+RL-001127,PR-2026-001127,1,Synthetic LED fixture,Facilities,37,each,315.43,11670.91,USD
+RL-001128,PR-2026-001128,1,Synthetic Access-control reader,Facilities,40,each,90.46,3618.4,USD
+RL-001129,PR-2026-001129,1,Synthetic First-aid station,Safety Equipment,43,each,376.04,16169.72,USD
+RL-001130,PR-2026-001130,1,Synthetic Filing cabinet,Office Supplies,33,each,150.37,4962.21,USD
+RL-001131,PR-2026-001131,1,Synthetic Access-control reader,Facilities,45,each,48.66,2189.7,USD
+RL-001132,PR-2026-001132,1,Synthetic Security license,Software,15,each,360.14,5402.1,USD
+RL-001133,PR-2026-001133,1,Synthetic Safety monitor,Safety Equipment,30,each,142.68,4280.4,USD
+RL-001134,PR-2026-001134,1,Synthetic Ergonomic chair,Office Supplies,27,each,140.5,3793.5,USD
+RL-001135,PR-2026-001135,1,Synthetic LED fixture,Facilities,45,each,362.28,16302.6,USD
+RL-001136,PR-2026-001136,1,Synthetic Monitor,IT Hardware,21,each,263.57,5534.97,USD
+RL-001137,PR-2026-001137,1,Synthetic Security license,Software,48,each,56.23,2699.04,USD
+RL-001138,PR-2026-001138,1,Synthetic First-aid station,Safety Equipment,49,each,424.96,20823.04,USD
+RL-001139,PR-2026-001139,1,Synthetic Implementation services,Professional Services,58,each,60.15,3488.7,USD
+RL-001140,PR-2026-001140,1,Synthetic Access-control reader,Facilities,28,each,135.94,3806.32,USD
+RL-001141,PR-2026-001141,1,Synthetic First-aid station,Safety Equipment,29,each,362.47,10511.63,USD
+RL-001142,PR-2026-001142,1,Synthetic Access-control reader,Facilities,56,each,155.1,8685.6,USD
+RL-001143,PR-2026-001143,1,Synthetic Implementation services,Professional Services,60,each,202.06,12123.6,USD
+RL-001144,PR-2026-001144,1,Synthetic Ergonomic chair,Office Supplies,29,each,340.54,9875.66,USD
+RL-001145,PR-2026-001145,1,Synthetic LED fixture,Facilities,22,each,170.18,3743.96,USD
+RL-001146,PR-2026-001146,1,Synthetic Ergonomic chair,Office Supplies,46,each,391.26,17997.96,USD
+RL-001147,PR-2026-001147,1,Synthetic Implementation services,Professional Services,20,each,394.16,7883.2,USD
+RL-001148,PR-2026-001148,1,Synthetic Implementation services,Professional Services,18,each,114.63,2063.34,USD
+RL-001149,PR-2026-001149,1,Synthetic Air filter,Facilities,14,each,334.78,4686.92,USD
+RL-001150,PR-2026-001150,1,Synthetic Safety monitor,Safety Equipment,19,each,392.75,7462.25,USD
+RL-001151,PR-2026-001151,1,Synthetic LED fixture,Facilities,38,each,127.15,4831.7,USD
+RL-001152,PR-2026-001152,1,Synthetic Analytics license,Software,21,each,437.18,9180.78,USD
+RL-001153,PR-2026-001153,1,Synthetic Audit support,Professional Services,59,each,231.19,13640.21,USD
+RL-001154,PR-2026-001154,1,Synthetic Implementation services,Professional Services,38,each,424.99,16149.62,USD
+RL-001155,PR-2026-001155,1,Synthetic LED fixture,Facilities,40,each,180.04,7201.6,USD
+RL-001156,PR-2026-001156,1,Synthetic Implementation services,Professional Services,41,each,93.65,3839.65,USD
+RL-001157,PR-2026-001157,1,Synthetic Workstation,IT Hardware,51,each,60.54,3087.54,USD
+RL-001158,PR-2026-001158,1,Synthetic Laptop,IT Hardware,20,each,342.33,6846.6,USD
+RL-001159,PR-2026-001159,1,Synthetic Safety monitor,Safety Equipment,57,each,382.99,21830.43,USD
+RL-001160,PR-2026-001160,1,Synthetic Protective kit,Safety Equipment,53,each,211.94,11232.82,USD
+RL-001161,PR-2026-001161,1,Synthetic Protective kit,Safety Equipment,60,each,59.36,3561.6,USD
+RL-001162,PR-2026-001162,1,Synthetic Implementation services,Professional Services,28,each,113.99,3191.72,USD
+RL-001163,PR-2026-001163,1,Synthetic Ergonomic chair,Office Supplies,25,each,81.77,2044.25,USD
+RL-001164,PR-2026-001164,1,Synthetic Analytics license,Software,42,each,265.1,11134.2,USD
+RL-001165,PR-2026-001165,1,Synthetic Design license,Software,26,each,295.01,7670.26,USD
+RL-001166,PR-2026-001166,1,Synthetic Analytics license,Software,20,each,260.2,5204.0,USD
+RL-001167,PR-2026-001167,1,Synthetic Laptop,IT Hardware,14,each,73.79,1033.06,USD
+RL-001168,PR-2026-001168,1,Synthetic Network switch,IT Hardware,34,each,96.04,3265.36,USD
+RL-001169,PR-2026-001169,1,Synthetic Ergonomic chair,Office Supplies,33,each,121.41,4006.53,USD
+RL-001170,PR-2026-001170,1,Synthetic Protective kit,Safety Equipment,59,each,436.33,25743.47,USD
+RL-001171,PR-2026-001171,1,Synthetic Protective kit,Safety Equipment,44,each,363.83,16008.52,USD
+RL-001172,PR-2026-001172,1,Synthetic Safety monitor,Safety Equipment,21,each,256.73,5391.33,USD
+RL-001173,PR-2026-001173,1,Synthetic Printer paper,Office Supplies,20,each,392.57,7851.4,USD
+RL-001174,PR-2026-001174,1,Synthetic Ergonomic chair,Office Supplies,8,each,237.3,1898.4,USD
+RL-001175,PR-2026-001175,1,Synthetic Network switch,IT Hardware,53,each,368.85,19549.05,USD
+RL-001176,PR-2026-001176,1,Synthetic Analytics license,Software,27,each,338.73,9145.71,USD
+RL-001177,PR-2026-001177,1,Synthetic Air filter,Facilities,50,each,317.98,15899.0,USD
+RL-001178,PR-2026-001178,1,Synthetic Implementation services,Professional Services,24,each,275.19,6604.56,USD
+RL-001179,PR-2026-001179,1,Synthetic Laptop,IT Hardware,47,each,392.6,18452.2,USD
+RL-001180,PR-2026-001180,1,Synthetic Audit support,Professional Services,14,each,102.68,1437.52,USD
+RL-001181,PR-2026-001181,1,Synthetic Implementation services,Professional Services,45,each,268.19,12068.55,USD
+RL-001182,PR-2026-001182,1,Synthetic Ergonomic chair,Office Supplies,58,each,37.27,2161.66,USD
+RL-001183,PR-2026-001183,1,Synthetic Design license,Software,52,each,130.73,6797.96,USD
+RL-001184,PR-2026-001184,1,Synthetic Implementation services,Professional Services,56,each,309.16,17312.96,USD
+RL-001185,PR-2026-001185,1,Synthetic Ergonomic chair,Office Supplies,43,each,79.88,3434.84,USD
+RL-001186,PR-2026-001186,1,Synthetic Protective kit,Safety Equipment,17,each,129.44,2200.48,USD
+RL-001187,PR-2026-001187,1,Synthetic First-aid station,Safety Equipment,55,each,378.7,20828.5,USD
+RL-001188,PR-2026-001188,1,Synthetic Ergonomic chair,Office Supplies,56,each,219.64,12299.84,USD
+RL-001189,PR-2026-001189,1,Synthetic Analytics license,Software,25,each,133.91,3347.75,USD
+RL-001190,PR-2026-001190,1,Synthetic LED fixture,Facilities,18,each,300.35,5406.3,USD
+RL-001191,PR-2026-001191,1,Synthetic Network switch,IT Hardware,28,each,331.44,9280.32,USD
+RL-001192,PR-2026-001192,1,Synthetic Implementation services,Professional Services,49,each,384.9,18860.1,USD
+RL-001193,PR-2026-001193,1,Synthetic Access-control reader,Facilities,8,each,374.71,2997.68,USD
+RL-001194,PR-2026-001194,1,Synthetic Access-control reader,Facilities,35,each,370.38,12963.3,USD
+RL-001195,PR-2026-001195,1,Synthetic Air filter,Facilities,22,each,201.35,4429.7,USD
+RL-001196,PR-2026-001196,1,Synthetic Air filter,Facilities,14,each,269.2,3768.8,USD
+RL-001197,PR-2026-001197,1,Synthetic Laptop,IT Hardware,50,each,200.98,10049.0,USD
+RL-001198,PR-2026-001198,1,Synthetic Printer paper,Office Supplies,26,each,150.96,3924.96,USD
+RL-001199,PR-2026-001199,1,Synthetic network switch,IT Hardware,10,each,1000.0,10000.0,USD
+RL-001200,PR-2026-001200,1,Synthetic workstation,IT Hardware,20,each,500.0,10000.0,USD

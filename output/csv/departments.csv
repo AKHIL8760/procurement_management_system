@@ -1,0 +1,13 @@
+department_id,name,cost_center,status,effective_from,effective_to
+DEP-001,Finance,CC-0001,active,2020-01-01,
+DEP-002,Engineering,CC-0002,active,2020-01-01,
+DEP-003,Operations,CC-0003,active,2020-01-01,
+DEP-004,Information Technology,CC-0004,active,2020-01-01,
+DEP-005,People,CC-0005,active,2020-01-01,
+DEP-006,Marketing,CC-0006,active,2020-01-01,
+DEP-007,Legal,CC-0007,active,2020-01-01,
+DEP-008,Customer Support,CC-0008,active,2020-01-01,
+DEP-009,Facilities,CC-0009,active,2020-01-01,
+DEP-010,Research,CC-0010,active,2020-01-01,
+DEP-011,Sales,CC-0011,active,2020-01-01,
+DEP-012,Innovation Lab,CC-0012,active,2020-01-01,

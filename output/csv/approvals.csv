@@ -1,0 +1,1201 @@
+approval_id,request_id,approval_level,threshold_amount,decision,approver_id,requested_at,decided_at,decision_reason
+APR-000001,PR-2026-000001,manager,5000.0,pending,,2026-11-20,,Awaiting required approval
+APR-000002,PR-2026-000002,automatic,0.0,not_required,,2026-04-26,2026-04-27,Below approval threshold
+APR-000003,PR-2026-000003,automatic,0.0,not_required,,2026-09-06,2026-09-07,Below approval threshold
+APR-000004,PR-2026-000004,automatic,0.0,not_required,,2026-10-21,2026-10-22,Below approval threshold
+APR-000005,PR-2026-000005,manager,5000.0,approved,USR-0005,2026-08-17,2026-08-18,Approved within delegated authority
+APR-000006,PR-2026-000006,automatic,0.0,not_required,,2026-01-29,2026-01-30,Below approval threshold
+APR-000007,PR-2026-000007,automatic,0.0,not_required,,2026-07-14,2026-07-15,Below approval threshold
+APR-000008,PR-2026-000008,manager,5000.0,approved,USR-0008,2026-07-24,2026-07-25,Approved within delegated authority
+APR-000009,PR-2026-000009,manager,5000.0,approved,USR-0009,2026-10-05,2026-10-06,Approved within delegated authority
+APR-000010,PR-2026-000010,automatic,0.0,not_required,,2026-01-08,2026-01-09,Below approval threshold
+APR-000011,PR-2026-000011,manager,5000.0,approved,USR-0011,2026-06-10,2026-06-11,Approved within delegated authority
+APR-000012,PR-2026-000012,automatic,0.0,not_required,,2026-01-27,2026-01-28,Below approval threshold
+APR-000013,PR-2026-000013,manager,5000.0,approved,USR-0002,2026-10-30,2026-10-31,Approved within delegated authority
+APR-000014,PR-2026-000014,manager,5000.0,approved,USR-0003,2026-01-16,2026-01-17,Approved within delegated authority
+APR-000015,PR-2026-000015,manager,5000.0,approved,USR-0004,2026-11-10,2026-11-11,Approved within delegated authority
+APR-000016,PR-2026-000016,manager,5000.0,approved,USR-0005,2026-05-17,2026-05-18,Approved within delegated authority
+APR-000017,PR-2026-000017,automatic,0.0,not_required,,2026-07-06,2026-07-07,Below approval threshold
+APR-000018,PR-2026-000018,automatic,0.0,not_required,,2026-06-04,2026-06-05,Below approval threshold
+APR-000019,PR-2026-000019,manager,5000.0,approved,USR-0008,2026-08-29,2026-08-30,Approved within delegated authority
+APR-000020,PR-2026-000020,automatic,0.0,not_required,,2026-03-10,2026-03-11,Below approval threshold
+APR-000021,PR-2026-000021,automatic,0.0,not_required,,2026-01-15,2026-01-16,Below approval threshold
+APR-000022,PR-2026-000022,manager,5000.0,approved,USR-0011,2026-06-27,2026-06-28,Approved within delegated authority
+APR-000023,PR-2026-000023,automatic,0.0,not_required,,2026-05-24,2026-05-25,Below approval threshold
+APR-000024,PR-2026-000024,manager,5000.0,approved,USR-0002,2026-03-25,2026-03-26,Approved within delegated authority
+APR-000025,PR-2026-000025,manager,5000.0,approved,USR-0003,2026-04-20,2026-04-21,Approved within delegated authority
+APR-000026,PR-2026-000026,manager,5000.0,approved,USR-0004,2026-04-11,2026-04-12,Approved within delegated authority
+APR-000027,PR-2026-000027,automatic,0.0,not_required,,2026-02-24,2026-02-25,Below approval threshold
+APR-000028,PR-2026-000028,manager,5000.0,approved,USR-0006,2026-04-07,2026-04-08,Approved within delegated authority
+APR-000029,PR-2026-000029,manager,5000.0,approved,USR-0007,2026-11-07,2026-11-08,Approved within delegated authority
+APR-000030,PR-2026-000030,automatic,0.0,not_required,,2026-07-24,2026-07-25,Below approval threshold
+APR-000031,PR-2026-000031,automatic,0.0,not_required,,2026-10-25,2026-10-26,Below approval threshold
+APR-000032,PR-2026-000032,manager,5000.0,approved,USR-0010,2026-10-27,2026-10-28,Approved within delegated authority
+APR-000033,PR-2026-000033,manager,5000.0,approved,USR-0011,2026-06-14,2026-06-15,Approved within delegated authority
+APR-000034,PR-2026-000034,manager,5000.0,approved,USR-0001,2026-05-26,2026-05-27,Approved within delegated authority
+APR-000035,PR-2026-000035,manager,5000.0,approved,USR-0002,2026-06-11,2026-06-12,Approved within delegated authority
+APR-000036,PR-2026-000036,manager,5000.0,approved,USR-0003,2026-11-17,2026-11-18,Approved within delegated authority
+APR-000037,PR-2026-000037,automatic,0.0,not_required,,2026-06-17,2026-06-18,Below approval threshold
+APR-000038,PR-2026-000038,manager,5000.0,approved,USR-0005,2026-03-09,2026-03-10,Approved within delegated authority
+APR-000039,PR-2026-000039,automatic,0.0,not_required,,2026-06-28,2026-06-29,Below approval threshold
+APR-000040,PR-2026-000040,manager,5000.0,approved,USR-0007,2026-07-12,2026-07-13,Approved within delegated authority
+APR-000041,PR-2026-000041,manager,5000.0,approved,USR-0008,2026-09-15,2026-09-16,Approved within delegated authority
+APR-000042,PR-2026-000042,automatic,0.0,not_required,,2026-05-29,2026-05-30,Below approval threshold
+APR-000043,PR-2026-000043,automatic,0.0,not_required,,2026-03-21,2026-03-22,Below approval threshold
+APR-000044,PR-2026-000044,automatic,0.0,not_required,,2026-02-06,2026-02-07,Below approval threshold
+APR-000045,PR-2026-000045,manager,5000.0,approved,USR-0001,2026-10-19,2026-10-20,Approved within delegated authority
+APR-000046,PR-2026-000046,automatic,0.0,not_required,,2026-07-12,2026-07-13,Below approval threshold
+APR-000047,PR-2026-000047,manager,5000.0,approved,USR-0003,2026-06-08,2026-06-09,Approved within delegated authority
+APR-000048,PR-2026-000048,automatic,0.0,not_required,,2026-07-10,2026-07-11,Below approval threshold
+APR-000049,PR-2026-000049,manager,5000.0,approved,USR-0005,2026-07-10,2026-07-11,Approved within delegated authority
+APR-000050,PR-2026-000050,manager,5000.0,approved,USR-0006,2026-05-03,2026-05-04,Approved within delegated authority
+APR-000051,PR-2026-000051,automatic,0.0,not_required,,2026-02-04,2026-02-05,Below approval threshold
+APR-000052,PR-2026-000052,automatic,0.0,not_required,,2026-03-30,2026-03-31,Below approval threshold
+APR-000053,PR-2026-000053,manager,5000.0,approved,USR-0009,2026-01-08,2026-01-09,Approved within delegated authority
+APR-000054,PR-2026-000054,automatic,0.0,not_required,,2026-06-25,2026-06-26,Below approval threshold
+APR-000055,PR-2026-000055,manager,5000.0,approved,USR-0011,2026-05-02,2026-05-03,Approved within delegated authority
+APR-000056,PR-2026-000056,automatic,0.0,not_required,,2026-05-17,2026-05-18,Below approval threshold
+APR-000057,PR-2026-000057,automatic,0.0,not_required,,2026-02-10,2026-02-11,Below approval threshold
+APR-000058,PR-2026-000058,automatic,0.0,not_required,,2026-01-18,2026-01-19,Below approval threshold
+APR-000059,PR-2026-000059,manager,5000.0,approved,USR-0004,2026-07-15,2026-07-16,Approved within delegated authority
+APR-000060,PR-2026-000060,manager,5000.0,approved,USR-0005,2026-03-20,2026-03-21,Approved within delegated authority
+APR-000061,PR-2026-000061,automatic,0.0,not_required,,2026-03-16,2026-03-17,Below approval threshold
+APR-000062,PR-2026-000062,manager,5000.0,approved,USR-0007,2026-02-04,2026-02-05,Approved within delegated authority
+APR-000063,PR-2026-000063,automatic,0.0,not_required,,2026-01-30,2026-01-31,Below approval threshold
+APR-000064,PR-2026-000064,manager,5000.0,approved,USR-0009,2026-04-25,2026-04-26,Approved within delegated authority
+APR-000065,PR-2026-000065,automatic,0.0,not_required,,2026-10-17,2026-10-18,Below approval threshold
+APR-000066,PR-2026-000066,manager,5000.0,approved,USR-0011,2026-01-11,2026-01-12,Approved within delegated authority
+APR-000067,PR-2026-000067,manager,5000.0,approved,USR-0001,2026-08-26,2026-08-27,Approved within delegated authority
+APR-000068,PR-2026-000068,manager,5000.0,approved,USR-0002,2026-09-25,2026-09-26,Approved within delegated authority
+APR-000069,PR-2026-000069,manager,5000.0,approved,USR-0003,2026-10-03,2026-10-04,Approved within delegated authority
+APR-000070,PR-2026-000070,manager,5000.0,approved,USR-0004,2026-06-09,2026-06-10,Approved within delegated authority
+APR-000071,PR-2026-000071,automatic,0.0,not_required,,2026-09-08,2026-09-09,Below approval threshold
+APR-000072,PR-2026-000072,manager,5000.0,approved,USR-0006,2026-05-04,2026-05-05,Approved within delegated authority
+APR-000073,PR-2026-000073,automatic,0.0,not_required,,2026-04-13,2026-04-14,Below approval threshold
+APR-000074,PR-2026-000074,manager,5000.0,approved,USR-0008,2026-07-29,2026-07-30,Approved within delegated authority
+APR-000075,PR-2026-000075,manager,5000.0,approved,USR-0009,2026-10-29,2026-10-30,Approved within delegated authority
+APR-000076,PR-2026-000076,automatic,0.0,not_required,,2026-11-02,2026-11-03,Below approval threshold
+APR-000077,PR-2026-000077,manager,5000.0,approved,USR-0011,2026-10-01,2026-10-02,Approved within delegated authority
+APR-000078,PR-2026-000078,manager,5000.0,approved,USR-0001,2026-05-22,2026-05-23,Approved within delegated authority
+APR-000079,PR-2026-000079,automatic,0.0,not_required,,2026-02-02,2026-02-03,Below approval threshold
+APR-000080,PR-2026-000080,automatic,0.0,not_required,,2026-10-31,2026-11-01,Below approval threshold
+APR-000081,PR-2026-000081,manager,5000.0,approved,USR-0004,2026-04-30,2026-05-01,Approved within delegated authority
+APR-000082,PR-2026-000082,manager,5000.0,approved,USR-0005,2026-04-29,2026-04-30,Approved within delegated authority
+APR-000083,PR-2026-000083,manager,5000.0,approved,USR-0006,2026-02-14,2026-02-15,Approved within delegated authority
+APR-000084,PR-2026-000084,automatic,0.0,not_required,,2026-08-25,2026-08-26,Below approval threshold
+APR-000085,PR-2026-000085,manager,5000.0,approved,USR-0008,2026-10-09,2026-10-10,Approved within delegated authority
+APR-000086,PR-2026-000086,manager,5000.0,approved,USR-0009,2026-09-14,2026-09-15,Approved within delegated authority
+APR-000087,PR-2026-000087,manager,5000.0,approved,USR-0010,2026-04-27,2026-04-28,Approved within delegated authority
+APR-000088,PR-2026-000088,manager,5000.0,approved,USR-0011,2026-06-14,2026-06-15,Approved within delegated authority
+APR-000089,PR-2026-000089,automatic,0.0,not_required,,2026-03-09,2026-03-10,Below approval threshold
+APR-000090,PR-2026-000090,manager,5000.0,approved,USR-0002,2026-02-24,2026-02-25,Approved within delegated authority
+APR-000091,PR-2026-000091,automatic,0.0,not_required,,2026-10-06,2026-10-07,Below approval threshold
+APR-000092,PR-2026-000092,automatic,0.0,not_required,,2026-05-09,2026-05-10,Below approval threshold
+APR-000093,PR-2026-000093,automatic,0.0,not_required,,2026-02-15,2026-02-16,Below approval threshold
+APR-000094,PR-2026-000094,manager,5000.0,approved,USR-0006,2026-10-26,2026-10-27,Approved within delegated authority
+APR-000095,PR-2026-000095,automatic,0.0,not_required,,2026-02-22,2026-02-23,Below approval threshold
+APR-000096,PR-2026-000096,automatic,0.0,not_required,,2026-05-16,2026-05-17,Below approval threshold
+APR-000097,PR-2026-000097,automatic,0.0,not_required,,2026-05-24,2026-05-25,Below approval threshold
+APR-000098,PR-2026-000098,automatic,0.0,not_required,,2026-08-24,2026-08-25,Below approval threshold
+APR-000099,PR-2026-000099,manager,5000.0,approved,USR-0011,2026-07-31,2026-08-01,Approved within delegated authority
+APR-000100,PR-2026-000100,automatic,0.0,not_required,,2026-06-08,2026-06-09,Below approval threshold
+APR-000101,PR-2026-000101,manager,5000.0,approved,USR-0002,2026-10-30,2026-10-31,Approved within delegated authority
+APR-000102,PR-2026-000102,automatic,0.0,not_required,,2026-04-30,2026-05-01,Below approval threshold
+APR-000103,PR-2026-000103,manager,5000.0,approved,USR-0004,2026-09-15,2026-09-16,Approved within delegated authority
+APR-000104,PR-2026-000104,manager,5000.0,approved,USR-0005,2026-11-21,2026-11-22,Approved within delegated authority
+APR-000105,PR-2026-000105,manager,5000.0,approved,USR-0006,2026-03-16,2026-03-17,Approved within delegated authority
+APR-000106,PR-2026-000106,automatic,0.0,not_required,,2026-09-12,2026-09-13,Below approval threshold
+APR-000107,PR-2026-000107,manager,5000.0,approved,USR-0008,2026-01-06,2026-01-07,Approved within delegated authority
+APR-000108,PR-2026-000108,manager,5000.0,approved,USR-0009,2026-08-29,2026-08-30,Approved within delegated authority
+APR-000109,PR-2026-000109,automatic,0.0,not_required,,2026-06-01,2026-06-02,Below approval threshold
+APR-000110,PR-2026-000110,manager,5000.0,approved,USR-0011,2026-03-23,2026-03-24,Approved within delegated authority
+APR-000111,PR-2026-000111,manager,5000.0,approved,USR-0001,2026-02-19,2026-02-20,Approved within delegated authority
+APR-000112,PR-2026-000112,automatic,0.0,not_required,,2026-09-01,2026-09-02,Below approval threshold
+APR-000113,PR-2026-000113,manager,5000.0,approved,USR-0003,2026-08-02,2026-08-03,Approved within delegated authority
+APR-000114,PR-2026-000114,automatic,0.0,not_required,,2026-05-03,2026-05-04,Below approval threshold
+APR-000115,PR-2026-000115,automatic,0.0,not_required,,2026-11-08,2026-11-09,Below approval threshold
+APR-000116,PR-2026-000116,automatic,0.0,not_required,,2026-04-04,2026-04-05,Below approval threshold
+APR-000117,PR-2026-000117,automatic,0.0,not_required,,2026-07-17,2026-07-18,Below approval threshold
+APR-000118,PR-2026-000118,automatic,0.0,not_required,,2026-11-19,2026-11-20,Below approval threshold
+APR-000119,PR-2026-000119,manager,5000.0,approved,USR-0009,2026-04-11,2026-04-12,Approved within delegated authority
+APR-000120,PR-2026-000120,manager,5000.0,approved,USR-0010,2026-06-03,2026-06-04,Approved within delegated authority
+APR-000121,PR-2026-000121,manager,5000.0,approved,USR-0011,2026-05-18,2026-05-19,Approved within delegated authority
+APR-000122,PR-2026-000122,manager,5000.0,approved,USR-0001,2026-04-05,2026-04-06,Approved within delegated authority
+APR-000123,PR-2026-000123,automatic,0.0,not_required,,2026-02-13,2026-02-14,Below approval threshold
+APR-000124,PR-2026-000124,manager,5000.0,approved,USR-0003,2026-04-24,2026-04-25,Approved within delegated authority
+APR-000125,PR-2026-000125,automatic,0.0,not_required,,2026-03-21,2026-03-22,Below approval threshold
+APR-000126,PR-2026-000126,automatic,0.0,not_required,,2026-07-29,2026-07-30,Below approval threshold
+APR-000127,PR-2026-000127,manager,5000.0,approved,USR-0006,2026-08-14,2026-08-15,Approved within delegated authority
+APR-000128,PR-2026-000128,manager,5000.0,approved,USR-0007,2026-04-04,2026-04-05,Approved within delegated authority
+APR-000129,PR-2026-000129,automatic,0.0,not_required,,2026-09-28,2026-09-29,Below approval threshold
+APR-000130,PR-2026-000130,automatic,0.0,not_required,,2026-06-29,2026-06-30,Below approval threshold
+APR-000131,PR-2026-000131,manager,5000.0,approved,USR-0010,2026-02-24,2026-02-25,Approved within delegated authority
+APR-000132,PR-2026-000132,manager,5000.0,approved,USR-0011,2026-11-16,2026-11-17,Approved within delegated authority
+APR-000133,PR-2026-000133,manager,5000.0,approved,USR-0001,2026-08-16,2026-08-17,Approved within delegated authority
+APR-000134,PR-2026-000134,manager,5000.0,approved,USR-0002,2026-02-18,2026-02-19,Approved within delegated authority
+APR-000135,PR-2026-000135,manager,5000.0,approved,USR-0003,2026-09-09,2026-09-10,Approved within delegated authority
+APR-000136,PR-2026-000136,manager,5000.0,approved,USR-0004,2026-05-16,2026-05-17,Approved within delegated authority
+APR-000137,PR-2026-000137,manager,5000.0,approved,USR-0005,2026-09-07,2026-09-08,Approved within delegated authority
+APR-000138,PR-2026-000138,manager,5000.0,approved,USR-0006,2026-08-25,2026-08-26,Approved within delegated authority
+APR-000139,PR-2026-000139,manager,5000.0,approved,USR-0007,2026-08-16,2026-08-17,Approved within delegated authority
+APR-000140,PR-2026-000140,automatic,0.0,not_required,,2026-08-24,2026-08-25,Below approval threshold
+APR-000141,PR-2026-000141,manager,5000.0,approved,USR-0009,2026-03-08,2026-03-09,Approved within delegated authority
+APR-000142,PR-2026-000142,manager,5000.0,approved,USR-0010,2026-09-04,2026-09-05,Approved within delegated authority
+APR-000143,PR-2026-000143,manager,5000.0,approved,USR-0011,2026-03-18,2026-03-19,Approved within delegated authority
+APR-000144,PR-2026-000144,manager,5000.0,approved,USR-0001,2026-06-14,2026-06-15,Approved within delegated authority
+APR-000145,PR-2026-000145,automatic,0.0,not_required,,2026-11-11,2026-11-12,Below approval threshold
+APR-000146,PR-2026-000146,automatic,0.0,not_required,,2026-10-14,2026-10-15,Below approval threshold
+APR-000147,PR-2026-000147,manager,5000.0,approved,USR-0004,2026-03-17,2026-03-18,Approved within delegated authority
+APR-000148,PR-2026-000148,manager,5000.0,approved,USR-0005,2026-02-16,2026-02-17,Approved within delegated authority
+APR-000149,PR-2026-000149,automatic,0.0,not_required,,2026-01-14,2026-01-15,Below approval threshold
+APR-000150,PR-2026-000150,manager,5000.0,approved,USR-0007,2026-09-16,2026-09-17,Approved within delegated authority
+APR-000151,PR-2026-000151,manager,5000.0,approved,USR-0008,2026-03-11,2026-03-12,Approved within delegated authority
+APR-000152,PR-2026-000152,manager,5000.0,approved,USR-0009,2026-11-08,2026-11-09,Approved within delegated authority
+APR-000153,PR-2026-000153,automatic,0.0,not_required,,2026-10-18,2026-10-19,Below approval threshold
+APR-000154,PR-2026-000154,manager,5000.0,approved,USR-0011,2026-08-02,2026-08-03,Approved within delegated authority
+APR-000155,PR-2026-000155,manager,5000.0,approved,USR-0001,2026-02-24,2026-02-25,Approved within delegated authority
+APR-000156,PR-2026-000156,automatic,0.0,not_required,,2026-08-09,2026-08-10,Below approval threshold
+APR-000157,PR-2026-000157,automatic,0.0,not_required,,2026-10-05,2026-10-06,Below approval threshold
+APR-000158,PR-2026-000158,automatic,0.0,not_required,,2026-11-20,2026-11-21,Below approval threshold
+APR-000159,PR-2026-000159,automatic,0.0,not_required,,2026-06-27,2026-06-28,Below approval threshold
+APR-000160,PR-2026-000160,manager,5000.0,approved,USR-0006,2026-01-27,2026-01-28,Approved within delegated authority
+APR-000161,PR-2026-000161,manager,5000.0,approved,USR-0007,2026-02-03,2026-02-04,Approved within delegated authority
+APR-000162,PR-2026-000162,manager,5000.0,approved,USR-0008,2026-05-04,2026-05-05,Approved within delegated authority
+APR-000163,PR-2026-000163,automatic,0.0,not_required,,2026-10-11,2026-10-12,Below approval threshold
+APR-000164,PR-2026-000164,automatic,0.0,not_required,,2026-01-26,2026-01-27,Below approval threshold
+APR-000165,PR-2026-000165,automatic,0.0,not_required,,2026-08-23,2026-08-24,Below approval threshold
+APR-000166,PR-2026-000166,manager,5000.0,approved,USR-0001,2026-04-27,2026-04-28,Approved within delegated authority
+APR-000167,PR-2026-000167,manager,5000.0,approved,USR-0002,2026-06-17,2026-06-18,Approved within delegated authority
+APR-000168,PR-2026-000168,manager,5000.0,approved,USR-0003,2026-09-29,2026-09-30,Approved within delegated authority
+APR-000169,PR-2026-000169,manager,5000.0,approved,USR-0004,2026-06-27,2026-06-28,Approved within delegated authority
+APR-000170,PR-2026-000170,manager,5000.0,approved,USR-0005,2026-06-24,2026-06-25,Approved within delegated authority
+APR-000171,PR-2026-000171,manager,5000.0,approved,USR-0006,2026-09-13,2026-09-14,Approved within delegated authority
+APR-000172,PR-2026-000172,automatic,0.0,not_required,,2026-08-18,2026-08-19,Below approval threshold
+APR-000173,PR-2026-000173,automatic,0.0,not_required,,2026-03-29,2026-03-30,Below approval threshold
+APR-000174,PR-2026-000174,manager,5000.0,approved,USR-0009,2026-06-20,2026-06-21,Approved within delegated authority
+APR-000175,PR-2026-000175,manager,5000.0,approved,USR-0010,2026-09-14,2026-09-15,Approved within delegated authority
+APR-000176,PR-2026-000176,automatic,0.0,not_required,,2026-10-15,2026-10-16,Below approval threshold
+APR-000177,PR-2026-000177,automatic,0.0,not_required,,2026-07-14,2026-07-15,Below approval threshold
+APR-000178,PR-2026-000178,automatic,0.0,not_required,,2026-07-15,2026-07-16,Below approval threshold
+APR-000179,PR-2026-000179,manager,5000.0,approved,USR-0003,2026-03-26,2026-03-27,Approved within delegated authority
+APR-000180,PR-2026-000180,manager,5000.0,approved,USR-0004,2026-09-08,2026-09-09,Approved within delegated authority
+APR-000181,PR-2026-000181,automatic,0.0,not_required,,2026-04-13,2026-04-14,Below approval threshold
+APR-000182,PR-2026-000182,automatic,0.0,not_required,,2026-10-03,2026-10-04,Below approval threshold
+APR-000183,PR-2026-000183,manager,5000.0,approved,USR-0007,2026-08-13,2026-08-14,Approved within delegated authority
+APR-000184,PR-2026-000184,automatic,0.0,not_required,,2026-04-26,2026-04-27,Below approval threshold
+APR-000185,PR-2026-000185,automatic,0.0,not_required,,2026-02-02,2026-02-03,Below approval threshold
+APR-000186,PR-2026-000186,manager,5000.0,approved,USR-0010,2026-04-12,2026-04-13,Approved within delegated authority
+APR-000187,PR-2026-000187,automatic,0.0,not_required,,2026-03-24,2026-03-25,Below approval threshold
+APR-000188,PR-2026-000188,automatic,0.0,not_required,,2026-11-02,2026-11-03,Below approval threshold
+APR-000189,PR-2026-000189,manager,5000.0,approved,USR-0002,2026-05-01,2026-05-02,Approved within delegated authority
+APR-000190,PR-2026-000190,manager,5000.0,approved,USR-0003,2026-01-24,2026-01-25,Approved within delegated authority
+APR-000191,PR-2026-000191,automatic,0.0,not_required,,2026-02-21,2026-02-22,Below approval threshold
+APR-000192,PR-2026-000192,automatic,0.0,not_required,,2026-10-02,2026-10-03,Below approval threshold
+APR-000193,PR-2026-000193,manager,5000.0,approved,USR-0006,2026-06-06,2026-06-07,Approved within delegated authority
+APR-000194,PR-2026-000194,automatic,0.0,not_required,,2026-09-19,2026-09-20,Below approval threshold
+APR-000195,PR-2026-000195,manager,5000.0,approved,USR-0008,2026-05-08,2026-05-09,Approved within delegated authority
+APR-000196,PR-2026-000196,manager,5000.0,approved,USR-0009,2026-10-18,2026-10-19,Approved within delegated authority
+APR-000197,PR-2026-000197,automatic,0.0,not_required,,2026-03-09,2026-03-10,Below approval threshold
+APR-000198,PR-2026-000198,automatic,0.0,not_required,,2026-03-01,2026-03-02,Below approval threshold
+APR-000199,PR-2026-000199,manager,5000.0,approved,USR-0001,2026-11-15,2026-11-16,Approved within delegated authority
+APR-000200,PR-2026-000200,manager,5000.0,approved,USR-0002,2026-08-09,2026-08-10,Approved within delegated authority
+APR-000201,PR-2026-000201,manager,5000.0,approved,USR-0003,2026-09-18,2026-09-19,Approved within delegated authority
+APR-000202,PR-2026-000202,manager,5000.0,approved,USR-0004,2026-06-22,2026-06-23,Approved within delegated authority
+APR-000203,PR-2026-000203,manager,5000.0,approved,USR-0005,2026-06-04,2026-06-05,Approved within delegated authority
+APR-000204,PR-2026-000204,automatic,0.0,not_required,,2026-05-07,2026-05-08,Below approval threshold
+APR-000205,PR-2026-000205,manager,5000.0,approved,USR-0007,2026-04-27,2026-04-28,Approved within delegated authority
+APR-000206,PR-2026-000206,manager,5000.0,approved,USR-0008,2026-05-03,2026-05-04,Approved within delegated authority
+APR-000207,PR-2026-000207,manager,5000.0,approved,USR-0009,2026-03-29,2026-03-30,Approved within delegated authority
+APR-000208,PR-2026-000208,automatic,0.0,not_required,,2026-05-07,2026-05-08,Below approval threshold
+APR-000209,PR-2026-000209,manager,5000.0,approved,USR-0011,2026-11-21,2026-11-22,Approved within delegated authority
+APR-000210,PR-2026-000210,automatic,0.0,not_required,,2026-11-05,2026-11-06,Below approval threshold
+APR-000211,PR-2026-000211,manager,5000.0,approved,USR-0002,2026-11-06,2026-11-07,Approved within delegated authority
+APR-000212,PR-2026-000212,automatic,0.0,not_required,,2026-07-12,2026-07-13,Below approval threshold
+APR-000213,PR-2026-000213,automatic,0.0,not_required,,2026-05-15,2026-05-16,Below approval threshold
+APR-000214,PR-2026-000214,manager,5000.0,approved,USR-0005,2026-11-14,2026-11-15,Approved within delegated authority
+APR-000215,PR-2026-000215,automatic,0.0,not_required,,2026-06-06,2026-06-07,Below approval threshold
+APR-000216,PR-2026-000216,automatic,0.0,not_required,,2026-09-08,2026-09-09,Below approval threshold
+APR-000217,PR-2026-000217,manager,5000.0,approved,USR-0008,2026-08-03,2026-08-04,Approved within delegated authority
+APR-000218,PR-2026-000218,automatic,0.0,not_required,,2026-07-07,2026-07-08,Below approval threshold
+APR-000219,PR-2026-000219,automatic,0.0,not_required,,2026-07-07,2026-07-08,Below approval threshold
+APR-000220,PR-2026-000220,manager,5000.0,approved,USR-0011,2026-09-24,2026-09-25,Approved within delegated authority
+APR-000221,PR-2026-000221,manager,5000.0,approved,USR-0001,2026-10-20,2026-10-21,Approved within delegated authority
+APR-000222,PR-2026-000222,manager,5000.0,approved,USR-0002,2026-05-18,2026-05-19,Approved within delegated authority
+APR-000223,PR-2026-000223,manager,5000.0,approved,USR-0003,2026-01-25,2026-01-26,Approved within delegated authority
+APR-000224,PR-2026-000224,manager,5000.0,approved,USR-0004,2026-10-02,2026-10-03,Approved within delegated authority
+APR-000225,PR-2026-000225,manager,5000.0,approved,USR-0005,2026-10-19,2026-10-20,Approved within delegated authority
+APR-000226,PR-2026-000226,manager,5000.0,approved,USR-0006,2026-04-04,2026-04-05,Approved within delegated authority
+APR-000227,PR-2026-000227,automatic,0.0,not_required,,2026-02-19,2026-02-20,Below approval threshold
+APR-000228,PR-2026-000228,manager,5000.0,approved,USR-0008,2026-05-10,2026-05-11,Approved within delegated authority
+APR-000229,PR-2026-000229,automatic,0.0,not_required,,2026-11-13,2026-11-14,Below approval threshold
+APR-000230,PR-2026-000230,manager,5000.0,approved,USR-0010,2026-02-03,2026-02-04,Approved within delegated authority
+APR-000231,PR-2026-000231,manager,5000.0,approved,USR-0011,2026-01-25,2026-01-26,Approved within delegated authority
+APR-000232,PR-2026-000232,automatic,0.0,not_required,,2026-05-06,2026-05-07,Below approval threshold
+APR-000233,PR-2026-000233,automatic,0.0,not_required,,2026-10-04,2026-10-05,Below approval threshold
+APR-000234,PR-2026-000234,automatic,0.0,not_required,,2026-10-25,2026-10-26,Below approval threshold
+APR-000235,PR-2026-000235,manager,5000.0,approved,USR-0004,2026-07-17,2026-07-18,Approved within delegated authority
+APR-000236,PR-2026-000236,automatic,0.0,not_required,,2026-08-24,2026-08-25,Below approval threshold
+APR-000237,PR-2026-000237,automatic,0.0,not_required,,2026-01-28,2026-01-29,Below approval threshold
+APR-000238,PR-2026-000238,automatic,0.0,not_required,,2026-08-14,2026-08-15,Below approval threshold
+APR-000239,PR-2026-000239,manager,5000.0,approved,USR-0008,2026-09-17,2026-09-18,Approved within delegated authority
+APR-000240,PR-2026-000240,manager,5000.0,approved,USR-0009,2026-04-24,2026-04-25,Approved within delegated authority
+APR-000241,PR-2026-000241,automatic,0.0,not_required,,2026-10-19,2026-10-20,Below approval threshold
+APR-000242,PR-2026-000242,automatic,0.0,not_required,,2026-10-02,2026-10-03,Below approval threshold
+APR-000243,PR-2026-000243,automatic,0.0,not_required,,2026-09-27,2026-09-28,Below approval threshold
+APR-000244,PR-2026-000244,manager,5000.0,approved,USR-0002,2026-07-12,2026-07-13,Approved within delegated authority
+APR-000245,PR-2026-000245,automatic,0.0,not_required,,2026-04-01,2026-04-02,Below approval threshold
+APR-000246,PR-2026-000246,manager,5000.0,approved,USR-0004,2026-03-22,2026-03-23,Approved within delegated authority
+APR-000247,PR-2026-000247,manager,5000.0,approved,USR-0005,2026-06-22,2026-06-23,Approved within delegated authority
+APR-000248,PR-2026-000248,manager,5000.0,approved,USR-0006,2026-03-10,2026-03-11,Approved within delegated authority
+APR-000249,PR-2026-000249,manager,5000.0,approved,USR-0007,2026-03-21,2026-03-22,Approved within delegated authority
+APR-000250,PR-2026-000250,automatic,0.0,not_required,,2026-01-21,2026-01-22,Below approval threshold
+APR-000251,PR-2026-000251,manager,5000.0,approved,USR-0009,2026-01-30,2026-01-31,Approved within delegated authority
+APR-000252,PR-2026-000252,automatic,0.0,not_required,,2026-02-22,2026-02-23,Below approval threshold
+APR-000253,PR-2026-000253,manager,5000.0,approved,USR-0011,2026-09-27,2026-09-28,Approved within delegated authority
+APR-000254,PR-2026-000254,automatic,0.0,not_required,,2026-04-06,2026-04-07,Below approval threshold
+APR-000255,PR-2026-000255,automatic,0.0,not_required,,2026-05-20,2026-05-21,Below approval threshold
+APR-000256,PR-2026-000256,manager,5000.0,approved,USR-0003,2026-02-14,2026-02-15,Approved within delegated authority
+APR-000257,PR-2026-000257,manager,5000.0,approved,USR-0004,2026-03-10,2026-03-11,Approved within delegated authority
+APR-000258,PR-2026-000258,manager,5000.0,approved,USR-0005,2026-11-19,2026-11-20,Approved within delegated authority
+APR-000259,PR-2026-000259,manager,5000.0,approved,USR-0006,2026-09-02,2026-09-03,Approved within delegated authority
+APR-000260,PR-2026-000260,manager,5000.0,approved,USR-0007,2026-01-27,2026-01-28,Approved within delegated authority
+APR-000261,PR-2026-000261,manager,5000.0,approved,USR-0008,2026-10-18,2026-10-19,Approved within delegated authority
+APR-000262,PR-2026-000262,manager,5000.0,approved,USR-0009,2026-02-14,2026-02-15,Approved within delegated authority
+APR-000263,PR-2026-000263,manager,5000.0,approved,USR-0010,2026-01-07,2026-01-08,Approved within delegated authority
+APR-000264,PR-2026-000264,manager,5000.0,approved,USR-0011,2026-04-26,2026-04-27,Approved within delegated authority
+APR-000265,PR-2026-000265,manager,5000.0,approved,USR-0001,2026-09-07,2026-09-08,Approved within delegated authority
+APR-000266,PR-2026-000266,automatic,0.0,not_required,,2026-03-07,2026-03-08,Below approval threshold
+APR-000267,PR-2026-000267,automatic,0.0,not_required,,2026-06-22,2026-06-23,Below approval threshold
+APR-000268,PR-2026-000268,manager,5000.0,approved,USR-0004,2026-07-18,2026-07-19,Approved within delegated authority
+APR-000269,PR-2026-000269,automatic,0.0,not_required,,2026-02-27,2026-02-28,Below approval threshold
+APR-000270,PR-2026-000270,manager,5000.0,approved,USR-0006,2026-03-05,2026-03-06,Approved within delegated authority
+APR-000271,PR-2026-000271,automatic,0.0,not_required,,2026-01-07,2026-01-08,Below approval threshold
+APR-000272,PR-2026-000272,automatic,0.0,not_required,,2026-10-13,2026-10-14,Below approval threshold
+APR-000273,PR-2026-000273,automatic,0.0,not_required,,2026-03-11,2026-03-12,Below approval threshold
+APR-000274,PR-2026-000274,manager,5000.0,approved,USR-0010,2026-07-16,2026-07-17,Approved within delegated authority
+APR-000275,PR-2026-000275,automatic,0.0,not_required,,2026-01-27,2026-01-28,Below approval threshold
+APR-000276,PR-2026-000276,manager,5000.0,approved,USR-0001,2026-03-14,2026-03-15,Approved within delegated authority
+APR-000277,PR-2026-000277,manager,5000.0,approved,USR-0002,2026-09-25,2026-09-26,Approved within delegated authority
+APR-000278,PR-2026-000278,automatic,0.0,not_required,,2026-06-19,2026-06-20,Below approval threshold
+APR-000279,PR-2026-000279,manager,5000.0,approved,USR-0004,2026-08-31,2026-09-01,Approved within delegated authority
+APR-000280,PR-2026-000280,manager,5000.0,approved,USR-0005,2026-08-16,2026-08-17,Approved within delegated authority
+APR-000281,PR-2026-000281,automatic,0.0,not_required,,2026-08-07,2026-08-08,Below approval threshold
+APR-000282,PR-2026-000282,manager,5000.0,approved,USR-0007,2026-10-18,2026-10-19,Approved within delegated authority
+APR-000283,PR-2026-000283,automatic,0.0,not_required,,2026-06-12,2026-06-13,Below approval threshold
+APR-000284,PR-2026-000284,manager,5000.0,approved,USR-0009,2026-10-03,2026-10-04,Approved within delegated authority
+APR-000285,PR-2026-000285,automatic,0.0,not_required,,2026-08-19,2026-08-20,Below approval threshold
+APR-000286,PR-2026-000286,manager,5000.0,approved,USR-0011,2026-08-08,2026-08-09,Approved within delegated authority
+APR-000287,PR-2026-000287,automatic,0.0,not_required,,2026-01-15,2026-01-16,Below approval threshold
+APR-000288,PR-2026-000288,automatic,0.0,not_required,,2026-04-11,2026-04-12,Below approval threshold
+APR-000289,PR-2026-000289,automatic,0.0,not_required,,2026-08-24,2026-08-25,Below approval threshold
+APR-000290,PR-2026-000290,manager,5000.0,approved,USR-0004,2026-05-15,2026-05-16,Approved within delegated authority
+APR-000291,PR-2026-000291,automatic,0.0,not_required,,2026-10-01,2026-10-02,Below approval threshold
+APR-000292,PR-2026-000292,manager,5000.0,approved,USR-0006,2026-07-22,2026-07-23,Approved within delegated authority
+APR-000293,PR-2026-000293,automatic,0.0,not_required,,2026-10-17,2026-10-18,Below approval threshold
+APR-000294,PR-2026-000294,manager,5000.0,approved,USR-0008,2026-05-23,2026-05-24,Approved within delegated authority
+APR-000295,PR-2026-000295,automatic,0.0,not_required,,2026-04-17,2026-04-18,Below approval threshold
+APR-000296,PR-2026-000296,manager,5000.0,approved,USR-0010,2026-08-20,2026-08-21,Approved within delegated authority
+APR-000297,PR-2026-000297,manager,5000.0,approved,USR-0011,2026-05-18,2026-05-19,Approved within delegated authority
+APR-000298,PR-2026-000298,automatic,0.0,not_required,,2026-05-22,2026-05-23,Below approval threshold
+APR-000299,PR-2026-000299,manager,5000.0,approved,USR-0002,2026-07-12,2026-07-13,Approved within delegated authority
+APR-000300,PR-2026-000300,automatic,0.0,not_required,,2026-05-01,2026-05-02,Below approval threshold
+APR-000301,PR-2026-000301,automatic,0.0,not_required,,2026-09-02,2026-09-03,Below approval threshold
+APR-000302,PR-2026-000302,manager,5000.0,approved,USR-0005,2026-05-22,2026-05-23,Approved within delegated authority
+APR-000303,PR-2026-000303,manager,5000.0,approved,USR-0006,2026-09-07,2026-09-08,Approved within delegated authority
+APR-000304,PR-2026-000304,automatic,0.0,not_required,,2026-05-16,2026-05-17,Below approval threshold
+APR-000305,PR-2026-000305,manager,5000.0,approved,USR-0008,2026-10-28,2026-10-29,Approved within delegated authority
+APR-000306,PR-2026-000306,manager,5000.0,approved,USR-0009,2026-10-09,2026-10-10,Approved within delegated authority
+APR-000307,PR-2026-000307,automatic,0.0,not_required,,2026-03-03,2026-03-04,Below approval threshold
+APR-000308,PR-2026-000308,manager,5000.0,approved,USR-0011,2026-04-10,2026-04-11,Approved within delegated authority
+APR-000309,PR-2026-000309,manager,5000.0,approved,USR-0001,2026-09-05,2026-09-06,Approved within delegated authority
+APR-000310,PR-2026-000310,manager,5000.0,approved,USR-0002,2026-02-16,2026-02-17,Approved within delegated authority
+APR-000311,PR-2026-000311,manager,5000.0,approved,USR-0003,2026-03-13,2026-03-14,Approved within delegated authority
+APR-000312,PR-2026-000312,manager,5000.0,approved,USR-0004,2026-04-19,2026-04-20,Approved within delegated authority
+APR-000313,PR-2026-000313,manager,5000.0,approved,USR-0005,2026-07-04,2026-07-05,Approved within delegated authority
+APR-000314,PR-2026-000314,automatic,0.0,not_required,,2026-09-28,2026-09-29,Below approval threshold
+APR-000315,PR-2026-000315,manager,5000.0,approved,USR-0007,2026-08-09,2026-08-10,Approved within delegated authority
+APR-000316,PR-2026-000316,manager,5000.0,approved,USR-0008,2026-03-27,2026-03-28,Approved within delegated authority
+APR-000317,PR-2026-000317,manager,5000.0,approved,USR-0009,2026-09-25,2026-09-26,Approved within delegated authority
+APR-000318,PR-2026-000318,manager,5000.0,approved,USR-0010,2026-07-31,2026-08-01,Approved within delegated authority
+APR-000319,PR-2026-000319,manager,5000.0,approved,USR-0011,2026-10-25,2026-10-26,Approved within delegated authority
+APR-000320,PR-2026-000320,manager,5000.0,approved,USR-0001,2026-07-28,2026-07-29,Approved within delegated authority
+APR-000321,PR-2026-000321,manager,5000.0,approved,USR-0002,2026-11-02,2026-11-03,Approved within delegated authority
+APR-000322,PR-2026-000322,manager,5000.0,approved,USR-0003,2026-08-23,2026-08-24,Approved within delegated authority
+APR-000323,PR-2026-000323,automatic,0.0,not_required,,2026-07-30,2026-07-31,Below approval threshold
+APR-000324,PR-2026-000324,manager,5000.0,approved,USR-0005,2026-02-21,2026-02-22,Approved within delegated authority
+APR-000325,PR-2026-000325,manager,5000.0,approved,USR-0006,2026-02-06,2026-02-07,Approved within delegated authority
+APR-000326,PR-2026-000326,manager,5000.0,approved,USR-0007,2026-03-07,2026-03-08,Approved within delegated authority
+APR-000327,PR-2026-000327,manager,5000.0,approved,USR-0008,2026-04-22,2026-04-23,Approved within delegated authority
+APR-000328,PR-2026-000328,manager,5000.0,approved,USR-0009,2026-10-24,2026-10-25,Approved within delegated authority
+APR-000329,PR-2026-000329,manager,5000.0,approved,USR-0010,2026-07-11,2026-07-12,Approved within delegated authority
+APR-000330,PR-2026-000330,automatic,0.0,not_required,,2026-08-01,2026-08-02,Below approval threshold
+APR-000331,PR-2026-000331,automatic,0.0,not_required,,2026-05-01,2026-05-02,Below approval threshold
+APR-000332,PR-2026-000332,manager,5000.0,approved,USR-0002,2026-09-28,2026-09-29,Approved within delegated authority
+APR-000333,PR-2026-000333,manager,5000.0,approved,USR-0003,2026-03-28,2026-03-29,Approved within delegated authority
+APR-000334,PR-2026-000334,automatic,0.0,not_required,,2026-09-24,2026-09-25,Below approval threshold
+APR-000335,PR-2026-000335,automatic,0.0,not_required,,2026-08-16,2026-08-17,Below approval threshold
+APR-000336,PR-2026-000336,manager,5000.0,approved,USR-0006,2026-05-21,2026-05-22,Approved within delegated authority
+APR-000337,PR-2026-000337,manager,5000.0,approved,USR-0007,2026-07-15,2026-07-16,Approved within delegated authority
+APR-000338,PR-2026-000338,automatic,0.0,not_required,,2026-01-06,2026-01-07,Below approval threshold
+APR-000339,PR-2026-000339,manager,5000.0,approved,USR-0009,2026-03-03,2026-03-04,Approved within delegated authority
+APR-000340,PR-2026-000340,manager,5000.0,approved,USR-0010,2026-03-04,2026-03-05,Approved within delegated authority
+APR-000341,PR-2026-000341,manager,5000.0,approved,USR-0011,2026-03-28,2026-03-29,Approved within delegated authority
+APR-000342,PR-2026-000342,automatic,0.0,not_required,,2026-08-26,2026-08-27,Below approval threshold
+APR-000343,PR-2026-000343,manager,5000.0,approved,USR-0002,2026-11-05,2026-11-06,Approved within delegated authority
+APR-000344,PR-2026-000344,manager,5000.0,approved,USR-0003,2026-08-02,2026-08-03,Approved within delegated authority
+APR-000345,PR-2026-000345,manager,5000.0,approved,USR-0004,2026-09-11,2026-09-12,Approved within delegated authority
+APR-000346,PR-2026-000346,manager,5000.0,approved,USR-0005,2026-01-19,2026-01-20,Approved within delegated authority
+APR-000347,PR-2026-000347,manager,5000.0,approved,USR-0006,2026-06-10,2026-06-11,Approved within delegated authority
+APR-000348,PR-2026-000348,manager,5000.0,approved,USR-0007,2026-02-24,2026-02-25,Approved within delegated authority
+APR-000349,PR-2026-000349,automatic,0.0,not_required,,2026-01-11,2026-01-12,Below approval threshold
+APR-000350,PR-2026-000350,manager,5000.0,approved,USR-0009,2026-06-07,2026-06-08,Approved within delegated authority
+APR-000351,PR-2026-000351,manager,5000.0,approved,USR-0010,2026-08-09,2026-08-10,Approved within delegated authority
+APR-000352,PR-2026-000352,manager,5000.0,approved,USR-0011,2026-03-31,2026-04-01,Approved within delegated authority
+APR-000353,PR-2026-000353,automatic,0.0,not_required,,2026-07-13,2026-07-14,Below approval threshold
+APR-000354,PR-2026-000354,automatic,0.0,not_required,,2026-03-07,2026-03-08,Below approval threshold
+APR-000355,PR-2026-000355,automatic,0.0,not_required,,2026-11-02,2026-11-03,Below approval threshold
+APR-000356,PR-2026-000356,manager,5000.0,approved,USR-0004,2026-08-29,2026-08-30,Approved within delegated authority
+APR-000357,PR-2026-000357,manager,5000.0,approved,USR-0005,2026-01-17,2026-01-18,Approved within delegated authority
+APR-000358,PR-2026-000358,automatic,0.0,not_required,,2026-03-09,2026-03-10,Below approval threshold
+APR-000359,PR-2026-000359,manager,5000.0,approved,USR-0007,2026-08-18,2026-08-19,Approved within delegated authority
+APR-000360,PR-2026-000360,manager,5000.0,approved,USR-0008,2026-07-21,2026-07-22,Approved within delegated authority
+APR-000361,PR-2026-000361,automatic,0.0,not_required,,2026-09-24,2026-09-25,Below approval threshold
+APR-000362,PR-2026-000362,automatic,0.0,not_required,,2026-07-03,2026-07-04,Below approval threshold
+APR-000363,PR-2026-000363,automatic,0.0,not_required,,2026-05-08,2026-05-09,Below approval threshold
+APR-000364,PR-2026-000364,automatic,0.0,not_required,,2026-08-25,2026-08-26,Below approval threshold
+APR-000365,PR-2026-000365,manager,5000.0,approved,USR-0002,2026-05-28,2026-05-29,Approved within delegated authority
+APR-000366,PR-2026-000366,manager,5000.0,approved,USR-0003,2026-01-14,2026-01-15,Approved within delegated authority
+APR-000367,PR-2026-000367,manager,5000.0,approved,USR-0004,2026-04-18,2026-04-19,Approved within delegated authority
+APR-000368,PR-2026-000368,manager,5000.0,approved,USR-0005,2026-01-09,2026-01-10,Approved within delegated authority
+APR-000369,PR-2026-000369,manager,5000.0,approved,USR-0006,2026-07-19,2026-07-20,Approved within delegated authority
+APR-000370,PR-2026-000370,automatic,0.0,not_required,,2026-08-20,2026-08-21,Below approval threshold
+APR-000371,PR-2026-000371,automatic,0.0,not_required,,2026-10-27,2026-10-28,Below approval threshold
+APR-000372,PR-2026-000372,manager,5000.0,approved,USR-0009,2026-11-09,2026-11-10,Approved within delegated authority
+APR-000373,PR-2026-000373,manager,5000.0,approved,USR-0010,2026-07-28,2026-07-29,Approved within delegated authority
+APR-000374,PR-2026-000374,manager,5000.0,approved,USR-0011,2026-02-18,2026-02-19,Approved within delegated authority
+APR-000375,PR-2026-000375,manager,5000.0,approved,USR-0001,2026-06-30,2026-07-01,Approved within delegated authority
+APR-000376,PR-2026-000376,manager,5000.0,approved,USR-0002,2026-09-10,2026-09-11,Approved within delegated authority
+APR-000377,PR-2026-000377,manager,5000.0,approved,USR-0003,2026-03-18,2026-03-19,Approved within delegated authority
+APR-000378,PR-2026-000378,automatic,0.0,not_required,,2026-11-08,2026-11-09,Below approval threshold
+APR-000379,PR-2026-000379,manager,5000.0,approved,USR-0005,2026-09-27,2026-09-28,Approved within delegated authority
+APR-000380,PR-2026-000380,automatic,0.0,not_required,,2026-09-19,2026-09-20,Below approval threshold
+APR-000381,PR-2026-000381,manager,5000.0,approved,USR-0007,2026-01-12,2026-01-13,Approved within delegated authority
+APR-000382,PR-2026-000382,manager,5000.0,approved,USR-0008,2026-04-21,2026-04-22,Approved within delegated authority
+APR-000383,PR-2026-000383,manager,5000.0,approved,USR-0009,2026-11-12,2026-11-13,Approved within delegated authority
+APR-000384,PR-2026-000384,manager,5000.0,approved,USR-0010,2026-06-09,2026-06-10,Approved within delegated authority
+APR-000385,PR-2026-000385,automatic,0.0,not_required,,2026-04-05,2026-04-06,Below approval threshold
+APR-000386,PR-2026-000386,manager,5000.0,approved,USR-0001,2026-02-26,2026-02-27,Approved within delegated authority
+APR-000387,PR-2026-000387,automatic,0.0,not_required,,2026-05-06,2026-05-07,Below approval threshold
+APR-000388,PR-2026-000388,manager,5000.0,approved,USR-0003,2026-06-07,2026-06-08,Approved within delegated authority
+APR-000389,PR-2026-000389,manager,5000.0,approved,USR-0004,2026-07-30,2026-07-31,Approved within delegated authority
+APR-000390,PR-2026-000390,manager,5000.0,approved,USR-0005,2026-02-24,2026-02-25,Approved within delegated authority
+APR-000391,PR-2026-000391,automatic,0.0,not_required,,2026-06-27,2026-06-28,Below approval threshold
+APR-000392,PR-2026-000392,manager,5000.0,approved,USR-0007,2026-05-09,2026-05-10,Approved within delegated authority
+APR-000393,PR-2026-000393,manager,5000.0,approved,USR-0008,2026-10-04,2026-10-05,Approved within delegated authority
+APR-000394,PR-2026-000394,manager,5000.0,approved,USR-0009,2026-04-03,2026-04-04,Approved within delegated authority
+APR-000395,PR-2026-000395,automatic,0.0,not_required,,2026-08-18,2026-08-19,Below approval threshold
+APR-000396,PR-2026-000396,manager,5000.0,approved,USR-0011,2026-04-14,2026-04-15,Approved within delegated authority
+APR-000397,PR-2026-000397,manager,5000.0,approved,USR-0001,2026-05-15,2026-05-16,Approved within delegated authority
+APR-000398,PR-2026-000398,manager,5000.0,approved,USR-0002,2026-11-21,2026-11-22,Approved within delegated authority
+APR-000399,PR-2026-000399,manager,5000.0,approved,USR-0003,2026-03-26,2026-03-27,Approved within delegated authority
+APR-000400,PR-2026-000400,manager,5000.0,approved,USR-0004,2026-02-13,2026-02-14,Approved within delegated authority
+APR-000401,PR-2026-000401,manager,5000.0,approved,USR-0005,2026-06-02,2026-06-03,Approved within delegated authority
+APR-000402,PR-2026-000402,automatic,0.0,not_required,,2026-08-04,2026-08-05,Below approval threshold
+APR-000403,PR-2026-000403,automatic,0.0,not_required,,2026-08-29,2026-08-30,Below approval threshold
+APR-000404,PR-2026-000404,manager,5000.0,approved,USR-0008,2026-01-28,2026-01-29,Approved within delegated authority
+APR-000405,PR-2026-000405,automatic,0.0,not_required,,2026-08-09,2026-08-10,Below approval threshold
+APR-000406,PR-2026-000406,automatic,0.0,not_required,,2026-10-10,2026-10-11,Below approval threshold
+APR-000407,PR-2026-000407,automatic,0.0,not_required,,2026-05-16,2026-05-17,Below approval threshold
+APR-000408,PR-2026-000408,manager,5000.0,approved,USR-0001,2026-01-18,2026-01-19,Approved within delegated authority
+APR-000409,PR-2026-000409,manager,5000.0,approved,USR-0002,2026-09-07,2026-09-08,Approved within delegated authority
+APR-000410,PR-2026-000410,manager,5000.0,approved,USR-0003,2026-04-24,2026-04-25,Approved within delegated authority
+APR-000411,PR-2026-000411,automatic,0.0,not_required,,2026-04-30,2026-05-01,Below approval threshold
+APR-000412,PR-2026-000412,automatic,0.0,not_required,,2026-08-21,2026-08-22,Below approval threshold
+APR-000413,PR-2026-000413,manager,5000.0,approved,USR-0006,2026-06-12,2026-06-13,Approved within delegated authority
+APR-000414,PR-2026-000414,manager,5000.0,approved,USR-0007,2026-09-12,2026-09-13,Approved within delegated authority
+APR-000415,PR-2026-000415,manager,5000.0,approved,USR-0008,2026-01-19,2026-01-20,Approved within delegated authority
+APR-000416,PR-2026-000416,automatic,0.0,not_required,,2026-01-17,2026-01-18,Below approval threshold
+APR-000417,PR-2026-000417,manager,5000.0,approved,USR-0010,2026-04-10,2026-04-11,Approved within delegated authority
+APR-000418,PR-2026-000418,manager,5000.0,approved,USR-0011,2026-03-28,2026-03-29,Approved within delegated authority
+APR-000419,PR-2026-000419,automatic,0.0,not_required,,2026-07-20,2026-07-21,Below approval threshold
+APR-000420,PR-2026-000420,automatic,0.0,not_required,,2026-10-29,2026-10-30,Below approval threshold
+APR-000421,PR-2026-000421,manager,5000.0,approved,USR-0003,2026-10-16,2026-10-17,Approved within delegated authority
+APR-000422,PR-2026-000422,automatic,0.0,not_required,,2026-05-13,2026-05-14,Below approval threshold
+APR-000423,PR-2026-000423,manager,5000.0,approved,USR-0005,2026-07-14,2026-07-15,Approved within delegated authority
+APR-000424,PR-2026-000424,manager,5000.0,approved,USR-0006,2026-06-23,2026-06-24,Approved within delegated authority
+APR-000425,PR-2026-000425,manager,5000.0,approved,USR-0007,2026-01-27,2026-01-28,Approved within delegated authority
+APR-000426,PR-2026-000426,manager,5000.0,approved,USR-0008,2026-09-21,2026-09-22,Approved within delegated authority
+APR-000427,PR-2026-000427,manager,5000.0,approved,USR-0009,2026-08-01,2026-08-02,Approved within delegated authority
+APR-000428,PR-2026-000428,automatic,0.0,not_required,,2026-10-21,2026-10-22,Below approval threshold
+APR-000429,PR-2026-000429,automatic,0.0,not_required,,2026-10-04,2026-10-05,Below approval threshold
+APR-000430,PR-2026-000430,manager,5000.0,approved,USR-0001,2026-02-04,2026-02-05,Approved within delegated authority
+APR-000431,PR-2026-000431,manager,5000.0,approved,USR-0002,2026-06-21,2026-06-22,Approved within delegated authority
+APR-000432,PR-2026-000432,manager,5000.0,approved,USR-0003,2026-03-25,2026-03-26,Approved within delegated authority
+APR-000433,PR-2026-000433,manager,5000.0,approved,USR-0004,2026-11-01,2026-11-02,Approved within delegated authority
+APR-000434,PR-2026-000434,automatic,0.0,not_required,,2026-01-14,2026-01-15,Below approval threshold
+APR-000435,PR-2026-000435,manager,5000.0,approved,USR-0006,2026-07-23,2026-07-24,Approved within delegated authority
+APR-000436,PR-2026-000436,manager,5000.0,approved,USR-0007,2026-07-05,2026-07-06,Approved within delegated authority
+APR-000437,PR-2026-000437,automatic,0.0,not_required,,2026-05-02,2026-05-03,Below approval threshold
+APR-000438,PR-2026-000438,manager,5000.0,approved,USR-0009,2026-03-03,2026-03-04,Approved within delegated authority
+APR-000439,PR-2026-000439,automatic,0.0,not_required,,2026-08-14,2026-08-15,Below approval threshold
+APR-000440,PR-2026-000440,manager,5000.0,approved,USR-0011,2026-08-22,2026-08-23,Approved within delegated authority
+APR-000441,PR-2026-000441,automatic,0.0,not_required,,2026-02-05,2026-02-06,Below approval threshold
+APR-000442,PR-2026-000442,automatic,0.0,not_required,,2026-06-24,2026-06-25,Below approval threshold
+APR-000443,PR-2026-000443,automatic,0.0,not_required,,2026-04-12,2026-04-13,Below approval threshold
+APR-000444,PR-2026-000444,automatic,0.0,not_required,,2026-02-01,2026-02-02,Below approval threshold
+APR-000445,PR-2026-000445,manager,5000.0,approved,USR-0005,2026-09-12,2026-09-13,Approved within delegated authority
+APR-000446,PR-2026-000446,automatic,0.0,not_required,,2026-10-15,2026-10-16,Below approval threshold
+APR-000447,PR-2026-000447,manager,5000.0,approved,USR-0007,2026-05-08,2026-05-09,Approved within delegated authority
+APR-000448,PR-2026-000448,manager,5000.0,approved,USR-0008,2026-08-08,2026-08-09,Approved within delegated authority
+APR-000449,PR-2026-000449,automatic,0.0,not_required,,2026-07-03,2026-07-04,Below approval threshold
+APR-000450,PR-2026-000450,automatic,0.0,not_required,,2026-05-22,2026-05-23,Below approval threshold
+APR-000451,PR-2026-000451,manager,5000.0,approved,USR-0011,2026-11-06,2026-11-07,Approved within delegated authority
+APR-000452,PR-2026-000452,automatic,0.0,not_required,,2026-10-06,2026-10-07,Below approval threshold
+APR-000453,PR-2026-000453,manager,5000.0,approved,USR-0002,2026-09-11,2026-09-12,Approved within delegated authority
+APR-000454,PR-2026-000454,manager,5000.0,approved,USR-0003,2026-07-13,2026-07-14,Approved within delegated authority
+APR-000455,PR-2026-000455,automatic,0.0,not_required,,2026-04-22,2026-04-23,Below approval threshold
+APR-000456,PR-2026-000456,manager,5000.0,approved,USR-0005,2026-01-12,2026-01-13,Approved within delegated authority
+APR-000457,PR-2026-000457,manager,5000.0,approved,USR-0006,2026-03-17,2026-03-18,Approved within delegated authority
+APR-000458,PR-2026-000458,manager,5000.0,approved,USR-0007,2026-02-01,2026-02-02,Approved within delegated authority
+APR-000459,PR-2026-000459,automatic,0.0,not_required,,2026-02-09,2026-02-10,Below approval threshold
+APR-000460,PR-2026-000460,automatic,0.0,not_required,,2026-07-22,2026-07-23,Below approval threshold
+APR-000461,PR-2026-000461,manager,5000.0,approved,USR-0010,2026-11-14,2026-11-15,Approved within delegated authority
+APR-000462,PR-2026-000462,manager,5000.0,approved,USR-0011,2026-06-01,2026-06-02,Approved within delegated authority
+APR-000463,PR-2026-000463,manager,5000.0,approved,USR-0001,2026-04-16,2026-04-17,Approved within delegated authority
+APR-000464,PR-2026-000464,automatic,0.0,not_required,,2026-05-08,2026-05-09,Below approval threshold
+APR-000465,PR-2026-000465,manager,5000.0,approved,USR-0003,2026-01-16,2026-01-17,Approved within delegated authority
+APR-000466,PR-2026-000466,automatic,0.0,not_required,,2026-10-10,2026-10-11,Below approval threshold
+APR-000467,PR-2026-000467,manager,5000.0,approved,USR-0005,2026-02-28,2026-03-01,Approved within delegated authority
+APR-000468,PR-2026-000468,manager,5000.0,approved,USR-0006,2026-06-22,2026-06-23,Approved within delegated authority
+APR-000469,PR-2026-000469,manager,5000.0,approved,USR-0007,2026-10-03,2026-10-04,Approved within delegated authority
+APR-000470,PR-2026-000470,automatic,0.0,not_required,,2026-01-18,2026-01-19,Below approval threshold
+APR-000471,PR-2026-000471,automatic,0.0,not_required,,2026-02-24,2026-02-25,Below approval threshold
+APR-000472,PR-2026-000472,automatic,0.0,not_required,,2026-05-13,2026-05-14,Below approval threshold
+APR-000473,PR-2026-000473,automatic,0.0,not_required,,2026-04-11,2026-04-12,Below approval threshold
+APR-000474,PR-2026-000474,automatic,0.0,not_required,,2026-03-08,2026-03-09,Below approval threshold
+APR-000475,PR-2026-000475,manager,5000.0,approved,USR-0002,2026-09-04,2026-09-05,Approved within delegated authority
+APR-000476,PR-2026-000476,manager,5000.0,approved,USR-0003,2026-05-18,2026-05-19,Approved within delegated authority
+APR-000477,PR-2026-000477,automatic,0.0,not_required,,2026-04-11,2026-04-12,Below approval threshold
+APR-000478,PR-2026-000478,manager,5000.0,approved,USR-0005,2026-08-21,2026-08-22,Approved within delegated authority
+APR-000479,PR-2026-000479,automatic,0.0,not_required,,2026-06-21,2026-06-22,Below approval threshold
+APR-000480,PR-2026-000480,automatic,0.0,not_required,,2026-10-30,2026-10-31,Below approval threshold
+APR-000481,PR-2026-000481,manager,5000.0,approved,USR-0008,2026-02-11,2026-02-12,Approved within delegated authority
+APR-000482,PR-2026-000482,automatic,0.0,not_required,,2026-04-20,2026-04-21,Below approval threshold
+APR-000483,PR-2026-000483,automatic,0.0,not_required,,2026-02-25,2026-02-26,Below approval threshold
+APR-000484,PR-2026-000484,manager,5000.0,approved,USR-0011,2026-05-27,2026-05-28,Approved within delegated authority
+APR-000485,PR-2026-000485,manager,5000.0,approved,USR-0001,2026-10-21,2026-10-22,Approved within delegated authority
+APR-000486,PR-2026-000486,manager,5000.0,approved,USR-0002,2026-02-28,2026-03-01,Approved within delegated authority
+APR-000487,PR-2026-000487,manager,5000.0,approved,USR-0003,2026-10-24,2026-10-25,Approved within delegated authority
+APR-000488,PR-2026-000488,manager,5000.0,approved,USR-0004,2026-10-26,2026-10-27,Approved within delegated authority
+APR-000489,PR-2026-000489,automatic,0.0,not_required,,2026-03-18,2026-03-19,Below approval threshold
+APR-000490,PR-2026-000490,manager,5000.0,approved,USR-0006,2026-10-22,2026-10-23,Approved within delegated authority
+APR-000491,PR-2026-000491,automatic,0.0,not_required,,2026-10-03,2026-10-04,Below approval threshold
+APR-000492,PR-2026-000492,manager,5000.0,approved,USR-0008,2026-07-21,2026-07-22,Approved within delegated authority
+APR-000493,PR-2026-000493,manager,5000.0,approved,USR-0009,2026-10-15,2026-10-16,Approved within delegated authority
+APR-000494,PR-2026-000494,manager,5000.0,approved,USR-0010,2026-03-15,2026-03-16,Approved within delegated authority
+APR-000495,PR-2026-000495,automatic,0.0,not_required,,2026-04-22,2026-04-23,Below approval threshold
+APR-000496,PR-2026-000496,manager,5000.0,approved,USR-0001,2026-02-05,2026-02-06,Approved within delegated authority
+APR-000497,PR-2026-000497,automatic,0.0,not_required,,2026-04-17,2026-04-18,Below approval threshold
+APR-000498,PR-2026-000498,manager,5000.0,approved,USR-0003,2026-06-25,2026-06-26,Approved within delegated authority
+APR-000499,PR-2026-000499,manager,5000.0,approved,USR-0004,2026-04-24,2026-04-25,Approved within delegated authority
+APR-000500,PR-2026-000500,automatic,0.0,not_required,,2026-10-03,2026-10-04,Below approval threshold
+APR-000501,PR-2026-000501,automatic,0.0,not_required,,2026-03-03,2026-03-04,Below approval threshold
+APR-000502,PR-2026-000502,automatic,0.0,not_required,,2026-01-24,2026-01-25,Below approval threshold
+APR-000503,PR-2026-000503,automatic,0.0,not_required,,2026-06-16,2026-06-17,Below approval threshold
+APR-000504,PR-2026-000504,automatic,0.0,not_required,,2026-11-04,2026-11-05,Below approval threshold
+APR-000505,PR-2026-000505,manager,5000.0,approved,USR-0010,2026-05-21,2026-05-22,Approved within delegated authority
+APR-000506,PR-2026-000506,manager,5000.0,approved,USR-0011,2026-02-12,2026-02-13,Approved within delegated authority
+APR-000507,PR-2026-000507,manager,5000.0,approved,USR-0001,2026-06-13,2026-06-14,Approved within delegated authority
+APR-000508,PR-2026-000508,automatic,0.0,not_required,,2026-09-23,2026-09-24,Below approval threshold
+APR-000509,PR-2026-000509,manager,5000.0,approved,USR-0003,2026-09-17,2026-09-18,Approved within delegated authority
+APR-000510,PR-2026-000510,manager,5000.0,approved,USR-0004,2026-09-23,2026-09-24,Approved within delegated authority
+APR-000511,PR-2026-000511,manager,5000.0,approved,USR-0005,2026-11-01,2026-11-02,Approved within delegated authority
+APR-000512,PR-2026-000512,manager,5000.0,approved,USR-0006,2026-01-26,2026-01-27,Approved within delegated authority
+APR-000513,PR-2026-000513,automatic,0.0,not_required,,2026-06-09,2026-06-10,Below approval threshold
+APR-000514,PR-2026-000514,manager,5000.0,approved,USR-0008,2026-10-17,2026-10-18,Approved within delegated authority
+APR-000515,PR-2026-000515,automatic,0.0,not_required,,2026-02-07,2026-02-08,Below approval threshold
+APR-000516,PR-2026-000516,manager,5000.0,approved,USR-0010,2026-11-18,2026-11-19,Approved within delegated authority
+APR-000517,PR-2026-000517,manager,5000.0,approved,USR-0011,2026-02-24,2026-02-25,Approved within delegated authority
+APR-000518,PR-2026-000518,manager,5000.0,approved,USR-0001,2026-03-14,2026-03-15,Approved within delegated authority
+APR-000519,PR-2026-000519,manager,5000.0,approved,USR-0002,2026-02-22,2026-02-23,Approved within delegated authority
+APR-000520,PR-2026-000520,manager,5000.0,approved,USR-0003,2026-08-28,2026-08-29,Approved within delegated authority
+APR-000521,PR-2026-000521,manager,5000.0,approved,USR-0004,2026-10-04,2026-10-05,Approved within delegated authority
+APR-000522,PR-2026-000522,manager,5000.0,approved,USR-0005,2026-02-13,2026-02-14,Approved within delegated authority
+APR-000523,PR-2026-000523,manager,5000.0,approved,USR-0006,2026-06-24,2026-06-25,Approved within delegated authority
+APR-000524,PR-2026-000524,manager,5000.0,approved,USR-0007,2026-05-05,2026-05-06,Approved within delegated authority
+APR-000525,PR-2026-000525,automatic,0.0,not_required,,2026-10-02,2026-10-03,Below approval threshold
+APR-000526,PR-2026-000526,manager,5000.0,approved,USR-0009,2026-08-22,2026-08-23,Approved within delegated authority
+APR-000527,PR-2026-000527,automatic,0.0,not_required,,2026-01-14,2026-01-15,Below approval threshold
+APR-000528,PR-2026-000528,manager,5000.0,approved,USR-0011,2026-06-07,2026-06-08,Approved within delegated authority
+APR-000529,PR-2026-000529,automatic,0.0,not_required,,2026-11-18,2026-11-19,Below approval threshold
+APR-000530,PR-2026-000530,manager,5000.0,approved,USR-0002,2026-09-29,2026-09-30,Approved within delegated authority
+APR-000531,PR-2026-000531,manager,5000.0,approved,USR-0003,2026-07-25,2026-07-26,Approved within delegated authority
+APR-000532,PR-2026-000532,manager,5000.0,approved,USR-0004,2026-01-12,2026-01-13,Approved within delegated authority
+APR-000533,PR-2026-000533,manager,5000.0,approved,USR-0005,2026-10-12,2026-10-13,Approved within delegated authority
+APR-000534,PR-2026-000534,manager,5000.0,approved,USR-0006,2026-08-14,2026-08-15,Approved within delegated authority
+APR-000535,PR-2026-000535,manager,5000.0,approved,USR-0007,2026-11-08,2026-11-09,Approved within delegated authority
+APR-000536,PR-2026-000536,automatic,0.0,not_required,,2026-01-26,2026-01-27,Below approval threshold
+APR-000537,PR-2026-000537,manager,5000.0,approved,USR-0009,2026-04-01,2026-04-02,Approved within delegated authority
+APR-000538,PR-2026-000538,manager,5000.0,approved,USR-0010,2026-11-20,2026-11-21,Approved within delegated authority
+APR-000539,PR-2026-000539,automatic,0.0,not_required,,2026-09-10,2026-09-11,Below approval threshold
+APR-000540,PR-2026-000540,manager,5000.0,approved,USR-0001,2026-08-20,2026-08-21,Approved within delegated authority
+APR-000541,PR-2026-000541,manager,5000.0,approved,USR-0002,2026-03-11,2026-03-12,Approved within delegated authority
+APR-000542,PR-2026-000542,manager,5000.0,approved,USR-0003,2026-01-06,2026-01-07,Approved within delegated authority
+APR-000543,PR-2026-000543,manager,5000.0,approved,USR-0004,2026-06-30,2026-07-01,Approved within delegated authority
+APR-000544,PR-2026-000544,automatic,0.0,not_required,,2026-07-22,2026-07-23,Below approval threshold
+APR-000545,PR-2026-000545,manager,5000.0,approved,USR-0006,2026-07-05,2026-07-06,Approved within delegated authority
+APR-000546,PR-2026-000546,manager,5000.0,approved,USR-0007,2026-03-22,2026-03-23,Approved within delegated authority
+APR-000547,PR-2026-000547,manager,5000.0,approved,USR-0008,2026-07-17,2026-07-18,Approved within delegated authority
+APR-000548,PR-2026-000548,automatic,0.0,not_required,,2026-08-29,2026-08-30,Below approval threshold
+APR-000549,PR-2026-000549,manager,5000.0,approved,USR-0010,2026-05-08,2026-05-09,Approved within delegated authority
+APR-000550,PR-2026-000550,manager,5000.0,approved,USR-0011,2026-06-12,2026-06-13,Approved within delegated authority
+APR-000551,PR-2026-000551,automatic,0.0,not_required,,2026-06-29,2026-06-30,Below approval threshold
+APR-000552,PR-2026-000552,manager,5000.0,approved,USR-0002,2026-05-25,2026-05-26,Approved within delegated authority
+APR-000553,PR-2026-000553,automatic,0.0,not_required,,2026-05-18,2026-05-19,Below approval threshold
+APR-000554,PR-2026-000554,manager,5000.0,approved,USR-0004,2026-03-20,2026-03-21,Approved within delegated authority
+APR-000555,PR-2026-000555,manager,5000.0,approved,USR-0005,2026-01-16,2026-01-17,Approved within delegated authority
+APR-000556,PR-2026-000556,automatic,0.0,not_required,,2026-01-23,2026-01-24,Below approval threshold
+APR-000557,PR-2026-000557,manager,5000.0,approved,USR-0007,2026-10-19,2026-10-20,Approved within delegated authority
+APR-000558,PR-2026-000558,manager,5000.0,approved,USR-0008,2026-11-18,2026-11-19,Approved within delegated authority
+APR-000559,PR-2026-000559,manager,5000.0,approved,USR-0009,2026-11-12,2026-11-13,Approved within delegated authority
+APR-000560,PR-2026-000560,automatic,0.0,not_required,,2026-07-10,2026-07-11,Below approval threshold
+APR-000561,PR-2026-000561,automatic,0.0,not_required,,2026-04-20,2026-04-21,Below approval threshold
+APR-000562,PR-2026-000562,automatic,0.0,not_required,,2026-01-09,2026-01-10,Below approval threshold
+APR-000563,PR-2026-000563,automatic,0.0,not_required,,2026-05-29,2026-05-30,Below approval threshold
+APR-000564,PR-2026-000564,automatic,0.0,not_required,,2026-07-24,2026-07-25,Below approval threshold
+APR-000565,PR-2026-000565,automatic,0.0,not_required,,2026-10-29,2026-10-30,Below approval threshold
+APR-000566,PR-2026-000566,manager,5000.0,approved,USR-0005,2026-03-13,2026-03-14,Approved within delegated authority
+APR-000567,PR-2026-000567,automatic,0.0,not_required,,2026-03-02,2026-03-03,Below approval threshold
+APR-000568,PR-2026-000568,manager,5000.0,approved,USR-0007,2026-09-05,2026-09-06,Approved within delegated authority
+APR-000569,PR-2026-000569,automatic,0.0,not_required,,2026-03-27,2026-03-28,Below approval threshold
+APR-000570,PR-2026-000570,automatic,0.0,not_required,,2026-07-20,2026-07-21,Below approval threshold
+APR-000571,PR-2026-000571,automatic,0.0,not_required,,2026-01-31,2026-02-01,Below approval threshold
+APR-000572,PR-2026-000572,automatic,0.0,not_required,,2026-06-17,2026-06-18,Below approval threshold
+APR-000573,PR-2026-000573,manager,5000.0,approved,USR-0001,2026-07-09,2026-07-10,Approved within delegated authority
+APR-000574,PR-2026-000574,manager,5000.0,approved,USR-0002,2026-09-01,2026-09-02,Approved within delegated authority
+APR-000575,PR-2026-000575,automatic,0.0,not_required,,2026-01-23,2026-01-24,Below approval threshold
+APR-000576,PR-2026-000576,manager,5000.0,approved,USR-0004,2026-11-20,2026-11-21,Approved within delegated authority
+APR-000577,PR-2026-000577,manager,5000.0,approved,USR-0005,2026-04-09,2026-04-10,Approved within delegated authority
+APR-000578,PR-2026-000578,manager,5000.0,approved,USR-0006,2026-09-04,2026-09-05,Approved within delegated authority
+APR-000579,PR-2026-000579,manager,5000.0,approved,USR-0007,2026-09-30,2026-10-01,Approved within delegated authority
+APR-000580,PR-2026-000580,manager,5000.0,approved,USR-0008,2026-07-04,2026-07-05,Approved within delegated authority
+APR-000581,PR-2026-000581,manager,5000.0,approved,USR-0009,2026-01-22,2026-01-23,Approved within delegated authority
+APR-000582,PR-2026-000582,manager,5000.0,approved,USR-0010,2026-02-16,2026-02-17,Approved within delegated authority
+APR-000583,PR-2026-000583,manager,5000.0,approved,USR-0011,2026-03-03,2026-03-04,Approved within delegated authority
+APR-000584,PR-2026-000584,automatic,0.0,not_required,,2026-07-30,2026-07-31,Below approval threshold
+APR-000585,PR-2026-000585,manager,5000.0,approved,USR-0002,2026-10-17,2026-10-18,Approved within delegated authority
+APR-000586,PR-2026-000586,manager,5000.0,approved,USR-0003,2026-08-14,2026-08-15,Approved within delegated authority
+APR-000587,PR-2026-000587,manager,5000.0,approved,USR-0004,2026-10-15,2026-10-16,Approved within delegated authority
+APR-000588,PR-2026-000588,automatic,0.0,not_required,,2026-10-22,2026-10-23,Below approval threshold
+APR-000589,PR-2026-000589,automatic,0.0,not_required,,2026-05-24,2026-05-25,Below approval threshold
+APR-000590,PR-2026-000590,manager,5000.0,approved,USR-0007,2026-04-19,2026-04-20,Approved within delegated authority
+APR-000591,PR-2026-000591,automatic,0.0,not_required,,2026-06-23,2026-06-24,Below approval threshold
+APR-000592,PR-2026-000592,automatic,0.0,not_required,,2026-01-24,2026-01-25,Below approval threshold
+APR-000593,PR-2026-000593,automatic,0.0,not_required,,2026-07-27,2026-07-28,Below approval threshold
+APR-000594,PR-2026-000594,manager,5000.0,approved,USR-0011,2026-04-07,2026-04-08,Approved within delegated authority
+APR-000595,PR-2026-000595,automatic,0.0,not_required,,2026-04-02,2026-04-03,Below approval threshold
+APR-000596,PR-2026-000596,automatic,0.0,not_required,,2026-11-07,2026-11-08,Below approval threshold
+APR-000597,PR-2026-000597,manager,5000.0,approved,USR-0003,2026-04-10,2026-04-11,Approved within delegated authority
+APR-000598,PR-2026-000598,automatic,0.0,not_required,,2026-08-26,2026-08-27,Below approval threshold
+APR-000599,PR-2026-000599,manager,5000.0,approved,USR-0005,2026-08-20,2026-08-21,Approved within delegated authority
+APR-000600,PR-2026-000600,automatic,0.0,not_required,,2026-06-30,2026-07-01,Below approval threshold
+APR-000601,PR-2026-000601,automatic,0.0,not_required,,2026-04-18,2026-04-19,Below approval threshold
+APR-000602,PR-2026-000602,manager,5000.0,approved,USR-0008,2026-08-18,2026-08-19,Approved within delegated authority
+APR-000603,PR-2026-000603,manager,5000.0,approved,USR-0009,2026-06-11,2026-06-12,Approved within delegated authority
+APR-000604,PR-2026-000604,automatic,0.0,not_required,,2026-05-12,2026-05-13,Below approval threshold
+APR-000605,PR-2026-000605,manager,5000.0,approved,USR-0011,2026-01-25,2026-01-26,Approved within delegated authority
+APR-000606,PR-2026-000606,manager,5000.0,approved,USR-0001,2026-01-29,2026-01-30,Approved within delegated authority
+APR-000607,PR-2026-000607,manager,5000.0,approved,USR-0002,2026-05-05,2026-05-06,Approved within delegated authority
+APR-000608,PR-2026-000608,automatic,0.0,not_required,,2026-09-25,2026-09-26,Below approval threshold
+APR-000609,PR-2026-000609,automatic,0.0,not_required,,2026-05-29,2026-05-30,Below approval threshold
+APR-000610,PR-2026-000610,automatic,0.0,not_required,,2026-09-13,2026-09-14,Below approval threshold
+APR-000611,PR-2026-000611,automatic,0.0,not_required,,2026-04-27,2026-04-28,Below approval threshold
+APR-000612,PR-2026-000612,manager,5000.0,approved,USR-0007,2026-07-13,2026-07-14,Approved within delegated authority
+APR-000613,PR-2026-000613,automatic,0.0,not_required,,2026-06-17,2026-06-18,Below approval threshold
+APR-000614,PR-2026-000614,automatic,0.0,not_required,,2026-07-05,2026-07-06,Below approval threshold
+APR-000615,PR-2026-000615,manager,5000.0,approved,USR-0010,2026-03-15,2026-03-16,Approved within delegated authority
+APR-000616,PR-2026-000616,manager,5000.0,approved,USR-0011,2026-08-16,2026-08-17,Approved within delegated authority
+APR-000617,PR-2026-000617,automatic,0.0,not_required,,2026-09-13,2026-09-14,Below approval threshold
+APR-000618,PR-2026-000618,manager,5000.0,approved,USR-0002,2026-06-03,2026-06-04,Approved within delegated authority
+APR-000619,PR-2026-000619,manager,5000.0,approved,USR-0003,2026-01-16,2026-01-17,Approved within delegated authority
+APR-000620,PR-2026-000620,automatic,0.0,not_required,,2026-02-19,2026-02-20,Below approval threshold
+APR-000621,PR-2026-000621,manager,5000.0,approved,USR-0005,2026-02-02,2026-02-03,Approved within delegated authority
+APR-000622,PR-2026-000622,automatic,0.0,not_required,,2026-04-19,2026-04-20,Below approval threshold
+APR-000623,PR-2026-000623,manager,5000.0,approved,USR-0007,2026-06-16,2026-06-17,Approved within delegated authority
+APR-000624,PR-2026-000624,manager,5000.0,approved,USR-0008,2026-05-16,2026-05-17,Approved within delegated authority
+APR-000625,PR-2026-000625,manager,5000.0,approved,USR-0009,2026-05-14,2026-05-15,Approved within delegated authority
+APR-000626,PR-2026-000626,automatic,0.0,not_required,,2026-03-05,2026-03-06,Below approval threshold
+APR-000627,PR-2026-000627,manager,5000.0,approved,USR-0011,2026-07-21,2026-07-22,Approved within delegated authority
+APR-000628,PR-2026-000628,manager,5000.0,approved,USR-0001,2026-08-26,2026-08-27,Approved within delegated authority
+APR-000629,PR-2026-000629,manager,5000.0,approved,USR-0002,2026-08-25,2026-08-26,Approved within delegated authority
+APR-000630,PR-2026-000630,manager,5000.0,approved,USR-0003,2026-03-30,2026-03-31,Approved within delegated authority
+APR-000631,PR-2026-000631,manager,5000.0,approved,USR-0004,2026-02-07,2026-02-08,Approved within delegated authority
+APR-000632,PR-2026-000632,manager,5000.0,approved,USR-0005,2026-10-10,2026-10-11,Approved within delegated authority
+APR-000633,PR-2026-000633,manager,5000.0,approved,USR-0006,2026-01-24,2026-01-25,Approved within delegated authority
+APR-000634,PR-2026-000634,automatic,0.0,not_required,,2026-09-20,2026-09-21,Below approval threshold
+APR-000635,PR-2026-000635,manager,5000.0,approved,USR-0008,2026-02-02,2026-02-03,Approved within delegated authority
+APR-000636,PR-2026-000636,manager,5000.0,approved,USR-0009,2026-10-11,2026-10-12,Approved within delegated authority
+APR-000637,PR-2026-000637,manager,5000.0,approved,USR-0010,2026-04-11,2026-04-12,Approved within delegated authority
+APR-000638,PR-2026-000638,automatic,0.0,not_required,,2026-01-31,2026-02-01,Below approval threshold
+APR-000639,PR-2026-000639,manager,5000.0,approved,USR-0001,2026-11-14,2026-11-15,Approved within delegated authority
+APR-000640,PR-2026-000640,automatic,0.0,not_required,,2026-04-17,2026-04-18,Below approval threshold
+APR-000641,PR-2026-000641,automatic,0.0,not_required,,2026-06-07,2026-06-08,Below approval threshold
+APR-000642,PR-2026-000642,manager,5000.0,approved,USR-0004,2026-08-29,2026-08-30,Approved within delegated authority
+APR-000643,PR-2026-000643,automatic,0.0,not_required,,2026-10-30,2026-10-31,Below approval threshold
+APR-000644,PR-2026-000644,automatic,0.0,not_required,,2026-02-26,2026-02-27,Below approval threshold
+APR-000645,PR-2026-000645,manager,5000.0,approved,USR-0007,2026-10-24,2026-10-25,Approved within delegated authority
+APR-000646,PR-2026-000646,manager,5000.0,approved,USR-0008,2026-06-04,2026-06-05,Approved within delegated authority
+APR-000647,PR-2026-000647,manager,5000.0,approved,USR-0009,2026-10-01,2026-10-02,Approved within delegated authority
+APR-000648,PR-2026-000648,automatic,0.0,not_required,,2026-02-17,2026-02-18,Below approval threshold
+APR-000649,PR-2026-000649,manager,5000.0,approved,USR-0011,2026-04-29,2026-04-30,Approved within delegated authority
+APR-000650,PR-2026-000650,manager,5000.0,approved,USR-0001,2026-05-13,2026-05-14,Approved within delegated authority
+APR-000651,PR-2026-000651,manager,5000.0,approved,USR-0002,2026-03-08,2026-03-09,Approved within delegated authority
+APR-000652,PR-2026-000652,automatic,0.0,not_required,,2026-01-29,2026-01-30,Below approval threshold
+APR-000653,PR-2026-000653,manager,5000.0,approved,USR-0004,2026-04-30,2026-05-01,Approved within delegated authority
+APR-000654,PR-2026-000654,manager,5000.0,approved,USR-0005,2026-01-12,2026-01-13,Approved within delegated authority
+APR-000655,PR-2026-000655,manager,5000.0,approved,USR-0006,2026-04-19,2026-04-20,Approved within delegated authority
+APR-000656,PR-2026-000656,manager,5000.0,approved,USR-0007,2026-02-12,2026-02-13,Approved within delegated authority
+APR-000657,PR-2026-000657,automatic,0.0,not_required,,2026-06-06,2026-06-07,Below approval threshold
+APR-000658,PR-2026-000658,automatic,0.0,not_required,,2026-11-05,2026-11-06,Below approval threshold
+APR-000659,PR-2026-000659,automatic,0.0,not_required,,2026-06-23,2026-06-24,Below approval threshold
+APR-000660,PR-2026-000660,manager,5000.0,approved,USR-0011,2026-05-08,2026-05-09,Approved within delegated authority
+APR-000661,PR-2026-000661,automatic,0.0,not_required,,2026-09-09,2026-09-10,Below approval threshold
+APR-000662,PR-2026-000662,manager,5000.0,approved,USR-0002,2026-02-25,2026-02-26,Approved within delegated authority
+APR-000663,PR-2026-000663,automatic,0.0,not_required,,2026-10-15,2026-10-16,Below approval threshold
+APR-000664,PR-2026-000664,automatic,0.0,not_required,,2026-02-26,2026-02-27,Below approval threshold
+APR-000665,PR-2026-000665,manager,5000.0,approved,USR-0005,2026-11-03,2026-11-04,Approved within delegated authority
+APR-000666,PR-2026-000666,automatic,0.0,not_required,,2026-10-06,2026-10-07,Below approval threshold
+APR-000667,PR-2026-000667,automatic,0.0,not_required,,2026-07-08,2026-07-09,Below approval threshold
+APR-000668,PR-2026-000668,manager,5000.0,approved,USR-0008,2026-04-08,2026-04-09,Approved within delegated authority
+APR-000669,PR-2026-000669,manager,5000.0,approved,USR-0009,2026-08-06,2026-08-07,Approved within delegated authority
+APR-000670,PR-2026-000670,manager,5000.0,approved,USR-0010,2026-03-18,2026-03-19,Approved within delegated authority
+APR-000671,PR-2026-000671,manager,5000.0,approved,USR-0011,2026-10-07,2026-10-08,Approved within delegated authority
+APR-000672,PR-2026-000672,automatic,0.0,not_required,,2026-08-19,2026-08-20,Below approval threshold
+APR-000673,PR-2026-000673,automatic,0.0,not_required,,2026-10-18,2026-10-19,Below approval threshold
+APR-000674,PR-2026-000674,manager,5000.0,approved,USR-0003,2026-05-17,2026-05-18,Approved within delegated authority
+APR-000675,PR-2026-000675,manager,5000.0,approved,USR-0004,2026-07-21,2026-07-22,Approved within delegated authority
+APR-000676,PR-2026-000676,manager,5000.0,approved,USR-0005,2026-10-02,2026-10-03,Approved within delegated authority
+APR-000677,PR-2026-000677,manager,5000.0,approved,USR-0006,2026-09-27,2026-09-28,Approved within delegated authority
+APR-000678,PR-2026-000678,automatic,0.0,not_required,,2026-02-05,2026-02-06,Below approval threshold
+APR-000679,PR-2026-000679,manager,5000.0,approved,USR-0008,2026-05-07,2026-05-08,Approved within delegated authority
+APR-000680,PR-2026-000680,manager,5000.0,approved,USR-0009,2026-11-17,2026-11-18,Approved within delegated authority
+APR-000681,PR-2026-000681,manager,5000.0,approved,USR-0010,2026-05-08,2026-05-09,Approved within delegated authority
+APR-000682,PR-2026-000682,manager,5000.0,approved,USR-0011,2026-01-24,2026-01-25,Approved within delegated authority
+APR-000683,PR-2026-000683,manager,5000.0,approved,USR-0001,2026-05-08,2026-05-09,Approved within delegated authority
+APR-000684,PR-2026-000684,automatic,0.0,not_required,,2026-07-11,2026-07-12,Below approval threshold
+APR-000685,PR-2026-000685,manager,5000.0,approved,USR-0003,2026-08-25,2026-08-26,Approved within delegated authority
+APR-000686,PR-2026-000686,manager,5000.0,approved,USR-0004,2026-08-02,2026-08-03,Approved within delegated authority
+APR-000687,PR-2026-000687,automatic,0.0,not_required,,2026-07-13,2026-07-14,Below approval threshold
+APR-000688,PR-2026-000688,manager,5000.0,approved,USR-0006,2026-01-30,2026-01-31,Approved within delegated authority
+APR-000689,PR-2026-000689,manager,5000.0,approved,USR-0007,2026-06-20,2026-06-21,Approved within delegated authority
+APR-000690,PR-2026-000690,manager,5000.0,approved,USR-0008,2026-10-06,2026-10-07,Approved within delegated authority
+APR-000691,PR-2026-000691,manager,5000.0,approved,USR-0009,2026-08-09,2026-08-10,Approved within delegated authority
+APR-000692,PR-2026-000692,automatic,0.0,not_required,,2026-04-20,2026-04-21,Below approval threshold
+APR-000693,PR-2026-000693,manager,5000.0,approved,USR-0011,2026-08-22,2026-08-23,Approved within delegated authority
+APR-000694,PR-2026-000694,automatic,0.0,not_required,,2026-10-18,2026-10-19,Below approval threshold
+APR-000695,PR-2026-000695,manager,5000.0,approved,USR-0002,2026-04-24,2026-04-25,Approved within delegated authority
+APR-000696,PR-2026-000696,manager,5000.0,approved,USR-0003,2026-09-19,2026-09-20,Approved within delegated authority
+APR-000697,PR-2026-000697,automatic,0.0,not_required,,2026-01-30,2026-01-31,Below approval threshold
+APR-000698,PR-2026-000698,manager,5000.0,approved,USR-0005,2026-07-19,2026-07-20,Approved within delegated authority
+APR-000699,PR-2026-000699,automatic,0.0,not_required,,2026-02-02,2026-02-03,Below approval threshold
+APR-000700,PR-2026-000700,manager,5000.0,approved,USR-0007,2026-01-22,2026-01-23,Approved within delegated authority
+APR-000701,PR-2026-000701,manager,5000.0,approved,USR-0008,2026-03-04,2026-03-05,Approved within delegated authority
+APR-000702,PR-2026-000702,automatic,0.0,not_required,,2026-11-20,2026-11-21,Below approval threshold
+APR-000703,PR-2026-000703,automatic,0.0,not_required,,2026-05-13,2026-05-14,Below approval threshold
+APR-000704,PR-2026-000704,automatic,0.0,not_required,,2026-08-19,2026-08-20,Below approval threshold
+APR-000705,PR-2026-000705,manager,5000.0,approved,USR-0001,2026-10-27,2026-10-28,Approved within delegated authority
+APR-000706,PR-2026-000706,manager,5000.0,approved,USR-0002,2026-04-05,2026-04-06,Approved within delegated authority
+APR-000707,PR-2026-000707,manager,5000.0,approved,USR-0003,2026-04-27,2026-04-28,Approved within delegated authority
+APR-000708,PR-2026-000708,automatic,0.0,not_required,,2026-07-02,2026-07-03,Below approval threshold
+APR-000709,PR-2026-000709,manager,5000.0,approved,USR-0005,2026-09-24,2026-09-25,Approved within delegated authority
+APR-000710,PR-2026-000710,automatic,0.0,not_required,,2026-05-22,2026-05-23,Below approval threshold
+APR-000711,PR-2026-000711,manager,5000.0,approved,USR-0007,2026-09-24,2026-09-25,Approved within delegated authority
+APR-000712,PR-2026-000712,automatic,0.0,not_required,,2026-04-01,2026-04-02,Below approval threshold
+APR-000713,PR-2026-000713,manager,5000.0,approved,USR-0009,2026-05-04,2026-05-05,Approved within delegated authority
+APR-000714,PR-2026-000714,automatic,0.0,not_required,,2026-11-21,2026-11-22,Below approval threshold
+APR-000715,PR-2026-000715,manager,5000.0,approved,USR-0011,2026-11-03,2026-11-04,Approved within delegated authority
+APR-000716,PR-2026-000716,manager,5000.0,approved,USR-0001,2026-06-25,2026-06-26,Approved within delegated authority
+APR-000717,PR-2026-000717,manager,5000.0,approved,USR-0002,2026-04-08,2026-04-09,Approved within delegated authority
+APR-000718,PR-2026-000718,manager,5000.0,approved,USR-0003,2026-05-02,2026-05-03,Approved within delegated authority
+APR-000719,PR-2026-000719,automatic,0.0,not_required,,2026-02-04,2026-02-05,Below approval threshold
+APR-000720,PR-2026-000720,manager,5000.0,approved,USR-0005,2026-07-31,2026-08-01,Approved within delegated authority
+APR-000721,PR-2026-000721,manager,5000.0,approved,USR-0006,2026-11-05,2026-11-06,Approved within delegated authority
+APR-000722,PR-2026-000722,manager,5000.0,approved,USR-0007,2026-03-18,2026-03-19,Approved within delegated authority
+APR-000723,PR-2026-000723,automatic,0.0,not_required,,2026-08-14,2026-08-15,Below approval threshold
+APR-000724,PR-2026-000724,automatic,0.0,not_required,,2026-10-05,2026-10-06,Below approval threshold
+APR-000725,PR-2026-000725,manager,5000.0,approved,USR-0010,2026-09-21,2026-09-22,Approved within delegated authority
+APR-000726,PR-2026-000726,manager,5000.0,approved,USR-0011,2026-01-28,2026-01-29,Approved within delegated authority
+APR-000727,PR-2026-000727,manager,5000.0,approved,USR-0001,2026-06-12,2026-06-13,Approved within delegated authority
+APR-000728,PR-2026-000728,manager,5000.0,approved,USR-0002,2026-10-28,2026-10-29,Approved within delegated authority
+APR-000729,PR-2026-000729,manager,5000.0,approved,USR-0003,2026-11-04,2026-11-05,Approved within delegated authority
+APR-000730,PR-2026-000730,automatic,0.0,not_required,,2026-02-06,2026-02-07,Below approval threshold
+APR-000731,PR-2026-000731,manager,5000.0,approved,USR-0005,2026-04-09,2026-04-10,Approved within delegated authority
+APR-000732,PR-2026-000732,manager,5000.0,approved,USR-0006,2026-01-18,2026-01-19,Approved within delegated authority
+APR-000733,PR-2026-000733,automatic,0.0,not_required,,2026-11-03,2026-11-04,Below approval threshold
+APR-000734,PR-2026-000734,manager,5000.0,approved,USR-0008,2026-05-30,2026-05-31,Approved within delegated authority
+APR-000735,PR-2026-000735,manager,5000.0,approved,USR-0009,2026-09-16,2026-09-17,Approved within delegated authority
+APR-000736,PR-2026-000736,manager,5000.0,approved,USR-0010,2026-01-30,2026-01-31,Approved within delegated authority
+APR-000737,PR-2026-000737,automatic,0.0,not_required,,2026-07-03,2026-07-04,Below approval threshold
+APR-000738,PR-2026-000738,automatic,0.0,not_required,,2026-01-11,2026-01-12,Below approval threshold
+APR-000739,PR-2026-000739,manager,5000.0,approved,USR-0002,2026-05-26,2026-05-27,Approved within delegated authority
+APR-000740,PR-2026-000740,automatic,0.0,not_required,,2026-07-20,2026-07-21,Below approval threshold
+APR-000741,PR-2026-000741,manager,5000.0,approved,USR-0004,2026-07-17,2026-07-18,Approved within delegated authority
+APR-000742,PR-2026-000742,manager,5000.0,approved,USR-0005,2026-08-12,2026-08-13,Approved within delegated authority
+APR-000743,PR-2026-000743,automatic,0.0,not_required,,2026-01-31,2026-02-01,Below approval threshold
+APR-000744,PR-2026-000744,manager,5000.0,approved,USR-0007,2026-03-01,2026-03-02,Approved within delegated authority
+APR-000745,PR-2026-000745,automatic,0.0,not_required,,2026-03-11,2026-03-12,Below approval threshold
+APR-000746,PR-2026-000746,manager,5000.0,approved,USR-0009,2026-01-07,2026-01-08,Approved within delegated authority
+APR-000747,PR-2026-000747,automatic,0.0,not_required,,2026-07-01,2026-07-02,Below approval threshold
+APR-000748,PR-2026-000748,manager,5000.0,approved,USR-0011,2026-03-06,2026-03-07,Approved within delegated authority
+APR-000749,PR-2026-000749,automatic,0.0,not_required,,2026-05-21,2026-05-22,Below approval threshold
+APR-000750,PR-2026-000750,manager,5000.0,approved,USR-0002,2026-09-13,2026-09-14,Approved within delegated authority
+APR-000751,PR-2026-000751,manager,5000.0,approved,USR-0003,2026-05-21,2026-05-22,Approved within delegated authority
+APR-000752,PR-2026-000752,automatic,0.0,not_required,,2026-10-09,2026-10-10,Below approval threshold
+APR-000753,PR-2026-000753,automatic,0.0,not_required,,2026-07-08,2026-07-09,Below approval threshold
+APR-000754,PR-2026-000754,manager,5000.0,approved,USR-0006,2026-03-31,2026-04-01,Approved within delegated authority
+APR-000755,PR-2026-000755,manager,5000.0,approved,USR-0007,2026-11-12,2026-11-13,Approved within delegated authority
+APR-000756,PR-2026-000756,automatic,0.0,not_required,,2026-11-06,2026-11-07,Below approval threshold
+APR-000757,PR-2026-000757,automatic,0.0,not_required,,2026-03-16,2026-03-17,Below approval threshold
+APR-000758,PR-2026-000758,automatic,0.0,not_required,,2026-10-07,2026-10-08,Below approval threshold
+APR-000759,PR-2026-000759,manager,5000.0,approved,USR-0011,2026-05-19,2026-05-20,Approved within delegated authority
+APR-000760,PR-2026-000760,manager,5000.0,approved,USR-0001,2026-04-11,2026-04-12,Approved within delegated authority
+APR-000761,PR-2026-000761,automatic,0.0,not_required,,2026-01-30,2026-01-31,Below approval threshold
+APR-000762,PR-2026-000762,manager,5000.0,approved,USR-0003,2026-09-28,2026-09-29,Approved within delegated authority
+APR-000763,PR-2026-000763,automatic,0.0,not_required,,2026-03-19,2026-03-20,Below approval threshold
+APR-000764,PR-2026-000764,automatic,0.0,not_required,,2026-03-08,2026-03-09,Below approval threshold
+APR-000765,PR-2026-000765,manager,5000.0,approved,USR-0006,2026-06-28,2026-06-29,Approved within delegated authority
+APR-000766,PR-2026-000766,automatic,0.0,not_required,,2026-02-02,2026-02-03,Below approval threshold
+APR-000767,PR-2026-000767,manager,5000.0,approved,USR-0008,2026-09-13,2026-09-14,Approved within delegated authority
+APR-000768,PR-2026-000768,manager,5000.0,approved,USR-0009,2026-09-15,2026-09-16,Approved within delegated authority
+APR-000769,PR-2026-000769,manager,5000.0,approved,USR-0010,2026-02-23,2026-02-24,Approved within delegated authority
+APR-000770,PR-2026-000770,manager,5000.0,approved,USR-0011,2026-02-16,2026-02-17,Approved within delegated authority
+APR-000771,PR-2026-000771,automatic,0.0,not_required,,2026-08-17,2026-08-18,Below approval threshold
+APR-000772,PR-2026-000772,manager,5000.0,approved,USR-0002,2026-07-25,2026-07-26,Approved within delegated authority
+APR-000773,PR-2026-000773,manager,5000.0,approved,USR-0003,2026-02-12,2026-02-13,Approved within delegated authority
+APR-000774,PR-2026-000774,manager,5000.0,approved,USR-0004,2026-04-20,2026-04-21,Approved within delegated authority
+APR-000775,PR-2026-000775,manager,5000.0,approved,USR-0005,2026-01-12,2026-01-13,Approved within delegated authority
+APR-000776,PR-2026-000776,automatic,0.0,not_required,,2026-07-22,2026-07-23,Below approval threshold
+APR-000777,PR-2026-000777,manager,5000.0,approved,USR-0007,2026-05-19,2026-05-20,Approved within delegated authority
+APR-000778,PR-2026-000778,automatic,0.0,not_required,,2026-02-06,2026-02-07,Below approval threshold
+APR-000779,PR-2026-000779,manager,5000.0,approved,USR-0009,2026-10-20,2026-10-21,Approved within delegated authority
+APR-000780,PR-2026-000780,manager,5000.0,approved,USR-0010,2026-10-31,2026-11-01,Approved within delegated authority
+APR-000781,PR-2026-000781,manager,5000.0,approved,USR-0011,2026-05-30,2026-05-31,Approved within delegated authority
+APR-000782,PR-2026-000782,manager,5000.0,approved,USR-0001,2026-05-08,2026-05-09,Approved within delegated authority
+APR-000783,PR-2026-000783,automatic,0.0,not_required,,2026-02-28,2026-03-01,Below approval threshold
+APR-000784,PR-2026-000784,manager,5000.0,approved,USR-0003,2026-09-02,2026-09-03,Approved within delegated authority
+APR-000785,PR-2026-000785,automatic,0.0,not_required,,2026-10-04,2026-10-05,Below approval threshold
+APR-000786,PR-2026-000786,automatic,0.0,not_required,,2026-06-13,2026-06-14,Below approval threshold
+APR-000787,PR-2026-000787,manager,5000.0,approved,USR-0006,2026-06-05,2026-06-06,Approved within delegated authority
+APR-000788,PR-2026-000788,automatic,0.0,not_required,,2026-01-15,2026-01-16,Below approval threshold
+APR-000789,PR-2026-000789,manager,5000.0,approved,USR-0008,2026-09-03,2026-09-04,Approved within delegated authority
+APR-000790,PR-2026-000790,manager,5000.0,approved,USR-0009,2026-10-14,2026-10-15,Approved within delegated authority
+APR-000791,PR-2026-000791,automatic,0.0,not_required,,2026-10-08,2026-10-09,Below approval threshold
+APR-000792,PR-2026-000792,automatic,0.0,not_required,,2026-10-13,2026-10-14,Below approval threshold
+APR-000793,PR-2026-000793,manager,5000.0,approved,USR-0001,2026-01-24,2026-01-25,Approved within delegated authority
+APR-000794,PR-2026-000794,automatic,0.0,not_required,,2026-02-28,2026-03-01,Below approval threshold
+APR-000795,PR-2026-000795,automatic,0.0,not_required,,2026-09-04,2026-09-05,Below approval threshold
+APR-000796,PR-2026-000796,automatic,0.0,not_required,,2026-05-14,2026-05-15,Below approval threshold
+APR-000797,PR-2026-000797,automatic,0.0,not_required,,2026-11-21,2026-11-22,Below approval threshold
+APR-000798,PR-2026-000798,manager,5000.0,approved,USR-0006,2026-10-19,2026-10-20,Approved within delegated authority
+APR-000799,PR-2026-000799,automatic,0.0,not_required,,2026-04-26,2026-04-27,Below approval threshold
+APR-000800,PR-2026-000800,manager,5000.0,approved,USR-0008,2026-10-09,2026-10-10,Approved within delegated authority
+APR-000801,PR-2026-000801,manager,5000.0,approved,USR-0009,2026-06-25,2026-06-26,Approved within delegated authority
+APR-000802,PR-2026-000802,manager,5000.0,approved,USR-0010,2026-09-11,2026-09-12,Approved within delegated authority
+APR-000803,PR-2026-000803,manager,5000.0,approved,USR-0011,2026-03-01,2026-03-02,Approved within delegated authority
+APR-000804,PR-2026-000804,manager,5000.0,approved,USR-0001,2026-04-26,2026-04-27,Approved within delegated authority
+APR-000805,PR-2026-000805,manager,5000.0,approved,USR-0002,2026-07-22,2026-07-23,Approved within delegated authority
+APR-000806,PR-2026-000806,manager,5000.0,approved,USR-0003,2026-04-15,2026-04-16,Approved within delegated authority
+APR-000807,PR-2026-000807,manager,5000.0,approved,USR-0004,2026-05-22,2026-05-23,Approved within delegated authority
+APR-000808,PR-2026-000808,manager,5000.0,approved,USR-0005,2026-06-16,2026-06-17,Approved within delegated authority
+APR-000809,PR-2026-000809,automatic,0.0,not_required,,2026-05-12,2026-05-13,Below approval threshold
+APR-000810,PR-2026-000810,manager,5000.0,approved,USR-0007,2026-07-12,2026-07-13,Approved within delegated authority
+APR-000811,PR-2026-000811,manager,5000.0,approved,USR-0008,2026-02-14,2026-02-15,Approved within delegated authority
+APR-000812,PR-2026-000812,manager,5000.0,approved,USR-0009,2026-07-14,2026-07-15,Approved within delegated authority
+APR-000813,PR-2026-000813,manager,5000.0,approved,USR-0010,2026-02-14,2026-02-15,Approved within delegated authority
+APR-000814,PR-2026-000814,automatic,0.0,not_required,,2026-05-03,2026-05-04,Below approval threshold
+APR-000815,PR-2026-000815,manager,5000.0,approved,USR-0001,2026-06-14,2026-06-15,Approved within delegated authority
+APR-000816,PR-2026-000816,automatic,0.0,not_required,,2026-10-06,2026-10-07,Below approval threshold
+APR-000817,PR-2026-000817,manager,5000.0,approved,USR-0003,2026-03-01,2026-03-02,Approved within delegated authority
+APR-000818,PR-2026-000818,automatic,0.0,not_required,,2026-01-23,2026-01-24,Below approval threshold
+APR-000819,PR-2026-000819,automatic,0.0,not_required,,2026-07-05,2026-07-06,Below approval threshold
+APR-000820,PR-2026-000820,manager,5000.0,approved,USR-0006,2026-09-15,2026-09-16,Approved within delegated authority
+APR-000821,PR-2026-000821,manager,5000.0,approved,USR-0007,2026-01-28,2026-01-29,Approved within delegated authority
+APR-000822,PR-2026-000822,manager,5000.0,approved,USR-0008,2026-01-16,2026-01-17,Approved within delegated authority
+APR-000823,PR-2026-000823,manager,5000.0,approved,USR-0009,2026-02-03,2026-02-04,Approved within delegated authority
+APR-000824,PR-2026-000824,manager,5000.0,approved,USR-0010,2026-02-19,2026-02-20,Approved within delegated authority
+APR-000825,PR-2026-000825,manager,5000.0,approved,USR-0011,2026-09-07,2026-09-08,Approved within delegated authority
+APR-000826,PR-2026-000826,manager,5000.0,approved,USR-0001,2026-01-06,2026-01-07,Approved within delegated authority
+APR-000827,PR-2026-000827,automatic,0.0,not_required,,2026-08-14,2026-08-15,Below approval threshold
+APR-000828,PR-2026-000828,manager,5000.0,approved,USR-0003,2026-09-22,2026-09-23,Approved within delegated authority
+APR-000829,PR-2026-000829,automatic,0.0,not_required,,2026-02-09,2026-02-10,Below approval threshold
+APR-000830,PR-2026-000830,manager,5000.0,approved,USR-0005,2026-07-24,2026-07-25,Approved within delegated authority
+APR-000831,PR-2026-000831,manager,5000.0,approved,USR-0006,2026-08-15,2026-08-16,Approved within delegated authority
+APR-000832,PR-2026-000832,manager,5000.0,approved,USR-0007,2026-05-27,2026-05-28,Approved within delegated authority
+APR-000833,PR-2026-000833,manager,5000.0,approved,USR-0008,2026-11-07,2026-11-08,Approved within delegated authority
+APR-000834,PR-2026-000834,manager,5000.0,approved,USR-0009,2026-06-08,2026-06-09,Approved within delegated authority
+APR-000835,PR-2026-000835,manager,5000.0,approved,USR-0010,2026-05-29,2026-05-30,Approved within delegated authority
+APR-000836,PR-2026-000836,manager,5000.0,approved,USR-0011,2026-10-11,2026-10-12,Approved within delegated authority
+APR-000837,PR-2026-000837,automatic,0.0,not_required,,2026-02-12,2026-02-13,Below approval threshold
+APR-000838,PR-2026-000838,manager,5000.0,approved,USR-0002,2026-07-28,2026-07-29,Approved within delegated authority
+APR-000839,PR-2026-000839,manager,5000.0,approved,USR-0003,2026-05-27,2026-05-28,Approved within delegated authority
+APR-000840,PR-2026-000840,automatic,0.0,not_required,,2026-02-09,2026-02-10,Below approval threshold
+APR-000841,PR-2026-000841,manager,5000.0,approved,USR-0005,2026-03-02,2026-03-03,Approved within delegated authority
+APR-000842,PR-2026-000842,manager,5000.0,approved,USR-0006,2026-05-28,2026-05-29,Approved within delegated authority
+APR-000843,PR-2026-000843,automatic,0.0,not_required,,2026-09-16,2026-09-17,Below approval threshold
+APR-000844,PR-2026-000844,manager,5000.0,approved,USR-0008,2026-10-18,2026-10-19,Approved within delegated authority
+APR-000845,PR-2026-000845,manager,5000.0,approved,USR-0009,2026-05-12,2026-05-13,Approved within delegated authority
+APR-000846,PR-2026-000846,manager,5000.0,approved,USR-0010,2026-03-28,2026-03-29,Approved within delegated authority
+APR-000847,PR-2026-000847,manager,5000.0,approved,USR-0011,2026-07-20,2026-07-21,Approved within delegated authority
+APR-000848,PR-2026-000848,automatic,0.0,not_required,,2026-04-26,2026-04-27,Below approval threshold
+APR-000849,PR-2026-000849,automatic,0.0,not_required,,2026-10-06,2026-10-07,Below approval threshold
+APR-000850,PR-2026-000850,automatic,0.0,not_required,,2026-09-02,2026-09-03,Below approval threshold
+APR-000851,PR-2026-000851,automatic,0.0,not_required,,2026-06-10,2026-06-11,Below approval threshold
+APR-000852,PR-2026-000852,automatic,0.0,not_required,,2026-08-05,2026-08-06,Below approval threshold
+APR-000853,PR-2026-000853,automatic,0.0,not_required,,2026-02-18,2026-02-19,Below approval threshold
+APR-000854,PR-2026-000854,automatic,0.0,not_required,,2026-02-27,2026-02-28,Below approval threshold
+APR-000855,PR-2026-000855,manager,5000.0,approved,USR-0008,2026-04-01,2026-04-02,Approved within delegated authority
+APR-000856,PR-2026-000856,manager,5000.0,approved,USR-0009,2026-01-16,2026-01-17,Approved within delegated authority
+APR-000857,PR-2026-000857,manager,5000.0,approved,USR-0010,2026-06-10,2026-06-11,Approved within delegated authority
+APR-000858,PR-2026-000858,manager,5000.0,approved,USR-0011,2026-01-25,2026-01-26,Approved within delegated authority
+APR-000859,PR-2026-000859,automatic,0.0,not_required,,2026-03-27,2026-03-28,Below approval threshold
+APR-000860,PR-2026-000860,manager,5000.0,approved,USR-0002,2026-01-19,2026-01-20,Approved within delegated authority
+APR-000861,PR-2026-000861,automatic,0.0,not_required,,2026-01-17,2026-01-18,Below approval threshold
+APR-000862,PR-2026-000862,manager,5000.0,approved,USR-0004,2026-01-08,2026-01-09,Approved within delegated authority
+APR-000863,PR-2026-000863,manager,5000.0,approved,USR-0005,2026-06-08,2026-06-09,Approved within delegated authority
+APR-000864,PR-2026-000864,manager,5000.0,approved,USR-0006,2026-05-01,2026-05-02,Approved within delegated authority
+APR-000865,PR-2026-000865,automatic,0.0,not_required,,2026-10-29,2026-10-30,Below approval threshold
+APR-000866,PR-2026-000866,manager,5000.0,approved,USR-0008,2026-11-20,2026-11-21,Approved within delegated authority
+APR-000867,PR-2026-000867,automatic,0.0,not_required,,2026-03-30,2026-03-31,Below approval threshold
+APR-000868,PR-2026-000868,manager,5000.0,approved,USR-0010,2026-07-15,2026-07-16,Approved within delegated authority
+APR-000869,PR-2026-000869,manager,5000.0,approved,USR-0011,2026-02-23,2026-02-24,Approved within delegated authority
+APR-000870,PR-2026-000870,automatic,0.0,not_required,,2026-03-09,2026-03-10,Below approval threshold
+APR-000871,PR-2026-000871,manager,5000.0,approved,USR-0002,2026-10-11,2026-10-12,Approved within delegated authority
+APR-000872,PR-2026-000872,automatic,0.0,not_required,,2026-11-15,2026-11-16,Below approval threshold
+APR-000873,PR-2026-000873,manager,5000.0,approved,USR-0004,2026-09-23,2026-09-24,Approved within delegated authority
+APR-000874,PR-2026-000874,manager,5000.0,approved,USR-0005,2026-09-08,2026-09-09,Approved within delegated authority
+APR-000875,PR-2026-000875,manager,5000.0,approved,USR-0006,2026-11-20,2026-11-21,Approved within delegated authority
+APR-000876,PR-2026-000876,manager,5000.0,approved,USR-0007,2026-01-23,2026-01-24,Approved within delegated authority
+APR-000877,PR-2026-000877,manager,5000.0,approved,USR-0008,2026-09-19,2026-09-20,Approved within delegated authority
+APR-000878,PR-2026-000878,manager,5000.0,approved,USR-0009,2026-11-17,2026-11-18,Approved within delegated authority
+APR-000879,PR-2026-000879,manager,5000.0,approved,USR-0010,2026-04-18,2026-04-19,Approved within delegated authority
+APR-000880,PR-2026-000880,manager,5000.0,approved,USR-0011,2026-10-13,2026-10-14,Approved within delegated authority
+APR-000881,PR-2026-000881,manager,5000.0,approved,USR-0001,2026-11-07,2026-11-08,Approved within delegated authority
+APR-000882,PR-2026-000882,manager,5000.0,approved,USR-0002,2026-04-03,2026-04-04,Approved within delegated authority
+APR-000883,PR-2026-000883,automatic,0.0,not_required,,2026-04-01,2026-04-02,Below approval threshold
+APR-000884,PR-2026-000884,manager,5000.0,approved,USR-0004,2026-02-26,2026-02-27,Approved within delegated authority
+APR-000885,PR-2026-000885,automatic,0.0,not_required,,2026-05-03,2026-05-04,Below approval threshold
+APR-000886,PR-2026-000886,manager,5000.0,approved,USR-0006,2026-02-10,2026-02-11,Approved within delegated authority
+APR-000887,PR-2026-000887,manager,5000.0,approved,USR-0007,2026-04-19,2026-04-20,Approved within delegated authority
+APR-000888,PR-2026-000888,manager,5000.0,approved,USR-0008,2026-08-01,2026-08-02,Approved within delegated authority
+APR-000889,PR-2026-000889,automatic,0.0,not_required,,2026-08-30,2026-08-31,Below approval threshold
+APR-000890,PR-2026-000890,manager,5000.0,approved,USR-0010,2026-10-17,2026-10-18,Approved within delegated authority
+APR-000891,PR-2026-000891,manager,5000.0,approved,USR-0011,2026-07-30,2026-07-31,Approved within delegated authority
+APR-000892,PR-2026-000892,manager,5000.0,approved,USR-0001,2026-06-13,2026-06-14,Approved within delegated authority
+APR-000893,PR-2026-000893,manager,5000.0,approved,USR-0002,2026-03-14,2026-03-15,Approved within delegated authority
+APR-000894,PR-2026-000894,automatic,0.0,not_required,,2026-11-12,2026-11-13,Below approval threshold
+APR-000895,PR-2026-000895,manager,5000.0,approved,USR-0004,2026-01-08,2026-01-09,Approved within delegated authority
+APR-000896,PR-2026-000896,automatic,0.0,not_required,,2026-03-07,2026-03-08,Below approval threshold
+APR-000897,PR-2026-000897,manager,5000.0,approved,USR-0006,2026-02-01,2026-02-02,Approved within delegated authority
+APR-000898,PR-2026-000898,automatic,0.0,not_required,,2026-11-12,2026-11-13,Below approval threshold
+APR-000899,PR-2026-000899,automatic,0.0,not_required,,2026-06-04,2026-06-05,Below approval threshold
+APR-000900,PR-2026-000900,automatic,0.0,not_required,,2026-05-17,2026-05-18,Below approval threshold
+APR-000901,PR-2026-000901,automatic,0.0,not_required,,2026-05-09,2026-05-10,Below approval threshold
+APR-000902,PR-2026-000902,manager,5000.0,approved,USR-0011,2026-03-20,2026-03-21,Approved within delegated authority
+APR-000903,PR-2026-000903,automatic,0.0,not_required,,2026-10-18,2026-10-19,Below approval threshold
+APR-000904,PR-2026-000904,manager,5000.0,approved,USR-0002,2026-07-31,2026-08-01,Approved within delegated authority
+APR-000905,PR-2026-000905,manager,5000.0,approved,USR-0003,2026-07-18,2026-07-19,Approved within delegated authority
+APR-000906,PR-2026-000906,manager,5000.0,approved,USR-0004,2026-09-28,2026-09-29,Approved within delegated authority
+APR-000907,PR-2026-000907,manager,5000.0,approved,USR-0005,2026-07-20,2026-07-21,Approved within delegated authority
+APR-000908,PR-2026-000908,manager,5000.0,approved,USR-0006,2026-02-27,2026-02-28,Approved within delegated authority
+APR-000909,PR-2026-000909,manager,5000.0,approved,USR-0007,2026-09-07,2026-09-08,Approved within delegated authority
+APR-000910,PR-2026-000910,manager,5000.0,approved,USR-0008,2026-10-17,2026-10-18,Approved within delegated authority
+APR-000911,PR-2026-000911,manager,5000.0,approved,USR-0009,2026-07-01,2026-07-02,Approved within delegated authority
+APR-000912,PR-2026-000912,automatic,0.0,not_required,,2026-01-17,2026-01-18,Below approval threshold
+APR-000913,PR-2026-000913,automatic,0.0,not_required,,2026-10-21,2026-10-22,Below approval threshold
+APR-000914,PR-2026-000914,manager,5000.0,approved,USR-0001,2026-08-29,2026-08-30,Approved within delegated authority
+APR-000915,PR-2026-000915,manager,5000.0,approved,USR-0002,2026-05-14,2026-05-15,Approved within delegated authority
+APR-000916,PR-2026-000916,manager,5000.0,approved,USR-0003,2026-10-10,2026-10-11,Approved within delegated authority
+APR-000917,PR-2026-000917,automatic,0.0,not_required,,2026-03-20,2026-03-21,Below approval threshold
+APR-000918,PR-2026-000918,manager,5000.0,approved,USR-0005,2026-06-11,2026-06-12,Approved within delegated authority
+APR-000919,PR-2026-000919,manager,5000.0,approved,USR-0006,2026-10-05,2026-10-06,Approved within delegated authority
+APR-000920,PR-2026-000920,automatic,0.0,not_required,,2026-03-12,2026-03-13,Below approval threshold
+APR-000921,PR-2026-000921,manager,5000.0,approved,USR-0008,2026-03-30,2026-03-31,Approved within delegated authority
+APR-000922,PR-2026-000922,manager,5000.0,approved,USR-0009,2026-01-12,2026-01-13,Approved within delegated authority
+APR-000923,PR-2026-000923,automatic,0.0,not_required,,2026-08-15,2026-08-16,Below approval threshold
+APR-000924,PR-2026-000924,automatic,0.0,not_required,,2026-01-06,2026-01-07,Below approval threshold
+APR-000925,PR-2026-000925,manager,5000.0,approved,USR-0001,2026-09-22,2026-09-23,Approved within delegated authority
+APR-000926,PR-2026-000926,automatic,0.0,not_required,,2026-04-11,2026-04-12,Below approval threshold
+APR-000927,PR-2026-000927,automatic,0.0,not_required,,2026-09-17,2026-09-18,Below approval threshold
+APR-000928,PR-2026-000928,manager,5000.0,approved,USR-0004,2026-07-09,2026-07-10,Approved within delegated authority
+APR-000929,PR-2026-000929,manager,5000.0,approved,USR-0005,2026-07-26,2026-07-27,Approved within delegated authority
+APR-000930,PR-2026-000930,manager,5000.0,approved,USR-0006,2026-03-17,2026-03-18,Approved within delegated authority
+APR-000931,PR-2026-000931,manager,5000.0,approved,USR-0007,2026-11-10,2026-11-11,Approved within delegated authority
+APR-000932,PR-2026-000932,manager,5000.0,approved,USR-0008,2026-07-23,2026-07-24,Approved within delegated authority
+APR-000933,PR-2026-000933,manager,5000.0,approved,USR-0009,2026-01-15,2026-01-16,Approved within delegated authority
+APR-000934,PR-2026-000934,manager,5000.0,approved,USR-0010,2026-09-11,2026-09-12,Approved within delegated authority
+APR-000935,PR-2026-000935,manager,5000.0,approved,USR-0011,2026-03-09,2026-03-10,Approved within delegated authority
+APR-000936,PR-2026-000936,manager,5000.0,approved,USR-0001,2026-02-11,2026-02-12,Approved within delegated authority
+APR-000937,PR-2026-000937,automatic,0.0,not_required,,2026-04-27,2026-04-28,Below approval threshold
+APR-000938,PR-2026-000938,automatic,0.0,not_required,,2026-05-13,2026-05-14,Below approval threshold
+APR-000939,PR-2026-000939,manager,5000.0,approved,USR-0004,2026-08-02,2026-08-03,Approved within delegated authority
+APR-000940,PR-2026-000940,manager,5000.0,approved,USR-0005,2026-02-20,2026-02-21,Approved within delegated authority
+APR-000941,PR-2026-000941,automatic,0.0,not_required,,2026-03-14,2026-03-15,Below approval threshold
+APR-000942,PR-2026-000942,manager,5000.0,approved,USR-0007,2026-07-11,2026-07-12,Approved within delegated authority
+APR-000943,PR-2026-000943,manager,5000.0,approved,USR-0008,2026-01-06,2026-01-07,Approved within delegated authority
+APR-000944,PR-2026-000944,manager,5000.0,approved,USR-0009,2026-04-07,2026-04-08,Approved within delegated authority
+APR-000945,PR-2026-000945,manager,5000.0,approved,USR-0010,2026-06-21,2026-06-22,Approved within delegated authority
+APR-000946,PR-2026-000946,manager,5000.0,approved,USR-0011,2026-05-30,2026-05-31,Approved within delegated authority
+APR-000947,PR-2026-000947,manager,5000.0,approved,USR-0001,2026-01-13,2026-01-14,Approved within delegated authority
+APR-000948,PR-2026-000948,manager,5000.0,approved,USR-0002,2026-02-23,2026-02-24,Approved within delegated authority
+APR-000949,PR-2026-000949,manager,5000.0,approved,USR-0003,2026-06-13,2026-06-14,Approved within delegated authority
+APR-000950,PR-2026-000950,manager,5000.0,approved,USR-0004,2026-07-10,2026-07-11,Approved within delegated authority
+APR-000951,PR-2026-000951,manager,5000.0,approved,USR-0005,2026-07-15,2026-07-16,Approved within delegated authority
+APR-000952,PR-2026-000952,automatic,0.0,not_required,,2026-07-30,2026-07-31,Below approval threshold
+APR-000953,PR-2026-000953,automatic,0.0,not_required,,2026-01-10,2026-01-11,Below approval threshold
+APR-000954,PR-2026-000954,automatic,0.0,not_required,,2026-09-21,2026-09-22,Below approval threshold
+APR-000955,PR-2026-000955,manager,5000.0,approved,USR-0009,2026-11-14,2026-11-15,Approved within delegated authority
+APR-000956,PR-2026-000956,manager,5000.0,approved,USR-0010,2026-08-24,2026-08-25,Approved within delegated authority
+APR-000957,PR-2026-000957,automatic,0.0,not_required,,2026-05-06,2026-05-07,Below approval threshold
+APR-000958,PR-2026-000958,manager,5000.0,approved,USR-0001,2026-01-30,2026-01-31,Approved within delegated authority
+APR-000959,PR-2026-000959,manager,5000.0,approved,USR-0002,2026-11-02,2026-11-03,Approved within delegated authority
+APR-000960,PR-2026-000960,manager,5000.0,approved,USR-0003,2026-04-20,2026-04-21,Approved within delegated authority
+APR-000961,PR-2026-000961,manager,5000.0,approved,USR-0004,2026-10-10,2026-10-11,Approved within delegated authority
+APR-000962,PR-2026-000962,manager,5000.0,approved,USR-0005,2026-02-04,2026-02-05,Approved within delegated authority
+APR-000963,PR-2026-000963,automatic,0.0,not_required,,2026-03-31,2026-04-01,Below approval threshold
+APR-000964,PR-2026-000964,director,25000.0,approved,USR-0013,2026-07-12,2026-07-13,Approved within delegated authority
+APR-000965,PR-2026-000965,automatic,0.0,not_required,,2026-02-02,2026-02-03,Below approval threshold
+APR-000966,PR-2026-000966,automatic,0.0,not_required,,2026-06-20,2026-06-21,Below approval threshold
+APR-000967,PR-2026-000967,automatic,0.0,not_required,,2026-07-12,2026-07-13,Below approval threshold
+APR-000968,PR-2026-000968,manager,5000.0,approved,USR-0011,2026-06-26,2026-06-27,Approved within delegated authority
+APR-000969,PR-2026-000969,manager,5000.0,approved,USR-0001,2026-09-02,2026-09-03,Approved within delegated authority
+APR-000970,PR-2026-000970,automatic,0.0,not_required,,2026-01-15,2026-01-16,Below approval threshold
+APR-000971,PR-2026-000971,automatic,0.0,not_required,,2026-05-23,2026-05-24,Below approval threshold
+APR-000972,PR-2026-000972,automatic,0.0,not_required,,2026-05-09,2026-05-10,Below approval threshold
+APR-000973,PR-2026-000973,manager,5000.0,approved,USR-0005,2026-09-17,2026-09-18,Approved within delegated authority
+APR-000974,PR-2026-000974,manager,5000.0,approved,USR-0006,2026-11-17,2026-11-18,Approved within delegated authority
+APR-000975,PR-2026-000975,manager,5000.0,approved,USR-0007,2026-07-03,2026-07-04,Approved within delegated authority
+APR-000976,PR-2026-000976,manager,5000.0,approved,USR-0008,2026-11-16,2026-11-17,Approved within delegated authority
+APR-000977,PR-2026-000977,manager,5000.0,approved,USR-0009,2026-07-02,2026-07-03,Approved within delegated authority
+APR-000978,PR-2026-000978,automatic,0.0,not_required,,2026-05-04,2026-05-05,Below approval threshold
+APR-000979,PR-2026-000979,automatic,0.0,not_required,,2026-09-25,2026-09-26,Below approval threshold
+APR-000980,PR-2026-000980,automatic,0.0,not_required,,2026-01-29,2026-01-30,Below approval threshold
+APR-000981,PR-2026-000981,manager,5000.0,approved,USR-0002,2026-01-18,2026-01-19,Approved within delegated authority
+APR-000982,PR-2026-000982,manager,5000.0,approved,USR-0003,2026-05-07,2026-05-08,Approved within delegated authority
+APR-000983,PR-2026-000983,automatic,0.0,not_required,,2026-06-25,2026-06-26,Below approval threshold
+APR-000984,PR-2026-000984,manager,5000.0,approved,USR-0005,2026-08-07,2026-08-08,Approved within delegated authority
+APR-000985,PR-2026-000985,automatic,0.0,not_required,,2026-07-09,2026-07-10,Below approval threshold
+APR-000986,PR-2026-000986,automatic,0.0,not_required,,2026-06-16,2026-06-17,Below approval threshold
+APR-000987,PR-2026-000987,automatic,0.0,not_required,,2026-09-13,2026-09-14,Below approval threshold
+APR-000988,PR-2026-000988,manager,5000.0,approved,USR-0009,2026-06-09,2026-06-10,Approved within delegated authority
+APR-000989,PR-2026-000989,manager,5000.0,approved,USR-0010,2026-05-12,2026-05-13,Approved within delegated authority
+APR-000990,PR-2026-000990,manager,5000.0,approved,USR-0011,2026-04-24,2026-04-25,Approved within delegated authority
+APR-000991,PR-2026-000991,manager,5000.0,approved,USR-0001,2026-02-16,2026-02-17,Approved within delegated authority
+APR-000992,PR-2026-000992,automatic,0.0,not_required,,2026-10-18,2026-10-19,Below approval threshold
+APR-000993,PR-2026-000993,manager,5000.0,approved,USR-0003,2026-07-08,2026-07-09,Approved within delegated authority
+APR-000994,PR-2026-000994,manager,5000.0,approved,USR-0004,2026-06-29,2026-06-30,Approved within delegated authority
+APR-000995,PR-2026-000995,manager,5000.0,approved,USR-0005,2026-07-02,2026-07-03,Approved within delegated authority
+APR-000996,PR-2026-000996,automatic,0.0,not_required,,2026-04-19,2026-04-20,Below approval threshold
+APR-000997,PR-2026-000997,automatic,0.0,not_required,,2026-06-08,2026-06-09,Below approval threshold
+APR-000998,PR-2026-000998,automatic,0.0,not_required,,2026-02-05,2026-02-06,Below approval threshold
+APR-000999,PR-2026-000999,manager,5000.0,approved,USR-0009,2026-03-21,2026-03-22,Approved within delegated authority
+APR-001000,PR-2026-001000,manager,5000.0,approved,USR-0010,2026-04-05,2026-04-06,Approved within delegated authority
+APR-001001,PR-2026-001001,manager,5000.0,approved,USR-0011,2026-05-31,2026-06-01,Approved within delegated authority
+APR-001002,PR-2026-001002,automatic,0.0,not_required,,2026-04-18,2026-04-19,Below approval threshold
+APR-001003,PR-2026-001003,automatic,0.0,not_required,,2026-03-04,2026-03-05,Below approval threshold
+APR-001004,PR-2026-001004,manager,5000.0,approved,USR-0003,2026-10-27,2026-10-28,Approved within delegated authority
+APR-001005,PR-2026-001005,manager,5000.0,approved,USR-0004,2026-03-17,2026-03-18,Approved within delegated authority
+APR-001006,PR-2026-001006,manager,5000.0,approved,USR-0005,2026-07-13,2026-07-14,Approved within delegated authority
+APR-001007,PR-2026-001007,manager,5000.0,approved,USR-0006,2026-01-08,2026-01-09,Approved within delegated authority
+APR-001008,PR-2026-001008,manager,5000.0,approved,USR-0007,2026-10-06,2026-10-07,Approved within delegated authority
+APR-001009,PR-2026-001009,automatic,0.0,not_required,,2026-11-02,2026-11-03,Below approval threshold
+APR-001010,PR-2026-001010,automatic,0.0,not_required,,2026-05-05,2026-05-06,Below approval threshold
+APR-001011,PR-2026-001011,manager,5000.0,approved,USR-0010,2026-08-16,2026-08-17,Approved within delegated authority
+APR-001012,PR-2026-001012,automatic,0.0,not_required,,2026-05-25,2026-05-26,Below approval threshold
+APR-001013,PR-2026-001013,automatic,0.0,not_required,,2026-01-29,2026-01-30,Below approval threshold
+APR-001014,PR-2026-001014,automatic,0.0,not_required,,2026-03-20,2026-03-21,Below approval threshold
+APR-001015,PR-2026-001015,manager,5000.0,approved,USR-0003,2026-02-09,2026-02-10,Approved within delegated authority
+APR-001016,PR-2026-001016,manager,5000.0,approved,USR-0004,2026-11-07,2026-11-08,Approved within delegated authority
+APR-001017,PR-2026-001017,manager,5000.0,approved,USR-0005,2026-11-12,2026-11-13,Approved within delegated authority
+APR-001018,PR-2026-001018,manager,5000.0,approved,USR-0006,2026-06-21,2026-06-22,Approved within delegated authority
+APR-001019,PR-2026-001019,automatic,0.0,not_required,,2026-09-15,2026-09-16,Below approval threshold
+APR-001020,PR-2026-001020,automatic,0.0,not_required,,2026-07-31,2026-08-01,Below approval threshold
+APR-001021,PR-2026-001021,manager,5000.0,approved,USR-0009,2026-03-06,2026-03-07,Approved within delegated authority
+APR-001022,PR-2026-001022,automatic,0.0,not_required,,2026-08-22,2026-08-23,Below approval threshold
+APR-001023,PR-2026-001023,manager,5000.0,approved,USR-0011,2026-01-07,2026-01-08,Approved within delegated authority
+APR-001024,PR-2026-001024,manager,5000.0,approved,USR-0001,2026-11-02,2026-11-03,Approved within delegated authority
+APR-001025,PR-2026-001025,manager,5000.0,approved,USR-0002,2026-01-31,2026-02-01,Approved within delegated authority
+APR-001026,PR-2026-001026,manager,5000.0,approved,USR-0003,2026-02-28,2026-03-01,Approved within delegated authority
+APR-001027,PR-2026-001027,automatic,0.0,not_required,,2026-04-03,2026-04-04,Below approval threshold
+APR-001028,PR-2026-001028,manager,5000.0,approved,USR-0005,2026-09-29,2026-09-30,Approved within delegated authority
+APR-001029,PR-2026-001029,manager,5000.0,approved,USR-0006,2026-04-23,2026-04-24,Approved within delegated authority
+APR-001030,PR-2026-001030,manager,5000.0,approved,USR-0007,2026-10-21,2026-10-22,Approved within delegated authority
+APR-001031,PR-2026-001031,automatic,0.0,not_required,,2026-09-10,2026-09-11,Below approval threshold
+APR-001032,PR-2026-001032,manager,5000.0,approved,USR-0009,2026-05-07,2026-05-08,Approved within delegated authority
+APR-001033,PR-2026-001033,manager,5000.0,approved,USR-0010,2026-06-14,2026-06-15,Approved within delegated authority
+APR-001034,PR-2026-001034,manager,5000.0,approved,USR-0011,2026-08-17,2026-08-18,Approved within delegated authority
+APR-001035,PR-2026-001035,manager,5000.0,approved,USR-0001,2026-08-15,2026-08-16,Approved within delegated authority
+APR-001036,PR-2026-001036,manager,5000.0,approved,USR-0002,2026-04-18,2026-04-19,Approved within delegated authority
+APR-001037,PR-2026-001037,automatic,0.0,not_required,,2026-04-08,2026-04-09,Below approval threshold
+APR-001038,PR-2026-001038,manager,5000.0,approved,USR-0004,2026-09-28,2026-09-29,Approved within delegated authority
+APR-001039,PR-2026-001039,manager,5000.0,approved,USR-0005,2026-09-14,2026-09-15,Approved within delegated authority
+APR-001040,PR-2026-001040,manager,5000.0,approved,USR-0006,2026-06-21,2026-06-22,Approved within delegated authority
+APR-001041,PR-2026-001041,manager,5000.0,approved,USR-0007,2026-11-08,2026-11-09,Approved within delegated authority
+APR-001042,PR-2026-001042,manager,5000.0,approved,USR-0008,2026-09-14,2026-09-15,Approved within delegated authority
+APR-001043,PR-2026-001043,manager,5000.0,approved,USR-0009,2026-03-09,2026-03-10,Approved within delegated authority
+APR-001044,PR-2026-001044,automatic,0.0,not_required,,2026-04-15,2026-04-16,Below approval threshold
+APR-001045,PR-2026-001045,automatic,0.0,not_required,,2026-11-20,2026-11-21,Below approval threshold
+APR-001046,PR-2026-001046,manager,5000.0,approved,USR-0001,2026-06-17,2026-06-18,Approved within delegated authority
+APR-001047,PR-2026-001047,manager,5000.0,approved,USR-0002,2026-08-10,2026-08-11,Approved within delegated authority
+APR-001048,PR-2026-001048,manager,5000.0,approved,USR-0003,2026-10-27,2026-10-28,Approved within delegated authority
+APR-001049,PR-2026-001049,automatic,0.0,not_required,,2026-07-18,2026-07-19,Below approval threshold
+APR-001050,PR-2026-001050,automatic,0.0,not_required,,2026-10-09,2026-10-10,Below approval threshold
+APR-001051,PR-2026-001051,automatic,0.0,not_required,,2026-02-04,2026-02-05,Below approval threshold
+APR-001052,PR-2026-001052,manager,5000.0,approved,USR-0007,2026-01-24,2026-01-25,Approved within delegated authority
+APR-001053,PR-2026-001053,automatic,0.0,not_required,,2026-03-03,2026-03-04,Below approval threshold
+APR-001054,PR-2026-001054,manager,5000.0,approved,USR-0009,2026-05-18,2026-05-19,Approved within delegated authority
+APR-001055,PR-2026-001055,manager,5000.0,approved,USR-0010,2026-02-13,2026-02-14,Approved within delegated authority
+APR-001056,PR-2026-001056,automatic,0.0,not_required,,2026-09-07,2026-09-08,Below approval threshold
+APR-001057,PR-2026-001057,manager,5000.0,approved,USR-0001,2026-09-13,2026-09-14,Approved within delegated authority
+APR-001058,PR-2026-001058,manager,5000.0,approved,USR-0002,2026-03-02,2026-03-03,Approved within delegated authority
+APR-001059,PR-2026-001059,manager,5000.0,approved,USR-0003,2026-05-20,2026-05-21,Approved within delegated authority
+APR-001060,PR-2026-001060,automatic,0.0,not_required,,2026-08-14,2026-08-15,Below approval threshold
+APR-001061,PR-2026-001061,manager,5000.0,approved,USR-0005,2026-10-14,2026-10-15,Approved within delegated authority
+APR-001062,PR-2026-001062,manager,5000.0,approved,USR-0006,2026-02-28,2026-03-01,Approved within delegated authority
+APR-001063,PR-2026-001063,manager,5000.0,approved,USR-0007,2026-07-06,2026-07-07,Approved within delegated authority
+APR-001064,PR-2026-001064,automatic,0.0,not_required,,2026-09-30,2026-10-01,Below approval threshold
+APR-001065,PR-2026-001065,automatic,0.0,not_required,,2026-04-25,2026-04-26,Below approval threshold
+APR-001066,PR-2026-001066,automatic,0.0,not_required,,2026-04-09,2026-04-10,Below approval threshold
+APR-001067,PR-2026-001067,automatic,0.0,not_required,,2026-01-21,2026-01-22,Below approval threshold
+APR-001068,PR-2026-001068,automatic,0.0,not_required,,2026-07-26,2026-07-27,Below approval threshold
+APR-001069,PR-2026-001069,manager,5000.0,approved,USR-0002,2026-06-06,2026-06-07,Approved within delegated authority
+APR-001070,PR-2026-001070,manager,5000.0,approved,USR-0003,2026-11-12,2026-11-13,Approved within delegated authority
+APR-001071,PR-2026-001071,manager,5000.0,approved,USR-0004,2026-11-12,2026-11-13,Approved within delegated authority
+APR-001072,PR-2026-001072,automatic,0.0,not_required,,2026-02-02,2026-02-03,Below approval threshold
+APR-001073,PR-2026-001073,manager,5000.0,approved,USR-0006,2026-04-18,2026-04-19,Approved within delegated authority
+APR-001074,PR-2026-001074,manager,5000.0,approved,USR-0007,2026-09-17,2026-09-18,Approved within delegated authority
+APR-001075,PR-2026-001075,automatic,0.0,not_required,,2026-10-08,2026-10-09,Below approval threshold
+APR-001076,PR-2026-001076,automatic,0.0,not_required,,2026-10-10,2026-10-11,Below approval threshold
+APR-001077,PR-2026-001077,automatic,0.0,not_required,,2026-03-04,2026-03-05,Below approval threshold
+APR-001078,PR-2026-001078,automatic,0.0,not_required,,2026-06-28,2026-06-29,Below approval threshold
+APR-001079,PR-2026-001079,automatic,0.0,not_required,,2026-01-13,2026-01-14,Below approval threshold
+APR-001080,PR-2026-001080,manager,5000.0,approved,USR-0002,2026-11-16,2026-11-17,Approved within delegated authority
+APR-001081,PR-2026-001081,manager,5000.0,approved,USR-0003,2026-04-14,2026-04-15,Approved within delegated authority
+APR-001082,PR-2026-001082,automatic,0.0,not_required,,2026-05-21,2026-05-22,Below approval threshold
+APR-001083,PR-2026-001083,manager,5000.0,approved,USR-0005,2026-03-29,2026-03-30,Approved within delegated authority
+APR-001084,PR-2026-001084,automatic,0.0,not_required,,2026-09-01,2026-09-02,Below approval threshold
+APR-001085,PR-2026-001085,manager,5000.0,approved,USR-0007,2026-08-01,2026-08-02,Approved within delegated authority
+APR-001086,PR-2026-001086,manager,5000.0,approved,USR-0008,2026-02-07,2026-02-08,Approved within delegated authority
+APR-001087,PR-2026-001087,manager,5000.0,approved,USR-0009,2026-08-06,2026-08-07,Approved within delegated authority
+APR-001088,PR-2026-001088,manager,5000.0,approved,USR-0010,2026-03-25,2026-03-26,Approved within delegated authority
+APR-001089,PR-2026-001089,manager,5000.0,approved,USR-0011,2026-02-08,2026-02-09,Approved within delegated authority
+APR-001090,PR-2026-001090,manager,5000.0,approved,USR-0001,2026-06-19,2026-06-20,Approved within delegated authority
+APR-001091,PR-2026-001091,automatic,0.0,not_required,,2026-04-17,2026-04-18,Below approval threshold
+APR-001092,PR-2026-001092,manager,5000.0,approved,USR-0003,2026-09-25,2026-09-26,Approved within delegated authority
+APR-001093,PR-2026-001093,manager,5000.0,approved,USR-0004,2026-03-27,2026-03-28,Approved within delegated authority
+APR-001094,PR-2026-001094,manager,5000.0,approved,USR-0005,2026-01-21,2026-01-22,Approved within delegated authority
+APR-001095,PR-2026-001095,automatic,0.0,not_required,,2026-05-06,2026-05-07,Below approval threshold
+APR-001096,PR-2026-001096,manager,5000.0,approved,USR-0007,2026-07-10,2026-07-11,Approved within delegated authority
+APR-001097,PR-2026-001097,manager,5000.0,approved,USR-0008,2026-02-15,2026-02-16,Approved within delegated authority
+APR-001098,PR-2026-001098,manager,5000.0,approved,USR-0009,2026-02-06,2026-02-07,Approved within delegated authority
+APR-001099,PR-2026-001099,manager,5000.0,approved,USR-0010,2026-09-20,2026-09-21,Approved within delegated authority
+APR-001100,PR-2026-001100,manager,5000.0,approved,USR-0011,2026-10-08,2026-10-09,Approved within delegated authority
+APR-001101,PR-2026-001101,manager,5000.0,approved,USR-0001,2026-01-12,2026-01-13,Approved within delegated authority
+APR-001102,PR-2026-001102,manager,5000.0,approved,USR-0002,2026-09-03,2026-09-04,Approved within delegated authority
+APR-001103,PR-2026-001103,automatic,0.0,not_required,,2026-06-11,2026-06-12,Below approval threshold
+APR-001104,PR-2026-001104,manager,5000.0,approved,USR-0004,2026-04-27,2026-04-28,Approved within delegated authority
+APR-001105,PR-2026-001105,automatic,0.0,not_required,,2026-03-21,2026-03-22,Below approval threshold
+APR-001106,PR-2026-001106,manager,5000.0,approved,USR-0006,2026-10-10,2026-10-11,Approved within delegated authority
+APR-001107,PR-2026-001107,manager,5000.0,approved,USR-0007,2026-07-18,2026-07-19,Approved within delegated authority
+APR-001108,PR-2026-001108,manager,5000.0,approved,USR-0008,2026-04-25,2026-04-26,Approved within delegated authority
+APR-001109,PR-2026-001109,automatic,0.0,not_required,,2026-09-01,2026-09-02,Below approval threshold
+APR-001110,PR-2026-001110,automatic,0.0,not_required,,2026-01-11,2026-01-12,Below approval threshold
+APR-001111,PR-2026-001111,manager,5000.0,approved,USR-0011,2026-05-30,2026-05-31,Approved within delegated authority
+APR-001112,PR-2026-001112,manager,5000.0,approved,USR-0001,2026-07-21,2026-07-22,Approved within delegated authority
+APR-001113,PR-2026-001113,manager,5000.0,approved,USR-0002,2026-11-04,2026-11-05,Approved within delegated authority
+APR-001114,PR-2026-001114,manager,5000.0,approved,USR-0003,2026-09-26,2026-09-27,Approved within delegated authority
+APR-001115,PR-2026-001115,automatic,0.0,not_required,,2026-10-22,2026-10-23,Below approval threshold
+APR-001116,PR-2026-001116,manager,5000.0,approved,USR-0005,2026-04-25,2026-04-26,Approved within delegated authority
+APR-001117,PR-2026-001117,manager,5000.0,approved,USR-0006,2026-03-23,2026-03-24,Approved within delegated authority
+APR-001118,PR-2026-001118,manager,5000.0,approved,USR-0007,2026-01-29,2026-01-30,Approved within delegated authority
+APR-001119,PR-2026-001119,manager,5000.0,approved,USR-0008,2026-02-01,2026-02-02,Approved within delegated authority
+APR-001120,PR-2026-001120,manager,5000.0,approved,USR-0009,2026-01-14,2026-01-15,Approved within delegated authority
+APR-001121,PR-2026-001121,manager,5000.0,approved,USR-0010,2026-01-14,2026-01-15,Approved within delegated authority
+APR-001122,PR-2026-001122,manager,5000.0,approved,USR-0011,2026-05-16,2026-05-17,Approved within delegated authority
+APR-001123,PR-2026-001123,automatic,0.0,not_required,,2026-11-07,2026-11-08,Below approval threshold
+APR-001124,PR-2026-001124,automatic,0.0,not_required,,2026-05-27,2026-05-28,Below approval threshold
+APR-001125,PR-2026-001125,automatic,0.0,not_required,,2026-10-30,2026-10-31,Below approval threshold
+APR-001126,PR-2026-001126,manager,5000.0,approved,USR-0004,2026-04-22,2026-04-23,Approved within delegated authority
+APR-001127,PR-2026-001127,manager,5000.0,approved,USR-0005,2026-09-19,2026-09-20,Approved within delegated authority
+APR-001128,PR-2026-001128,automatic,0.0,not_required,,2026-10-03,2026-10-04,Below approval threshold
+APR-001129,PR-2026-001129,manager,5000.0,approved,USR-0007,2026-01-11,2026-01-12,Approved within delegated authority
+APR-001130,PR-2026-001130,automatic,0.0,not_required,,2026-03-13,2026-03-14,Below approval threshold
+APR-001131,PR-2026-001131,automatic,0.0,not_required,,2026-06-11,2026-06-12,Below approval threshold
+APR-001132,PR-2026-001132,manager,5000.0,approved,USR-0010,2026-05-29,2026-05-30,Approved within delegated authority
+APR-001133,PR-2026-001133,automatic,0.0,not_required,,2026-10-30,2026-10-31,Below approval threshold
+APR-001134,PR-2026-001134,automatic,0.0,not_required,,2026-11-08,2026-11-09,Below approval threshold
+APR-001135,PR-2026-001135,manager,5000.0,approved,USR-0002,2026-09-23,2026-09-24,Approved within delegated authority
+APR-001136,PR-2026-001136,manager,5000.0,approved,USR-0003,2026-02-18,2026-02-19,Approved within delegated authority
+APR-001137,PR-2026-001137,automatic,0.0,not_required,,2026-07-01,2026-07-02,Below approval threshold
+APR-001138,PR-2026-001138,manager,5000.0,approved,USR-0005,2026-02-14,2026-02-15,Approved within delegated authority
+APR-001139,PR-2026-001139,automatic,0.0,not_required,,2026-05-19,2026-05-20,Below approval threshold
+APR-001140,PR-2026-001140,automatic,0.0,not_required,,2026-03-15,2026-03-16,Below approval threshold
+APR-001141,PR-2026-001141,manager,5000.0,approved,USR-0008,2026-09-14,2026-09-15,Approved within delegated authority
+APR-001142,PR-2026-001142,manager,5000.0,approved,USR-0009,2026-05-26,2026-05-27,Approved within delegated authority
+APR-001143,PR-2026-001143,manager,5000.0,approved,USR-0010,2026-05-07,2026-05-08,Approved within delegated authority
+APR-001144,PR-2026-001144,manager,5000.0,approved,USR-0011,2026-06-25,2026-06-26,Approved within delegated authority
+APR-001145,PR-2026-001145,automatic,0.0,not_required,,2026-03-06,2026-03-07,Below approval threshold
+APR-001146,PR-2026-001146,manager,5000.0,approved,USR-0002,2026-08-20,2026-08-21,Approved within delegated authority
+APR-001147,PR-2026-001147,manager,5000.0,approved,USR-0003,2026-11-21,2026-11-22,Approved within delegated authority
+APR-001148,PR-2026-001148,automatic,0.0,not_required,,2026-10-30,2026-10-31,Below approval threshold
+APR-001149,PR-2026-001149,automatic,0.0,not_required,,2026-01-18,2026-01-19,Below approval threshold
+APR-001150,PR-2026-001150,manager,5000.0,approved,USR-0006,2026-01-09,2026-01-10,Approved within delegated authority
+APR-001151,PR-2026-001151,automatic,0.0,not_required,,2026-09-13,2026-09-14,Below approval threshold
+APR-001152,PR-2026-001152,manager,5000.0,approved,USR-0008,2026-07-08,2026-07-09,Approved within delegated authority
+APR-001153,PR-2026-001153,manager,5000.0,approved,USR-0009,2026-10-03,2026-10-04,Approved within delegated authority
+APR-001154,PR-2026-001154,manager,5000.0,approved,USR-0010,2026-05-07,2026-05-08,Approved within delegated authority
+APR-001155,PR-2026-001155,manager,5000.0,approved,USR-0011,2026-01-12,2026-01-13,Approved within delegated authority
+APR-001156,PR-2026-001156,automatic,0.0,not_required,,2026-09-06,2026-09-07,Below approval threshold
+APR-001157,PR-2026-001157,automatic,0.0,not_required,,2026-03-13,2026-03-14,Below approval threshold
+APR-001158,PR-2026-001158,manager,5000.0,approved,USR-0003,2026-04-22,2026-04-23,Approved within delegated authority
+APR-001159,PR-2026-001159,manager,5000.0,approved,USR-0004,2026-10-22,2026-10-23,Approved within delegated authority
+APR-001160,PR-2026-001160,manager,5000.0,approved,USR-0005,2026-03-30,2026-03-31,Approved within delegated authority
+APR-001161,PR-2026-001161,automatic,0.0,not_required,,2026-08-06,2026-08-07,Below approval threshold
+APR-001162,PR-2026-001162,automatic,0.0,not_required,,2026-07-17,2026-07-18,Below approval threshold
+APR-001163,PR-2026-001163,automatic,0.0,not_required,,2026-06-11,2026-06-12,Below approval threshold
+APR-001164,PR-2026-001164,manager,5000.0,approved,USR-0009,2026-10-09,2026-10-10,Approved within delegated authority
+APR-001165,PR-2026-001165,manager,5000.0,approved,USR-0010,2026-02-12,2026-02-13,Approved within delegated authority
+APR-001166,PR-2026-001166,manager,5000.0,approved,USR-0011,2026-07-08,2026-07-09,Approved within delegated authority
+APR-001167,PR-2026-001167,automatic,0.0,not_required,,2026-04-13,2026-04-14,Below approval threshold
+APR-001168,PR-2026-001168,automatic,0.0,not_required,,2026-08-24,2026-08-25,Below approval threshold
+APR-001169,PR-2026-001169,automatic,0.0,not_required,,2026-03-29,2026-03-30,Below approval threshold
+APR-001170,PR-2026-001170,director,25000.0,approved,USR-0015,2026-07-05,2026-07-06,Approved within delegated authority
+APR-001171,PR-2026-001171,manager,5000.0,approved,USR-0005,2026-03-13,2026-03-14,Approved within delegated authority
+APR-001172,PR-2026-001172,manager,5000.0,approved,USR-0006,2026-08-28,2026-08-29,Approved within delegated authority
+APR-001173,PR-2026-001173,manager,5000.0,approved,USR-0007,2026-06-10,2026-06-11,Approved within delegated authority
+APR-001174,PR-2026-001174,automatic,0.0,not_required,,2026-06-19,2026-06-20,Below approval threshold
+APR-001175,PR-2026-001175,manager,5000.0,approved,USR-0009,2026-06-18,2026-06-19,Approved within delegated authority
+APR-001176,PR-2026-001176,manager,5000.0,approved,USR-0010,2026-09-11,2026-09-12,Approved within delegated authority
+APR-001177,PR-2026-001177,manager,5000.0,approved,USR-0011,2026-03-14,2026-03-15,Approved within delegated authority
+APR-001178,PR-2026-001178,manager,5000.0,approved,USR-0001,2026-01-28,2026-01-29,Approved within delegated authority
+APR-001179,PR-2026-001179,manager,5000.0,approved,USR-0002,2026-05-20,2026-05-21,Approved within delegated authority
+APR-001180,PR-2026-001180,automatic,0.0,not_required,,2026-08-19,2026-08-20,Below approval threshold
+APR-001181,PR-2026-001181,manager,5000.0,approved,USR-0004,2026-10-06,2026-10-07,Approved within delegated authority
+APR-001182,PR-2026-001182,automatic,0.0,not_required,,2026-03-28,2026-03-29,Below approval threshold
+APR-001183,PR-2026-001183,manager,5000.0,approved,USR-0006,2026-07-30,2026-07-31,Approved within delegated authority
+APR-001184,PR-2026-001184,manager,5000.0,approved,USR-0007,2026-07-18,2026-07-19,Approved within delegated authority
+APR-001185,PR-2026-001185,automatic,0.0,not_required,,2026-02-12,2026-02-13,Below approval threshold
+APR-001186,PR-2026-001186,automatic,0.0,not_required,,2026-08-19,2026-08-20,Below approval threshold
+APR-001187,PR-2026-001187,manager,5000.0,approved,USR-0010,2026-02-17,2026-02-18,Approved within delegated authority
+APR-001188,PR-2026-001188,manager,5000.0,approved,USR-0011,2026-01-23,2026-01-24,Approved within delegated authority
+APR-001189,PR-2026-001189,automatic,0.0,not_required,,2026-11-19,2026-11-20,Below approval threshold
+APR-001190,PR-2026-001190,manager,5000.0,approved,USR-0002,2026-01-12,2026-01-13,Approved within delegated authority
+APR-001191,PR-2026-001191,manager,5000.0,approved,USR-0003,2026-01-14,2026-01-15,Approved within delegated authority
+APR-001192,PR-2026-001192,manager,5000.0,approved,USR-0004,2026-11-06,2026-11-07,Approved within delegated authority
+APR-001193,PR-2026-001193,automatic,0.0,not_required,,2026-04-23,2026-04-24,Below approval threshold
+APR-001194,PR-2026-001194,manager,5000.0,approved,USR-0006,2026-08-29,2026-08-30,Approved within delegated authority
+APR-001195,PR-2026-001195,automatic,0.0,not_required,,2026-06-07,2026-06-08,Below approval threshold
+APR-001196,PR-2026-001196,automatic,0.0,not_required,,2026-10-14,2026-10-15,Below approval threshold
+APR-001197,PR-2026-001197,manager,5000.0,approved,USR-0009,2026-01-29,2026-01-30,Approved within delegated authority
+APR-001198,PR-2026-001198,automatic,0.0,not_required,,2026-11-03,2026-11-04,Below approval threshold
+APR-001199,PR-2026-001199,manager,5000.0,approved,USR-0012,2026-10-08,2026-10-09,Approved within delegated authority
+APR-001200,PR-2026-001200,manager,5000.0,rejected,,2026-11-20,2026-11-21,Rejected after exact duplicate detection

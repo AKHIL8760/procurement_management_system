@@ -1,0 +1,172 @@
+table,field,type,required,allowed_values,units,uniqueness,validation
+departments,department_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+departments,name,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+departments,cost_center,TEXT,Yes,Non-empty text,not applicable,Yes,Required; values are validated against the field domain
+departments,status,TEXT,Yes,active,not applicable,No,Must be one of: active
+departments,effective_from,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+departments,effective_to,TEXT,No,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+requesters,requester_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+requesters,display_name,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+requesters,email,TEXT,Yes,Non-empty text,not applicable,Yes,Required; values are validated against the field domain
+requesters,department_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference departments.department_id
+requesters,role,TEXT,Yes,requester|manager|director,not applicable,No,Must be one of: requester|manager|director
+requesters,status,TEXT,Yes,active,not applicable,No,Must be one of: active
+requesters,effective_from,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+requesters,effective_to,TEXT,No,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+budgets,budget_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+budgets,department_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: department_id, fiscal_year)",Must reference departments.department_id
+budgets,fiscal_year,INTEGER,Yes,Four-digit year,not applicable,"Yes (composite: department_id, fiscal_year)",Must match the budget effective dates
+budgets,currency,TEXT,Yes,USD|EUR|GBP|CAD,not applicable,No,Must be one of: USD|EUR|GBP|CAD
+budgets,allocation_amount,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+budgets,effective_from,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+budgets,effective_to,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+budgets,status,TEXT,Yes,active,not applicable,No,Must be one of: active
+suppliers,supplier_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+suppliers,supplier_code,TEXT,Yes,Non-empty text,not applicable,Yes,Required; values are validated against the field domain
+suppliers,legal_name,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+suppliers,country,TEXT,Yes,US|CA|GB|DE|AU|JP,not applicable,No,Must be one of: US|CA|GB|DE|AU|JP
+suppliers,currency,TEXT,Yes,USD|EUR|GBP|CAD,not applicable,No,Must be one of: USD|EUR|GBP|CAD
+suppliers,status,TEXT,Yes,active|inactive,not applicable,No,Must be one of: active|inactive
+suppliers,risk_flag,INTEGER,Yes,0|1,not applicable,No,Must be one of: 0|1
+suppliers,risk_reason,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+suppliers,effective_from,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+suppliers,effective_to,TEXT,No,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+purchase_requests,request_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+purchase_requests,requester_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference requesters.requester_id
+purchase_requests,department_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference departments.department_id
+purchase_requests,budget_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference budgets.budget_id
+purchase_requests,request_date,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+purchase_requests,required_by,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+purchase_requests,estimated_total,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+purchase_requests,currency,TEXT,Yes,USD|EUR|GBP|CAD,not applicable,No,Must be one of: USD|EUR|GBP|CAD
+purchase_requests,status,TEXT,Yes,pending_approval|approved|rejected|ordered|rfq_closed|rfq_expired|rejected_duplicate,not applicable,No,Must be one of: pending_approval|approved|rejected|ordered|rfq_closed|rfq_expired|rejected_duplicate
+purchase_requests,business_justification,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+request_lines,request_line_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+request_lines,request_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: request_id, line_number)",Must reference purchase_requests.request_id
+request_lines,line_number,INTEGER,Yes,Positive integer,not applicable,"Yes (composite: request_id, line_number)",Must be a positive whole number
+request_lines,description,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+request_lines,category,TEXT,Yes,IT Hardware|Office Supplies|Facilities|Professional Services|Software|Safety Equipment,not applicable,No,Must be one of: IT Hardware|Office Supplies|Facilities|Professional Services|Software|Safety Equipment
+request_lines,quantity,INTEGER,Yes,Positive integer,units,No,Must be a positive whole number
+request_lines,unit_of_measure,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+request_lines,estimated_unit_cost,REAL,Yes,Non-negative; finite decimal,currency units per unit,No,Must be finite and non-negative; derived totals must reconcile
+request_lines,estimated_total,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+request_lines,currency,TEXT,Yes,USD|EUR|GBP|CAD,not applicable,No,Must be one of: USD|EUR|GBP|CAD
+approvals,approval_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+approvals,request_id,TEXT,Yes,Non-empty text,not applicable,Yes,Must reference purchase_requests.request_id
+approvals,approval_level,TEXT,Yes,automatic|manager|director,not applicable,No,Must be one of: automatic|manager|director
+approvals,threshold_amount,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+approvals,decision,TEXT,Yes,approved|pending|not_required|rejected,not applicable,No,Must be one of: approved|pending|not_required|rejected
+approvals,approver_id,TEXT,No,Non-empty text,not applicable,No,Must reference requesters.requester_id
+approvals,requested_at,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+approvals,decided_at,TEXT,No,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+approvals,decision_reason,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+rfqs,rfq_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+rfqs,request_id,TEXT,Yes,Non-empty text,not applicable,Yes,Must reference purchase_requests.request_id
+rfqs,issue_date,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+rfqs,close_date,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+rfqs,required_by,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+rfqs,competition_type,TEXT,Yes,competitive|single_source,not applicable,No,Must be one of: competitive|single_source
+rfqs,single_source_reason,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+rfqs,status,TEXT,Yes,open|awarded|single_source_awarded|closed_no_award|expired,not applicable,No,Must be one of: open|awarded|single_source_awarded|closed_no_award|expired
+supplier_quotes,quote_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+supplier_quotes,rfq_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: rfq_id, supplier_id)",Must reference rfqs.rfq_id
+supplier_quotes,supplier_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: rfq_id, supplier_id)",Must reference suppliers.supplier_id
+supplier_quotes,quote_date,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+supplier_quotes,valid_until,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+supplier_quotes,currency,TEXT,Yes,USD|EUR|GBP|CAD,not applicable,No,Must be one of: USD|EUR|GBP|CAD
+supplier_quotes,unit_price,REAL,Yes,Non-negative; finite decimal,currency units per unit,No,Must be finite and non-negative; derived totals must reconcile
+supplier_quotes,shipping_cost,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+supplier_quotes,tax_amount,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+supplier_quotes,landed_total,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+supplier_quotes,lead_time_days,INTEGER,Yes,Positive integer,days,No,Must be a positive whole number
+supplier_quotes,status,TEXT,Yes,submitted|awarded|expired|excluded_currency|not_selected,not applicable,No,Must be one of: submitted|awarded|expired|excluded_currency|not_selected
+supplier_quotes,exclusion_reason,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+rfq_awards,award_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+rfq_awards,rfq_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: rfq_id, quote_id)",Must reference rfqs.rfq_id
+rfq_awards,quote_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: rfq_id, quote_id)",Must reference supplier_quotes.quote_id
+rfq_awards,awarded_at,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+rfq_awards,quantity_awarded,INTEGER,Yes,Positive integer,units,No,Must be a positive whole number
+rfq_awards,award_total,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+rfq_awards,rationale,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+rfq_awards,decision_status,TEXT,Yes,awarded,not applicable,No,Must be one of: awarded
+purchase_orders,po_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+purchase_orders,request_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference purchase_requests.request_id
+purchase_orders,rfq_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference rfqs.rfq_id
+purchase_orders,award_id,TEXT,Yes,Non-empty text,not applicable,Yes,Must reference rfq_awards.award_id
+purchase_orders,supplier_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference suppliers.supplier_id
+purchase_orders,approval_id,TEXT,No,Non-empty text,not applicable,No,Must reference approvals.approval_id
+purchase_orders,issued_date,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+purchase_orders,currency,TEXT,Yes,USD|EUR|GBP|CAD,not applicable,No,Must be one of: USD|EUR|GBP|CAD
+purchase_orders,total_amount,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+purchase_orders,status,TEXT,Yes,issued|in_transit|partially_received|delivered,not applicable,No,Must be one of: issued|in_transit|partially_received|delivered
+purchase_order_lines,po_line_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+purchase_order_lines,po_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: po_id, request_line_id)",Must reference purchase_orders.po_id
+purchase_order_lines,request_line_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: po_id, request_line_id)",Must reference request_lines.request_line_id
+purchase_order_lines,quote_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference supplier_quotes.quote_id
+purchase_order_lines,quantity,INTEGER,Yes,Positive integer,units,No,Must be a positive whole number
+purchase_order_lines,unit_price,REAL,Yes,Non-negative; finite decimal,currency units per unit,No,Must be finite and non-negative; derived totals must reconcile
+purchase_order_lines,shipping_allocated,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+purchase_order_lines,tax_allocated,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+purchase_order_lines,line_total,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+deliveries,delivery_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+deliveries,po_id,TEXT,Yes,Non-empty text,not applicable,"Yes (composite: po_id, shipment_number)",Must reference purchase_orders.po_id
+deliveries,shipment_number,INTEGER,Yes,Positive integer,not applicable,"Yes (composite: po_id, shipment_number)",Must be a positive whole number
+deliveries,expected_date,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+deliveries,shipped_date,TEXT,No,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+deliveries,received_date,TEXT,No,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+deliveries,quantity_shipped,INTEGER,Yes,Positive integer,units,No,Must be a positive whole number
+deliveries,quantity_received,INTEGER,Yes,Non-negative integer,units,No,Must be a whole number between zero and quantity shipped
+deliveries,status,TEXT,Yes,in_transit|partially_received|delivered|delayed,not applicable,No,Must be one of: in_transit|partially_received|delivered|delayed
+deliveries,exception_reason,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+budget_ledger,ledger_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+budget_ledger,budget_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference budgets.budget_id
+budget_ledger,po_id,TEXT,Yes,Non-empty text,not applicable,Yes,Must reference purchase_orders.po_id
+budget_ledger,event_type,TEXT,Yes,reserve,not applicable,No,Must be one of: reserve
+budget_ledger,event_date,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+budget_ledger,amount,REAL,Yes,Non-negative; finite decimal,currency units,No,Must be finite and non-negative; derived totals must reconcile
+budget_ledger,balance_after,REAL,Yes,Signed currency decimal,currency units,No,Must reconcile to allocation less cumulative reservations; negative only for a labeled overrun
+budget_ledger,reason,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+request_events,event_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+request_events,request_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference purchase_requests.request_id
+request_events,event_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+request_events,from_state,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+request_events,to_state,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+request_events,event_at,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+request_events,actor_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+request_events,actor_id,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+request_events,reason,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+rfq_events,event_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+rfq_events,rfq_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference rfqs.rfq_id
+rfq_events,event_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+rfq_events,from_state,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+rfq_events,to_state,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+rfq_events,event_at,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+rfq_events,actor_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+rfq_events,actor_id,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+rfq_events,reason,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+purchase_order_events,event_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+purchase_order_events,po_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference purchase_orders.po_id
+purchase_order_events,event_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+purchase_order_events,from_state,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+purchase_order_events,to_state,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+purchase_order_events,event_at,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+purchase_order_events,actor_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+purchase_order_events,actor_id,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+purchase_order_events,reason,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+delivery_events,event_id,TEXT,Yes,Non-empty text,not applicable,Yes (primary key),Required; immutable and unique
+delivery_events,delivery_id,TEXT,Yes,Non-empty text,not applicable,No,Must reference deliveries.delivery_id
+delivery_events,event_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+delivery_events,from_state,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+delivery_events,to_state,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+delivery_events,event_at,TEXT,Yes,ISO 8601 date,not applicable,No,Must be a valid ISO date; related lifecycle dates are ordered
+delivery_events,actor_type,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+delivery_events,actor_id,TEXT,No,Non-empty text,not applicable,No,"Optional; when supplied, must pass the field domain rule"
+delivery_events,reason,TEXT,Yes,Non-empty text,not applicable,No,Required; values are validated against the field domain
+ground_truth,issue_type,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
+ground_truth,entity_type,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
+ground_truth,entity_id,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
+ground_truth,related_entity_id,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
+ground_truth,severity,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
+ground_truth,expected_outcome,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
+ground_truth,observed_outcome,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
+ground_truth,audit_reason,TEXT,Yes,Documented label/value,not applicable,No,Required; evaluation-only label kept separate from operational inputs
