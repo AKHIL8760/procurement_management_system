@@ -31,6 +31,41 @@ The synthetic workflow models:
 
 The generator is designed for reproducible workflow testing and demonstration; it is not a production procurement or financial system.
 
+### Actual application workflow
+
+The diagram below follows the rules enforced by the running application. A decision or control failure blocks the next step; workflow changes are also recorded in the event history.
+
+```mermaid
+flowchart TD
+    A["Set up master data<br/>Departments, requesters, budgets, suppliers"] --> B["Submit purchase request<br/>Item, quantity, estimate, required-by date"]
+    B --> C{"Valid, non-duplicate request?"}
+    C -- No --> C1["Show validation error<br/>Do not create request"]
+    C -- Yes --> D{"Request total"}
+    D -- "Below $5,000" --> E["Automatic approval"]
+    D -- "$5,000 to $25,000" --> F["Manager decision<br/>Record reason"]
+    D -- "Above $25,000" --> G["Director decision<br/>Record reason"]
+    F --> H{"Approved?"}
+    G --> H
+    H -- No --> H1["Rejected<br/>Workflow stops"]
+    H -- Yes --> I["Create RFQ<br/>Competitive or justified single source"]
+    E --> I
+    I --> J["Receive supplier quote(s)<br/>Record cost, currency, expiry, lead time"]
+    J --> K{"Meets sourcing rules?"}
+    K -- "Competitive: fewer than 3 quotes" --> K1["Block award<br/>Collect more quotes"]
+    K -- "No eligible quote" --> K2["Block award<br/>Resolve expiry, supplier, currency, or delivery issue"]
+    K -- Yes --> L["Compare eligible landed costs<br/>Choose lowest or explain exception"]
+    L --> M{"Valid award?"}
+    M -- "No rationale, quantity mismatch, or budget overrun" --> M1["Block award<br/>Correct selection or request"]
+    M -- Yes --> N["Create award and purchase order(s)<br/>Reserve budget and append audit events"]
+    N --> O["Supplier ships order<br/>Create delivery record(s)"]
+    O --> P{"All units received?"}
+    P -- No --> Q["Record partial receipt<br/>Keep order in progress"]
+    Q --> O
+    P -- Yes --> R["Mark order delivered<br/>Append receipt and status events"]
+```
+
+In the generated dataset, evaluation-only exceptions are labeled separately in ground truth. Those deliberately injected cases do not mean the interactive application accepts the same policy violations.
+
 ---
 
 ## 2. Quickstart
